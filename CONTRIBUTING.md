@@ -1,5 +1,10 @@
-# How to contribute
+# How to contribute - FlinkISO 
 
+Visit : http://www.flinkiso.com/about/contribute.html
+
+For CakePHP : 
+
+# How to contribute
 CakePHP loves to welcome your contributions. There are several ways to help out:
 * Create a ticket in Lighthouse, if you have found a bug
 * Write testcases for open bug tickets
