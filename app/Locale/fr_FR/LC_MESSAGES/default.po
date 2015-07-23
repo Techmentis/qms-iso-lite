@@ -1,0 +1,5978 @@
+msgid ""
+msgstr ""
+
+msgid "Access Denied"
+msgstr "Accès refusé"
+
+msgid "Please login to continue"
+msgstr "S'il vous plaît le login pour continuer"
+
+msgid "Master list of formats already exist."
+msgstr "Liste principale de formats existent déjà."
+
+msgid "Please sign in to access the application"
+msgstr "S'il vous plaît vous connecter pour accéder à l'application"
+
+msgid "This appraisal can not be edited as the appraisal date has passed or it is being answered by Employee (Appraisee)."
+msgstr "Cette évaluation ne peut être modifié que la date d'évaluation est passé ou il est répondu par l'employé (personne évaluée)."
+
+msgid "Selected %s deleted <br> Except (%d) values due to their pending approvals"
+msgstr "Sélectionné %s supprimé <br> Sauf ( %d en raison de leurs approbations en attente) valeurs"
+
+msgid "All selected %s deleted"
+msgstr "Tous les sélectionnés %s supprimés"
+
+msgid "Invalid detail"
+msgstr "Détail non valide"
+
+msgid "All selected value was not deleted"
+msgstr "Tout valeur sélectionnée n'a pas été supprimé"
+
+msgid "All %s was not deleted"
+msgstr "Tous les %s n'a pas été supprimé"
+
+msgid "All %s restored"
+msgstr "Tous les %s restaurés"
+
+msgid "%s restored"
+msgstr "%s restaurés"
+
+msgid "Selected %s Deleted"
+msgstr "Sélectionné %s Supprimé"
+
+msgid "All selected value was not deleted from Approve"
+msgstr "Tout valeur sélectionnée n'a pas été supprimé de Approuver"
+
+msgid "Selected %s was not deleted"
+msgstr "Sélectionné %s n'a pas été supprimé"
+
+msgid "Please make sure you have created the proper report. It looks like you have not defined the table class (single/multiple) "
+msgstr "S'il vous plaît assurez que vous avez créé le rapport proprement dit. Il semble que vous n'avez pas défini la classe de table (simple / multiple) "
+
+msgid "You can't publish meeting records."
+msgstr "Vous ne pouvez pas publier comptes rendus de séance."
+
+msgid "Record published successfully."
+msgstr "Fiche publié avec succès."
+
+msgid "Invalid appraisal question"
+msgstr "Question d'évaluation valide"
+
+msgid "The appraisal question has been saved"
+msgstr "La question de l'évaluation a été enregistrée"
+
+msgid "The appraisal question could not be saved. Please, try again."
+msgstr "La question de l'évaluation n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid approval id"
+msgstr "Invalid id approbation"
+
+msgid "The appraisal question has been saved."
+msgstr "La question de l'évaluation a été enregistrée."
+
+msgid "Invalid appraisal"
+msgstr "Évaluation valide"
+
+msgid "The appraisal has been saved"
+msgstr "L'évaluation a été enregistrée"
+
+msgid "The appraisal has been saved."
+msgstr "L'évaluation a été enregistrée."
+
+msgid "The appraisal could not be saved. Please, try again."
+msgstr "L'évaluation n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "All selected value deleted"
+msgstr "Tout valeur sélectionnée supprimé"
+
+msgid "All selected values deleted"
+msgstr "Toutes les valeurs sélectionnées supprimés"
+
+msgid "All selected value restored"
+msgstr "Tout valeur sélectionnée restauré"
+
+msgid "Invalid performance review token, try again."
+msgstr "Performances invalide examen jeton, essayer à nouveau."
+
+msgid "Appraisal Answers Saved."
+msgstr "Évaluation réponses enregistrées."
+
+msgid "There are no appraisal questions."
+msgstr "Il n'y a pas de questions d'évaluation."
+
+msgid "No email id available for this employee, try again."
+msgstr "Aucune identification d'email disponible pour cet employé, essayez à nouveau."
+
+msgid "Can not send appraisal questions to user. Please check SMTP details, Email Id of employee."
+msgstr "Vous ne pouvez pas envoyer des questions d'évaluation à l'utilisateur. S'il vous plaît vérifier les détails SMTP, Email Id de l'employé."
+
+msgid "The Benchmarks has been saved.."
+msgstr "Les points de repère a été sauvé .."
+
+msgid "Invalid branch"
+msgstr "Branche invalide"
+
+msgid "The branch has been saved"
+msgstr "La branche a été enregistré"
+
+msgid "The branch could not be saved. Please, try again."
+msgstr "La branche n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The branch has been saved."
+msgstr "La branche a été enregistré."
+
+msgid "Invalid calibration"
+msgstr "Calibration incorrecte"
+
+msgid "The calibration has been saved"
+msgstr "L'étalonnage a été enregistré"
+
+msgid "The calibration could not be saved. Please, try again."
+msgstr "Le calibrage n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The Calibration has been saved."
+msgstr "Le calibrage a été enregistré."
+
+msgid "Invalid capa category"
+msgstr "Catégorie de capa invalide"
+
+msgid "The capa category has been saved"
+msgstr "La catégorie de capa a été enregistré"
+
+msgid "The capa category could not be saved. Please, try again."
+msgstr "La catégorie de capa n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The capa category has been saved."
+msgstr "La catégorie de capa a été enregistré."
+
+msgid "Invalid capa source"
+msgstr "Source de capa invalide"
+
+msgid "The capa source has been saved"
+msgstr "La source de capa a été enregistré"
+
+msgid "The capa source could not be saved. Please, try again."
+msgstr "La source de capa n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid change addition deletion request"
+msgstr "Changement invalide demande plus de suppression"
+
+msgid "The change addition deletion request has been saved but fail to send email. Please check smtp details."
+msgstr "La demande de suppression changement de plus a été enregistré mais ne parviennent pas à envoyer un courriel. S'il vous plaît vérifier les détails de smtp."
+
+msgid "The change addition deletion request has been saved"
+msgstr "La demande de changement plus de suppression a été enregistré"
+
+msgid "The change addition deletion request could not be saved. Please, try again."
+msgstr "La demande de suppression changement de plus ne pouvait être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The change addition deletion request has been saved."
+msgstr "La demande de suppression changement de plus a été enregistré."
+
+msgid "Invalid company"
+msgstr "Société invalide"
+
+msgid "The company has been saved"
+msgstr "La société a été enregistré"
+
+msgid "The company could not be saved. Please, try again."
+msgstr "La société n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid competency mapping"
+msgstr "Cartographie des compétences non valide"
+
+msgid "The competency mapping has been saved"
+msgstr "La cartographie des compétences a été enregistré"
+
+msgid "The competency mapping could not be saved. Please, try again."
+msgstr "La cartographie des compétences n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid corrective preventive action"
+msgstr "Action préventive corrective invalide"
+
+msgid "The corrective preventive action has been saved"
+msgstr "L'action préventive corrective a été enregistré"
+
+msgid "The corrective preventive action could not be saved. Please, try again."
+msgstr "L'action préventive corrective n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid course type"
+msgstr "Invalid type de cours"
+
+msgid "The course type has been saved"
+msgstr "Le type de formation a été enregistré"
+
+msgid "The course type could not be saved. Please, try again."
+msgstr "Le type de formation n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid course"
+msgstr "Bien sûr invalide"
+
+msgid "The course has been saved."
+msgstr "Le cours a été enregistré."
+
+msgid "The course could not be saved. Please, try again."
+msgstr "Le cours n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The course has been saved"
+msgstr "Le cours a été enregistré"
+
+msgid "Invalid custom template"
+msgstr "Modèle personnalisé invalide"
+
+msgid "The custom template has been saved"
+msgstr "Le modèle personnalisé a été enregistré"
+
+msgid "The custom template could not be saved. Please, try again."
+msgstr "Le modèle personnalisé n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The branch has been published"
+msgstr "La branche a été publié"
+
+msgid "Invalid customer complaint"
+msgstr "Plainte d'un client non valide"
+
+msgid "The customer complaint has been saved"
+msgstr "La plainte d'un client a été enregistré"
+
+msgid "The customer complaint could not be saved. Please, try again."
+msgstr "La plainte d'un client ne pouvait pas être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The customer complaint has been saved."
+msgstr "La plainte d'un client a été enregistré."
+
+msgid "Invalid customer feedback question"
+msgstr "Client non valide évaluations question"
+
+msgid "The customer feedback question has been saved"
+msgstr "La question de la rétroaction des clients a été enregistré"
+
+msgid "The customer feedback question could not be saved. Please, try again."
+msgstr "La question de la rétroaction des clients n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The customer feedback question has been saved."
+msgstr "La question de la rétroaction des clients a été enregistré."
+
+msgid "Invalid customer feedback"
+msgstr "Les commentaires des clients non valide"
+
+msgid "The customer feedback has been saved"
+msgstr "Le feedback de la clientèle a été enregistré"
+
+msgid "The customer feedback could not be saved. Please, try again."
+msgstr "Le feedback de la clientèle n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "All selected value was not deleted from approve"
+msgstr "Tout valeur sélectionnée n'a pas été supprimé de approuver"
+
+msgid "Invalid customer meeting"
+msgstr "Réunion avec un client non valide"
+
+msgid "The customer meeting has been saved"
+msgstr "La réunion de la clientèle a été enregistré"
+
+msgid "The customer meeting could not be saved. Please, try again."
+msgstr "La réunion de la clientèle n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The Follow up has been saved"
+msgstr "Le suivi a été enregistré"
+
+msgid "The customer meeting has been saved."
+msgstr "La réunion de la clientèle a été enregistré."
+
+msgid "Invalid customer"
+msgstr "Client non valide"
+
+msgid "The customer has been saved"
+msgstr "Le client a été enregistré"
+
+msgid "The customer could not be saved. Please, try again."
+msgstr "Le client n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The customer has been saved."
+msgstr "Le client a été enregistré."
+
+msgid "Invalid daily backup detail"
+msgstr "Invalid détail de sauvegarde quotidienne"
+
+msgid "The daily backup detail has been saved"
+msgstr "Le détail de sauvegarde quotidienne a été enregistré"
+
+msgid "The daily backup detail could not be saved. Please, try again."
+msgstr "Le détail de sauvegarde quotidienne ne pouvait pas être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The housekeeping has been saved"
+msgstr "Le ménage a été enregistré"
+
+msgid "The Backup Details has been saved"
+msgstr "Les Détails de sauvegarde a bien été enregistré"
+
+msgid "Invalid data back up"
+msgstr "Des données incorrectes sauvegarder"
+
+msgid "The data back up has been saved"
+msgstr "La sauvegarde des données a été enregistré"
+
+msgid "The data back up could not be saved. Please, try again."
+msgstr "Les données pourraient remonter pas sauvegardés. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid data type"
+msgstr "Type de données non valide"
+
+msgid "The data type has been saved"
+msgstr "Le type de données a été enregistré"
+
+msgid "The data type could not be saved. Please, try again."
+msgstr "Le type de données n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid delivery challan"
+msgstr "Livraison non valide challan"
+
+msgid "The delivery challan has been saved"
+msgstr "Le challan de livraison a été enregistré"
+
+msgid "The delivery challan could not be saved. Please, try again."
+msgstr "Le challan de livraison ne pouvait être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid department"
+msgstr "Département invalide"
+
+msgid "The department has been saved"
+msgstr "Le département a été enregistré"
+
+msgid "The department could not be saved. Please, try again."
+msgstr "Le département ne pouvait pas être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid designation"
+msgstr "À la désignation"
+
+msgid "The designation has been saved"
+msgstr "La désignation a été enregistré"
+
+msgid "The designation could not be saved. Please, try again."
+msgstr "La désignation n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid device maintenance"
+msgstr "Maintenance de l'appareil invalide"
+
+msgid "The device maintenance has been saved"
+msgstr "La maintenance de l'appareil a été enregistré"
+
+msgid "The device maintenance could not be saved. Please, try again."
+msgstr "La maintenance de l'appareil n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The device maintenance has been published"
+msgstr "La maintenance de l'appareil a été publié"
+
+msgid "Invalid device"
+msgstr "Périphérique non valide"
+
+msgid "The device has been saved"
+msgstr "Le dispositif a été enregistré"
+
+msgid "The device could not be saved. Please, try again."
+msgstr "Le dispositif n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid document amendment record sheet"
+msgstr "Document non valide fiche d'amendement"
+
+msgid "The document amendment record sheet has been saved"
+msgstr "La feuille d'enregistrement de modification de document a été enregistré"
+
+msgid "The document amendment record sheet could not be saved. Please, try again."
+msgstr "La feuille d'enregistrement document de modification n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid employee"
+msgstr "Employé invalide"
+
+msgid "The employee has been saved"
+msgstr "L'employé a été enregistré"
+
+msgid "The employee could not be saved. Please, try again."
+msgstr "L'employé n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Logged-in user can not delete his own 'Employee Record'."
+msgstr "Utilisateur connecté ne peut pas supprimer son propre «dossier du salarié."
+
+msgid "Selected %s deleted"
+msgstr "Sélectionnés %s supprimés"
+
+msgid "All selected employees deleted"
+msgstr "Tous les employés sélectionnés supprimés"
+
+msgid "Selected %s employees deleted.<br />Logged-in users can not delete their own 'Employee record'."
+msgstr "Sélectionné %s des employés supprimés. <br /> Les utilisateurs connectés peuvent pas supprimer leur propre «dossier de l'employé."
+
+msgid "Invalid file upload"
+msgstr "Téléchargement de fichier non valide"
+
+msgid "The file upload has been saved"
+msgstr "Le téléchargement du fichier a été enregistré"
+
+msgid "The file upload could not be saved. Please, try again."
+msgstr "Le téléchargement de fichier n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Failed to update"
+msgstr "Impossible de mettre à jour"
+
+msgid "Report sent succeefully."
+msgstr "Rapport envoyé succeefully."
+
+msgid "Failed to send email. Please check smtp details."
+msgstr "Impossible d'envoyer un courriel. S'il vous plaît vérifier les détails de smtp."
+
+msgid "Invalid fire extinguisher type"
+msgstr "Feu invalide du type extincteur"
+
+msgid "The fire extinguisher type has been saved"
+msgstr "Le type d'extincteur a été enregistré"
+
+msgid "The fire extinguisher type could not be saved. Please, try again."
+msgstr "Le type d'extincteur n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The fire extinguisher type has been saved."
+msgstr "Le type d'extincteur a été enregistré."
+
+msgid "Invalid fire extinguisher"
+msgstr "Invalid extincteur"
+
+msgid "The fire extinguisher has been saved"
+msgstr "L'extincteur a été enregistré"
+
+msgid "The fire extinguisher could not be saved. Please, try again."
+msgstr "L'extincteur n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The fire extinguisher has been saved."
+msgstr "L'extincteur a été enregistré."
+
+msgid "Invalid fire safety equipment list"
+msgstr "Feu valide la liste des équipements de sécurité"
+
+msgid "The fire safety equipment list has been saved"
+msgstr "La liste des équipements de sécurité incendie a été enregistré"
+
+msgid "The fire safety equipment list could not be saved. Please, try again."
+msgstr "La liste des équipements de sécurité incendie n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The fire safety equipment list has been saved."
+msgstr "La liste des équipements de sécurité incendie a été enregistré."
+
+msgid "Invalid fire type"
+msgstr "Invalid type de feu"
+
+msgid "The fire type has been saved"
+msgstr "Le type de feu a été enregistré"
+
+msgid "The fire type could not be saved. Please, try again."
+msgstr "Le type de feu n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The fire type has been saved."
+msgstr "Le type de feu a été enregistrée."
+
+msgid "Invalid help"
+msgstr "Aide non valide"
+
+msgid "The help has been saved"
+msgstr "L'aide a été enregistrée"
+
+msgid "The help could not be saved. Please, try again."
+msgstr "L'aide n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The help has been saved."
+msgstr "L'aide a été enregistrée."
+
+msgid "Invalid history"
+msgstr "L'histoire invalide"
+
+msgid "The history has been saved"
+msgstr "L'histoire a été enregistré"
+
+msgid "The history could not be saved. Please, try again."
+msgstr "L'histoire n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid housekeeping checklist"
+msgstr "Liste de contrôle d'entretien non valide"
+
+msgid "The housekeeping checklist has been saved"
+msgstr "La liste de contrôle d'entretien a été enregistré"
+
+msgid "The housekeeping checklist could not be saved. Please, try again."
+msgstr "La liste de contrôle d'entretien n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The housekeeping checklist has been saved."
+msgstr "La liste de contrôle d'entretien a été enregistré."
+
+msgid "Invalid housekeeping responsibility"
+msgstr "Responsabilité de ménage non valide"
+
+msgid "The housekeeping responsibility has been saved"
+msgstr "La responsabilité de l'entretien ménager a été enregistré"
+
+msgid "The housekeeping responsibility could not be saved. Please, try again."
+msgstr "La responsabilité de ménage n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The housekeeping responsibility could not be Approved. Please, try again."
+msgstr "La responsabilité de ménage n'a pas pu être approuvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Application is already installed."
+msgstr "Application est déjà installée."
+
+msgid "Can not connect to mysql. Make sure username and password is correct."
+msgstr "Impossible de se connecter à mysql. Assurez-vous que le nom d'utilisateur et mot de passe est correct."
+
+msgid "Could not connect to database. Please check the settings in app/config/database.php and try again."
+msgstr "Impossible de se connecter à la base de données. S'il vous plaît vérifiez les paramètres dans app / config / database.php et essayez à nouveau."
+
+msgid "FlinkISO install successfully."
+msgstr "FlinkISO installer avec succès."
+
+msgid "Invalid internal audit plan department"
+msgstr "Invalid audit interne département du plan"
+
+msgid "The internal audit plan department has been saved"
+msgstr "Le département du plan d'audit interne a été enregistré"
+
+msgid "The internal audit plan department could not be saved. Please, try again."
+msgstr "Le département du plan d'audit interne n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The internal audit plan department has been saved."
+msgstr "Le département du plan d'audit interne a été enregistré."
+
+msgid "Invalid internal audit plan"
+msgstr "Plan de vérification interne non valide"
+
+msgid "Can not notify user using email. Please check SMTP details and email address is correct."
+msgstr "Vous ne pouvez pas notifier l'utilisateur par courrier électronique. S'il vous plaît vérifier les détails SMTP et adresse e-mail est correcte."
+
+msgid "The internal audit plan has been saved"
+msgstr "Le plan d'audit interne a été enregistré"
+
+msgid "The internal audit plan has been published"
+msgstr "Le plan d'audit interne a été publié"
+
+msgid "The internal audit plan could not be saved. Please, try again."
+msgstr "Le plan d'audit interne n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid internal audit"
+msgstr "Audit interne valide"
+
+msgid "The internal audit has been saved"
+msgstr "La vérification interne a été enregistré"
+
+msgid "The internal audit could not be saved. Please, try again."
+msgstr "L'audit interne n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The internal audit has been saved."
+msgstr "La vérification interne a été enregistré."
+
+msgid "Invalid internet usage detail"
+msgstr "Internet valide détail d'utilisation"
+
+msgid "The internet usage detail has been saved"
+msgstr "Le détail de l'utilisation d'Internet a été enregistré"
+
+msgid "The internet usage detail could not be saved. Please, try again."
+msgstr "Le détail de l'utilisation d'Internet n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The internet usage detail has been saved."
+msgstr "Le détail de l'utilisation d'Internet a été enregistré."
+
+msgid "The language has been changed"
+msgstr "La langue a été modifiée"
+
+msgid "Invalid language"
+msgstr "Langue incorrecte"
+
+msgid "The language has been saved"
+msgstr "La langue a été enregistré"
+
+msgid "The language could not be saved. Please, try again."
+msgstr "La langue n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The language has been saved."
+msgstr "La langue a été enregistré."
+
+msgid "Invalid list of acceptable supplier"
+msgstr "Liste valide du fournisseur acceptable"
+
+msgid "The list of acceptable supplier has been saved"
+msgstr "La liste des fournisseurs acceptable a été enregistré"
+
+msgid "The list of acceptable supplier could not be saved. Please, try again."
+msgstr "La liste des fournisseurs acceptable n'a pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The list of acceptable supplier has been saved."
+msgstr "La liste des fournisseurs acceptable a été enregistré."
+
+msgid "Invalid list of computer list of software"
+msgstr "Liste valide de la liste des ordinateurs de logiciels"
+
+msgid "The list of computer list of software has been saved"
+msgstr "La liste de la liste des ordinateurs de logiciels a été enregistré"
+
+msgid "The list of computer list of software could not be saved. Please, try again."
+msgstr "La liste de la liste de l'ordinateur d'un logiciel n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The list of computer list of software has been saved."
+msgstr "La liste de la liste des ordinateurs de logiciels a été enregistré."
+
+msgid "Invalid list of computer"
+msgstr "Liste non valide de l'ordinateur"
+
+msgid "The computer has been saved"
+msgstr "L'ordinateur a été enregistré"
+
+msgid "The computer could not be saved. Please, try again."
+msgstr "L'ordinateur n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The Computer has been saved."
+msgstr "L'ordinateur a été enregistré."
+
+msgid "Invalid list of measuring devices for calibration"
+msgstr "Liste valide des appareils de mesure pour l'étalonnage"
+
+msgid "Invalid list of software"
+msgstr "Liste valide des logiciels"
+
+msgid "The list of software has been saved"
+msgstr "La liste des logiciels a été enregistré"
+
+msgid "The list of software could not be saved. Please, try again."
+msgstr "La liste des logiciels n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The list of software has been saved."
+msgstr "La liste des logiciels a été enregistré."
+
+msgid "Invalid list of trained internal auditor"
+msgstr "Liste valide d'auditeur interne qualifié"
+
+msgid "The list of trained internal auditor has been saved"
+msgstr "La liste de l'auditeur interne formé a été enregistré"
+
+msgid "The list of trained internal auditor could not be saved. Please, try again."
+msgstr "La liste de l'auditeur interne formé n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The list of trained internal auditor has been saved."
+msgstr "La liste de l'auditeur interne formé a été enregistré."
+
+msgid "Invalid master list of format department"
+msgstr "Liste principale invalide du département de format"
+
+msgid "The master list of format department has been saved"
+msgstr "La liste principale du département de format a été enregistré"
+
+msgid "The master list of format department could not be saved. Please, try again."
+msgstr "La liste principale du département de format n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid master list of format"
+msgstr "Liste principale invalide format"
+
+msgid "The master list of format has been saved"
+msgstr "La liste maîtresse de format a été enregistré"
+
+msgid "The master list of format could not be saved. Please, try again."
+msgstr "La liste principale de forme n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid material quality check detail"
+msgstr "Matériau non valide contrôle de qualité détail"
+
+msgid "The material quality check detail has been saved"
+msgstr "Le contrôle qualité des matériaux détail a été enregistré"
+
+msgid "The material quality check detail could not be saved. Please, try again."
+msgstr "Le contrôle de la qualité des matériaux détail n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The material quality check detail has been published"
+msgstr "Le contrôle qualité des matériaux détail a été publié"
+
+msgid "The material quality check detail has been saved."
+msgstr "Le contrôle qualité des matériaux détail a été enregistré."
+
+msgid "Material has been added to stock and Supplier is Evaluated"
+msgstr "Matériel a été ajouté à stocker et fournisseur est évalué"
+
+msgid "Material could not be added to stock. Please try again."
+msgstr "Matériel ne peut être ajouté en stock. S'il vous plaît essayez de nouveau."
+
+msgid "Invalid material quality check"
+msgstr "Matériau non valide contrôle de la qualité"
+
+msgid "The material quality check has been saved"
+msgstr "Le contrôle de la qualité des matériaux a été enregistré"
+
+msgid "The material quality check could not be saved. Please, try again."
+msgstr "Le matériel de contrôle de la qualité ne peut pas être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The material quality check has been saved."
+msgstr "Le matériel de contrôle de la qualité a été enregistré."
+
+msgid "Material quality check deleted"
+msgstr "Contrôle de la qualité des matériaux supprimé"
+
+msgid "Material quality check was not deleted"
+msgstr "Contrôle de la qualité des matériaux n'a pas été supprimé"
+
+msgid "Invalid material type"
+msgstr "Invalid type de matériau"
+
+msgid "The material type has been saved"
+msgstr "Le type de matériau a été enregistré"
+
+msgid "The material type could not be saved. Please, try again."
+msgstr "Le type de matériau n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid material"
+msgstr "Matériau non valide"
+
+msgid "The material has been saved"
+msgstr "Le matériau a été enregistré"
+
+msgid "The material could not be saved. Please, try again."
+msgstr "Le matériel n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid meeting"
+msgstr "Réunion invalide"
+
+msgid "The meeting has been saved"
+msgstr "La réunion a été enregistré"
+
+msgid "The meeting could not be saved. Please, try again."
+msgstr "La réunion n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The meeting details has been saved"
+msgstr "Les détails de la réunion a été sauvegardé"
+
+msgid "The meeting has been published"
+msgstr "La réunion a été publié"
+
+msgid "Message moved to Trash!"
+msgstr "Message déplacé dans la Corbeille!"
+
+msgid "All selected values moved to trash"
+msgstr "Toutes les valeurs sélectionnées placés dans la corbeille"
+
+msgid "Problem occured during moved to trash"
+msgstr "Problème survenu pendant déplacé à la corbeille"
+
+msgid "Message deleted"
+msgstr "Message supprimé"
+
+msgid "Message was not deleted"
+msgstr "N'a pas été supprimé"
+
+msgid "Invalid message"
+msgstr "Message non valide"
+
+msgid "Message Sent Successfully"
+msgstr "Message envoyé avec succès"
+
+msgid "The message could not be saved. Please, try again."
+msgstr "Le message n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "No recipient selected. Please, try again."
+msgstr "Aucun destinataire choisi. S'il vous plaît, essayez à nouveau."
+
+msgid "You can not send any messages from demo edition!"
+msgstr "Vous ne pouvez pas envoyer des messages à partir de l'édition de démonstration!"
+
+msgid "The message has been saved"
+msgstr "Le message a été enregistré"
+
+msgid "Invalid non conforming products material"
+msgstr "Invalid matériau non des produits conformes,"
+
+msgid "The non conforming products material has been saved"
+msgstr "Le matériau non des produits conformes, a été enregistré"
+
+msgid "The non conforming products material could not be saved. Please, try again."
+msgstr "Le matériau non des produits conformes, n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The non conforming products material has been saved."
+msgstr "Le matériau non des produits conformes, a été enregistré."
+
+msgid "Invalid notification type"
+msgstr "Invalid type de notification"
+
+msgid "The notification type has been saved"
+msgstr "Le type de notification a été enregistré"
+
+msgid "The notification type could not be saved. Please, try again."
+msgstr "Le type de notification n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The notification type has been saved."
+msgstr "Le type de notification a été enregistrée."
+
+msgid "Invalid notification user"
+msgstr "Utilisateur de notification valide"
+
+msgid "Invalid notification"
+msgstr "Notification valide"
+
+msgid "The notification has been saved"
+msgstr "La notification a été enregistré"
+
+msgid "The notification could not be saved. Please, try again."
+msgstr "La notification n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The notification has been saved."
+msgstr "La notification a été enregistrée."
+
+msgid "Invalid production"
+msgstr "Production non valide"
+
+msgid "The production has been saved"
+msgstr "La production a été enregistré"
+
+msgid "The production could not be saved. Please, try again."
+msgstr "La production n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The production has been saved."
+msgstr "La production a été enregistrée."
+
+msgid "Invalid product"
+msgstr "Produit non valide"
+
+msgid "The product has been saved"
+msgstr "Le produit a été enregistré"
+
+msgid "The product could not be saved. Please, try again."
+msgstr "Le produit n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The product has been saved."
+msgstr "Le produit a été enregistré."
+
+msgid "Invalid proposal followup"
+msgstr "Invalid proposition suivi"
+
+msgid "The proposal followup has been saved"
+msgstr "La proposition suivi a été enregistré"
+
+msgid "The proposal followup could not be saved. Please, try again."
+msgstr "La proposition suivi n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid proposal"
+msgstr "Proposition valide"
+
+msgid "The proposal has been saved"
+msgstr "La proposition a été enregistré"
+
+msgid "The proposal could not be saved. Please, try again."
+msgstr "La proposition n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid purchase order"
+msgstr "Ordre d'achat valide"
+
+msgid "The purchase order has been saved"
+msgstr "Le bon de commande a été enregistrée"
+
+msgid "The purchase order could not be saved. Please, try again."
+msgstr "Le bon de commande n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "This purchase order could not be edited as it's already added to Delivey Challan."
+msgstr "Ce bon de commande ne peut pas être modifié car il est déjà ajouté à Delivey Challan."
+
+msgid "The report has been saved"
+msgstr "Le rapport a été enregistré"
+
+msgid "The report could not be saved. Please, try again."
+msgstr "Le rapport n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid Report"
+msgstr "Rapport non valide"
+
+msgid "Selected Report Deleted"
+msgstr "Le rapport sélectionné supprimé"
+
+msgid "Selected Report was not deleted"
+msgstr "Le rapport sélectionné n'a pas été supprimé"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Open"
+msgstr "Ouvert"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr "Non"
+
+msgid "Customer Feedback"
+msgstr "Réactions des clients"
+
+msgid "Customer Complaint"
+msgstr "Plainte à la clientèle"
+
+msgid "Invalid schedule"
+msgstr "Programmation invalide"
+
+msgid "The schedule has been saved"
+msgstr "Le calendrier a été enregistré"
+
+msgid "The schedule could not be saved. Please, try again."
+msgstr "Le calendrier n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The schedule has been saved."
+msgstr "Le calendrier a été enregistré."
+
+msgid "Invalid software type"
+msgstr "Le type de logiciel non valide"
+
+msgid "The software type has been saved"
+msgstr "Le type de logiciel a été sauvé"
+
+msgid "The software type could not be saved. Please, try again."
+msgstr "Le type de logiciel ne pouvait être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The software type has been saved."
+msgstr "Le type de logiciel a été enregistré."
+
+msgid "Invalid stock"
+msgstr "Actions non valide"
+
+msgid "The stock has been saved"
+msgstr "Le stock a été enregistré"
+
+msgid "The stock could not be saved. Please, try again."
+msgstr "Le stock n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The stock has been saved."
+msgstr "Le stock a été enregistré."
+
+msgid "Invalid Suggestion form"
+msgstr "Formulaire de suggestion invalide"
+
+msgid "The Suggestion form has been saved"
+msgstr "Le formulaire de suggestion a été enregistré"
+
+msgid "The Suggestion form could not be saved. Please, try again."
+msgstr "Le formulaire de suggestion n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The Suggestion form has been saved."
+msgstr "Le formulaire de suggestion a été enregistré."
+
+msgid "Invalid summery of supplier evaluation"
+msgstr "Estivale valide de l'évaluation des fournisseurs"
+
+msgid "The summary of supplier evaluation has been saved"
+msgstr "Le résumé de l'évaluation des fournisseurs a été enregistré"
+
+msgid "The summary of supplier evaluation could not be saved. Please, try again."
+msgstr "Le résumé de l'évaluation des fournisseurs n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The summary of supplier evaluation has been saved."
+msgstr "Le résumé de l'évaluation des fournisseurs a été enregistré."
+
+msgid "Invalid supplier category"
+msgstr "Catégorie de fournisseur valide"
+
+msgid "The supplier category has been saved"
+msgstr "La catégorie de fournisseur a été enregistré"
+
+msgid "The supplier category could not be saved. Please, try again."
+msgstr "La catégorie de fournisseur n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid supplier registration"
+msgstr "Enregistrement de fournisseur valide"
+
+msgid "The supplier registration has been saved"
+msgstr "L'enregistrement de fournisseur a été enregistré"
+
+msgid "The supplier registration could not be saved. Please, try again."
+msgstr "L'enregistrement de fournisseur n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The supplier registration has been saved."
+msgstr "L'enregistrement de fournisseur a été enregistré."
+
+msgid "Invalid system table"
+msgstr "Invalid table système"
+
+msgid "The system table has been saved"
+msgstr "La table système a été enregistré"
+
+msgid "The system table could not be saved. Please, try again."
+msgstr "Le tableau du système n'a pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid task"
+msgstr "Tâche non valide"
+
+msgid "The task has been saved"
+msgstr "La tâche a été enregistré"
+
+msgid "The task could not be saved. Please, try again."
+msgstr "La tâche n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The task has been saved."
+msgstr "La tâche a été enregistré."
+
+msgid "The task status has been saved"
+msgstr "Le statut de la tâche a été enregistré"
+
+msgid "Invalid timeline"
+msgstr "Calendrier invalide"
+
+msgid "The timeline has been saved"
+msgstr "Le calendrier a été enregistré"
+
+msgid "The timeline could not be saved. Please, try again."
+msgstr "Le calendrier n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The timeline has been saved."
+msgstr "Le calendrier a été enregistré."
+
+msgid "Invalid trainer type"
+msgstr "Invalid type de formateur"
+
+msgid "The trainer type has been saved"
+msgstr "Le type de formateur a été enregistré"
+
+msgid "The trainer type could not be saved. Please, try again."
+msgstr "Le type de formateur n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The trainer type has been saved."
+msgstr "Le type de formateur a été enregistré."
+
+msgid "Invalid trainer"
+msgstr "Formateur valide"
+
+msgid "The trainer has been saved"
+msgstr "Le formateur a été enregistré"
+
+msgid "The trainer could not be saved. Please, try again."
+msgstr "Le formateur n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The trainer has been saved."
+msgstr "Le formateur a été enregistré."
+
+msgid "Invalid training evaluation"
+msgstr "Évaluation de la formation invalide"
+
+msgid "The training evaluation has been saved"
+msgstr "L'évaluation de la formation a été enregistré"
+
+msgid "The training evaluation could not be saved. Please, try again."
+msgstr "L'évaluation de la formation n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The training evaluation has been saved."
+msgstr "L'évaluation de la formation a été enregistré."
+
+msgid "Invalid training need identification"
+msgstr "Formation valide l'identification des besoins"
+
+msgid "The training need identification has been saved"
+msgstr "L'identification des besoins de formation a été enregistré"
+
+msgid "The training need identification could not be saved. Please, try again."
+msgstr "L'identification des besoins de formation n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid training type"
+msgstr "Type de formation valide"
+
+msgid "The training type has been saved"
+msgstr "Le type de formation a été enregistré"
+
+msgid "The training type could not be saved. Please, try again."
+msgstr "Le type de formation n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The training type has been saved."
+msgstr "Le type de formation a été enregistré."
+
+msgid "Invalid training"
+msgstr "Formation invalide"
+
+msgid "The training has been saved"
+msgstr "La formation a été enregistré"
+
+msgid "The training could not be saved. Please, try again."
+msgstr "La formation n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "Invalid username password detail"
+msgstr "Nom d'utilisateur valide détail de mot de passe"
+
+msgid "The username password detail has been saved"
+msgstr "Le détail de mot de passe nom d'utilisateur a été enregistré"
+
+msgid "The username password detail could not be saved. Please, try again."
+msgstr "Le détail de mot de passe nom d'utilisateur n'a pas pu être sauvé. S'il vous plaît, essayez à nouveau."
+
+msgid "The username password detail has been saved."
+msgstr "Le détail de mot de passe nom d'utilisateur a été enregistré."
+
+msgid "Invalid user"
+msgstr "Utilisateur invalide"
+
+msgid "User Unblocked"
+msgstr "Déblocage utilisateur"
+
+msgid "Failed to Unblock"
+msgstr "Impossible de débloquer"
+
+msgid "The user has been saved but fail to send email. Please check smtp details."
+msgstr "L'utilisateur a été enregistré, mais ne parviennent pas à envoyer un courriel. S'il vous plaît vérifier les détails de smtp."
+
+msgid "The user has been saved"
+msgstr "L'utilisateur a été enregistré"
+
+msgid "The user could not be saved. Please, try again."
+msgstr "L'utilisateur n'as pas pû être enregistré. S'il vous plaît, essayez à nouveau."
+
+msgid "The user has been saved."
+msgstr "L'utilisateur a été enregistré."
+
+msgid "Logged-in user can not be deleted!"
+msgstr "Utilisateur connecté ne peut pas être supprimé!"
+
+msgid "All selected users deleted"
+msgstr "Tous les utilisateurs sélectionnés supprimés"
+
+msgid "No email id for this user, try again."
+msgstr "Aucune id e-mail pour cet utilisateur, essayez de nouveau."
+
+msgid "Invalid Username, try again."
+msgstr "Nom d'utilisateur incorrect, essayez à nouveau."
+
+msgid "Invalid password reset token, try again."
+msgstr "Mot de passe invalide réinitialisation jeton, essayer à nouveau."
+
+msgid "Password changed, you can now login with your new password."
+msgstr "Mot de passe changé, vous pouvez maintenant vous connecter avec votre nouveau mot de passe."
+
+msgid "Please check the email you have registered with us. An email has been sent with instruction to reset password."
+msgstr "S'il vous plaît vérifier l'e-mail que vous avez enregistré avec nous. Un courriel a été envoyé avec des instructions pour réinitialiser le mot de passe."
+
+msgid "Already Logged in. Please wait while your earlier session expires."
+msgstr "Déjà connecté. S'il vous plaît patienter pendant que l'expiration de votre session précédente."
+
+msgid "Your account is locked"
+msgstr "Votre compte est verrouillé"
+
+msgid "Incorrect login credential"
+msgstr "Mauvaise connexion des titres de compétences"
+
+msgid "Please change your password"
+msgstr "S'il vous plaît changer votre mot de passe"
+
+msgid "Incorrect Login Credentials or your account is locked or already logged in"
+msgstr "Identifiants de connexion incorrectes ou votre compte est verrouillé ou déjà enregistrés dans"
+
+msgid "Saved"
+msgstr "Sauvegardé"
+
+msgid "Not Saved"
+msgstr "Non Saved"
+
+msgid "You have a meeting scheduled on "
+msgstr "Vous avez une réunion prévue le "
+
+msgid "Your password has been change"
+msgstr "Votre mot de passe a été le changement"
+
+msgid "Your current password does not match with the password you have entered. please try again."
+msgstr "Votre mot de passe ne correspond pas au mot de passe que vous avez entré. s'il vous plaît essayer à nouveau."
+
+msgid "Account created"
+msgstr "Compte créé"
+
+msgid "Failed to create account. Error while creating user"
+msgstr "Impossible de créer le compte. Erreur lors de la création de l'utilisateur"
+
+msgid "Failed to create account. Error while creating employee"
+msgstr "Impossible de créer le compte. Erreur lors de la création de l'employé"
+
+msgid "Failed to create account. Error while creating branch"
+msgstr "Impossible de créer le compte. Erreur lors de la création de la branche"
+
+msgid "Failed to create account. Error while creating company"
+msgstr "Impossible de créer le compte. Erreur lors de la création d'entreprise"
+
+msgid "Congratulations, your account is activated"
+msgstr "Félicitations, votre compte est activé"
+
+msgid "Can not activate account. Please contact us at +91 9769 866 441 for help"
+msgstr "Vous ne pouvez pas activer le compte. S'il vous plaît contactez-nous au +91 9769 866 441 pour l'aide"
+
+msgid "Formats saved."
+msgstr "Formats enregistrés."
+
+msgid "Please login to setup SMTP details"
+msgstr "S'il vous plaît vous connecter à des détails SMTP de configuration"
+
+msgid "SMTP setup done successfully."
+msgstr "Configuration SMTP fait avec succès."
+
+msgid "Can not connect with SMTP server: Invalid password"
+msgstr "Impossible de se connecter avec le serveur SMTP: mot de passe invalide"
+
+msgid "File parameter is missing"
+msgstr "paramètre du fichier est manquant"
+
+msgid "File deleted!"
+msgstr "Fichier supprimé!"
+
+msgid "Unable to delete File"
+msgstr "Impossible de supprimer le fichier"
+
+msgid "File does not exist!"
+msgstr "Le fichier n'existe pas!"
+
+msgid "What would you like to do?"
+msgstr "Que voulez-vous faire?"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "File"
+msgstr "Fichier"
+
+msgid "An error occured while transferring the file."
+msgstr "Une erreur s'est produite lors du transfert du fichier."
+
+msgid "The file is invalid."
+msgstr "Le fichier n'est pas valide."
+
+msgid "The file cannot be processed."
+msgstr "Le fichier ne peut pas être traitée."
+
+msgid "The file cannot be transferred from or to location."
+msgstr "Le fichier ne peut pas être transféré de ou à l'endroit."
+
+msgid "Executable files cannot be uploaded."
+msgstr "Les fichiers exécutables ne peuvent pas être téléchargées."
+
+msgid "The file is too large."
+msgstr "Le fichier est trop volumineux."
+
+msgid "The file has the wrong extension."
+msgstr "Le fichier a le mauvais poste."
+
+msgid "The file has the wrong MIME type."
+msgstr "Le fichier a le mauvais type MIME."
+
+msgid "Textual replacement"
+msgstr "remplacement textuels"
+
+msgid "A textual replacement must be provided."
+msgstr "Le remplacement d'un texte doit être fourni."
+
+msgid "Release"
+msgstr "Parution"
+
+msgid "Add Appraisal Question"
+msgstr "Ajouter Appréciation question"
+
+msgid "Publish"
+msgstr "Publier"
+
+msgid "Approve Appraisal Question"
+msgstr "Approuver évaluation question"
+
+msgid "List"
+msgstr "Liste"
+
+msgid "Edit Appraisal Question"
+msgstr "Modifier Appréciation question"
+
+msgid "Question"
+msgstr "Question"
+
+msgid "No results found"
+msgstr "Aucun résultat"
+
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr "Page {:page} de {:pages}, montrant {:current} dossiers sur {:count} au total, à partir du dossier {:start}, terminant le {:end}"
+
+msgid "previous"
+msgstr "précédent"
+
+msgid "next"
+msgstr "suivant"
+
+msgid "New Appraisal Question"
+msgstr "Nouvelle évaluation question"
+
+msgid "View Appraisal Question"
+msgstr "Voir Appréciation question"
+
+msgid "Edit"
+msgstr "Modifier "
+
+msgid "Sr. No"
+msgstr "Num."
+
+msgid "Prepared By"
+msgstr "Préparé par"
+
+msgid "Approved By"
+msgstr "Approuvé Par"
+
+msgid "Add Appraisal"
+msgstr "Ajouter évaluation"
+
+msgid "Step - 1 (Pre-Appraisal)"
+msgstr "Étape - 1 (pré-évaluation)"
+
+msgid "Employee"
+msgstr "Employé"
+
+msgid "Appraiser"
+msgstr "Expert"
+
+msgid "Employee selected above will receive a link to appraisal questions via email."
+msgstr "Employé sélectionné ci-dessus recevra un lien vers des questions d'évaluation par courriel."
+
+msgid "Select Appraisal Questions"
+msgstr "Sélectionnez évaluation Questions"
+
+msgid "Add Appraisal Review"
+msgstr "Ajouter examen d'une évaluation"
+
+msgid "Employee information"
+msgstr "Renseignements sur l'employé"
+
+msgid "Employee Name"
+msgstr "Nom de l'employé"
+
+msgid "Date of Joining"
+msgstr "Date d'adhésion"
+
+msgid "Designation"
+msgstr "Désignation"
+
+msgid "Date of Appraisal"
+msgstr "Date de l'évaluation"
+
+msgid "Department"
+msgstr "Departement"
+
+msgid "Employee Number"
+msgstr "Nombre des employés"
+
+msgid "Location"
+msgstr "Emplacement"
+
+msgid "Reason for Appraisal"
+msgstr "Raison pour évaluation"
+
+msgid "Employee Appraisal Questions"
+msgstr "évaluation de l'employé Questions"
+
+msgid "Self Appraisal Not Required"
+msgstr "Auto-évaluation Non requis"
+
+msgid "Final Result and Recommendation"
+msgstr "Résultat et recommandation finale"
+
+msgid "Comments by Employee"
+msgstr "Commentaires de l'employé"
+
+msgid "(apart from comments on the assessment, this column could also cover reasons for the current level of performance constraints or grievances, suggestions for improvements, etc.)"
+msgstr "(En dehors de commentaires sur l'évaluation, cette colonne peut aussi couvrir des raisons pour le niveau actuel de contraintes de performance ou des griefs, des suggestions d'amélioration, etc)"
+
+msgid "Comments by Appraiser"
+msgstr "Commentaires de l'évaluateur"
+
+msgid "( This will summarise the contents of the post appraisal discussion besides other comments on developmental needs, potential for other jobs, etc.)"
+msgstr "(Cela résumer le contenu de la discussion post-évaluation en plus d'autres commentaires sur les besoins de développement, le potentiel pour d'autres emplois, etc)"
+
+msgid "Submit"
+msgstr "Envoyer"
+
+msgid "Approve Appraisal"
+msgstr "Approuver évaluation"
+
+msgid "Edit Appraisal"
+msgstr "Modifier évaluation"
+
+msgid "Appraisal Date"
+msgstr "Date de l'évaluation"
+
+msgid "Self Appraisal Needed"
+msgstr "Auto évaluation Needed"
+
+msgid "Self Appraisal Status"
+msgstr "Auto évaluation État"
+
+msgid "Appraisal Review"
+msgstr "D'examen des évaluations"
+
+msgid "Done"
+msgstr "Fini"
+
+msgid "Pending"
+msgstr "En Attendant"
+
+msgid "New Appraisal"
+msgstr "Nouvelle évaluation"
+
+msgid "Add Appraisal Answers"
+msgstr "Ajouter évaluation réponses"
+
+msgid "View Appraisal"
+msgstr "Voir d'évaluation"
+
+msgid "Rating"
+msgstr "Note"
+
+msgid "No data available."
+msgstr "Pas de données disponibles."
+
+msgid "Promotion"
+msgstr "Promotion"
+
+msgid "Warning"
+msgstr "Attention"
+
+msgid "Status Remained Unchanged"
+msgstr "Statut resté inchangé"
+
+msgid "Successful Completion of Probation"
+msgstr "Réussite de la probation"
+
+msgid "Salary Increment"
+msgstr "augmentation de salaire"
+
+msgid "Termination"
+msgstr "Résiliation"
+
+msgid "Training Requirements"
+msgstr "Exigences de formation"
+
+msgid "Specific Requirement"
+msgstr "Exigence particulière"
+
+msgid "Increment"
+msgstr "Incrémenter"
+
+msgid "Benchmarks for "
+msgstr "Repères pour "
+
+msgid "This will help you track your preparedness."
+msgstr "Cela vous aidera à suivre votre préparation."
+
+msgid "Add Branch"
+msgstr "Ajouter Direction"
+
+msgid "Branch Name"
+msgstr "Nom de la direction"
+
+msgid "Approve Branch"
+msgstr "Approuver Direction"
+
+msgid "Edit Branch"
+msgstr "Modifier Direction"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "New Branch"
+msgstr "Nouvelle Direction"
+
+msgid "View Branch"
+msgstr "Voir Direction"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Branch"
+msgstr "Branche"
+
+msgid "List of users in this Branch"
+msgstr "Liste des utilisateurs dans cette direction"
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "is MR?"
+msgstr "est M.?"
+
+msgid "is View All?"
+msgstr "est Voir tous?"
+
+msgid "is Approver?"
+msgstr "est approbateur?"
+
+msgid "Benchmark"
+msgstr "Indices de référence"
+
+msgid "Last Login"
+msgstr "Dernière connexion"
+
+msgid "Last Activity"
+msgstr "Dernière activité"
+
+msgid "Add Calibration"
+msgstr "Ajouter étalonnage"
+
+msgid "Device"
+msgstr "appareil"
+
+msgid "Calibration Date"
+msgstr "Date de calibration"
+
+msgid "Measurement For"
+msgstr "Pour mesure"
+
+msgid "Least Count"
+msgstr "Moins comte"
+
+msgid "Required Accuracy"
+msgstr "Précision nécessaire"
+
+msgid "Range"
+msgstr "Plage"
+
+msgid "Default Calibration"
+msgstr "Calibration par défaut"
+
+msgid "Calibration Required"
+msgstr "Required Calibration"
+
+msgid "Actual Calibration"
+msgstr "Calibration réel"
+
+msgid "Errors"
+msgstr "Erreurs"
+
+msgid "Comments"
+msgstr "Commentaires"
+
+msgid "Next Calibration Date"
+msgstr "Suivant Date de calibration"
+
+msgid "Approve Calibration"
+msgstr "Approuver étalonnage"
+
+msgid "Edit Calibration"
+msgstr "Editer le calibrage"
+
+msgid "Device Values"
+msgstr "Les valeurs de l'appareil"
+
+msgid "Calibration"
+msgstr "Étalonnage"
+
+msgid "New Calibration"
+msgstr "Nouveau calibrage"
+
+msgid "Add Device"
+msgstr "Ajoutez un appareil"
+
+msgid "View Calibration"
+msgstr "Voir étalonnage"
+
+msgid "Add Capa Category"
+msgstr "Ajouter Capa Catégorie"
+
+msgid "Approve Capa Category"
+msgstr "Approuver Capa Catégorie"
+
+msgid "Edit Capa Category"
+msgstr "Modifier Capa Catégorie"
+
+msgid "New Capa Category"
+msgstr "Nouveau Capa Catégorie"
+
+msgid "View Capa Category"
+msgstr "Voir Capa Catégorie"
+
+msgid "Add Capa Source"
+msgstr "Ajouter Capa Source"
+
+msgid "Approve Capa Source"
+msgstr "Approuver Capa Source"
+
+msgid "Edit Capa Source"
+msgstr "Modifier Capa Source"
+
+msgid "New Capa Source"
+msgstr "Nouveau Capa Source"
+
+msgid "View Capa Source"
+msgstr "Voir Capa Source"
+
+msgid "Document Change Addition Deletion Request"
+msgstr "Dossier de modifications Ajout Suppression Demande"
+
+msgid "Customer"
+msgstr "Client"
+
+msgid "Suggestion"
+msgstr "Suggestion"
+
+msgid "Other"
+msgstr "Autre"
+
+msgid "Suggestion Form"
+msgstr "Formulaire de suggestion"
+
+msgid "Include this in following MR meeting : "
+msgstr "Inclure dans suite de la réunion M.: "
+
+msgid "Select Meeting"
+msgstr "Sélectionnez Réunion"
+
+msgid "Approve Change Addition Deletion Request"
+msgstr "Approuver les changements Ajout Suppression Demande"
+
+msgid "After changes were accepted"
+msgstr "Après modifications ont été acceptées"
+
+msgid "Document Change Accepted"
+msgstr "Dossier de modifications acceptées"
+
+msgid "Approved in meeting"
+msgstr "Approuvé en séance"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Document Number"
+msgstr "Numéro de document"
+
+msgid "Issue Number"
+msgstr "Numéro d'Émission"
+
+msgid "Revision Number"
+msgstr "Numéro de révision"
+
+msgid "Revision Date"
+msgstr "Date de révision"
+
+msgid "Note : "
+msgstr "Indicqtion : "
+
+msgid "If Document changes required additional database fields or change in functionality, send us the new requirements by adding details below."
+msgstr "Si des modifications de documents nécessaires champs de base de données supplémentaires ou de changement de fonctionnalité, envoyez-nous les nouvelles exigences en ajoutant des détails ci-dessous."
+
+msgid "Add your new requirement here. If you check \"flinkiso functionality change required\", then these changes will be sent to FlinkISO customisation team for future review."
+msgstr "Ajoutez votre nouvelle exigence ici. Si vous cochez \ "changement de fonctionnalité flinkiso requis \", ces modifications seront envoyées à l'équipe de personnalisation FlinkISO pour examen futur."
+
+msgid "Edit Change Addition Deletion Request"
+msgstr "Modifier les changements Ajout Suppression Demande"
+
+msgid "Request From"
+msgstr "Demande De"
+
+msgid "Master List of Format"
+msgstr "Liste principale de Format"
+
+msgid "New Change Addition Deletion Request"
+msgstr "New Change Ajout Suppression Demande"
+
+msgid "View Change Addition Deletion Request"
+msgstr "Voir Change Ajout Suppression Demande"
+
+msgid "Request Details"
+msgstr "Détails de la demande"
+
+msgid "Master List Of Format"
+msgstr "Maître Liste des Format"
+
+msgid "Current Document Details"
+msgstr "Actuel Document Details"
+
+msgid "Proposed Changes"
+msgstr "Modifications proposées"
+
+msgid "Reason For Change"
+msgstr "Raison du changement"
+
+msgid "Edit Company"
+msgstr "Modifier Société"
+
+msgid "View / Upload Files"
+msgstr "Voir / Télécharger des fichiers"
+
+msgid "Company Description / Message form MR or Director"
+msgstr "Description de l'entreprise / le formulaire MR ou le directeur message"
+
+msgid "Company Welcome Message"
+msgstr "Société Message de bienvenue"
+
+msgid "Quality Policy"
+msgstr "Politique de qualité"
+
+msgid "Vision Statement"
+msgstr "Énoncé de vision"
+
+msgid "Mission Statement"
+msgstr "Énoncé de Mission"
+
+msgid "Copy - Paste your existing audit plan"
+msgstr "Copier - Coller votre plan d'audit existant"
+
+msgid "Import from file (excel & csv formats only)"
+msgstr "Importer à partir du fichier (formats Excel et CSV uniquement)"
+
+msgid "View Company"
+msgstr "Voir Société"
+
+msgid "Remove Sample Data"
+msgstr "Retirer des exemples de données"
+
+msgid "Are you sure to remove sample data of %s?"
+msgstr "Êtes-vous sûr de vouloir supprimer les données de l'échantillon %s ?"
+
+msgid "Company Description"
+msgstr "Description de l'entreprise"
+
+msgid "Welcome Message for Users"
+msgstr "Message de bienvenue pour les utilisateurs"
+
+msgid "Company Audit Plan"
+msgstr "Plan de vérification de l'entreprise"
+
+msgid "Documents Level 1"
+msgstr "Documents Niveau 1"
+
+msgid "Documents Level 2"
+msgstr "Documents niveau 2"
+
+msgid "Documents Level 3"
+msgstr "Documents Niveau 3"
+
+msgid "Documents Level 4"
+msgstr "Documents Niveau 4"
+
+msgid "Add Competency Mapping"
+msgstr "Ajouter cartographie des compétences"
+
+msgid "Education"
+msgstr "Formation"
+
+msgid "Actual Education"
+msgstr "Education réel"
+
+msgid "Experience Required"
+msgstr "Expérience requise"
+
+msgid "Actual Experience"
+msgstr "Expérience réelle"
+
+msgid "Skills Required"
+msgstr "Compétences requises"
+
+msgid "Skills Possessed"
+msgstr "Compétences acquises"
+
+msgid "Remarks"
+msgstr "Observations"
+
+msgid "Approve Competency Mapping"
+msgstr "Approuver la cartographie des compétences"
+
+msgid "Edit Competency Mapping"
+msgstr "Cartographie Modifier compétence"
+
+msgid "New Competency Mapping"
+msgstr "Nouveau mappage des compétences"
+
+msgid "Add Employee"
+msgstr "Ajouter employés"
+
+msgid "View Competency Mapping"
+msgstr "Voir la cartographie des compétences"
+
+msgid "Add Corrective Preventive Action"
+msgstr "Ajouter une action préventive corrective"
+
+msgid "Step - 1"
+msgstr "Étape - 1"
+
+msgid "Select Action"
+msgstr "Sélectionner une action"
+
+msgid "Number"
+msgstr "Nombre"
+
+msgid "CAPA Source"
+msgstr "CAPA Source"
+
+msgid "CAPA Category"
+msgstr "CAPA Catégorie"
+
+msgid "Select Internal Audit"
+msgstr "Sélectionnez l'audit interne"
+
+msgid "Select Suggestion Form"
+msgstr "Sélectionnez le formulaire Suggestion"
+
+msgid "Select Customer Complaint"
+msgstr "Sélectionnez des plaintes des clients"
+
+msgid "Select Supplier"
+msgstr "Sélectionnez Fournisseur"
+
+msgid "Select Product"
+msgstr "Sélectionner un produit"
+
+msgid "Select Device"
+msgstr "Sélectionner le périphérique"
+
+msgid "Select Material"
+msgstr "Sélectionner matériel"
+
+msgid "Assigned To"
+msgstr "Assignée à"
+
+msgid "Target Date"
+msgstr "Date cible"
+
+msgid "Initial Remarks"
+msgstr "Remarques initiales"
+
+msgid "Proposed Immediate Action"
+msgstr "Action immédiate proposé"
+
+msgid "Current Status"
+msgstr "Statut actuel"
+
+msgid "Completed By"
+msgstr "Rempli par"
+
+msgid "Completed on Date"
+msgstr "Terminé le Date"
+
+msgid "Completion Remarks"
+msgstr "Remarques d'achèvement"
+
+msgid "Step - 2"
+msgstr "Étape - 2"
+
+msgid "Root Cause Analysis Required"
+msgstr "Analyse des causes requis"
+
+msgid "Root Cause"
+msgstr "Cause première"
+
+msgid "Determined By"
+msgstr "Déterminée par"
+
+msgid "Determined On Date"
+msgstr "Déterminé Sur date"
+
+msgid "Root Cause Remarks"
+msgstr "La cause fondamentale Remarques"
+
+msgid "Proposed Long-Term Action"
+msgstr "Action proposée de longue durée"
+
+msgid "Action Assigned to"
+msgstr "Action attribuée à"
+
+msgid "Action Completed on Date"
+msgstr "Action complété le date"
+
+msgid "Action Completion Remarks"
+msgstr "Remarques action achèvement"
+
+msgid "Effectiveness"
+msgstr "Entrée en vigueur"
+
+msgid "Document Changes Required"
+msgstr "Changements document requis"
+
+msgid "Closed By"
+msgstr "Fermé par"
+
+msgid "Closed on Date"
+msgstr "Fermé le Date"
+
+msgid "Approve Corrective Preventive Action"
+msgstr "Approuver l'action préventive corrective"
+
+msgid "CAPA Number"
+msgstr "Nombre CAPA"
+
+msgid "Raised By"
+msgstr "Raised By"
+
+msgid "Edit Corrective Preventive Action"
+msgstr "Modifier l'action préventive corrective"
+
+msgid "Corrective Action"
+msgstr "Action Corrective"
+
+msgid "Preventive Action"
+msgstr "Action préventive"
+
+msgid "Corrective Preventive Action"
+msgstr "Action préventive corrective"
+
+msgid "New Corrective Preventive Action"
+msgstr "Nouvelle action préventive corrective"
+
+msgid "New CAPA Source"
+msgstr "Nouveau CAPA Source"
+
+msgid "New CAPA Category"
+msgstr "Nouveau CAPA Catégorie"
+
+msgid "View Corrective Preventive Action"
+msgstr "Voir l'action préventive corrective"
+
+msgid "CAPA Name"
+msgstr "Nom CAPA"
+
+msgid "Category Name"
+msgstr "Nom de la catégorie"
+
+msgid "Completed On Date"
+msgstr "Terminé Date de"
+
+msgid "Proposed Longterm Action"
+msgstr "Action de longue durée de Projet"
+
+msgid "Action Assigned To"
+msgstr "Action attribuée à"
+
+msgid "Action Completed On Date"
+msgstr "Action Terminé Date de"
+
+msgid "Closed On Date"
+msgstr "Fermé Sur date"
+
+msgid "Closure Remarks"
+msgstr "Fermeture Remarques"
+
+msgid "List Course Type"
+msgstr "Liste Type de cours"
+
+msgid "Approve Course Type"
+msgstr "Approuver Type de cours"
+
+msgid "Edit Course Type"
+msgstr "Modifier le type de cours"
+
+msgid "New Course Type"
+msgstr "Nouveau Type de cours"
+
+msgid "View Course Type"
+msgstr "Voir Type de cours"
+
+msgid "Description"
+msgstr "description"
+
+msgid "List Courses"
+msgstr "Liste des cours"
+
+msgid "Course Type"
+msgstr "Type de cours"
+
+msgid "Add New Training/Courses"
+msgstr "Ajouter une nouvelle formation / Cours"
+
+msgid "Approve Course"
+msgstr "Approuver cours"
+
+msgid "Edit Course"
+msgstr "Modifier le cours"
+
+msgid "New Course"
+msgstr "Nouveau cours"
+
+msgid "New Course Types"
+msgstr "Nouveaux types de cours"
+
+msgid "View Course"
+msgstr "Voir les cours"
+
+msgid "Send for approval"
+msgstr "Envoyer à l'approbation"
+
+msgid "Records added to this table will be send to the person you choose from the list below."
+msgstr "Enregistrements ajoutés à ce tableau seront envoyés à la personne de votre choix dans la liste ci-dessous."
+
+msgid "Document Title"
+msgstr "Titre du document"
+
+msgid "New Custom Template"
+msgstr "Nouveau modèle personnalisé"
+
+msgid "View Custom Template"
+msgstr "Voir un modèle personnalisé"
+
+msgid "Details"
+msgstr "Détails"
+
+msgid "Add Customer Complaint"
+msgstr "Ajouter des plaintes des clients"
+
+msgid "Add To CAPA ?"
+msgstr "Ajouter à la CAPA?"
+
+msgid "Approve Customer Complaint"
+msgstr "Approuver des plaintes des clients"
+
+msgid "Edit Customer Complaint"
+msgstr "Plainte Modifier la clientèle"
+
+msgid "Source"
+msgstr "Alimentation"
+
+msgid "New Customer Complaint"
+msgstr "Nouvelle plainte du client"
+
+msgid "New Customer"
+msgstr "Nouveau Client"
+
+msgid "View Customer Complaint"
+msgstr "Plainte Voir la clientèle"
+
+msgid "Type"
+msgstr "Catégorie"
+
+msgid "Complaint Number"
+msgstr "Nombre de plaintes"
+
+msgid "Complaint Date"
+msgstr "Date de plainte"
+
+msgid "Assigned to"
+msgstr "Assigné à"
+
+msgid "Action Taken"
+msgstr "Mesures prises"
+
+msgid "Action Taken Date"
+msgstr "Action Date de prise"
+
+msgid "Settled Date"
+msgstr "Date du règlement"
+
+msgid "Authorized By"
+msgstr "Autorisé par"
+
+msgid "Add Customer Feedback Question"
+msgstr "Ajouter Customer Feedback question"
+
+msgid "If question type is Optional, fill out options below, else leave blank."
+msgstr "Si le type de question est facultatif, remplissez les options ci-dessous, sinon laisser en blanc."
+
+msgid "Approve Customer Feedback Question"
+msgstr "Approuver Customer Feedback question"
+
+msgid "Edit Customer Feedback Question"
+msgstr "Modifier Customer Feedback question"
+
+msgid "New Customer Feedback Question"
+msgstr "Nouveau client Feedback question"
+
+msgid "Add Customer Feedback"
+msgstr "Ajouter Réactions des clients"
+
+msgid "View Customer Feedback Question"
+msgstr "Voir Customer Feedback question"
+
+msgid "Edit Customer Feedback"
+msgstr "Modifier Réactions des clients"
+
+msgid "New Customer Feedback"
+msgstr "Nouveau Réactions des clients"
+
+msgid "Add Customer"
+msgstr "Ajouter à la clientèle"
+
+msgid "View Customer Feedback"
+msgstr "Voir Réactions des clients"
+
+msgid "Questions"
+msgstr "Questions"
+
+msgid "Answer"
+msgstr "Réponse"
+
+msgid "Add Customer Meeting"
+msgstr "Ajouter une réunion à la clientèle"
+
+msgid "Restrict access?"
+msgstr "Restreindre l'accès?"
+
+msgid "You can copy and paste your meeting details here. You can also upload it after saving this record"
+msgstr "Vous pouvez copier et coller vos détails de la réunion ici. Vous pouvez également le télécharger après avoir enregistré ce disque"
+
+msgid "Add Follow up"
+msgstr "Ajoutez suivi"
+
+msgid "Approve Customer Meeting"
+msgstr "Approuver réunion à la clientèle"
+
+msgid "Edit Customer Meeting"
+msgstr "Modifier la réunion à la clientèle"
+
+msgid "Follow Ups"
+msgstr "Suivis"
+
+msgid "New Customer Meeting"
+msgstr "Nouvelle réunion à la clientèle"
+
+msgid "View Customer Meeting"
+msgstr "Voir Réunion à la clientèle"
+
+msgid "Meeting Date"
+msgstr "Datte de la réunion"
+
+msgid "Action Point"
+msgstr "Point d'action"
+
+msgid "Next Meeting Date"
+msgstr "Prochaine réunion"
+
+msgid "Status"
+msgstr "état"
+
+msgid "PreparedBy"
+msgstr "Établi par"
+
+msgid "View Followup"
+msgstr "Voir Suivi"
+
+msgid "Customer Type"
+msgstr "Type de Client"
+
+msgid "Company"
+msgstr "Entreprise"
+
+msgid "Individual"
+msgstr "Individuel"
+
+msgid "Marital Status"
+msgstr "État civil"
+
+msgid "Address"
+msgstr "Adresse "
+
+msgid "Approve Customer"
+msgstr "Approuver la clientèle"
+
+msgid "Edit Customer"
+msgstr "Modifier la clientèle"
+
+msgid "View Customer"
+msgstr "Voir la clientèle"
+
+msgid "Customer Since Date"
+msgstr "Client depuis la date"
+
+msgid "Customer Code"
+msgstr "le code client"
+
+msgid "Email"
+msgstr "e-mail"
+
+msgid "Phone"
+msgstr "T&eacute;l&eacute;phone"
+
+msgid "Mobile"
+msgstr "GSM"
+
+msgid "Date Of Birth"
+msgstr "Date de Naissance"
+
+msgid "Residence Address"
+msgstr "Adresse de la résidence"
+
+msgid "Add Daily Backup Detail"
+msgstr "Ajouter Daily Détail de sauvegarde"
+
+msgid "Data Backup Name"
+msgstr "Sauvegarde des données Nom"
+
+msgid "Device Name"
+msgstr "Nom de l'appareil"
+
+msgid "Computer Name"
+msgstr "Nom de l\'ordinateur"
+
+msgid "Edit Daily Backup Detail"
+msgstr "Modifier Sauvegarde quotidienne Détail"
+
+msgid "New Daily Backup Detail"
+msgstr "Nouveau Détail de sauvegarde quotidienne"
+
+msgid "New Data Type"
+msgstr "Nouveau Type de données"
+
+msgid "New Data Backup"
+msgstr "Sauvegarde de nouvelles données"
+
+msgid "View Daily Backup Detail"
+msgstr "Voir Daily Détail de sauvegarde"
+
+msgid "Backup Date"
+msgstr "Date de la sauvegarde"
+
+msgid "Business Development Dashboard"
+msgstr "Tableau de bord du développement des affaires"
+
+msgid "Customers"
+msgstr "Clientèle"
+
+msgid "Click Add to add new customer or click on See All to view list of existing customers"
+msgstr "Cliquez sur Ajouter pour ajouter un nouveau client ou cliquez sur Voir Tout pour afficher la liste des clients existants"
+
+msgid "See All"
+msgstr "Tous les produits"
+
+msgid "Customer Meetings"
+msgstr "réunions avec les clients"
+
+msgid "Before you add customer meetings make sure you have added "
+msgstr "Avant d'ajouter réunions clients assurez-vous que vous avez ajouté "
+
+msgid "Employees"
+msgstr "Employés"
+
+msgid "No. of Meetings"
+msgstr "Nombre de réunions"
+
+msgid "Proposals"
+msgstr "Propositions"
+
+msgid "Before you add proposals make sure you have added "
+msgstr "Avant d'ajouter propositions assurez-vous que vous avez ajouté "
+
+msgid "No. of Proposals"
+msgstr "Nombre de propositions"
+
+msgid "Proposal Followups"
+msgstr "Suites des propositions de"
+
+msgid "Before you add proposal followups make sure you have added "
+msgstr "Avant d'ajouter des suivis de propositions assurez-vous que vous avez ajouté "
+
+msgid "Proposal"
+msgstr "La proposition référendaire sur l'augmentation de la taxe pour l'AÉCG"
+
+msgid "No. of Proposals Followups"
+msgstr "Nombre de propositions Suites des"
+
+msgid "Available Quality Documents (BD Department)"
+msgstr "Documents de qualité disponibles (Département BD)"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies for EDP department by clicking on the links below."
+msgstr "Vous pouvez ajouter / voir vos manuels compagnie de qualité / Procédures / Objectifs / Records / politiques pour le département de EDP en cliquant sur les liens ci-dessous."
+
+msgid "These documents are available for all users."
+msgstr "Ces documents sont disponibles pour tous les utilisateurs."
+
+msgid "Conversion Rate"
+msgstr "Taux de conversion"
+
+msgid "Electronic Data Processing Dashboard"
+msgstr "Tableau de bord électronique de traitement des données"
+
+msgid "FlinkISO Users"
+msgstr "Utilisateurs FlinkISO"
+
+msgid "Before you create any user make sure you have added "
+msgstr "Avant de créer n'importe quel utilisateur de s'assurer que vous avez ajouté "
+
+msgid "Designations"
+msgstr "Désignations"
+
+msgid "Branches"
+msgstr "Branches"
+
+msgid "List of softwares"
+msgstr "Liste des logiciels"
+
+msgid "Before you create the software list make sure you have added "
+msgstr "Avant de créer la liste des logiciels assurez-vous que vous avez ajouté "
+
+msgid "No. of Softwares"
+msgstr "Nombre de Logiciels"
+
+msgid "List of Computers"
+msgstr "Liste des Ordinateurs"
+
+msgid "To add List Of Computers make sure you have added "
+msgstr "Pour ajouter la liste des ordinateurs assurez-vous que vous avez ajouté "
+
+msgid "Suppliers"
+msgstr "Fournisseurs"
+
+msgid "Purchase Orders"
+msgstr "Commandes"
+
+msgid "No. of Computers"
+msgstr "Nombre de Ordinateurs"
+
+msgid "Computers/Softwares"
+msgstr "Ordinateurs / Logiciels"
+
+msgid "To add list of Softwares make sure you have added "
+msgstr "Pour ajouter la liste des Logiciels vérifiez que vous avez ajouté "
+
+msgid "Software Types"
+msgstr "Types de logiciels"
+
+msgid "Storage Devices"
+msgstr "Périphériques de stockage"
+
+msgid "No. of Computers/Softwares"
+msgstr "Nombre de Ordinateurs / Logiciels"
+
+msgid "Data Backups"
+msgstr "Sauvegardes de données"
+
+msgid "Step-I is to create "
+msgstr "Étape-I est de créer "
+
+msgid "& Step-II is to create Backup Details and assign it to users from "
+msgstr "Et l'étape II est de créer Détails de sauvegarde et l'affecter à des utilisateurs de "
+
+msgid "Daily Backup Details"
+msgstr "Détails de sauvegarde quotidienne"
+
+msgid "See Logbook"
+msgstr "Voir Journal de bord"
+
+msgid "List of Usernames"
+msgstr "Liste des noms d'utilisateur"
+
+msgid "Before you add List of Usernames make sure you have already added "
+msgstr "Avant d'ajouter Liste des noms d'utilisateur assurez-vous que vous avez déjà ajouté "
+
+msgid "No. of Usernames"
+msgstr "Nombre de noms d'utilisateur"
+
+msgid "Available Quality Documents (EDP Department)"
+msgstr "Documents de qualité disponibles (département informatique)"
+
+msgid "Data Entry Report"
+msgstr "Rapport de saisie de données"
+
+msgid "60% Complete"
+msgstr "60% complet"
+
+msgid "Human Resource Department Dashboard"
+msgstr "Tableau de bord Direction des Ressources Humaines"
+
+msgid "Employee Master"
+msgstr "Employé Maître"
+
+msgid "Before you can create any employee  make sure that you have already added "
+msgstr "Avant de pouvoir créer un employé de s'assurer que vous avez déjà ajouté "
+
+msgid "No. of Employees"
+msgstr "Nombre d'employés"
+
+msgid "Courses"
+msgstr "Cours"
+
+msgid "Before adding any Courses make sure that you have already added "
+msgstr "Avant d'ajouter des Cours assurez-vous que vous avez déjà ajouté "
+
+msgid "Course Types"
+msgstr "Types de cours"
+
+msgid "Trainers"
+msgstr "Formateurs"
+
+msgid "Trainer Types"
+msgstr "Types de formation des formateurs"
+
+msgid "No. of Courses"
+msgstr "Nombre de cours"
+
+msgid "TNI"
+msgstr "TNI"
+
+msgid "Before you can add, access Training Need Identification  make sure you have added "
+msgstr "Avant d'ajouter, l'accès Formation Besoin d'identification assurez-vous que vous avez ajouté "
+
+msgid "Trainings"
+msgstr "Formations"
+
+msgid " & "
+msgstr " & "
+
+msgid " No. of Training Need Identifications"
+msgstr " Nombre de formation doivent Identifications"
+
+msgid "Training Conducted"
+msgstr "Formation dispensée"
+
+msgid "Make sure you have already added "
+msgstr "Assurez-vous que vous avez déjà ajouté "
+
+msgid "Training Types"
+msgstr "Types de formation"
+
+msgid "No. of Trainings"
+msgstr "Nombre de formations"
+
+msgid "Training Evaluations"
+msgstr "Les évaluations de formation"
+
+msgid "No. of Training Evaluations"
+msgstr "No. des évaluations de formation"
+
+msgid "Competency Mapping"
+msgstr "Cartographie des compétences"
+
+msgid "No. of Competency Mappings"
+msgstr "Nombre de compétences mappages"
+
+msgid "Add Employee Appraisals"
+msgstr "Ajouter évaluations des employés"
+
+msgid "Appraisal Questions"
+msgstr "Questions d'évaluation"
+
+msgid "No. of Appraisals"
+msgstr "Nombre de Évaluations"
+
+msgid "Available Quality Documents (HR Department)"
+msgstr "Documents de qualité disponibles (DRH)"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies for HR department by clicking on the links below. <br /> These documents are available for all users."
+msgstr "Vous pouvez ajouter / voir vos manuels compagnie de qualité / Procédures / Objectifs / Records / politiques pour le département des ressources humaines en cliquant sur les liens ci-dessous. <br /> Ces documents sont disponibles pour tous les utilisateurs."
+
+msgid "View / Upload Evidance"
+msgstr "Voir / Ajouter Evidance"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Are you sure you want to delete this record ?"
+msgstr "Êtes-vous sûr de vouloir supprimer ce dossier?"
+
+msgid "Email Record"
+msgstr "Email enregistrement"
+
+msgid "Are you sure ?"
+msgstr "Etes-vous sûr?"
+
+msgid "Management Representative Dashboard"
+msgstr "Représentant de la direction du tableau de bord"
+
+msgid "Document Change Requests"
+msgstr "Document de demandes de changement"
+
+msgid "Create these request from ADD. These requests will be then available in MR meetings as topic."
+msgstr "Créer ces demandes de TDA. Ces demandes seront alors disponibles à des réunions MR comme sujet."
+
+msgid "Document Amendment Record Sheet"
+msgstr "Amendement document Fiche de mise en"
+
+msgid "will be generated automatically."
+msgstr "sera généré automatiquement."
+
+msgid "No. of Change Requests"
+msgstr "Nombre de demandes de changement"
+
+msgid "Meetings"
+msgstr "Réunions"
+
+msgid "Make sure you have added "
+msgstr "Assurez-vous que vous avez ajouté "
+
+msgid "Departments"
+msgstr "Départements"
+
+msgid "to create Meetings and send invites to employees."
+msgstr "pour créer des réunions et envoyer des invitations aux employés."
+
+msgid "As per the standard you should have at-least one meeting per month."
+msgstr "Conformément à la norme, vous devez avoir au moins-une réunion par mois."
+
+msgid "Meeting Details"
+msgstr "Détails de la réunion"
+
+msgid "to add Meetings details."
+msgstr "ajouter Réunions détails."
+
+msgid "You can add meeting details after meeting dates."
+msgstr "Vous pouvez ajouter des détails de réunion après les dates des réunions."
+
+msgid "Manage Internal Audits"
+msgstr "Gérer les audits internes"
+
+msgid "Trained Internal Auditors"
+msgstr "Auditeurs internes formés"
+
+msgid "to Prepare your Internal Audit Plan for the year."
+msgstr "à préparer votre plan d'audit interne pour l'année."
+
+msgid "You need to create a schedule / plan first and then add actual audit details by choosing the plan from existing schedules."
+msgstr "Vous devez d'abord créer un calendrier / plan et ensuite ajouter des détails d'audit réels en choisissant le plan des horaires existants."
+
+msgid "Add Schedule / Plan"
+msgstr "Ajouter Horaire / Plan d'"
+
+msgid "Select Plan & add Audit Details"
+msgstr "Sélectionnez plan et ajouter les détails de la vérification"
+
+msgid "No. of Non Conformity Actions Required"
+msgstr "Nombre de non-conformité les mesures requises"
+
+msgid "No. of Internal Audits"
+msgstr "Nombre de vérifications internes"
+
+msgid "CAPA"
+msgstr "CAPA"
+
+msgid "CAPA Sources"
+msgstr "CAPA Sources"
+
+msgid "to Add CAPA Plan"
+msgstr "Ajouter à plan CAPA"
+
+msgid "No. of CAPAs"
+msgstr "Nombre de CAPA"
+
+msgid "Task"
+msgstr "Tâche"
+
+msgid "As per your standard procedure, you might have assigned various ISO related tasks to your employees. You can assign those tasks to specific employees by clicking ADD below."
+msgstr "Selon votre procédure standard, vous pouvez affecter différentes tâches connexes ISO à vos employés. Vous pouvez assigner les tâches aux employés spécifiques en cliquant sur Ajouter ci-dessous."
+
+msgid "Once the task is assigned to the respective employees, based on the schedule, the employee will receive alerts on those tasks each time they login."
+msgstr "Une fois la tâche est attribuée aux employés respectifs, en fonction du calendrier, l'employé recevra des alertes sur les tâches à chaque fois qu'ils se connecter."
+
+msgid "This will make your ISO related activity monitoring easy."
+msgstr "Cela rendra votre activité liée ISO surveillance facile."
+
+msgid "No. of Tasks"
+msgstr "Nombre de tâches"
+
+msgid "Task Monitor"
+msgstr "Contrôleur de tâches"
+
+msgid "Custom Templates"
+msgstr "Modèles personnalisés"
+
+msgid "Template creation as per requirements. Also add schedules & auto generate reports."
+msgstr "Création modèle conformément aux exigences. Ajoutent également les horaires et auto générer des rapports."
+
+msgid "Benchmarking"
+msgstr "Benchmarking"
+
+msgid "For each Department, you need to assess the required data entry input for ISO related activities, on a daily / weekly / monthly basis."
+msgstr "Pour chaque département, vous devez évaluer l'apport de la saisie des données nécessaires pour les activités liées ISO, sur une base quotidienne / hebdomadaire / mensuel."
+
+msgid "Based on the benchmark set, FlinkISO will automatically update you on the over all readiness."
+msgstr "Sur la base de l'ensemble de référence, FlinkISO va automatiquement vous mettre à jour sur le plus d'empressement."
+
+msgid "Define Benchmarks"
+msgstr "Définir des repères"
+
+msgid "Work in progress"
+msgstr "Travaux en cours"
+
+msgid "Non Conformities Report"
+msgstr "Rapport de non conformités"
+
+msgid "Why do we need this?"
+msgstr "Pourquoi avons-nous besoin de cela?"
+
+msgid "Some Management Representative notes on this subject should appear here."
+msgstr "Quelques notes Management Représentant sur ce sujet devraient apparaître ici."
+
+msgid "We can extract these from Helps section"
+msgstr "Nous pouvons extraire ces de la section Aide"
+
+msgid "Available Quality Documents (MR Department)"
+msgstr "Documents de qualité disponibles (MR Ministère)"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies for MR department by clicking on the links below. <br /> These documents are available for all users."
+msgstr "Vous pouvez ajouter / voir vos manuels compagnie de qualité / Procédures / Objectifs / Records / politiques pour le département MR en cliquant sur les liens ci-dessous. <br /> Ces documents sont disponibles pour tous les utilisateurs."
+
+msgid "List of available forms"
+msgstr "Liste des formulaires disponibles"
+
+msgid "Admin Dashboard"
+msgstr "Administrateur tableau de bord"
+
+msgid "Fire Extinguisher"
+msgstr "Extincteur"
+
+msgid "Fire Extinguisher Types"
+msgstr "Types d'extincteur d'incendie"
+
+msgid "No. of Fire Extinguishers"
+msgstr "Nombre de Extincteurs"
+
+msgid "Check List For Housekeeping"
+msgstr "Liste de vérification pour le ménage"
+
+msgid "To create a checklist for housekeeping make sure you have already added "
+msgstr "Pour créer une liste de contrôle pour le ménage vérifiez que vous avez déjà ajouté "
+
+msgid "No. of Housekeeping Checklists"
+msgstr "Nombre de Ménage listes de contrôle"
+
+msgid "Housekeeping Responsibilities"
+msgstr "Responsabilités d'entretien ménager"
+
+msgid "No. of Housekeeping Responsibilities"
+msgstr "Nombre de responsabilités Ménage"
+
+msgid "Available Quality Documents (ADMIN Department)"
+msgstr "Documents de qualité disponibles (Département ADMIN)"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies for Admin department by clicking on the links below. <br /> These documents are available for all users."
+msgstr "Vous pouvez ajouter / voir vos manuels compagnie de qualité / Procédures / Objectifs / Records / politiques pour le département d'administration en cliquant sur les liens ci-dessous. <br /> Ces documents sont disponibles pour tous les utilisateurs."
+
+msgid "Note: "
+msgstr "Remarque: "
+
+msgid "As an MR, you will be able to see tasks & updates for all users."
+msgstr "Comme un MR, vous serez en mesure de voir les tâches et les mises à jour pour tous les utilisateurs."
+
+msgid "Production Dashboard"
+msgstr "Tableau de bord de production"
+
+msgid "Raw Material"
+msgstr "Matière première"
+
+msgid "Raw material is required for products. You can add required raw materials here and add those to existing products."
+msgstr "La matière première est nécessaire pour les produits. Vous pouvez ajouter des matières premières nécessaires ici et les ajouter à des produits existants."
+
+msgid "List of Products"
+msgstr "Liste des Produits"
+
+msgid "Before you add new product you may like to add required materials for the products "
+msgstr "Avant d'ajouter de nouveaux produits que vous aimerez ajouter des matériaux requis pour les produits "
+
+msgid "Materials"
+msgstr "Materiels"
+
+msgid "Add production Batch"
+msgstr "Ajouter lots de production"
+
+msgid "To add production details you need "
+msgstr "Pour ajouter des détails de production dont vous avez besoin "
+
+msgid "products"
+msgstr "produits"
+
+msgid "Add Stock To Batch"
+msgstr "Ajouter stock Pour Batch"
+
+msgid "Before you add stock details, you require "
+msgstr "Avant d'ajouter les détails d'achat d'actions, vous avez besoin d' "
+
+msgid "Delivery Challans"
+msgstr "Challans de livraison"
+
+msgid "Add Incoming Stock"
+msgstr "Ajouter entrant Stock"
+
+msgid "Stock Status"
+msgstr "l'état des stocks"
+
+msgid "based on Inwards VA Outwards stock, stock stastus will be generated. Choose date range & material to generate stock status."
+msgstr "basé sur Inwards VA Vers l'extérieur, matière première stastus sera généré. Explorez la gamme et matériel date pour générer l'état des stocks."
+
+msgid "See Stock Status"
+msgstr "Voir l'état des stocks"
+
+msgid "Available Quality Documents (Production Department)"
+msgstr "Documents de qualité disponibles (Département Production)"
+
+msgid "Purchase Dashboard"
+msgstr "Achat du tableau de bord"
+
+msgid "Sub-Contractor Registration Form"
+msgstr "Formulaire d'inscription sous-traitant"
+
+msgid "Add Sub-Contractor / Contractor or Vendor's from here"
+msgstr "Ajouter Sous-entrepreneur / entrepreneur ou un fournisseur de partir d'ici"
+
+msgid "Supplier Categories"
+msgstr "Catégories de fournisseur"
+
+msgid "No. of Sub-Contractor"
+msgstr "Nombre de sous-traitant"
+
+msgid "Purchase Order"
+msgstr "Numéro de commande"
+
+msgid "Add Purchase Orders. Make sure you have added registered (& published) suppliers before you add a new purchase order."
+msgstr "Ajouter des commandes d'achat. Assurez-vous que vous avez ajouté enregistrée (et publié) les fournisseurs avant d'ajouter un nouveau bon de commande."
+
+msgid "No. of Purchase Orders"
+msgstr "Nombre de bons de commande"
+
+msgid "To add Delivery Challans make sure that you have added "
+msgstr "Pour ajouter Challans livraison assurez-vous que vous avez ajouté "
+
+msgid "No. of Delivery Challans"
+msgstr "Nombre de Challans livraison"
+
+msgid "Supplier Evaluation / Re-Evaluation"
+msgstr "évaluation du fournisseur / réévaluations"
+
+msgid "To evaluate any supplier make sure you have already added "
+msgstr "Pour évaluer un fournisseur vérifiez que vous avez déjà ajouté "
+
+msgid "Evaluate"
+msgstr "Evaluate (Evaluation)"
+
+msgid "No. of Supplier Evaluation / Re-Evaluation"
+msgstr "Nombre de fournisseurs d'évaluation / réévaluation"
+
+msgid "Summary of Supplier Evaluation"
+msgstr "Résumé de l'évaluation des fournisseurs"
+
+msgid "Based on the previous evaluations, this list will be auto populated."
+msgstr "Sur la base des évaluations précédentes, cette liste sera automatiquement rempli."
+
+msgid "No. of Supplier Evaluation Summaries"
+msgstr "Nombre de résumés d'évaluation fournisseur non"
+
+msgid "List of Acceptable Suppliers"
+msgstr "Liste des fournisseurs acceptables"
+
+msgid "To add List Of Acceptable Supplier make sure you have already added "
+msgstr "Pour ajouter la liste du fournisseur acceptable vérifiez que vous avez déjà ajouté "
+
+msgid "No. of Acceptable Suppliers"
+msgstr "Nombre de fournisseurs acceptables"
+
+msgid "Available Quality Documents (PURCHASE Department)"
+msgstr "Documents de qualité disponibles (Département ACHAT)"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies for Purchase department by clicking on the links below."
+msgstr "Vous pouvez ajouter / voir vos manuels compagnie de qualité / Procédures / Objectifs / Records / politiques pour le département d'achat en cliquant sur les liens ci-dessous."
+
+msgid "Quality Control Dashboard"
+msgstr "Tableau de bord de contrôle de qualité"
+
+msgid "Customer Complaints"
+msgstr "Plaintes des clients"
+
+msgid "Products"
+msgstr "Produits"
+
+msgid "No. of Open Customer Complaints"
+msgstr "Nombre de plaintes des clients ouverts"
+
+msgid "No. of Closed Customer Complaints"
+msgstr "Nombre de plaintes des clients fermés"
+
+msgid "Measuring Devices for Calibrations"
+msgstr "Appareils de mesure pour les étalonnages"
+
+msgid "Devices"
+msgstr "Appareils"
+
+msgid "No. of Measuring Devices"
+msgstr "Nombre de dispositifs de mesure"
+
+msgid "Calibrations"
+msgstr "Étalonnages"
+
+msgid "List of all the calibrations performed on various devices."
+msgstr "Liste de tous les étalonnages effectués sur différents appareils."
+
+msgid "No. of Calibrations"
+msgstr "Nombre de étalonnages"
+
+msgid "Customer Feedbacks"
+msgstr "Evaluations des clients"
+
+msgid "Questionnaire"
+msgstr "Questio"
+
+msgid "No. of Customer Feedbacks"
+msgstr "Nombre de Evaluations des clients"
+
+msgid "Add QC for Material"
+msgstr "Ajouter QC pour le matériel"
+
+msgid "No. of QC For Material"
+msgstr "Nombre de QC pour le matériel"
+
+msgid "Add Device Preventive Maintenance"
+msgstr "Ajouter un périphérique maintenance préventive"
+
+msgid "devices"
+msgstr "dispositifs"
+
+msgid "No. of  Device Preventive Maintenance"
+msgstr "Nombre de périphériques de maintenance préventive"
+
+msgid "Note"
+msgstr "Remarque"
+
+msgid "Measuring Devices for Calibrations : "
+msgstr "Appareils de mesure pour les étalonnages: "
+
+msgid "You don't require to \"Add\" Measuring Devices for Calibrations. This list automatically gets generated while you add a new device."
+msgstr "Vous n'avez pas besoin de \ "Ajouter \" appareils de mesure pour les étalonnages. Cette liste est automatiquement générée lorsque vous ajoutez un nouveau périphérique."
+
+msgid "Customer Feedback : "
+msgstr "Réactions des clients: "
+
+msgid "Make sure you have added Questionnaire for adding customer feedback. Click on \"Questionnaire\" to add questions one by one."
+msgstr "Assurez-vous que vous avez ajouté Questionnaire pour ajouter des commentaires des clients. Cliquez sur \ "Questionnaire \" pour ajouter des questions une par une."
+
+msgid "Available Quality Documents (QUALITY Department)"
+msgstr "Documents de qualité disponibles (Direction de la Qualité)"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies for Quality department by clicking on the links below. <br /> These documents are available for all users."
+msgstr "Vous pouvez ajouter / voir vos manuels compagnie de qualité / Procédures / Objectifs / Records / politiques pour le département de la qualité en cliquant sur les liens ci-dessous. <br /> Ces documents sont disponibles pour tous les utilisateurs."
+
+msgid "Document Readiness"
+msgstr "préparation des documents"
+
+msgid "Store Dashboard"
+msgstr "Tableau de bord de magasin"
+
+msgid "Dillivery Challans"
+msgstr "Dillivery Challans"
+
+msgid "Materials' List With Shelf Life"
+msgstr "Liste de matériaux Avec Shelf Life"
+
+msgid "Order Details Forms"
+msgstr "Afin Details Formulaires"
+
+msgid "Add Purchase Orders"
+msgstr "Ajouter des commandes d'achat"
+
+msgid "List Data Backups"
+msgstr "Liste des sauvegardes de données"
+
+msgid "Data Type"
+msgstr "Type de donnée"
+
+msgid "Backup Schedule"
+msgstr "Planification de la sauvegarde"
+
+msgid "Add Data Back Up"
+msgstr "Ajouter des données Back Up"
+
+msgid "User Responsible"
+msgstr "L'utilisateur responsable"
+
+msgid "Approve Data Back Up"
+msgstr "Approuver la sauvegarde des données"
+
+msgid "Edit Data Back Up"
+msgstr "Modifier les données Back Up"
+
+msgid "New Data Back Up"
+msgstr "Nouvelles données Back Up"
+
+msgid "Add Data Type"
+msgstr "Ajouter un type de données"
+
+msgid "View Data Back Up"
+msgstr "Voir les données Back Up"
+
+msgid "List Data Type"
+msgstr "Liste Type de données"
+
+msgid "Approve Data Type"
+msgstr "Approuver Type de données"
+
+msgid "Edit Data Type"
+msgstr "Modifier le type de données"
+
+msgid "View Data Type"
+msgstr "Voir Type de données"
+
+msgid "User"
+msgstr "Utilisateur"
+
+msgid "Logbook"
+msgstr "Journal"
+
+msgid "Backup Details"
+msgstr "Détails de Sauvegarde"
+
+msgid "New Databackup Logbook"
+msgstr "Nouveau Journal de bord DataBackup"
+
+msgid "Add Delivery Challan"
+msgstr "Ajouter livraison Challan"
+
+msgid "Select Purchase Order"
+msgstr "Sélectionnez la commande d'achat"
+
+msgid "Approve Delivery Challan"
+msgstr "Approuver livraison Challan"
+
+msgid "Edit Delivery Challan"
+msgstr "Modifier livraison Challan"
+
+msgid "Purchase Order Details"
+msgstr "Détails du Bon de commande"
+
+msgid "Order Date"
+msgstr "Date de Commande"
+
+msgid "Intimation"
+msgstr "Intimation"
+
+msgid "Expected Develivery Date"
+msgstr "Prévue Develivery date"
+
+msgid "Supplier"
+msgstr "Fournisseur"
+
+msgid "Product/ Device/ Material/ Other"
+msgstr "Produit / Périphérique / Matériel / Autres"
+
+msgid "Discount"
+msgstr "Réduction"
+
+msgid "Rate"
+msgstr "Taux"
+
+msgid "Total"
+msgstr "Tota"
+
+msgid "Challan Values"
+msgstr "Valeurs Challan"
+
+msgid "This material requires Quality Checks therefore it can not be added to Stock."
+msgstr "Ce matériau nécessite contrôles de qualité ne peut donc pas être ajoutés au stock."
+
+msgid "Order Number"
+msgstr "Numéro de Commande"
+
+msgid "Quantity Ordered"
+msgstr "Quantité commandée"
+
+msgid "New Delivery Challan"
+msgstr "Nouvelle livraison Challan"
+
+msgid "New Purchase Order"
+msgstr "Nouvelle commande d'achat"
+
+msgid "View Delivery Challan"
+msgstr "Voir livraison Challan"
+
+msgid "Purchase Order Number"
+msgstr "Numéro de commande"
+
+msgid "Challan Number"
+msgstr "Nombre Challan"
+
+msgid "Challan Date"
+msgstr "Date de Challan"
+
+msgid "Prices"
+msgstr "Les prix"
+
+msgid "Ship By"
+msgstr "En bateau"
+
+msgid "Shipping Details"
+msgstr "Détails de l'Envoi"
+
+msgid "Insurance"
+msgstr "Assurance"
+
+msgid "Shipping Date"
+msgstr "Date de livraison"
+
+msgid "Ship To"
+msgstr "Envoyez à"
+
+msgid "Payment Details"
+msgstr "Détails Du Paiement"
+
+msgid "Invoice To"
+msgstr "Facture Pour"
+
+msgid "Acknowledgement Details"
+msgstr "Détails Remerciements"
+
+msgid "Acknowledgement Date"
+msgstr "Acknowledgement date"
+
+msgid "Delivery Challan Detail"
+msgstr "Détail de la livraison Challan"
+
+msgid "Product / Device/ Material/ Other"
+msgstr "Produit / Périphérique / Matériel / Autres"
+
+msgid "Quantity Received"
+msgstr "Quantité reçue"
+
+msgid "Material QC Required?"
+msgstr "Matériel QC Obligatoire?"
+
+msgid "Edit Department"
+msgstr "Modifier Département"
+
+msgid "Department Name"
+msgstr "Nom du rayon"
+
+msgid "Add / Edit Clauses"
+msgstr "Ajouter / Modifier articles"
+
+msgid "Other details"
+msgstr "Autres détails"
+
+msgid "Clauses"
+msgstr "Clauses"
+
+msgid "New Department"
+msgstr "Nouveau département"
+
+msgid "View Department"
+msgstr "Voir Département"
+
+msgid "List of users in this Department"
+msgstr "Liste des utilisateurs dans ce département"
+
+msgid "is MR"
+msgstr "est M."
+
+msgid "is View All"
+msgstr "est Voir tous"
+
+msgid "is Approver"
+msgstr "est approbateur"
+
+msgid "Approve Designation"
+msgstr "Approuver la désignation"
+
+msgid "Edit Designation"
+msgstr "Modifier Désignation"
+
+msgid "New Designation"
+msgstr "Nouvelle désignation"
+
+msgid "View Designation"
+msgstr "Voir Désignation"
+
+msgid "Add Device Maintenance"
+msgstr "Ajouter entretien de l'appareil"
+
+msgid "Person Responsible for Maintenance"
+msgstr "Responsable de la maintenance"
+
+msgid "Approve Device Maintenance"
+msgstr "Approuver entretien de l'appareil"
+
+msgid "Edit Device Maintenance"
+msgstr "Modifier instruments Entretien"
+
+msgid "Maintenance Performed Date"
+msgstr "Maintenance Date de Joué"
+
+msgid "Intimation Sent To Employee"
+msgstr "Intimation Envoyé à des employés"
+
+msgid "Intimation Sent To Department"
+msgstr "Intimation Envoyé Pour Département"
+
+msgid "New Device Maintenance"
+msgstr "New entretien de l'appareil"
+
+msgid "View Device Maintenance"
+msgstr "Voir périphérique Entretien"
+
+msgid "Findings"
+msgstr "Constats"
+
+msgid "Device Details"
+msgstr "Détails sur l'appareil"
+
+msgid "Serial"
+msgstr "RS232"
+
+msgid "Preventive Maintenance"
+msgstr "Maintenance préventive"
+
+msgid "Maintenance Required"
+msgstr "Maintenance requise"
+
+msgid "Maintenance Frequency"
+msgstr "Entretien Fréquence"
+
+msgid "Preventive Maintenance Method"
+msgstr "Méthode de maintenance préventive"
+
+msgid "Other Details"
+msgstr "Autres détails"
+
+msgid "Make Type"
+msgstr "Marque Type"
+
+msgid "Purchase Date"
+msgstr "Date d'achat"
+
+msgid "Device Calibration Details"
+msgstr "étalonnage de l'appareil détails"
+
+msgid "Calibration Frequency"
+msgstr "Fréquence d'étalonnage"
+
+msgid "Required Calibration"
+msgstr "Calibrage requis"
+
+msgid "Approve Device"
+msgstr "Approuver périphérique"
+
+msgid "Edit Device"
+msgstr "Modifier périphérique"
+
+msgid "Manual"
+msgstr "Manuel"
+
+msgid "Sparelist"
+msgstr "Sparelist"
+
+msgid "Supplier Name"
+msgstr "Nom du fournisseur"
+
+msgid "Preventive Maintenance Required ?"
+msgstr "Maintenance préventive nécessaire?"
+
+msgid "Calibration Required ?"
+msgstr "Etalonnage nécessaire?"
+
+msgid "New Device"
+msgstr "Nouveau périphérique"
+
+msgid "View Device"
+msgstr "Voir périphérique"
+
+msgid "Add Document Amendment Record Sheet"
+msgstr "Ajouter un document Amendement Fiche de mise en"
+
+msgid "Approve Document Amendment Record Sheet"
+msgstr "Approuver le document Amendement Fiche de mise en"
+
+msgid "Edit Document Amendment Record Sheet"
+msgstr "Modifier le document Amendement Fiche de mise en"
+
+msgid "New Document Amendment Record Sheet"
+msgstr "Nouveau document Amendement Fiche de mise en"
+
+msgid "View Document Amendment Record Sheet"
+msgstr "Consulter le document Amendement Fiche de mise en"
+
+msgid "Amendment Details"
+msgstr "Amendement Détails"
+
+msgid "Current Document"
+msgstr "Document actuel"
+
+msgid "Amendment History"
+msgstr "Historique des modifications"
+
+msgid "Restore"
+msgstr "Restaurer"
+
+msgid "Purge"
+msgstr "Purger"
+
+msgid "View / Upload Evidence"
+msgstr "Voir / Ajouter preuve"
+
+msgid "Edit in new window"
+msgstr "Modifier dans une nouvelle fenêtre"
+
+msgid "Publish Record"
+msgstr "Publier enregistrement"
+
+msgid "Are you sure you want to publish this record ?"
+msgstr "Etes-vous sûr que vous voulez publier cet enregistrement?"
+
+msgid "Delete Record"
+msgstr "Supprimer l'enregistrement"
+
+msgid "Key Responsibilty Areas"
+msgstr "Les zones clés par le locataire"
+
+msgid "Target"
+msgstr "Cible"
+
+msgid "Advanced Search"
+msgstr "Recherche avancée"
+
+msgid "Type Keyword & select the field which you want to search from below"
+msgstr "Tapez les mots-clés et sélectionnez le champ que vous voulez effectuer une recherche ci-dessous"
+
+msgid "If calibration is required"
+msgstr "Si l'étalonnage est nécessaire"
+
+msgid "Select Calibration Frequency"
+msgstr "Sélectionnez la fréquence d'étalonnage"
+
+msgid "Manual Available"
+msgstr "Manuel disponible"
+
+msgid "Sparelist Available"
+msgstr "Sparelist Disponible"
+
+msgid "Select Department"
+msgstr "Sélectionnez Département"
+
+msgid "Select Employee"
+msgstr "Selectionnez un employé"
+
+msgid "Select Language"
+msgstr "Sélectionner la langue"
+
+msgid "Is MR?"
+msgstr "Est-MR?"
+
+msgid "Can see other user's records?"
+msgstr "Peut voir les dossiers des autres utilisateurs?"
+
+msgid "Can approve data added by other users?"
+msgstr "Il peut approuver données ajoutées par d'autres utilisateurs?"
+
+msgid "Select Designations"
+msgstr "Sélectionnez Désignations"
+
+msgid "Qualification"
+msgstr "Qualification"
+
+msgid "Joining Date"
+msgstr "Date de démarrage"
+
+msgid "Date of Birth"
+msgstr "Date de naissance"
+
+msgid "Employment Status"
+msgstr "Situation du Salarié"
+
+msgid "Select Course Type"
+msgstr "Sélectionner le type de cours"
+
+msgid "Select Course"
+msgstr "Sélectionnez Cours"
+
+msgid "Select Trainer Type"
+msgstr "Sélectionnez Type de formateur"
+
+msgid "Select Trainer"
+msgstr "Sélectionnez formateur"
+
+msgid "Select Capa Source"
+msgstr "Sélectionnez Capa Source"
+
+msgid "Select Capa Category"
+msgstr "Sélectionnez Capa Catégorie"
+
+msgid "Select Employee Type"
+msgstr "Sélectionner le type de l'employé"
+
+msgid "Document Change Required"
+msgstr "Document de changement nécessaire"
+
+msgid "Select Current Status"
+msgstr "Sélectionnez Statut actuel"
+
+msgid "Select Customer"
+msgstr "Sélectionnez la clientèle"
+
+msgid "Complaint Source"
+msgstr "Plainte Source"
+
+msgid "Select Delivery Challan"
+msgstr "Sélectionnez livraison Challan"
+
+msgid "Complaint Assigned To"
+msgstr "Plainte Assignée à"
+
+msgid "Authorised By"
+msgstr "Autorisé par"
+
+msgid "Is supplier ISO certified??"
+msgstr "Est fournisseur certifié ISO ??"
+
+msgid "Office Weekly Off"
+msgstr "Bureau de repos hebdomadaire"
+
+msgid "Workshop/Factory Weekly Off"
+msgstr "Atelier / usine de repos hebdomadaire"
+
+msgid "Select Company Type"
+msgstr "Sélectionnez Type de société"
+
+msgid "Select Branch"
+msgstr "Sélection d'une branche"
+
+msgid "Select Master List of Format"
+msgstr "Sélectionnez la liste principale de Format"
+
+msgid "Select Supervisor"
+msgstr "Sélectionnez Superviseur"
+
+msgid "Select Proposal"
+msgstr "Sélectionnez Proposition"
+
+msgid "Followup Date"
+msgstr "Date de suivi"
+
+msgid "Next Followup Date"
+msgstr "Suivant Suivi date"
+
+msgid "Select Training"
+msgstr "Sélectionnez Training"
+
+msgid "Select Data Type"
+msgstr "Sélectionner le type de données"
+
+msgid "Select Backup Schedule"
+msgstr "Sélectionnez la planification de sauvegarde"
+
+msgid "Select Data Backup Name"
+msgstr "Sélectionnez Nom de sauvegarde"
+
+msgid "Select Device Name"
+msgstr "Sélectionnez le nom du périphérique"
+
+msgid "Select Computer Name"
+msgstr "Sélectionnez Nom de l'ordinateur"
+
+msgid "Select Master List Of Format"
+msgstr "Sélectionnez Maître Liste des Format"
+
+msgid "Select User"
+msgstr "Sélectionner l'utilisateur"
+
+msgid "Select Chairperson"
+msgstr "Sélectionnez président"
+
+msgid "Select System"
+msgstr "Sélectionnez Système"
+
+msgid "Select Training Type"
+msgstr "Sélectionner le type de formation"
+
+msgid "Select Supplier Category"
+msgstr "Sélectionnez Fournisseur Catégorie"
+
+msgid "Select Education"
+msgstr "Select Education"
+
+msgid "Select Actual Education"
+msgstr "Sélectionnez l'éducation réelle"
+
+msgid "Select Housekeeping CheckList"
+msgstr "Sélectionnez CheckList de ménage"
+
+msgid "Select Computer"
+msgstr "Sélectionner un ordinateur"
+
+msgid "Select Softwares"
+msgstr "Sélectionnez Logiciels"
+
+msgid "Select Customer Name"
+msgstr "Sélectionnez le nom du client"
+
+msgid "Select Question"
+msgstr "Sélectionnez question"
+
+msgid "Select Notification Type"
+msgstr "Sélectionner le type de notification"
+
+msgid "Select Prepared By"
+msgstr "Sélectionnez Préparé par"
+
+msgid "Select Approved By"
+msgstr "Sélectionnez Approuvé par"
+
+msgid "Select Software Type"
+msgstr "Sélectionner le type de logiciel"
+
+msgid "Select Schedules"
+msgstr "Sélectionnez Programmes"
+
+msgid "Backup Required?"
+msgstr "Sauvegarde obligatoire?"
+
+msgid "Select Master List Format"
+msgstr "Sélectionnez la liste principale Format"
+
+msgid "archived?"
+msgstr "archivé?"
+
+msgid "Evidence required?"
+msgstr "Éléments de preuve requis?"
+
+msgid "Approvals required?"
+msgstr "Approbations nécessaires?"
+
+msgid "Mandatory?"
+msgstr "Obligatoire?"
+
+msgid "Select Users"
+msgstr "Sélectionnez les utilisateurs"
+
+msgid "Select Kra"
+msgstr "Sélectionnez Kra"
+
+msgid "Select Following"
+msgstr "SELECT suivante"
+
+msgid "Select Capa"
+msgstr "Sélectionnez Capa"
+
+msgid "Select device"
+msgstr "Sélectionner un appareil"
+
+msgid "Intimation sent to Employee"
+msgstr "Intimation envoyé à l'employé"
+
+msgid "Intimation sent to Department"
+msgstr "Intimation envoyé à la Direction"
+
+msgid "Select branches you want to search"
+msgstr "Sélectionnez branches que vous souhaitez rechercher"
+
+msgid "Select start date"
+msgstr "Sélectionnez la date de début"
+
+msgid "Select end date"
+msgstr "Sélectionnez la date de fin"
+
+msgid "Strict Search"
+msgstr "Recherche Strict"
+
+msgid "Send appended records for approval to the relevant approving authority from the given list."
+msgstr "Envoyer des documents annexés à l'approbation de l'autorité compétente concernée dans la liste donnée."
+
+msgid "Do not send forward. Publish Now."
+msgstr "Ne pas envoyer avant. Publier maintenant."
+
+msgid "Check the checkbox above to publish the record without sending for any approvals."
+msgstr "Cochez la case ci-dessus pour publier le dossier sans envoyer pour les approbations."
+
+msgid "Approval History"
+msgstr "Historique des approbations"
+
+msgid "Date"
+msgstr "Date :"
+
+msgid "From"
+msgstr "De"
+
+msgid "Sent to"
+msgstr "Envoyé à"
+
+msgid "Send these records for approval"
+msgstr "Envoyer ces dossiers pour approbation"
+
+msgid "Dashboard - Department-wise"
+msgstr "Tableau de bord - Département-sage"
+
+msgid "Upcoming Device Calibrations"
+msgstr "Étalonnages de l'appareil à venir"
+
+msgid "Device Calibrations assigned to you"
+msgstr "étalonnages de l'appareil qui vous est attribué"
+
+msgid "Device Number"
+msgstr "Nombre de périphériques"
+
+msgid "Previous Calibration Date"
+msgstr "Calibration précédente Date"
+
+msgid "Act"
+msgstr "Acte"
+
+msgid "Non Conformity Actions Required"
+msgstr "Actions non-conformité requise"
+
+msgid "Total Number of CAPAs assigned to you"
+msgstr "Nombre total de CAPA qui vous sont assignées"
+
+msgid "Total Number of CAPAs open"
+msgstr "Nombre total de CAPA ouvertes"
+
+msgid "Total Number of CAPAs closed"
+msgstr "Nombre total de CAPA fermé"
+
+msgid "Category"
+msgstr "Catégorie"
+
+msgid "Added in meeting"
+msgstr "Ajouté à la réunion"
+
+msgid "Import/Export"
+msgstr "Importer/Exporter"
+
+msgid "Delete All"
+msgstr "Tout supprimer"
+
+msgid "Restore All"
+msgstr "Toutes les restaurer"
+
+msgid "Purge All"
+msgstr "Purger tous"
+
+msgid "Customer Complaints assigned to you"
+msgstr "Plaintes des clients qui vous est attribué"
+
+msgid "Total Customer Complaints assigned to you"
+msgstr "Total des plaintes de clients qui vous sont confiés"
+
+msgid "Would you llike to customise this?"
+msgstr "Souhaitez-vous llike pour personnaliser ce?"
+
+msgid "Data Backup"
+msgstr "Sauvegarde des données"
+
+msgid "Assign To"
+msgstr "Attribuer à"
+
+msgid "Performed By"
+msgstr "Joué par"
+
+msgid "List Of Computer"
+msgstr "Liste d'informatique"
+
+msgid "Task Performed?"
+msgstr "Tâche exécutée?"
+
+msgid "Action"
+msgstr "d'action"
+
+msgid "There are no Data Backups assigned or performed."
+msgstr "Il n'y a pas de sauvegardes de données affectés ou réalisées."
+
+msgid "Are you sure to delete all selected "
+msgstr "Êtes-vous sûr de vouloir supprimer tous sélectionnés "
+
+msgid "Materials that Requires QC"
+msgstr "Matériaux qui nécessite QC"
+
+msgid "Material"
+msgstr "Matériau"
+
+msgid "Delivery Challan"
+msgstr "Challan de livraison"
+
+msgid "Export Data"
+msgstr "Exporter données"
+
+msgid "Device Maintainance"
+msgstr "Maintainance Device"
+
+msgid "Next Maintenance Date"
+msgstr "Maintenance Prochaine date"
+
+msgid "Training Need Indetification"
+msgstr "Formation Besoin Indetification"
+
+msgid "Course Title"
+msgstr "Intitulé de la formation"
+
+msgid "Schedule"
+msgstr "Programmation"
+
+msgid "Trainings attended"
+msgstr "Formations assisté"
+
+msgid "Course/Training Title"
+msgstr "Cours / Formation Titre"
+
+msgid "Training Dates"
+msgstr "Dates de formation"
+
+msgid "Generate Reports"
+msgstr "Production de rapports"
+
+msgid "Missing Template"
+msgstr "Modèle manquant"
+
+msgid "Add New Template"
+msgstr "Ajouter un Nouveau Modèle"
+
+msgid "Training Title"
+msgstr "Formation Titre"
+
+msgid "Training Details"
+msgstr "Détails de la formation"
+
+msgid "Need Help"
+msgstr "Besoin d'aide"
+
+msgid "Having a problem?"
+msgstr "Vous avez un problème?"
+
+msgid "We can help you! Just send your query / issue to the following email address."
+msgstr "Nous pouvons vous aider! Il suffit d'envoyer votre requête / question à l'adresse suivante."
+
+msgid "Document Details"
+msgstr "Document Details"
+
+msgid "Issue"
+msgstr "Problèmes "
+
+msgid "Revision"
+msgstr "Révision"
+
+msgid "Database Configuration"
+msgstr "Configuration de base de données"
+
+msgid "Why SMTP details are rquired?"
+msgstr "Pourquoi détails SMTP sont rquired?"
+
+msgid "Responsibilities Assigned To You"
+msgstr "Responsabilités qui vous sont assignées"
+
+msgid "Housekeeping Checklist"
+msgstr "Liste de ménage"
+
+msgid "Task Performed? "
+msgstr "Tâche exécutée? "
+
+msgid "View All"
+msgstr "Accédez à tout"
+
+msgid "Import from file (excel format only)"
+msgstr "Importer à partir du fichier (format Excel uniquement)"
+
+msgid "Actions"
+msgstr "Actions."
+
+msgid "Are you sure you want to move \"%s\" to trash?"
+msgstr "Etes-vous sûr que vous voulez déplacer \ " %s \ "à la corbeille?"
+
+msgid "Key Responsibility Areas"
+msgstr "Principaux domaines de responsabilités"
+
+msgid "Target Achieved"
+msgstr "Objectif atteint"
+
+msgid "checker"
+msgstr "vérificateur"
+
+msgid "comments"
+msgstr "Commentaires"
+
+msgid "send_to_maker"
+msgstr "send_to_maker"
+
+msgid "Add QC Steps for Materials"
+msgstr "Ajouter QC étapes des matériaux"
+
+msgid "Are you sure to purge all selected "
+msgstr "Etes-vous sûr de purger tous sélectionnés "
+
+msgid "Are you sure to restore all selected "
+msgstr "Êtes-vous sûr de vouloir restaurer tous sélectionnés "
+
+msgid "Meeting"
+msgstr "Réunion"
+
+msgid "Invoices / Purchase Orders raised"
+msgstr "Factures / bons de commande soulevées"
+
+msgid "Export file (excel)"
+msgstr "fichier d'exportation (excel)"
+
+msgid "Tasks Assigned To You"
+msgstr "Tâches assignées à Vous"
+
+msgid "Tasks"
+msgstr "Tâches"
+
+msgid "Dashboard"
+msgstr "Tableau de bord "
+
+msgid "DATA ENTRY"
+msgstr "SAISIE DES DONNEES"
+
+msgid "Users"
+msgstr "Utilisateurs"
+
+msgid "DEPARTMENTS"
+msgstr "SERVICES"
+
+msgid "Management Representative"
+msgstr "Représentant de la Direction"
+
+msgid "Human Resource"
+msgstr "Des ressources humaines"
+
+msgid "Business Development <small class=\"text-small text-muted\">beta</small>"
+msgstr "Développement des affaires <petit class = \ "text-petit texte coupé \"> beta </ ​​small>"
+
+msgid "Administration"
+msgstr "Aspects administratifs"
+
+msgid "Quality Control"
+msgstr "Contrôle de la qualité"
+
+msgid "Purchase"
+msgstr "Acheter"
+
+msgid "Electronic Data Processing"
+msgstr "Traitement électronique des données"
+
+msgid "Production <small class=\"text-small text-muted\">beta</small>"
+msgstr "Production <petite class = \ "text-petit texte coupé \"> beta </ ​​small>"
+
+msgid "REPORTS"
+msgstr "RAPPORTS"
+
+msgid "AUTO REPORTS"
+msgstr "RAPPORTS AUTO"
+
+msgid "SAVED REPORTS"
+msgstr "Les rapports enregistrés"
+
+msgid "UPDATE"
+msgstr "METTRE À JOUR"
+
+msgid "FlinkISO Help"
+msgstr "FlinkISO Aide"
+
+msgid "Supplier Registrations"
+msgstr "Enregistrements fournisseurs"
+
+msgid "Supplier Evaluation"
+msgstr "évaluation des fournisseurs"
+
+msgid "Notifications"
+msgstr "Commentaires"
+
+msgid "Add this action to your dashboard"
+msgstr "Ajouter cette action à votre tableau de bord"
+
+msgid "Change your language for this session"
+msgstr "Changer de langue pour cette session"
+
+msgid "Send messages"
+msgstr "Envoyer des messages"
+
+msgid "SMTP Setup"
+msgstr "Configuration SMTP"
+
+msgid "Company Profile"
+msgstr "Profil de l''agence"
+
+msgid "Evidence Files"
+msgstr "Preuve Fichiers"
+
+msgid "Upload Evidance"
+msgstr "Ajouter Evidance"
+
+msgid "Internal Audit Plan"
+msgstr "Plan de vérification interne"
+
+msgid "Section"
+msgstr "Sectio"
+
+msgid "Start Time"
+msgstr "Heure de début"
+
+msgid "End Time"
+msgstr "Heure de fin"
+
+msgid "Trained Internal Auditor"
+msgstr "Auditeur interne formé"
+
+msgid "Finding"
+msgstr "Trouver"
+
+msgid "Question Asked"
+msgstr "Question posée"
+
+msgid "Schedule Date From"
+msgstr "Date à partir de l'annexe"
+
+msgid "Schedule Date To"
+msgstr "Date de l'annexe A"
+
+msgid "Mandatory Details"
+msgstr "Détails obligatoires"
+
+msgid "Office Email"
+msgstr "Bureau Email"
+
+msgid "Optional Details"
+msgstr "Détails en option"
+
+msgid "Pancard Number"
+msgstr "Nombre Pancard"
+
+msgid "Personal Telephone"
+msgstr "Téléphone personnel"
+
+msgid "Office Telephone"
+msgstr "Téléphone au bureau"
+
+msgid "Personal Email"
+msgstr "Courriel personnel"
+
+msgid "Permanent Address"
+msgstr "Adresse permanente"
+
+msgid "Driving License"
+msgstr "Permis de conduire"
+
+msgid "Approve Employee"
+msgstr "Approuver employés"
+
+msgid "Edit Employee"
+msgstr "Modifier des employés"
+
+msgid "New Employee"
+msgstr "Des nouveaux employés"
+
+msgid "View Employee"
+msgstr "Voir employés"
+
+msgid "Active"
+msgstr "Actif"
+
+msgid "Resigned"
+msgstr "Résigné"
+
+msgid "Approve File Upload"
+msgstr "Approuver File Upload"
+
+msgid "Import"
+msgstr "Importer"
+
+msgid "Import From File"
+msgstr "Importer depuis un fichier"
+
+msgid "Edit File Upload"
+msgstr "Edit File Upload"
+
+msgid "Click Here To Add Data"
+msgstr "Cliquez ici pour ajouter des données"
+
+msgid "New File Upload"
+msgstr "Nouveau téléchargement de fichier"
+
+msgid "Add User"
+msgstr "Ajouter un utilisateur"
+
+msgid "Add User Session"
+msgstr "Ajouter session de l'utilisateur"
+
+msgid "Add Evidence"
+msgstr "Ajouter preuve"
+
+msgid "View File Upload"
+msgstr "Voir File Upload"
+
+msgid "Record"
+msgstr "Enregistrer"
+
+msgid "File Details"
+msgstr "Détails du fichier"
+
+msgid "File Type"
+msgstr "Type de Fichier"
+
+msgid "File Status"
+msgstr "Etat du fichier"
+
+msgid "Result"
+msgstr "Résultat"
+
+msgid "User Session"
+msgstr "session de l'utilisateur"
+
+msgid "Add Fire Extinguisher Type"
+msgstr "Ajouter Type d'extincteur"
+
+msgid "Approve Fire Extinguisher Type"
+msgstr "Approuver Type d'extincteur"
+
+msgid "Edit Fire Extinguisher Type"
+msgstr "Modifier le type d'extincteur"
+
+msgid "New Fire Extinguisher Type"
+msgstr "Nouveau Type d'extincteur"
+
+msgid "View Fire Extinguisher Type"
+msgstr "Voir Type d'extincteur"
+
+msgid "Add Fire Extinguisher"
+msgstr "Ajouter Extincteur"
+
+msgid "Fire Extinguisher Type"
+msgstr "Type d'extincteur"
+
+msgid "Company Name"
+msgstr "Nom de l'agence"
+
+msgid "Expiry Date"
+msgstr "Date d'expiration"
+
+msgid "Warranty Expiry Date"
+msgstr "Garantie Date d'expiration"
+
+msgid "Model Type"
+msgstr "Type de modèle"
+
+msgid "Other Remarks"
+msgstr "Autres remarques"
+
+msgid "Approve Fire Extinguisher"
+msgstr "Approuver Extincteur"
+
+msgid "Edit Fire Extinguisher"
+msgstr "Modifier Extincteur"
+
+msgid "New Fire Extinguisher"
+msgstr "Nouveau Extincteur"
+
+msgid "View Fire Extinguisher"
+msgstr "Voir Extincteur"
+
+msgid "Add Fire Safety Equipment List"
+msgstr "Ajouter la liste d'équipement de sécurité-incendie"
+
+msgid "Approve Fire Safety Equipment List"
+msgstr "Approuver la liste d'équipement de sécurité-incendie"
+
+msgid "Edit Fire Safety Equipment List"
+msgstr "Modifier la liste des incendies équipement de sécurité"
+
+msgid "New Fire Safety Equipment List"
+msgstr "Liste des équipements de sécurité du Nouveau incendie"
+
+msgid "View Fire Safety Equipment List"
+msgstr "Voir la liste d'équipement de sécurité-incendie"
+
+msgid "Fire Type"
+msgstr "Type de Feu"
+
+msgid "Add Fire Type"
+msgstr "Ajouter un type d'incendie"
+
+msgid "Approve Fire Type"
+msgstr "Approuver Type de Feu"
+
+msgid "Edit Fire Type"
+msgstr "Modifier le type d'incendie"
+
+msgid "New Fire Type"
+msgstr "Nouveau Type de Feu"
+
+msgid "View Fire Type"
+msgstr "Voir Type de Feu"
+
+msgid "Add Help"
+msgstr "Ajouter Aide"
+
+msgid "Approve Help"
+msgstr "Approuver Aide"
+
+msgid "Edit Help"
+msgstr "Modifier Aide"
+
+msgid "New Help"
+msgstr "Nouveau Aide"
+
+msgid "View Help"
+msgstr "Voir Aide"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Table Name"
+msgstr "Nom de la table"
+
+msgid "Action Name"
+msgstr "Nom de l'action"
+
+msgid "Help Text"
+msgstr "Aide texte"
+
+msgid "Sequence"
+msgstr "Séquence"
+
+msgid "Approve History"
+msgstr "Approuver Histoire"
+
+msgid "Dashboard - Branchwise"
+msgstr "Tableau de bord - Branchwise"
+
+msgid "Edit History"
+msgstr "Modifier Histoire"
+
+msgid "New History"
+msgstr "Nouvelle Histoire"
+
+msgid "View History"
+msgstr "Afficher l'historique"
+
+msgid "Model Name"
+msgstr "Nom du modèle"
+
+msgid "Controller Name"
+msgstr "Contrôleur Nom"
+
+msgid "Get Values"
+msgstr "Obtenez des valeurs"
+
+msgid "Post Values"
+msgstr "Déposer valeurs"
+
+msgid "Branch Id"
+msgstr "Direction Id"
+
+msgid "Department Id"
+msgstr "Département Id"
+
+msgid "Add Housekeeping Checklist"
+msgstr "Ajouter Liste de ménage"
+
+msgid "Approve Housekeeping Checklist"
+msgstr "Approuver Liste ménage"
+
+msgid "Edit Housekeeping Checklist"
+msgstr "Modifier Liste ménage"
+
+msgid "New Housekeeping Checklist"
+msgstr "Liste de vérification de ménage"
+
+msgid "View Housekeeping Checklist"
+msgstr "Voir Ménage Liste"
+
+msgid "Add Housekeeping Responsibility"
+msgstr "Ajouter Ménage Responsabilité"
+
+msgid "Approve Housekeeping Responsibility"
+msgstr "Approuver Ménage Responsabilité"
+
+msgid "Edit Housekeeping Responsibility"
+msgstr "Modifier Ménage Responsabilité"
+
+msgid "New Housekeeping Responsibility"
+msgstr "Nouveau service de ménage Responsabilité"
+
+msgid "View Housekeeping Responsibility"
+msgstr "Voir Ménage Responsabilité"
+
+msgid "Housekeeping Description"
+msgstr "Ménage description"
+
+msgid "Host Name"
+msgstr "Nom d'hôte"
+
+msgid "Database Name"
+msgstr "Nom de la base"
+
+msgid "Database User"
+msgstr "Base de données utilisateur"
+
+msgid "Database Password"
+msgstr "Mot de passe de la base de données"
+
+msgid "Prefix"
+msgstr "Préfixe"
+
+msgid "Add Internal Audit Plan Department"
+msgstr "Ajouter ministère plan de vérification interne"
+
+msgid "Approve Internal Audit Plan Department"
+msgstr "Approuver Département plan de vérification interne"
+
+msgid "Auditee"
+msgstr "Audité"
+
+msgid "Edit Internal Audit Plan Department"
+msgstr "Modifier interne Département plan de vérification"
+
+msgid "New Internal Audit Plan Department"
+msgstr "Nouveau interne Département plan de vérification"
+
+msgid "View Internal Audit Plan Department"
+msgstr "Vue de l'intérieur Département plan de vérification"
+
+msgid "List Of Trained Internal Auditor"
+msgstr "Liste d'auditeur interne formé"
+
+msgid "Schedule Details"
+msgstr "Détails du Planning"
+
+msgid "Schedule title"
+msgstr "Horaire titre"
+
+msgid "To"
+msgstr "À"
+
+msgid "Notes"
+msgstr "Annotations
+
+"
+
+msgid "Auditor"
+msgstr "Vérificateur des comptes"
+
+msgid "Time"
+msgstr "Heure"
+
+msgid "Add Details"
+msgstr "Ajouter les détails"
+
+msgid "From : "
+msgstr "De: "
+
+msgid "to : "
+msgstr "à/a "
+
+msgid "Create Plan"
+msgstr "Création d'un plan"
+
+msgid "Add New"
+msgstr "Ajouter nouveau"
+
+msgid "Approve Internal Audit Plan"
+msgstr "Approuver le plan d'audit interne"
+
+msgid "Edit Internal Audit Plan"
+msgstr "Plan de vérification interne Modifier"
+
+msgid "Scheduled From"
+msgstr "Prévu à partir de"
+
+msgid "Scheduled To"
+msgstr "Pour prévu"
+
+msgid "Branch To be audited"
+msgstr "Direction Pour être vérifiés"
+
+msgid "Edit this Plan"
+msgstr "Editer ce plan"
+
+msgid "Add Plan Details"
+msgstr "Ajouter plan Détails"
+
+msgid "Add Actual Audit Details"
+msgstr "Ajouter réels détails de la vérification"
+
+msgid "Create schedule"
+msgstr "Création d'une nomenclature"
+
+msgid "View Internal Audit Plan"
+msgstr "Plan de vérification Vue de l'intérieur"
+
+msgid "Audit Date"
+msgstr "Date de vérification"
+
+msgid "Show on Timeline"
+msgstr "Voir sur la Timeline"
+
+msgid "Notify Users"
+msgstr "Informer les utilisateurs"
+
+msgid "Notify Users Via Emails"
+msgstr "Avertirons les utilisateurs par e-mails"
+
+msgid "Actual Audit"
+msgstr "Vérification réelle"
+
+msgid "Department : "
+msgstr "Département: "
+
+msgid "Question asked"
+msgstr "Question posée"
+
+msgid "Responsibility"
+msgstr "Responsabilité"
+
+msgid "Any Non Conformity Found?"
+msgstr "Toute non conformité trouvé?"
+
+msgid "In case of non-conformities, select the CAPA source, Assigned To  & Target Date from below. This record will be automatically get added to CAPA table for future actions & assigned user will get related alerts."
+msgstr "En cas de non-conformités, sélectionnez la source de CAPA, Assigné à & Target Date à partir de ci-dessous. Cet enregistrement sera automatiquement ajoutés à la table CAPA pour les futures actions et utilisateur affecté obtiendront des alertes liées."
+
+msgid "Capa Priority"
+msgstr "Capa priorité"
+
+msgid "Low"
+msgstr "Faible"
+
+msgid "Medium"
+msgstr "Moyenne"
+
+msgid "High"
+msgstr "Élevé"
+
+msgid "Current Capa Status"
+msgstr "Capa Situation actuelle"
+
+msgid "Approve Internal Audit"
+msgstr "Approuver l'audit interne"
+
+msgid "Internal Audit Report"
+msgstr "Rapport de vérification interne"
+
+msgid "Edit Internal Audit"
+msgstr "Audit interne Modifier"
+
+msgid "Edit Details"
+msgstr "Modifier les détails"
+
+msgid "New Internal Audit"
+msgstr "Nouvelle vérification interne"
+
+msgid "View Internal Audit"
+msgstr "Audit Vue de l'intérieur"
+
+msgid "Add Internet Usage Detail"
+msgstr "Ajouter utilisation d'Internet Détail"
+
+msgid "Approve Internet Usage Detail"
+msgstr "Approuver l'utilisation d'Internet Détail"
+
+msgid "Edit Internet Usage Detail"
+msgstr "Modifier l'utilisation d'Internet Détail"
+
+msgid "New Internet Usage Detail"
+msgstr "Nouvelle utilisation d'Internet Détail"
+
+msgid "View Internet Usage Detail"
+msgstr "Voir l'utilisation d'Internet Détail"
+
+msgid "Internet Provider Name"
+msgstr "Nom du fournisseur Internet"
+
+msgid "Plan Details"
+msgstr "Détails du plan"
+
+msgid "From Date"
+msgstr "Partir de la date"
+
+msgid "To Date"
+msgstr "À ce jour"
+
+msgid "Download"
+msgstr "T&eacute;l&eacute;charger "
+
+msgid "Add Language"
+msgstr "Ajouter une langue"
+
+msgid "Approve Language"
+msgstr "Approuver Langue"
+
+msgid "Edit Language"
+msgstr "Modifier la langue"
+
+msgid "Short Code"
+msgstr "Short Code"
+
+msgid "New Language"
+msgstr "Nouvelle Langue"
+
+msgid "View Language"
+msgstr "Voir Langue"
+
+msgid "Welcome"
+msgstr "Bienvenue"
+
+msgid "A request to reset your password was sent. To change your password click the link below."
+msgstr "Une demande pour réinitialiser votre mot de passe a été envoyé. Pour changer votre mot de passe, cliquez sur le lien ci-dessous."
+
+msgid "As per the process, List of acceptable suppliers can only be added after due evaluations."
+msgstr "Comme par le processus, la liste des fournisseurs acceptables ne peut être ajouté après les évaluations raison."
+
+msgid "Please go to MR dashboad and click on Evaluate button under \"Supplier Evaluation / Re-Evaluation\" panel."
+msgstr "S'il vous plaît aller à M. dashboad et cliquez sur le bouton Évaluer sous \ "Fournisseur d'évaluation / réévaluation \" panneau."
+
+msgid "Then select the supplier you wish to evaluate from the drop down."
+msgstr "Ensuite, sélectionnez le fournisseur que vous souhaitez évaluer dans la liste déroulante."
+
+msgid "Based of the Delivery Challans and Purchase Order History, system will provide ou with basic analytics for the supplier."
+msgstr "Sur la base de la livraison Challans et bon de commande Histoire, système fournira ous avec l'analyse de base pour le fournisseur."
+
+msgid "You then the evaluate the suppler and add supplier to the list form the same page."
+msgstr "Vous avez ensuite la évaluez la plus souple et ajoutez le fournisseur à la liste former la même page."
+
+msgid "Typical Supplier Evaluation Process"
+msgstr "Processus d'évaluation du fournisseur typique"
+
+msgid "Add Acceptable Supplier"
+msgstr "Ajouter Fournisseur Acceptable"
+
+msgid "Supplier Category"
+msgstr "Fournisseur Catégorie"
+
+msgid "Approve Acceptable Supplier"
+msgstr "Approuver Fournisseur Acceptable"
+
+msgid "Edit Acceptable Supplier"
+msgstr "Modifier Fournisseur Acceptable"
+
+msgid "New Acceptable Supplier"
+msgstr "Nouveau Fournisseur Acceptable"
+
+msgid "View Acceptable Supplier"
+msgstr "Voir Fournisseur Acceptable"
+
+msgid "Add Computer Software"
+msgstr "Ajouter un logiciel informatique"
+
+msgid "Software Name"
+msgstr "Nom du logiciel"
+
+msgid "Approve Computer Software"
+msgstr "Approuver Logiciels"
+
+msgid "Edit Computer Software"
+msgstr "Modifier Logiciel informatique"
+
+msgid "New Computer Software"
+msgstr "Nouveau Logiciel"
+
+msgid "View Computer Software"
+msgstr "Voir Computer Software"
+
+msgid "Installation Date"
+msgstr "Date d'installation"
+
+msgid "Add Computer"
+msgstr "Ajouter un ordinateur"
+
+msgid "Serial Number"
+msgstr "Numéro de série"
+
+msgid "Make"
+msgstr "MARQUE"
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "Software"
+msgstr "Logiciel"
+
+msgid "Approve Computer"
+msgstr "Approuver l'ordinateur"
+
+msgid "Edit Computer"
+msgstr "Modifier informatique"
+
+msgid "New Computer"
+msgstr "Nouvel ordinateur"
+
+msgid "View List Of Computer"
+msgstr "Voir la liste de l'informatique"
+
+msgid "List of Installed Software"
+msgstr "Liste des logiciels installés"
+
+msgid "Add Measuring Devices For Calibration"
+msgstr "Ajouter appareils de mesure pour l'étalonnage"
+
+msgid "Calibration In-House"
+msgstr "Calibration In-House"
+
+msgid "Calibration Outside"
+msgstr "Calibration extérieur"
+
+msgid "Approve Measuring Devices For Calibration"
+msgstr "Approuver appareils de mesure pour l'étalonnage"
+
+msgid "Edit Measuring Devices For Calibration"
+msgstr "Modifier appareils de mesure pour l'étalonnage"
+
+msgid "Device Holder"
+msgstr "Titulaire de l'appareil"
+
+msgid "Last Calibration Date"
+msgstr "Dernière Date d'étalonnage"
+
+msgid "New Measuring Devices For Calibration"
+msgstr "Nouveaux appareils de mesure pour l'étalonnage"
+
+msgid "View Measuring Devices For Calibration"
+msgstr "Afficher les équipements de mesure pour calibrage"
+
+msgid "Add Software"
+msgstr "Ajouter un logiciel"
+
+msgid "Software Type"
+msgstr "Type de logiciel"
+
+msgid "License Key"
+msgstr "clé de licence"
+
+msgid "Storage Device Number"
+msgstr "Stockage Nombre de périphériques"
+
+msgid "Software Usage"
+msgstr "Utilisation des logiciels"
+
+msgid "Software Details"
+msgstr "Logiciel Détails"
+
+msgid "Backup Required"
+msgstr "Sauvegarde requis"
+
+msgid "Select back up Schedule"
+msgstr "Sélectionnez remonter annexe"
+
+msgid "Approve List Of Software"
+msgstr "Approuver la liste des logiciels"
+
+msgid "Edit List Of Software"
+msgstr "Modifier la liste des logiciels"
+
+msgid "New Software"
+msgstr "Nouveau logiciel"
+
+msgid "New Software Type"
+msgstr "Nouveau Type de logiciel"
+
+msgid "View List Of Software"
+msgstr "Voir la liste des logiciels"
+
+msgid "Add List Of Trained Internal Auditor"
+msgstr "Ajouter à la liste d'auditeur interne formé"
+
+msgid "Approve List Of Trained Internal Auditor"
+msgstr "Approuver Liste d'auditeur interne formé"
+
+msgid "Edit List Of Trained Internal Auditor"
+msgstr "Modifier la liste de l'auditeur interne formé"
+
+msgid "New List Of Trained Internal Auditor"
+msgstr "Nouvelle liste de l'auditeur interne formé"
+
+msgid "View List Of Trained Internal Auditor"
+msgstr "Voir la liste de l'auditeur interne formé"
+
+msgid "Training"
+msgstr "Formation"
+
+msgid "Add Master List Of Format Department"
+msgstr "Ajouter Maître Liste des Format Département"
+
+msgid "Approve Master List Of Format Department"
+msgstr "Approuver la liste principale format Département"
+
+msgid "Edit Master List Of Format Department"
+msgstr "Edit Master List Of Format Département"
+
+msgid "New Master List Of Format Department"
+msgstr "Nouvelle liste de Master Of Format Département"
+
+msgid "View Master List Of Format Department"
+msgstr "Voir la liste principale Of Format Département"
+
+msgid "Add Master List Of Format"
+msgstr "Ajouter Maître Liste des Format"
+
+msgid "Approve Master List Of Format"
+msgstr "Approuver la liste principale format"
+
+msgid "Edit Master List Of Format"
+msgstr "Edit Master List Of Format"
+
+msgid "New Master List Of Format"
+msgstr "Nouvelle liste de Master Of Format"
+
+msgid "View Master List Of Format"
+msgstr "Voir la liste principale Of Format"
+
+msgid "Work Instructions"
+msgstr "Instructions de travail"
+
+msgid "Archived"
+msgstr "Archivée"
+
+msgid "Add Material Quality Check Detail"
+msgstr "Ajouter Matériel contrôle de la qualité Détail"
+
+msgid "ADD MATERIAL TO STOCK"
+msgstr "Placez l'article STOCK"
+
+msgid "Approve Material Quality Check Detail"
+msgstr "Approuver Matériel contrôle de la qualité Détail"
+
+msgid "Edit Material Quality Check Detail"
+msgstr "Modifier qualité des matériaux Vérifiez Détail"
+
+msgid "Material Quality Check"
+msgstr "Matériel contrôle de la qualité"
+
+msgid "Employee Id"
+msgstr "Employé Id"
+
+msgid "Check Performed Date"
+msgstr "Vérifiez la date Joué"
+
+msgid "Quantity Accepted"
+msgstr "Quantité Accepté"
+
+msgid "New Material Quality Check Detail"
+msgstr "Nouvelle qualité des matériaux Vérifiez Détail"
+
+msgid "Add Company"
+msgstr "Ajouter Société"
+
+msgid "View Material Quality Check Detail"
+msgstr "Voir qualité des matériaux Vérifiez Détail"
+
+msgid "Sr No"
+msgstr "Num"
+
+msgid "Branch Ids"
+msgstr "Direction Ids"
+
+msgid "Department Ids"
+msgstr "Département Ids"
+
+msgid "Add Material Quality Check"
+msgstr "Ajouter Matériel contrôle de la qualité"
+
+msgid "Click on Plus sign to add next step"
+msgstr "Cliquez sur pour ajouter plus signer étape suivante"
+
+msgid "Approve Material Quality Check"
+msgstr "Approuver Matériel contrôle de la qualité"
+
+msgid "Step"
+msgstr "Étape:"
+
+msgid "Edit Material Quality Check"
+msgstr "Modifier Matériel contrôle de la qualité"
+
+msgid "Material Id"
+msgstr "Matériel Id"
+
+msgid "Number of Material Quality checks"
+msgstr "Nombre de contrôles de qualité des matériaux"
+
+msgid "New Material Quality Check"
+msgstr "Nouveau matériel Contrôle de la qualité"
+
+msgid "Add To Stock"
+msgstr "Ajouter à stocker"
+
+msgid "View Material Quality Check"
+msgstr "Voir Matériel contrôle de la qualité"
+
+msgid "Is Last Step"
+msgstr "Est-dernière étape"
+
+msgid "Is Active"
+msgstr "Est active"
+
+msgid "Add Material Type"
+msgstr "Ajouter Type d'ouvrage"
+
+msgid "Approve Material Type"
+msgstr "Approuver Type d'ouvrage"
+
+msgid "Edit Material Type"
+msgstr "Modifier le type de matériel"
+
+msgid "New Material Type"
+msgstr "Nouveau Type d'ouvrage"
+
+msgid "View Material Type"
+msgstr "Voir Type d'ouvrage"
+
+msgid "Add Material"
+msgstr "Ajouter Matériel"
+
+msgid "Add to List of materials with shelf life?"
+msgstr "Ajouter à la liste des matériaux avec la durée de vie?"
+
+msgid "Data added below will be saved to \"Material List with Shelf Life\" table."
+msgstr "Données ajoutées ci-dessous seront enregistrés dans \ "Liste du matériel avec Shelf Life \" du tableau."
+
+msgid "Quality Check Required?"
+msgstr "Contrôle de la qualité requise?"
+
+msgid "Approve Material"
+msgstr "Approuver Matériel"
+
+msgid "Edit Material"
+msgstr "Editer le matériau"
+
+msgid "Shelflife by Manufacturer"
+msgstr "La durée de conservation par le fabricant"
+
+msgid "Shelflife by Company"
+msgstr "Durée de conservation par la Compagnie"
+
+msgid "New Material"
+msgstr "Nouveau matériel"
+
+msgid "View Material"
+msgstr "Voir Matériel"
+
+msgid "Shelflife By Manufacturer"
+msgstr "Durée de conservation par Fabricant"
+
+msgid "Shelflife By Company"
+msgstr "Durée de conservation par la société"
+
+msgid "Material Quality Check Required"
+msgstr "Matériel contrôle de la qualité requise"
+
+msgid "Step - "
+msgstr "Etape - "
+
+msgid "Agenda"
+msgstr "Programme"
+
+msgid "Topic"
+msgstr "Sujet"
+
+msgid "Action Plan"
+msgstr "Plan d'actions"
+
+msgid "Add Meeting"
+msgstr "Ajouter Réunion"
+
+msgid "Previous Meeting"
+msgstr "La réunion précédente"
+
+msgid "Chairperson"
+msgstr "Président"
+
+msgid "Invitees"
+msgstr "Invités"
+
+msgid "Meeting Start Time"
+msgstr "Réunion Heure de début"
+
+msgid "Meeting End Time"
+msgstr "Réunion Heure de fin"
+
+msgid "Would you like to include these recent Document Change Requests in your current meeting?"
+msgstr "Voulez-vous d'inclure ces dernières demandes de documents de changement dans votre réunion?"
+
+msgid "Add To Meeting?"
+msgstr "Ajouter à la Réunion?"
+
+msgid "Doc Number"
+msgstr "Nombre de Doc"
+
+msgid "Would you like to include these Customer Complaints in your current meeting?"
+msgstr "Voulez-vous d'inclure ces plaintes des clients dans votre réunion?"
+
+msgid "Customer Name"
+msgstr "Nom du Client"
+
+msgid "Would you like to include these NCs in your current meeting?"
+msgstr "Voulez-vous d'inclure ces CN dans votre réunion?"
+
+msgid "Would you like to include these Supplier Evaluations in your current meeting ?"
+msgstr "Voulez-vous d'inclure ces évaluations des fournisseurs dans votre réunion?"
+
+msgid "Remark"
+msgstr "Remarque:"
+
+msgid "Evaluation By"
+msgstr "Évaluation par"
+
+msgid "Evaluation Date"
+msgstr "Date d'évaluation"
+
+msgid "Pending Meeting Actions"
+msgstr "Actions en attente de réunions"
+
+msgid "Meeting Topic"
+msgstr "Réunion Sujet"
+
+msgid "Topic Type"
+msgstr "Type de sujet"
+
+msgid "Add Meeting Details"
+msgstr "Ajouter Détails de la réunion"
+
+msgid "Why I am seeing this?"
+msgstr "Pourquoi je vois ce?"
+
+msgid "You can only add meeting details to any meeting after the meeting date. Currently no such meetings are available or they are scheduled for future date."
+msgstr "Vous ne pouvez ajouter détails de la réunion à une réunion après la date de la réunion. Actuellement aucun de ces réunions sont disponibles ou qu'elles sont programmées pour le futur."
+
+msgid "You can add meeting details for meeting already conducted. Select meeting from the drop-down to add details "
+msgstr "Vous pouvez ajouter des détails de réunion pour une réunion déjà menées. Sélectionnez réunion de la liste déroulante pour ajouter des détails "
+
+msgid "Approve Meeting"
+msgstr "Approuver Réunion"
+
+msgid "Would you like to include these Supplier Evaluations in your current meeting?"
+msgstr "Voulez-vous d'inclure ces évaluations des fournisseurs dans votre réunion?"
+
+msgid "Meeting Scheduled From"
+msgstr "Réunion planifiée depuis"
+
+msgid "Meeting Scheduled To"
+msgstr "Réunion prévue"
+
+msgid "Attendees"
+msgstr "Personnes présentes"
+
+msgid "Actual Meeting From"
+msgstr "Réunion réelle de"
+
+msgid "Actual Meeting To"
+msgstr "Actual réunion Pour"
+
+msgid "Edit Meeting"
+msgstr "Modifier la réunion"
+
+msgid "New Meeting"
+msgstr "Nouvelle réunion"
+
+msgid "Meeting From"
+msgstr "Rencontre De"
+
+msgid "Meeting To"
+msgstr "Rencontre Pour"
+
+msgid "Meeting Detail"
+msgstr "Réunion Détail"
+
+msgid "View Meeting"
+msgstr "Voir Réunion"
+
+msgid "Meeting Actual From"
+msgstr "Rencontre réelle de"
+
+msgid "Meeting Actual To"
+msgstr "Réunion réels"
+
+msgid "Meeting Topics"
+msgstr "Sujets Réunion"
+
+msgid "Message User Sents"
+msgstr "Senteurs message de l'utilisateur"
+
+msgid "View"
+msgstr "Voir"
+
+msgid "Are you sure you want to delete # %s?"
+msgstr "Êtes-vous sûr de vouloir supprimer # %s?"
+
+msgid "Trash"
+msgstr "Poubelle"
+
+msgid "Are you sure you want to delete : %s?"
+msgstr "Etes-vous sûr que vous voulez supprimer: %s ?"
+
+msgid "Recepient"
+msgstr "Destinataire"
+
+msgid "Send"
+msgstr "Envoyer"
+
+msgid "Move To Trash"
+msgstr "Mettre à la corbeille"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Message"
+msgstr "Méssage"
+
+msgid "Send Reply"
+msgstr "Envoyer la réponse"
+
+msgid "subject"
+msgstr "sujet"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "Trackingid"
+msgstr "TrackingID"
+
+msgid "Subject"
+msgstr "Sujet"
+
+msgid "Flag"
+msgstr "Marque"
+
+msgid "Created"
+msgstr "Créé"
+
+msgid "Priority"
+msgstr "Priorité"
+
+msgid "Edit Message"
+msgstr "Modifier le message"
+
+msgid "Delete Message"
+msgstr "Supprimer le message"
+
+msgid "List Messages"
+msgstr "Liste des messages"
+
+msgid "New Message"
+msgstr "Nouveau message"
+
+msgid "List Users"
+msgstr "List Users"
+
+msgid "New User"
+msgstr "Nouvel Utilisateur"
+
+msgid "List Message User Inboxes"
+msgstr "Liste des messages des boîtes de réception de l'utilisateur"
+
+msgid "New Message User Inbox"
+msgstr "Nouvelle boîte de réception Message utilisateur"
+
+msgid "List Message User Sents"
+msgstr "Liste des messages Sents de l'utilisateur"
+
+msgid "New Message User Sent"
+msgstr "Nouveau message utilisateur Envoyés"
+
+msgid "List Message User Thrashes"
+msgstr "Fustige la liste des messages utilisateur"
+
+msgid "New Message User Thrash"
+msgstr "Thrash nouveau message utilisateur"
+
+msgid "Related Message User Inboxes"
+msgstr "Message en rapport avec les boîtes de réception de l'utilisateur"
+
+msgid "Message Id"
+msgstr "ID de message"
+
+msgid "User Id"
+msgstr "Id de l'utilisateur"
+
+msgid "Related Message User Sents"
+msgstr "Messages liés Sents de l'utilisateur"
+
+msgid "Are you sure you want move \"%s\" to Trash?"
+msgstr "Etes-vous sûr que vous voulez déplacer \ " %s \ "à la corbeille?"
+
+msgid "Related Message User Thrashes"
+msgstr "Message en rapport fustige l'utilisateur"
+
+msgid "Add Non Conforming Products Material"
+msgstr "Ajouter non conforme des produits Matériel"
+
+msgid "Select Material/Product"
+msgstr "Sélectionnez Matériel / produit"
+
+msgid "Approve Non Conforming Products Material"
+msgstr "Approuver non conforme des produits Matériel"
+
+msgid "Edit Non Conforming Products Material"
+msgstr "Modifier non conforme des produits Matériel"
+
+msgid "Product"
+msgstr "Produit"
+
+msgid "Capa Source Id"
+msgstr "Capa Source Id"
+
+msgid "CAPA Details"
+msgstr "CAPA Détails"
+
+msgid "New Non Conforming Products Material"
+msgstr "Nouveau dérogatoire Produits Matériel"
+
+msgid "View Non Conforming Products Material"
+msgstr "Voir les produits non conforme Matériel"
+
+msgid "Capa Source"
+msgstr "Capa Source"
+
+msgid "Add Notification Type"
+msgstr "Ajouter type de notification"
+
+msgid "Approve Notification Type"
+msgstr "Approuver type de notification"
+
+msgid "Edit Notification Type"
+msgstr "Modifier le type de notification"
+
+msgid "New Notification Type"
+msgstr "Nouveau Type de notification"
+
+msgid "View Notification Type"
+msgstr "Voir Type de notification"
+
+msgid "View Notification User"
+msgstr "Voir notification utilisateur"
+
+msgid "Notification"
+msgstr "Notification"
+
+msgid "Notify User"
+msgstr "Prévenir l'utilisateur"
+
+msgid "Approve Notification"
+msgstr "Approuver notification"
+
+msgid "Edit Notification"
+msgstr "Modifier notification"
+
+msgid "Notified User"
+msgstr "Notifié utilisateur"
+
+msgid "New Notification"
+msgstr "Nouvelle notification"
+
+msgid "View Notification"
+msgstr "Voir notification"
+
+msgid "Notification Type"
+msgstr "Type Notification"
+
+msgid "Start Date"
+msgstr "Date de Début"
+
+msgid "End Date"
+msgstr "Date de Fin"
+
+msgid "Add Production"
+msgstr "Ajouter production"
+
+msgid "Approve Production"
+msgstr "Approuver la production"
+
+msgid "Edit Production"
+msgstr "Modifier production"
+
+msgid "New Production"
+msgstr "Nouvelle production"
+
+msgid "View Production"
+msgstr "Voir la production"
+
+msgid "Batch Number"
+msgstr "Numéro de lot"
+
+msgid "Supervisor"
+msgstr "Superviseur"
+
+msgid "Add Product"
+msgstr "Ajouter un produit"
+
+msgid "Add Required Material"
+msgstr "Ajouter Matériel requis"
+
+msgid "Approve Product"
+msgstr "Approuver le produit"
+
+msgid "Edit Product"
+msgstr "Modifier le produit"
+
+msgid "Required Material"
+msgstr "Matériel requis"
+
+msgid "New Product"
+msgstr "Nouveau Produit"
+
+msgid "Evidence Files "
+msgstr "Preuve Fichiers "
+
+msgid "View Product"
+msgstr "Voir le produit"
+
+msgid "Upload your product design related files below"
+msgstr "Télécharger des fichiers liés à votre conception de produit ci-dessous"
+
+msgid "Upload File"
+msgstr "Télécharger des fichiers"
+
+msgid "Product Plan"
+msgstr "Régime de produit"
+
+msgid "Product Requirment"
+msgstr "requirment de produit"
+
+msgid "Product Feasibility"
+msgstr "faisabilité du produit"
+
+msgid "Product Development Plan"
+msgstr "Plan de développement de produit"
+
+msgid "Product Realisation"
+msgstr "Réalisation du produit"
+
+msgid "Add Proposal Followup"
+msgstr "Ajouter Demande de Suivi"
+
+msgid "Meeting Required?"
+msgstr "Réunion exigée?"
+
+msgid "You can copy and paste your followup details here. You can also upload it after saving this record"
+msgstr "Vous pouvez copier et coller vos détails de suivi à ici. Vous pouvez également le télécharger après avoir enregistré ce disque"
+
+msgid "Approve Proposal Followup"
+msgstr "Proposition d'approuver Suivi"
+
+msgid "Edit Proposal Followup"
+msgstr "Modifier Proposition Suivi"
+
+msgid "New Proposal Followup"
+msgstr "Nouveau Suivi Proposition"
+
+msgid "View Proposal Followup"
+msgstr "Voir Proposition Suivi"
+
+msgid "Followup Heading"
+msgstr "Rubrique suivi"
+
+msgid "Followup Details"
+msgstr "Suivi Détails"
+
+msgid "Next Follow Up Date"
+msgstr "Suivant Suivi date"
+
+msgid "Add Proposal"
+msgstr "Ajouter Proposition"
+
+msgid "You can copy and paste your existing proposal here. You can also upload your proposal after saving this record"
+msgstr "Vous pouvez copier et coller votre proposition existante ici. Vous pouvez également télécharger votre proposition après avoir enregistré ce disque"
+
+msgid "Approve Proposal"
+msgstr "Proposition d'approuver"
+
+msgid "Edit Proposal"
+msgstr "Modifier Proposition"
+
+msgid "New Proposal"
+msgstr "Nouvelle proposition"
+
+msgid "View Proposal"
+msgstr "Voir Proposition"
+
+msgid "Proposal Heading"
+msgstr "Proposition rubrique"
+
+msgid "Proposal Details"
+msgstr "Détails de la proposition"
+
+msgid "View Proposal Followups"
+msgstr "Suites des vue de propositions"
+
+msgid "Add Purchase Order"
+msgstr "Ajouter bon de commande"
+
+msgid "Select Type"
+msgstr "Choix du type"
+
+msgid "Order Details"
+msgstr "Détails de la commande"
+
+msgid "Item Number"
+msgstr "Numéro d'élément"
+
+msgid "Quantity"
+msgstr "Quantité"
+
+msgid "Discount (% only)"
+msgstr "Remise (% seulement)"
+
+msgid "Approve Purchase Order"
+msgstr "Approuver bon de commande"
+
+msgid "Order Detail"
+msgstr "Afin Détail"
+
+msgid "Edit Purchase Order"
+msgstr "Modifier bon de commande"
+
+msgid "Outbound"
+msgstr "Message sortant"
+
+msgid "Inbound"
+msgstr "Entrants"
+
+msgid "-"
+msgstr "-"
+
+msgid "View Purchase Order"
+msgstr "Voir bon de commande"
+
+msgid "Expected Delivery Date"
+msgstr "Date de livraison prévue"
+
+msgid "Approve Report"
+msgstr "Approuver le rapport"
+
+msgid " OPEN: "
+msgstr " OUVERT: "
+
+msgid " CLOSED : "
+msgstr " FERMÉ: "
+
+msgid " CLOSED IN TIME : "
+msgstr " FERME DANS LE TEMPS: "
+
+msgid "Customer Complaints History"
+msgstr "Plaintes des clients Histoire"
+
+msgid "Loading Graph Please Wait..."
+msgstr "Chargement Graphique S'il vous plaît patienter ..."
+
+msgid "Benchmark : "
+msgstr "Indice de référence: "
+
+msgid " Records Added: "
+msgstr " Enregistrements ajoutés: "
+
+msgid "Records Added : "
+msgstr "Enregistrements ajoutés: "
+
+msgid "Userwise"
+msgstr "Userwise"
+
+msgid "Edit Report"
+msgstr "Modifier le rapport"
+
+msgid "New Report"
+msgstr "Nouveau rapport"
+
+msgid "FlinkISO Report Center"
+msgstr "FlinkISO Centre de rapports"
+
+msgid "Internal Audits Report"
+msgstr "Rapport Vérifications internes"
+
+msgid "List Of Acceptable Suppliers"
+msgstr "Liste des fournisseurs acceptables"
+
+msgid "Supplier Evaluations"
+msgstr "Les évaluations des fournisseurs"
+
+msgid "Summery Of Supplier Evaluations"
+msgstr "Estivale des évaluations de fournisseurs"
+
+msgid " CAPA CLOSED : "
+msgstr " CAPA FERMÉ: "
+
+msgid " OPEN CAPA : "
+msgstr " OUVERT CAPA: "
+
+msgid " ROOT CAUSE ANALYSIS REQUIRED : "
+msgstr " Analyse des causes profondes REQUISE: "
+
+msgid "CAPA by Source"
+msgstr "CAPA par Source"
+
+msgid "CAPA by Category"
+msgstr "CAPA par catégorie"
+
+msgid "Non Conformity History"
+msgstr "Histoire non conformité"
+
+msgid "Ready reports for "
+msgstr "Rapports Prêt pour "
+
+msgid "These are ready reports generated automatically based on the inputs by flinkISO users. These reports are auto-generated daily, weekly, quarterly & yearly."
+msgstr "Ces rapports sont prêts générées automatiquement en fonction des entrées par les utilisateurs flinkISO. Ces rapports sont générés automatiquement quotidienne, hebdomadaire, trimestrielle et annuelle."
+
+msgid "Change Month"
+msgstr "Changer le mois"
+
+msgid "Daily Report"
+msgstr "Rapport quotidien"
+
+msgid "Daily Data Entry Reports"
+msgstr "Données quotidiennes Rapports entrée"
+
+msgid "File Name"
+msgstr "Nom du Fichier"
+
+msgid "Size"
+msgstr "Taille"
+
+msgid "Created On"
+msgstr "Créé le"
+
+msgid "Daily Data Backup Report"
+msgstr "Les données quotidiennes de rapport de sauvegarde"
+
+msgid "Weekly Reports"
+msgstr "Rapports hebdomadaires"
+
+msgid "Weekly Non-Conformity Report"
+msgstr "Hebdomadaire conformité non-rapport"
+
+msgid "Monthly Reports"
+msgstr "Rapports mensuels"
+
+msgid "Saved Reports"
+msgstr "Rapports enregistrés"
+
+msgid "View Report"
+msgstr "Voir Rapport"
+
+msgid "Report Date"
+msgstr "Date du rapport"
+
+msgid "Add Schedule"
+msgstr "Ajouter un planning"
+
+msgid "Approve Schedule"
+msgstr "Approuver annexe"
+
+msgid "Edit Schedule"
+msgstr "Modifier la planification"
+
+msgid "New Schedule"
+msgstr "Nouvel horaire"
+
+msgid "View Schedule"
+msgstr "Voir annexe"
+
+msgid "Available Software Types"
+msgstr "Types de logiciels disponibles"
+
+msgid "Approve Software Type"
+msgstr "Approuver Type de logiciel"
+
+msgid "Edit Software Type"
+msgstr "Modifier le type de logiciel"
+
+msgid "View Software Type"
+msgstr "Type de vue du logiciel"
+
+msgid "Add Stock"
+msgstr "Ajouter le bouillon"
+
+msgid "Select Batch"
+msgstr "Sélectionnez Lot"
+
+msgid "Invalid Selection"
+msgstr "Sélection Invalide"
+
+msgid "Batch No."
+msgstr "Lot n °"
+
+msgid "Approve Stock"
+msgstr "Approuver Stock"
+
+msgid "Edit Stock"
+msgstr "Modifier stock"
+
+msgid "New Stock"
+msgstr "New Stock"
+
+msgid "Select the meterial from \"Material\" input & select date range to get the stock status graph."
+msgstr "Sélectionnez le meterial de \ "Material \" plage d'entrée et choisissez la date pour obtenir le graphique de l'état du stock."
+
+msgid "View Stock"
+msgstr "Voir Stock"
+
+msgid "Received Date"
+msgstr "Date de réception"
+
+msgid "Production Date"
+msgstr "Date de production"
+
+msgid "Quantity Consumed"
+msgstr "Quantité consommée"
+
+msgid "Add New Suggestion"
+msgstr "Ajouter un nouveau Suggestion"
+
+msgid "Approve Suggestion Form"
+msgstr "Approuver formulaire Suggestion"
+
+msgid "Edit Suggestion Form"
+msgstr "Modifier le formulaire Suggestion"
+
+msgid "New Suggestion Form"
+msgstr "Nouveau formulaire de suggestion"
+
+msgid "View Suggestion Form"
+msgstr "Voir formulaire Suggestion"
+
+msgid "Activity"
+msgstr "Activité"
+
+msgid "Add Summary Of Supplier Evaluation"
+msgstr "Ajouter Résumé de l'évaluation des fournisseurs"
+
+msgid "Date of Evaluation"
+msgstr "Date de l'évaluation"
+
+msgid "Approve Summary Of Supplier Evaluation"
+msgstr "Approuver Résumé de l'évaluation des fournisseurs"
+
+msgid "Edit Summary Of Supplier Evaluation"
+msgstr "Modifier Résumé de l'évaluation des fournisseurs"
+
+msgid "New Summary Of Supplier Evaluation"
+msgstr "Nouvelle Résumé de l'évaluation des fournisseurs"
+
+msgid "View Summary Of Supplier Evaluation"
+msgstr "Afficher le résumé de l'évaluation des fournisseurs"
+
+msgid "Add Supplier Category"
+msgstr "Ajouter Fournisseur Catégorie"
+
+msgid "Approve Supplier Category"
+msgstr "Approuver Fournisseur Catégorie"
+
+msgid "Edit Supplier Category"
+msgstr "Modifier Fournisseur Catégorie"
+
+msgid "New Supplier Category"
+msgstr "Nouveau Fournisseur Catégorie"
+
+msgid "View Supplier Category"
+msgstr "Voir Fournisseur Catégorie"
+
+msgid "Add Supplier Evaluation Reevaluation"
+msgstr "Ajouter Fournisseur évaluation réévaluation"
+
+msgid "Quantity Supplied"
+msgstr "Quantité fournie"
+
+msgid "Required Delivery Date"
+msgstr "Required Delivery Date"
+
+msgid "Actual Delivery Date"
+msgstr "Date réelle de livraison "
+
+msgid "Approve Supplier Evaluation Reevaluation"
+msgstr "Approuver Fournisseur évaluation réévaluation"
+
+msgid "Edit Supplier Evaluation Reevaluation"
+msgstr "Modifier Fournisseur évaluation réévaluation"
+
+msgid "Select Supplier from the list to evaluate."
+msgstr "Sélectionnez fournisseur de la liste à évaluer."
+
+msgid "Type Of Company"
+msgstr "Type d'entreprise"
+
+msgid "Contact Person Office"
+msgstr "Contact Bureau Personne"
+
+msgid "Work Telephone"
+msgstr "Téléphone au travail"
+
+msgid "Office Fax"
+msgstr "Télécopieur"
+
+msgid "Add List Of Acceptable Supplier"
+msgstr "Ajouter à la liste du fournisseur Acceptable"
+
+msgid "In order to evaluate Suppliers, you need to add Quantity Shipped VS Quantity Accepted & Required Delivery Date VS Actual Delivery Date values for below table. Based on these values, evaluation will be done."
+msgstr "Afin d'évaluer les fournisseurs, vous devez ajouter Quantité Expédié VS Quantité acceptée et la date de livraison VS valeurs de date de livraison réels pour tableau ci-dessous. Sur la base de ces valeurs, l'évaluation sera faite."
+
+msgid "New Supplier Evaluation Reevaluation"
+msgstr "Nouveau Fournisseur évaluation réévaluation"
+
+msgid "View Supplier Evaluation Reevaluation"
+msgstr "Voir Fournisseur évaluation réévaluation"
+
+msgid "Delivery Challan No"
+msgstr "Livraison Challan Non"
+
+msgid "Add Supplier Registration"
+msgstr "Ajouter Inscription des fournisseurs"
+
+msgid "Type Name of the Company"
+msgstr "Type Nom de la Société"
+
+msgid "Registration Number or any other identidy number"
+msgstr "Numéro d'enregistrement ou tout autre numéro identidy"
+
+msgid "Type of Company"
+msgstr "Type de la société"
+
+msgid "Office Details"
+msgstr "Details du bureau"
+
+msgid "Contact Person at Office"
+msgstr "Personne à contacter au bureau"
+
+msgid "Designation at Office"
+msgstr "Désignation au bureau"
+
+msgid "Office Address"
+msgstr "Adresse des bureaux"
+
+msgid "Factory / Workshop details"
+msgstr "Usine / Détails de l'atelier"
+
+msgid "Contact Person at Workshop/Factory"
+msgstr "Personne-ressource à l'atelier / usine"
+
+msgid "Designation at Workshop/Factory"
+msgstr "Désignation à l'atelier / usine"
+
+msgid "Workshop/Factory Address"
+msgstr "Atelier / Factory Adresse"
+
+msgid "Workshop/Factory Telephone"
+msgstr "Atelier / usine Téléphone"
+
+msgid "Workshop/Factory Fax"
+msgstr "Atelier / usine fax"
+
+msgid "Factory Details are the same as Office Details"
+msgstr "Détails d'usine sont les mêmes que Details du bureau"
+
+msgid "Is supplier ISO certified?"
+msgstr "Est certifié ISO fournisseur?"
+
+msgid "CST Registration Number"
+msgstr "CST numéro d'enregistrement"
+
+msgid "ST Registration Number"
+msgstr "ST Numéro d'enregistrement"
+
+msgid "Income Tax Number"
+msgstr "Nombre d'impôt sur le revenu"
+
+msgid "SSI Registration Number"
+msgstr "SSI numéro d'enregistrement"
+
+msgid "Range of Products"
+msgstr "Gamme de produits"
+
+msgid "Services Offered"
+msgstr "Services offerts"
+
+msgid "Existing Facilities"
+msgstr "Installations existantes"
+
+msgid "Prominent Customers"
+msgstr "Les clients de premier plan"
+
+msgid "Quality Assurance"
+msgstr "Assurance qualité"
+
+msgid "Facility Comments"
+msgstr "Facilité Commentaires"
+
+msgid "Supplier Representative"
+msgstr "Représentant du fournisseur"
+
+msgid "Trial Order"
+msgstr "Commande à l'essai"
+
+msgid "If the trial order result is satisfactory click YES from below.Supplier Selected as YES will be added to List of Acceptable Supplier's List"
+msgstr "Si le résultat de la commande à l'essai est satisfaisante, cliquez OUI de below.Supplier Sélectionné OUI seront ajoutés à la Liste de la liste Fournisseur Acceptable"
+
+msgid "Is supplier selected as Acceptable Supplier ?"
+msgstr "Est le fournisseur sélectionné comme fournisseur acceptable?"
+
+msgid "Select Category"
+msgstr "Sélectionner une catégorie"
+
+msgid "Approve Supplier Registration"
+msgstr "Approuver inscription des fournisseurs"
+
+msgid "Contact Person Workshop/Factory"
+msgstr "Personne à contacter l'atelier / usine"
+
+msgid "Edit Supplier Registration"
+msgstr "Modifier inscription des fournisseurs"
+
+msgid "New Supplier Registration"
+msgstr "Enregistrement d'un nouvel Fournisseur"
+
+msgid "View Supplier Registration"
+msgstr "Voir d'inscription des fournisseurs"
+
+msgid "Designition at Office"
+msgstr "Designition au bureau"
+
+msgid "Incometax Number"
+msgstr "Nombre Incometax"
+
+msgid "Range Of Products"
+msgstr "Gamme de produits"
+
+msgid "Add System Table"
+msgstr "Ajouter une table système"
+
+msgid "Approve System Table"
+msgstr "Approuver le tableau Système"
+
+msgid "Edit System Table"
+msgstr "Modifier la table système"
+
+msgid "New System Table"
+msgstr "Nouvelle table système"
+
+msgid "View System Table"
+msgstr "Voir tableau Système"
+
+msgid "System Name"
+msgstr "Name System"
+
+msgid "Evidence Required"
+msgstr "Preuve requise"
+
+msgid "Approvals Required"
+msgstr "Approbations requises"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "There were no tasks on "
+msgstr "Il y avait pas de tâches sur "
+
+msgid "Please select From-To & User (selecting user is optional)"
+msgstr "S'il vous plaît sélectionner De-To et l'utilisateur (l'utilisateur de sélection est en option)"
+
+msgid "Add Task"
+msgstr "Ajouter tâche"
+
+msgid "If you are assigning a new task to a user, make sure that the user has a permission to access the tasks."
+msgstr "Si vous attribuez une nouvelle tâche à un utilisateur, assurez-vous que l'utilisateur dispose d'une autorisation d'accéder aux tâches."
+
+msgid "You can change the user permissions from Users -> View -> Manage Access Control, then click on MR and check the tasks section to provide required permission"
+msgstr "Vous pouvez modifier les autorisations d'utilisateur de l'utilisateur -> Affichage -> Gérer le contrôle d'accès, puis cliquez sur le MR et consultez la section des tâches de fournir l'autorisation nécessaire"
+
+msgid "Approve Task"
+msgstr "Approuver Groupe"
+
+msgid "Edit Task"
+msgstr "Modifier Tâche"
+
+msgid "New Task"
+msgstr "Nouvelle tâche"
+
+msgid "View Task"
+msgstr "Voir Tâche"
+
+msgid "Approve Timeline"
+msgstr "Approuver Timeline"
+
+msgid "Edit Timeline"
+msgstr "Modifier Timeline"
+
+msgid "New Timeline"
+msgstr "Nouveau montage"
+
+msgid "View Timeline"
+msgstr "Voir Timeline"
+
+msgid "List of Trainer Type"
+msgstr "Liste de type formateur"
+
+msgid "Add New Trainer Type (Internal / External / Technical / Domain Experts etc)"
+msgstr "Ajouter un type nouvel entraîneur (experts Interne / Externe / technique / de domaine, etc)"
+
+msgid "Approve Trainer Type"
+msgstr "Approuver Type de formateur"
+
+msgid "Edit Trainer Type"
+msgstr "Modifier le type de formateur"
+
+msgid "New Trainer Type"
+msgstr "Nouveau Type de formateur"
+
+msgid "View Trainer Type"
+msgstr "Type de vue formateur"
+
+msgid "List Trainers"
+msgstr "Liste des formateurs"
+
+msgid "Trainer Type"
+msgstr "Type de formateur"
+
+msgid "Add Trainer"
+msgstr "Ajouter formateur"
+
+msgid "Approve Trainer"
+msgstr "Approuver formateur"
+
+msgid "Edit Trainer"
+msgstr "Modifier formateur"
+
+msgid "New Trainer"
+msgstr "Nouvel entraîneur"
+
+msgid "View Trainer"
+msgstr "Voir formateur"
+
+msgid "Add Training Evaluation"
+msgstr "Ajouter évaluation de la formation"
+
+msgid "Purpose of Training"
+msgstr "Objectif de la formation"
+
+msgid "is it Fulfilled"
+msgstr "est-il Documents"
+
+msgid "Informative"
+msgstr "Informatif"
+
+msgid "Improvement"
+msgstr "Développement"
+
+msgid "Content"
+msgstr "Contenu"
+
+msgid "Elaboration"
+msgstr "Élaboration"
+
+msgid "Approve Training Evaluation"
+msgstr "Approuver évaluation de la formation"
+
+msgid "Edit Training Evaluation"
+msgstr "Modifier évaluation de la formation"
+
+msgid "New Training Evaluation"
+msgstr "Nouvelle évaluation de la formation"
+
+msgid "View Training Evaluation"
+msgstr "Voir évaluation de la formation"
+
+msgid "Purpose Of Training"
+msgstr "Objectif de la formation"
+
+msgid "Is It Fulfilled"
+msgstr "Il est Documents"
+
+msgid "Add Training Need Identification"
+msgstr "Ajouter Formation Besoin d'identification"
+
+msgid "Course"
+msgstr "Cours"
+
+msgid "Approve Training Need Identification"
+msgstr "Approuver la formation doivent identification"
+
+msgid "Edit Training Need Identification"
+msgstr "Modifier Formation besoin d'identification"
+
+msgid "New Training Need Identification"
+msgstr "Nouvelle formation Besoin d'identification"
+
+msgid "View Training Need Identification"
+msgstr "Voir ENTRAINEMENT Besoin d'identification"
+
+msgid "Employee Details"
+msgstr "Détails des employés"
+
+msgid "Trainings Attended"
+msgstr "Formations assisté"
+
+msgid "Training date"
+msgstr "date de la formation"
+
+msgid "List Training Type"
+msgstr "Type de liste formation"
+
+msgid "Mandatory"
+msgstr "Obligatoire"
+
+msgid "Add Training Type"
+msgstr "Ajouter un type de formation"
+
+msgid "Approve Training Type"
+msgstr "Approuver type de formation"
+
+msgid "Edit Training Type"
+msgstr "Modifier le type de formation"
+
+msgid "New Training Type"
+msgstr "Nouveau type de formation"
+
+msgid "View Training Type"
+msgstr "Voir Type de formation"
+
+msgid "Training Description"
+msgstr "Description de la formation"
+
+msgid "Add Training"
+msgstr "Ajouter formation"
+
+msgid "Trainer"
+msgstr "Entraîneur"
+
+msgid "Start Date-Time"
+msgstr "Date de début-Temps"
+
+msgid "End Date-Time"
+msgstr "Date de fin-temps"
+
+msgid "Attendee"
+msgstr "Présence"
+
+msgid "Approve Training"
+msgstr "Approuver la formation"
+
+msgid "Edit Training"
+msgstr "Modifier formation"
+
+msgid "New Training"
+msgstr "Nouvelle formation"
+
+msgid "New Trainer Types"
+msgstr "Nouveaux types de formation des formateurs"
+
+msgid "New Trainers"
+msgstr "Nouveaux formateurs"
+
+msgid "View Training"
+msgstr "Voir la formation"
+
+msgid "Start Date Time"
+msgstr "Date de début Durée"
+
+msgid "End Date Time"
+msgstr "Fin Date Heure"
+
+msgid "Add Username Password Detail"
+msgstr "Ajouter Identifiant Mot de passe Détail"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Date Of Change"
+msgstr "Date du changement"
+
+msgid "Approve Username Password Detail "
+msgstr "Approuver Mot de passe Détail "
+
+msgid "Edit Username Password Detail "
+msgstr "Modifier Mot de passe Détail "
+
+msgid "New Username Password Detail"
+msgstr "Nouveau Mot de passe Détail"
+
+msgid "View Username Password Detail"
+msgstr "Voir Mot de passe Détail"
+
+msgid "You do not have sufficient permissions to access this page. <br/>Contact your administrator for permissions related issues."
+msgstr "Vous n'avez pas les permissions nécessaires pour accéder à cette page. <br/> Contactez votre administrateur pour les autorisations des questions connexes."
+
+msgid "Login Details"
+msgstr "Détails de connexion"
+
+msgid "Choose Other Details"
+msgstr "Choisissez Autres Détails"
+
+msgid "Choose User's Privileges"
+msgstr "Choisissez les privilèges de l'utilisateur"
+
+msgid "New MR User"
+msgstr "Nouveau MR utilisateur"
+
+msgid "User who can see other user's records"
+msgstr "L'utilisateur qui peut voir les dossiers des autres utilisateurs"
+
+msgid "User who can approve data added by other users"
+msgstr "L'utilisateur qui peut approuver les données ajoutées par d'autres utilisateurs"
+
+msgid "Benchmark:"
+msgstr "Indice de référence:"
+
+msgid "Estimated Data Entry Per Day From This User"
+msgstr "Estimation de saisie de données par jour de cet utilisateur"
+
+msgid "Copy permission from available user"
+msgstr "autorisation de copie de la disposition utilisateur"
+
+msgid "Go to Dashboard"
+msgstr "Aller à Dashboard"
+
+msgid "Approve User"
+msgstr "Approuver l'utilisateur"
+
+msgid "Login ID: "
+msgstr "ID de connexion: "
+
+msgid "Reset your Password"
+msgstr "Réinitialiser votre mot de passe"
+
+msgid "Current Password"
+msgstr "Mot de passe actuel"
+
+msgid "New Password"
+msgstr "Nouveau mot de passe"
+
+msgid "Confirm Password"
+msgstr "Confirmez le mot de passe"
+
+msgid "Non conformities are assigned to you for further actions requires your immediate attention, Check the list below under \"Non Conformity Actions Required\""
+msgstr "Non-conformités sont affectées à vous pour de nouvelles actions nécessite votre attention immédiate, consultez la liste ci-dessous sous \ "Actions non conformité requis \""
+
+msgid "SMTP is not setup properly."
+msgstr "SMTP n'est pas installé correctement."
+
+msgid "click here to setup SMTP"
+msgstr "cliquez ici pour la configuration SMTP"
+
+msgid "click here for more details"
+msgstr "cliquez ici pour plus de détails"
+
+msgid "Data Entry"
+msgstr "Saisie de données"
+
+msgid "Readiness <span class=\"glyphicon glyphicon-hand-right\"></span>"
+msgstr "Préparation <span class = \ "glyphicon glyphicon main droite \"> </ span>"
+
+msgid "60% Complete (warning)"
+msgstr "60% complète (avertissement)"
+
+msgid "Audit Trails"
+msgstr "Pistes de vérification"
+
+msgid "Number of CAPAs"
+msgstr "Nombre de CAPA"
+
+msgid "Open CAPAS"
+msgstr "CAPAS ouvertes"
+
+msgid "CAPAS Closed"
+msgstr "CAPAS fermé"
+
+msgid "Number of document change requests"
+msgstr "Nombre de demandes de modification de documents"
+
+msgid "Number of NCs found"
+msgstr "Nombre de CN trouvé"
+
+msgid "Number of NCs open"
+msgstr "Nombre de comités nationaux ouverts"
+
+msgid "Number of Customer Complaints recieved"
+msgstr "Nombre de plaintes des clients recieved"
+
+msgid "Number of Customer Complaints open"
+msgstr "Nombre de plaintes des clients ouverts"
+
+msgid "Pending Approvals"
+msgstr "Des approbations en attente"
+
+msgid "About"
+msgstr "A propos"
+
+msgid "Date/Time"
+msgstr "Date/Heure"
+
+msgid "Capa Assigned"
+msgstr "Capa Assigned"
+
+msgid "Device Maintenances"
+msgstr "Maintenances des périphériques"
+
+msgid "Timeline"
+msgstr "Chronologie"
+
+msgid "Record Graph"
+msgstr "Enregistrement graphique"
+
+msgid "Branch Graph"
+msgstr "Direction Graphique"
+
+msgid "Department Graph"
+msgstr "Département Graphique"
+
+msgid "System Usage"
+msgstr "Utilisation du système"
+
+msgid " By "
+msgstr " Par "
+
+msgid " on "
+msgstr " marche "
+
+msgid "Data Entry Section"
+msgstr "Section d'entrée de données"
+
+msgid "Quality Control Section"
+msgstr "Section du contrôle de la qualité"
+
+msgid "Personal & Admin Section"
+msgstr "Section personnelle et administration"
+
+msgid "Purchase Section"
+msgstr "Achat Section"
+
+msgid "Welcome Message"
+msgstr "Message de bienvenue"
+
+msgid "Message form Director"
+msgstr "Forme Message Directeur"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies by clicking on the links below. <br /> These documents are available for all users."
+msgstr "Vous pouvez ajouter / voir vos manuels compagnie de qualité / Procédures / Objectifs / Records / Politiques en cliquant sur les liens ci-dessous. <br /> Ces documents sont disponibles pour tous les utilisateurs."
+
+msgid "Edit User"
+msgstr "Modifier l'utilisateur"
+
+msgid "Welcome to FlinkISO&trade;"
+msgstr "Bienvenue à FlinkISO et le commerce;"
+
+msgid "Signin to access your dashboard"
+msgstr "Connectez vous pour accéder à votre tableau de bord"
+
+msgid "Please Enter username"
+msgstr "S'il vous plaît Entrez le nom d'utilisateur"
+
+msgid "Forgot password?"
+msgstr "Mot de passe oublié?"
+
+msgid "Latest News & Updates"
+msgstr "Dernières Nouvelles et mises à jour"
+
+msgid "Re-type Password"
+msgstr "Retaper Mot de passe"
+
+msgid "Install Sample Data"
+msgstr "Installer des exemples de données"
+
+msgid "Create My Free Account Now!"
+msgstr "Créer mon compte gratuit maintenant!"
+
+msgid "Forgot your password?"
+msgstr "Mot de passe oublié ?"
+
+msgid "Please enter the username you used for registration and you'll get an email with further instructions."
+msgstr "S'il vous plaît entrez le nom d'utilisateur que vous avez utilisé pour l'enregistrement et vous recevrez un email avec des instructions."
+
+msgid "User Name"
+msgstr "Nom d'utilisateur"
+
+msgid "Reset your password"
+msgstr "Réinitialiser votre mot de passe"
+
+msgid "Reset"
+msgstr "Réinitialiser"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Skip"
+msgstr "Passer"
+
+msgid "Record is locked"
+msgstr "Enregistrement est verrouillé"
+
+msgid "This record is under process and assigned to other user for updation. You can not access this record while its locked. <br/>Contact your administrator for permissions related issues."
+msgstr "Cet enregistrement est en cours de traitement et affectée à un autre utilisateur pour Updation. Vous ne pouvez pas accéder à ce dossier alors que son verrouillage. <br/> Contactez votre administrateur pour les autorisations des questions connexes."
+
+msgid "Set User Access"
+msgstr "Définir l'accès de l'utilisateur"
+
+msgid "Username : "
+msgstr "Nom d'utilisateur: "
+
+msgid "Name : "
+msgstr "Nom : "
+
+msgid "More..."
+msgstr "Plús..."
+
+msgid "View User"
+msgstr "Voir l'utilisateur"
+
+msgid "Manage Access Control"
+msgstr "Gérer le contrôle d'accès"
+
+msgid "Is View All?"
+msgstr "Est Voir tous?"
+
+msgid "Is Approver?"
+msgstr "Est approbateur?"
+
+msgid "Login Status"
+msgstr "Connexion état"
+

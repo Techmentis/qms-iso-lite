@@ -1,0 +1,2 @@
+<h3><small><?php echo $this->Html->link('Dashboard',array('controller'=>'users','action'=>'dashboard'));?> / </small><?php echo __('Document Readiness') ?></h3>
+<?php echo $this->element('readiness')?>

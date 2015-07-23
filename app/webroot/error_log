@@ -1,0 +1,863 @@
+[08-Aug-2014 18:05:47 Asia/Calcutta] PHP Fatal error:  Class 'PDO' not found in /home/appflink/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 179
+[08-Aug-2014 18:05:47 Asia/Calcutta] PHP Fatal error:  Class 'PDO' not found in /home/appflink/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 179
+[08-Aug-2014 18:15:31 Asia/Calcutta] PHP Fatal error:  Class 'PDO' not found in /home/appflink/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 179
+[08-Aug-2014 18:15:31 Asia/Calcutta] PHP Fatal error:  Class 'PDO' not found in /home/appflink/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 179
+[08-Aug-2014 20:07:06 Asia/Calcutta] PHP Fatal error:  Class 'PDO' not found in /home/appflink/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 179
+[08-Aug-2014 20:07:06 Asia/Calcutta] PHP Fatal error:  Class 'PDO' not found in /home/appflink/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 179
+[09-Aug-2014 14:03:49 Asia/Calcutta] PHP Fatal error:  Class 'PDO' not found in /home/appflink/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 179
+[09-Aug-2014 14:03:49 Asia/Calcutta] PHP Fatal error:  Class 'PDO' not found in /home/appflink/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 179
+[09-Aug-2014 14:22:01 Asia/Calcutta] PHP Fatal error:  [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/appflink/public_html/demo/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(3245): ConnectionManager::getDataSource('default')
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#4 /home/appflink/public_html/demo/app/Controller/AppController.php(1892): Model->find('all', Array)
+#5 [internal function]: AppController->language_details()
+#6 /home/appflink/public_html/demo/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(AppController), Array)
+#7 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(AppControl in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:24:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 444
+[09-Aug-2014 14:24:19 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(76): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:24:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 444
+[09-Aug-2014 14:24:24 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(76): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:24:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 444
+[09-Aug-2014 14:24:37 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(76): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:24:49 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 444
+[09-Aug-2014 14:24:49 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(76): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:25:00 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 444
+[09-Aug-2014 14:25:01 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(76): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:25:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 444
+[09-Aug-2014 14:25:12 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(76): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:25:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 444
+[09-Aug-2014 14:25:27 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(76): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:25:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 444
+[09-Aug-2014 14:25:41 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(76): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:26:03 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 444
+[09-Aug-2014 14:26:03 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(76): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:26:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 444
+[09-Aug-2014 14:26:19 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(76): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:26:34 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 444
+[09-Aug-2014 14:26:34 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(76): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:26:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 444
+[09-Aug-2014 14:26:48 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(76): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:27:04 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 444
+[09-Aug-2014 14:27:04 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(76): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:27:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 444
+[09-Aug-2014 14:27:12 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(76): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:27:18 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 444
+[09-Aug-2014 14:27:18 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(76): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:27:33 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:27:33 Asia/Calcutta] PHP Fatal error:  [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/appflink/public_html/demo/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(3245): ConnectionManager::getDataSource('default')
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#4 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#7 /home/appflink/public_html/demo/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(184): Controller->startupProcess()
+#9 /home/ in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:27:33 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:27:33 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:27:33 Asia/Calcutta] PHP Fatal error:  [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/appflink/public_html/demo/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(3245): ConnectionManager::getDataSource('default')
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#4 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#7 /home/appflink/public_html/demo/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(184): Controller->startupProcess()
+#9 /home/ in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:27:35 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:27:35 Asia/Calcutta] PHP Fatal error:  [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/appflink/public_html/demo/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(3245): ConnectionManager::getDataSource('default')
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#4 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#7 /home/appflink/public_html/demo/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(184): Controller->startupProcess()
+#9 /home/ in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:27:35 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:27:35 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:27:35 Asia/Calcutta] PHP Fatal error:  [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/appflink/public_html/demo/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(3245): ConnectionManager::getDataSource('default')
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#4 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#7 /home/appflink/public_html/demo/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(184): Controller->startupProcess()
+#9 /home/ in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:29:05 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:29:05 Asia/Calcutta] PHP Fatal error:  [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/appflink/public_html/demo/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(3245): ConnectionManager::getDataSource('default')
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#4 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#7 /home/appflink/public_html/demo/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(184): Controller->startupProcess()
+#9 /home/ in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:29:05 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:29:33 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:29:33 Asia/Calcutta] PHP Fatal error:  [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/appflink/public_html/demo/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(3245): ConnectionManager::getDataSource('default')
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#4 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#7 /home/appflink/public_html/demo/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(184): Controller->startupProcess()
+#9 /home/ in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:29:33 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:31:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/appflink/public_html/demo/app/Config/database.php on line 72
+[09-Aug-2014 14:31:27 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:31:27 Asia/Calcutta] PHP Fatal error:  [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+#0 /home/appflink/public_html/demo/lib/Cake/Model/ConnectionManager.php(93): ConnectionManager::_getConnectionObject('default')
+#1 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(3245): ConnectionManager::getDataSource('default')
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#3 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#4 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#5 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#6 /home/appflink/public_html/demo/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#7 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(184): Controller->startupProcess()
+#8 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(162): Disp in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:31:29 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:31:29 Asia/Calcutta] PHP Fatal error:  [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/appflink/public_html/demo/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(3245): ConnectionManager::getDataSource('default')
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#4 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#7 /home/appflink/public_html/demo/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(184): Controller->startupProcess()
+#9 /home/ in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:31:29 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:32:07 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:32:07 Asia/Calcutta] PHP Fatal error:  [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/appflink/public_html/demo/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(3245): ConnectionManager::getDataSource('default')
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#4 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#7 /home/appflink/public_html/demo/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(184): Controller->startupProcess()
+#9 /home/ in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:32:07 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:32:58 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:32:58 Asia/Calcutta] PHP Fatal error:  [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/appflink/public_html/demo/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(3245): ConnectionManager::getDataSource('default')
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#4 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#7 /home/appflink/public_html/demo/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(184): Controller->startupProcess()
+#9 /home/ in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:32:58 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:33:25 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:33:25 Asia/Calcutta] PHP Fatal error:  [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/appflink/public_html/demo/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(3245): ConnectionManager::getDataSource('default')
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#4 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#7 /home/appflink/public_html/demo/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(184): Controller->startupProcess()
+#9 /home/ in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:33:25 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:34:12 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:34:12 Asia/Calcutta] PHP Fatal error:  [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/appflink/public_html/demo/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(3245): ConnectionManager::getDataSource('default')
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#4 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#7 /home/appflink/public_html/demo/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(184): Controller->startupProcess()
+#9 /home/ in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:34:12 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:34:29 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:34:29 Asia/Calcutta] PHP Fatal error:  [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/appflink/public_html/demo/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(3245): ConnectionManager::getDataSource('default')
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#4 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#7 /home/appflink/public_html/demo/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(184): Controller->startupProcess()
+#9 /home/ in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:34:29 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:35:33 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:35:33 Asia/Calcutta] PHP Fatal error:  [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/appflink/public_html/demo/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(3245): ConnectionManager::getDataSource('default')
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#4 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#7 /home/appflink/public_html/demo/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(184): Controller->startupProcess()
+#9 /home/ in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:35:33 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:35:35 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:35:35 Asia/Calcutta] PHP Fatal error:  [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/appflink/public_html/demo/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(3245): ConnectionManager::getDataSource('default')
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#4 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#7 /home/appflink/public_html/demo/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(184): Controller->startupProcess()
+#9 /home/ in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:35:35 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:35:35 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:35:35 Asia/Calcutta] PHP Fatal error:  [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/appflink/public_html/demo/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(3245): ConnectionManager::getDataSource('default')
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#4 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#7 /home/appflink/public_html/demo/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /home/appflink/public_html/demo/lib/Cake/Routing/Dispatcher.php(184): Controller->startupProcess()
+#9 /home/ in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:35:35 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:36:41 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:36:41 Asia/Calcutta] PHP Fatal error:  [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'appflink_flinkisodemo.users' doesn't exist
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php(310): DboSource->_execute('SHOW FULL COLUM...')
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(1322): Mysql->describe(Object(User))
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(2294): Model->schema()
+#4 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(1050): DboSource->fields(Object(User))
+#5 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): DboSource->read(Object(User), Array)
+#6 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#7 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#8 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_us in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:36:41 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:39:55 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:39:55 Asia/Calcutta] PHP Fatal error:  [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'appflink_flinkisodemo.users' doesn't exist
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php(310): DboSource->_execute('SHOW FULL COLUM...')
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(1322): Mysql->describe(Object(User))
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(2294): Model->schema()
+#4 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(1050): DboSource->fields(Object(User))
+#5 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): DboSource->read(Object(User), Array)
+#6 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#7 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#8 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_us in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:39:55 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:40:12 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[09-Aug-2014 14:40:12 Asia/Calcutta] PHP Fatal error:  [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'appflink_flinkisodemo.users' doesn't exist
+#0 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php(310): DboSource->_execute('SHOW FULL COLUM...')
+#2 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(1322): Mysql->describe(Object(User))
+#3 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(2294): Model->schema()
+#4 /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php(1050): DboSource->fields(Object(User))
+#5 /home/appflink/public_html/demo/lib/Cake/Model/Model.php(2696): DboSource->read(Object(User), Array)
+#6 /home/appflink/public_html/demo/app/Controller/AppController.php(76): Model->find('first', Array)
+#7 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#8 /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php(248): call_us in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[09-Aug-2014 14:40:12 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[25-Aug-2014 11:55:24 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appflink/public_html/demo/app/Model/Stock.php on line 226
+[25-Aug-2014 11:55:24 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[25-Aug-2014 15:14:02 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/appflink/public_html/demo/app/Controller/UsersController.php on line 846
+[25-Aug-2014 15:15:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/appflink/public_html/demo/app/Controller/UsersController.php on line 846
+[25-Aug-2014 15:18:05 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/appflink/public_html/demo/app/Controller/UsersController.php on line 846
+[25-Aug-2014 15:20:36 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/appflink/public_html/demo/app/Controller/UsersController.php on line 846
+[25-Aug-2014 15:31:31 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php on line 111
+[25-Aug-2014 15:31:31 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[25-Aug-2014 15:34:21 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appflink/public_html/demo/lib/Cake/Event/CakeEventManager.php on line 111
+[25-Aug-2014 15:34:21 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[25-Aug-2014 15:52:31 Asia/Calcutta] PHP Fatal error:  Call to undefined function _() in /home/appflink/public_html/demo/app/View/Messages/add.ctp on line 63
+[25-Aug-2014 15:52:46 Asia/Calcutta] PHP Fatal error:  Call to undefined function _() in /home/appflink/public_html/demo/app/View/Messages/add.ctp on line 63
+[25-Aug-2014 16:33:30 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 240 bytes) in /home/appflink/public_html/demo/app/Model/SoftwareType.php on line 105
+[25-Aug-2014 16:33:30 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[25-Aug-2014 16:33:45 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 240 bytes) in /home/appflink/public_html/demo/app/Model/SoftwareType.php on line 105
+[25-Aug-2014 16:33:45 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[25-Aug-2014 16:45:46 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 240 bytes) in /home/appflink/public_html/demo/app/Model/SoftwareType.php on line 105
+[25-Aug-2014 16:45:46 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[25-Aug-2014 16:49:55 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 240 bytes) in /home/appflink/public_html/demo/app/Model/SoftwareType.php on line 105
+[25-Aug-2014 16:49:55 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[25-Aug-2014 17:24:44 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appflink/public_html/demo/app/Model/SoftwareType.php on line 105
+[25-Aug-2014 17:24:44 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[25-Aug-2014 17:26:33 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 240 bytes) in /home/appflink/public_html/demo/app/Model/SoftwareType.php on line 105
+[25-Aug-2014 17:26:33 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[25-Aug-2014 17:26:41 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appflink/public_html/demo/app/Model/SoftwareType.php on line 105
+[25-Aug-2014 17:26:41 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[25-Aug-2014 18:59:39 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 240 bytes) in /home/appflink/public_html/demo/app/Model/SoftwareType.php on line 105
+[25-Aug-2014 18:59:39 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[25-Aug-2014 19:02:50 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 240 bytes) in /home/appflink/public_html/demo/app/Model/SoftwareType.php on line 105
+[25-Aug-2014 19:02:50 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[26-Aug-2014 17:23:51 Asia/Calcutta] PHP Fatal error:  Call to a member function find() on a non-object in /home/appflink/public_html/demo/app/Controller/CorrectivePreventiveActionsController.php on line 499
+[12-Sep-2014 12:47:07 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 64 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/BehaviorCollection.php on line 131
+[12-Sep-2014 12:47:07 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[12-Sep-2014 12:47:23 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 64 bytes) in /home/appflink/public_html/demo/app/Model/Behavior/WhoDidItBehavior.php on line 51
+[12-Sep-2014 12:47:23 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[12-Sep-2014 14:04:52 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 64 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/BehaviorCollection.php on line 131
+[12-Sep-2014 14:04:52 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[12-Sep-2014 14:05:25 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 64 bytes) in /home/appflink/public_html/demo/app/Model/Behavior/WhoDidItBehavior.php on line 51
+[12-Sep-2014 14:05:25 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[12-Sep-2014 14:12:03 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 64 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/BehaviorCollection.php on line 131
+[12-Sep-2014 14:12:03 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[12-Sep-2014 14:27:55 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 85 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1090
+[12-Sep-2014 14:27:55 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[12-Sep-2014 15:37:43 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 200 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1402
+[12-Sep-2014 15:37:43 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[12-Sep-2014 19:14:42 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1114
+[12-Sep-2014 19:14:42 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[12-Sep-2014 20:52:39 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1114
+[12-Sep-2014 20:52:39 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[15-Sep-2014 14:31:45 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 18 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1114
+[15-Sep-2014 14:31:45 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[15-Sep-2014 14:32:22 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1114
+[15-Sep-2014 14:32:22 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[19-Sep-2014 16:04:53 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 213 bytes) in /home/appflink/public_html/demo/lib/Cake/Utility/Inflector.php on line 366
+[19-Sep-2014 16:04:53 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[19-Sep-2014 16:05:30 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 213 bytes) in /home/appflink/public_html/demo/lib/Cake/Utility/Inflector.php on line 366
+[19-Sep-2014 16:05:30 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[19-Sep-2014 16:06:19 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 248 bytes) in /home/appflink/public_html/demo/app/Model/DeviceMaintenance.php on line 142
+[19-Sep-2014 16:06:19 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[19-Sep-2014 16:10:58 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 248 bytes) in /home/appflink/public_html/demo/app/Model/Error.php on line 16
+[19-Sep-2014 16:10:58 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[01-Oct-2014 16:16:45 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 95 bytes) in /home/appflink/public_html/demo/lib/Cake/I18n/I18n.php on line 477
+[01-Oct-2014 16:17:18 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 102 bytes) in /home/appflink/public_html/demo/lib/Cake/I18n/I18n.php on line 477
+[01-Oct-2014 16:18:04 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 130 bytes) in /home/appflink/public_html/demo/lib/Cake/I18n/I18n.php on line 477
+[01-Oct-2014 16:21:50 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 460
+[01-Oct-2014 16:21:50 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[01-Oct-2014 16:28:02 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1114
+[01-Oct-2014 16:28:02 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[01-Oct-2014 16:50:38 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 78 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1090
+[01-Oct-2014 16:50:38 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[01-Oct-2014 16:52:34 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2048 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1114
+[01-Oct-2014 16:52:34 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[01-Oct-2014 16:52:53 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2048 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1114
+[01-Oct-2014 16:52:53 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[01-Oct-2014 16:54:35 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2048 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1114
+[01-Oct-2014 16:54:35 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[01-Oct-2014 16:58:38 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 83 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1090
+[01-Oct-2014 16:58:38 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[01-Oct-2014 17:05:05 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 83 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1090
+[01-Oct-2014 17:05:05 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[01-Oct-2014 17:16:23 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 112 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1319
+[01-Oct-2014 17:16:23 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[01-Oct-2014 17:16:40 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 213 bytes) in /home/appflink/public_html/demo/lib/Cake/Utility/Inflector.php on line 366
+[01-Oct-2014 17:16:40 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[01-Oct-2014 17:17:06 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 734 bytes) in /home/appflink/public_html/demo/lib/Cake/Utility/Inflector.php on line 371
+[01-Oct-2014 17:17:06 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[01-Oct-2014 17:25:07 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 64 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 3225
+[01-Oct-2014 17:25:07 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[01-Oct-2014 17:25:30 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 64 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 3225
+[01-Oct-2014 17:25:30 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[01-Oct-2014 17:27:16 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 78 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1090
+[01-Oct-2014 17:27:16 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[01-Oct-2014 17:27:34 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 64 bytes) in /home/appflink/public_html/demo/app/Model/Behavior/WhoDidItBehavior.php on line 51
+[01-Oct-2014 17:27:34 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[01-Oct-2014 17:28:13 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 738 bytes) in /home/appflink/public_html/demo/lib/Cake/Utility/Inflector.php on line 371
+[01-Oct-2014 17:28:13 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[01-Oct-2014 17:29:05 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 738 bytes) in /home/appflink/public_html/demo/lib/Cake/Utility/Inflector.php on line 371
+[01-Oct-2014 17:29:05 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[07-Oct-2014 12:46:11 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 79 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1090
+[07-Oct-2014 12:46:11 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[07-Oct-2014 12:46:37 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 78 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1090
+[07-Oct-2014 12:46:37 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[07-Oct-2014 12:47:01 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 78 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1090
+[07-Oct-2014 12:47:01 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[07-Oct-2014 15:03:23 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 83 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1090
+[07-Oct-2014 15:03:23 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[07-Oct-2014 15:03:33 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 82 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Model.php on line 1090
+[07-Oct-2014 15:03:33 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[08-Oct-2014 02:34:44 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 632 bytes) in /home/appflink/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 460
+[08-Oct-2014 02:34:44 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[10-Oct-2014 10:55:14 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3074 bytes) in /home/appflink/public_html/demo/app/Model/Report.php on line 152
+[10-Oct-2014 10:55:14 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[10-Oct-2014 10:55:19 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3074 bytes) in /home/appflink/public_html/demo/app/Model/Report.php on line 152
+[10-Oct-2014 10:55:19 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[10-Oct-2014 11:59:48 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appflink/public_html/demo/app/Model/Report.php on line 152
+[10-Oct-2014 11:59:48 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[10-Oct-2014 12:00:01 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3074 bytes) in /home/appflink/public_html/demo/app/Model/Report.php on line 152
+[10-Oct-2014 12:00:01 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[10-Oct-2014 12:04:03 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2186 bytes) in /home/appflink/public_html/demo/app/Model/Report.php on line 152
+[10-Oct-2014 12:04:03 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[10-Oct-2014 12:10:14 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2186 bytes) in /home/appflink/public_html/demo/app/Model/Report.php on line 152
+[10-Oct-2014 12:10:14 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[10-Oct-2014 12:13:59 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 248 bytes) in /home/appflink/public_html/demo/app/Model/FireExtinguisher.php on line 150
+[10-Oct-2014 12:13:59 Asia/Calcutta] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[10-Oct-2014 12:14:52 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/appflink/public_html/demo/app/Controller/ReportsController.php on line 2833
+[12-Oct-2014 16:55:51 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1007
+[12-Oct-2014 16:55:51 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 16:55:51 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 16:55:53 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1007
+[12-Oct-2014 16:55:53 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 16:55:53 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 16:55:53 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1007
+[12-Oct-2014 16:55:53 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 16:55:53 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 16:55:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1007
+[12-Oct-2014 16:55:58 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 16:55:58 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 16:55:59 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1007
+[12-Oct-2014 16:55:59 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 16:55:59 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 16:55:59 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1007
+[12-Oct-2014 16:56:00 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 16:56:00 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 16:56:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1007
+[12-Oct-2014 16:56:23 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 16:56:23 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 16:56:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1007
+[12-Oct-2014 16:56:24 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 16:56:24 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 16:56:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1007
+[12-Oct-2014 16:56:24 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 16:56:24 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 17:59:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''Approval.record_status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/appflink/public_html/demo/app/Controller/AppController.php on line 290
+[12-Oct-2014 17:59:13 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 17:59:13 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 17:59:14 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''Approval.record_status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/appflink/public_html/demo/app/Controller/AppController.php on line 290
+[12-Oct-2014 17:59:14 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 17:59:14 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 17:59:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''Approval.record_status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/appflink/public_html/demo/app/Controller/AppController.php on line 290
+[12-Oct-2014 17:59:15 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 17:59:15 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 18:01:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''Approval.record_status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/appflink/public_html/demo/app/Controller/AppController.php on line 290
+[12-Oct-2014 18:01:12 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 18:01:12 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 18:01:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''Approval.record_status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/appflink/public_html/demo/app/Controller/AppController.php on line 290
+[12-Oct-2014 18:01:13 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 18:01:13 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 18:01:14 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''Approval.record_status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/appflink/public_html/demo/app/Controller/AppController.php on line 290
+[12-Oct-2014 18:01:14 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 18:01:14 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 18:09:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1064
+[12-Oct-2014 18:09:57 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 18:09:57 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 18:23:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1007
+[12-Oct-2014 18:23:41 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 18:23:41 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 18:23:42 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1007
+[12-Oct-2014 18:23:42 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 18:23:42 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 18:23:42 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1007
+[12-Oct-2014 18:23:42 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 18:23:42 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 18:24:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1007
+[12-Oct-2014 18:24:12 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 18:24:12 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 18:24:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1007
+[12-Oct-2014 18:24:13 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 18:24:13 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[12-Oct-2014 18:24:14 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1007
+[12-Oct-2014 18:24:14 Asia/Calcutta] PHP Notice:  Undefined property: InternalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[12-Oct-2014 18:24:14 Asia/Calcutta] PHP Fatal error:  [MissingControllerException] Controller class AppController could not be found.
+#0 /home/appflink/public_html/demo/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp(81): Object->requestAction('App/language_de...')
+#2 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#3 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View->_evaluate('/home/appflink/...', Array)
+#4 /home/appflink/public_html/demo/lib/Cake/View/View.php(1210): View->_render('/home/appflink/...', Array)
+#5 /home/appflink/public_html/demo/lib/Cake/View/View.php(414): View->_renderElement('/home/appflink/...', Array, Array)
+#6 /home/appflink/public_html/demo/app/View/Layouts/default.ctp(128): View->element('top-menu')
+#7 /home/appflink/public_html/demo/lib/Cake/View/View.php(947): include('/home/appflink/...')
+#8 /home/appflink/public_html/demo/lib/Cake/View/View.php(909): View-> in /home/appflink/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 132
+[26-Oct-2014 01:06:35 Asia/Calcutta] PHP Fatal error:  Call to a member function find() on a non-object in /home/appflink/public_html/demo/app/Controller/CompaniesController.php on line 70
+[26-Oct-2014 01:07:16 Asia/Calcutta] PHP Fatal error:  Call to a member function find() on a non-object in /home/appflink/public_html/demo/app/Controller/CompaniesController.php on line 70
+[05-Nov-2014 17:21:30 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3676150 bytes) in /home/appflink/public_html/demo/lib/Cake/Utility/String.php on line 243
+[05-Nov-2014 17:21:30 Asia/Calcutta] PHP Notice:  Undefined index: CreatedBy in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1012
+[05-Nov-2014 17:21:30 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[05-Nov-2014 17:21:30 Asia/Calcutta] PHP Notice:  Undefined index: Company in /home/appflink/public_html/demo/app/View/Layouts/default.ctp on line 30
+[05-Nov-2014 17:21:30 Asia/Calcutta] PHP Notice:  Undefined index: Company in /home/appflink/public_html/demo/app/View/Layouts/default.ctp on line 114
+[05-Nov-2014 17:21:30 Asia/Calcutta] PHP Notice:  Undefined index: Company in /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp on line 99
+[05-Nov-2014 17:21:32 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3676150 bytes) in /home/appflink/public_html/demo/lib/Cake/Utility/String.php on line 243
+[05-Nov-2014 17:21:32 Asia/Calcutta] PHP Notice:  Undefined index: CreatedBy in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1012
+[05-Nov-2014 17:21:32 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[05-Nov-2014 17:21:32 Asia/Calcutta] PHP Notice:  Undefined index: Company in /home/appflink/public_html/demo/app/View/Layouts/default.ctp on line 30
+[05-Nov-2014 17:21:32 Asia/Calcutta] PHP Notice:  Undefined index: Company in /home/appflink/public_html/demo/app/View/Layouts/default.ctp on line 114
+[05-Nov-2014 17:21:32 Asia/Calcutta] PHP Notice:  Undefined index: Company in /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp on line 99
+[05-Nov-2014 17:21:33 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3676150 bytes) in /home/appflink/public_html/demo/lib/Cake/Utility/String.php on line 243
+[05-Nov-2014 17:21:33 Asia/Calcutta] PHP Notice:  Undefined index: CreatedBy in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1012
+[05-Nov-2014 17:21:33 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[05-Nov-2014 17:21:33 Asia/Calcutta] PHP Notice:  Undefined index: Company in /home/appflink/public_html/demo/app/View/Layouts/default.ctp on line 30
+[05-Nov-2014 17:21:33 Asia/Calcutta] PHP Notice:  Undefined index: Company in /home/appflink/public_html/demo/app/View/Layouts/default.ctp on line 114
+[05-Nov-2014 17:21:33 Asia/Calcutta] PHP Notice:  Undefined index: Company in /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp on line 99
+[05-Nov-2014 18:10:07 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/appflink/public_html/demo/app/Controller/UsersController.php on line 313
+[05-Nov-2014 18:10:17 Asia/Calcutta] PHP Warning:  get_class() expects parameter 1 to be object, resource given in /home/appflink/public_html/demo/lib/Cake/Utility/Debugger.php on line 579
+[05-Nov-2014 18:10:17 Asia/Calcutta] PHP Warning:  get_object_vars() expects parameter 1 to be object, resource given in /home/appflink/public_html/demo/lib/Cake/Utility/Debugger.php on line 585
+[05-Nov-2014 18:10:17 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/appflink/public_html/demo/lib/Cake/Utility/Debugger.php on line 586
+[05-Nov-2014 18:10:17 Asia/Calcutta] PHP Warning:  ReflectionObject::__construct() expects parameter 1 to be object, resource given in /home/appflink/public_html/demo/lib/Cake/Utility/Debugger.php on line 592
+[05-Nov-2014 18:10:17 Asia/Calcutta] PHP Fatal error:  ReflectionClass::getProperties() [<a href='http://php.net/reflectionclass.getproperties'>reflectionclass.getproperties</a>]: Internal error: Failed to retrieve the reflection object in /home/appflink/public_html/demo/lib/Cake/Utility/Debugger.php on line 594
+[05-Nov-2014 18:10:17 Asia/Calcutta] PHP Notice:  Undefined index: CreatedBy in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1012
+[05-Nov-2014 18:10:17 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[05-Nov-2014 18:10:17 Asia/Calcutta] PHP Notice:  Undefined index: Company in /home/appflink/public_html/demo/app/View/Layouts/default.ctp on line 30
+[05-Nov-2014 18:10:17 Asia/Calcutta] PHP Notice:  Undefined index: Company in /home/appflink/public_html/demo/app/View/Layouts/default.ctp on line 114
+[05-Nov-2014 18:10:17 Asia/Calcutta] PHP Notice:  Undefined index: Company in /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp on line 99
+[05-Nov-2014 18:10:50 Asia/Calcutta] PHP Warning:  get_class() expects parameter 1 to be object, resource given in /home/appflink/public_html/demo/lib/Cake/Utility/Debugger.php on line 579
+[05-Nov-2014 18:10:50 Asia/Calcutta] PHP Warning:  get_object_vars() expects parameter 1 to be object, resource given in /home/appflink/public_html/demo/lib/Cake/Utility/Debugger.php on line 585
+[05-Nov-2014 18:10:50 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/appflink/public_html/demo/lib/Cake/Utility/Debugger.php on line 586
+[05-Nov-2014 18:10:50 Asia/Calcutta] PHP Warning:  ReflectionObject::__construct() expects parameter 1 to be object, resource given in /home/appflink/public_html/demo/lib/Cake/Utility/Debugger.php on line 592
+[05-Nov-2014 18:10:50 Asia/Calcutta] PHP Fatal error:  ReflectionClass::getProperties() [<a href='http://php.net/reflectionclass.getproperties'>reflectionclass.getproperties</a>]: Internal error: Failed to retrieve the reflection object in /home/appflink/public_html/demo/lib/Cake/Utility/Debugger.php on line 594
+[05-Nov-2014 18:10:50 Asia/Calcutta] PHP Notice:  Undefined index: CreatedBy in /home/appflink/public_html/demo/app/Controller/AppController.php on line 1012
+[05-Nov-2014 18:10:51 Asia/Calcutta] PHP Notice:  Undefined property: FatalErrorException::$errorInfo in /home/appflink/public_html/demo/app/View/Errors/error500.ctp on line 23
+[05-Nov-2014 18:10:51 Asia/Calcutta] PHP Notice:  Undefined index: Company in /home/appflink/public_html/demo/app/View/Layouts/default.ctp on line 30
+[05-Nov-2014 18:10:51 Asia/Calcutta] PHP Notice:  Undefined index: Company in /home/appflink/public_html/demo/app/View/Layouts/default.ctp on line 114
+[05-Nov-2014 18:10:51 Asia/Calcutta] PHP Notice:  Undefined index: Company in /home/appflink/public_html/demo/app/View/Elements/top-menu.ctp on line 99
+[05-Nov-2014 18:18:58 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/appflink/public_html/demo/app/Controller/UsersController.php on line 2355
+[05-Nov-2014 18:18:58 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3676661 bytes) in /home/appflink/public_html/demo/lib/Cake/Utility/String.php on line 243
+[05-Nov-2014 18:19:02 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/appflink/public_html/demo/app/Controller/UsersController.php on line 2355
+[05-Nov-2014 18:19:03 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3676661 bytes) in /home/appflink/public_html/demo/lib/Cake/Utility/String.php on line 243
+[05-Nov-2014 18:19:34 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/appflink/public_html/demo/app/Controller/UsersController.php on line 2355
+[05-Nov-2014 18:19:35 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3676661 bytes) in /home/appflink/public_html/demo/lib/Cake/Utility/String.php on line 243
+[05-Nov-2014 18:50:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/appflink/public_html/demo/app/Controller/UsersController.php on line 313
+[05-Nov-2014 18:50:40 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''g' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/appflink/public_html/demo/app/Controller/UsersController.php on line 1183
+[05-Nov-2014 19:47:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''Master' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/appflink/public_html/demo/app/Controller/UsersController.php on line 1780

@@ -1,0 +1,1 @@
+<?php echo $approval_files_count ; ?>

@@ -1,0 +1,6002 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-08-20 19:34+0530\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Access Denied"
+msgstr "الدخول غير مقبول."
+
+msgid "Please login to continue"
+msgstr "يرجى تسجيل الدخول إلى مواصلة"
+
+msgid "Master list of formats already exist."
+msgstr "قائمة رئيسية من صيغ موجودة بالفعل."
+
+msgid "Please sign in to access the application"
+msgstr "الرجاء تسجيل الدخول للوصول إلى التطبيق"
+
+msgid "This appraisal can not be edited as the appraisal date has passed or it is being answered by Employee (Appraisee)."
+msgstr "لا يمكن تحرير هذا التقييم موعدا تقييم مرت أو يتم الرد عليه من قبل الموظف (Appraisee)."
+
+msgid "Selected %s deleted <br> Except (%d) values due to their pending approvals"
+msgstr "اختيار %s حذف <BR> باستثناء ( %d ) القيم بسبب الموافقات المعلقة الخاصة"
+
+msgid "All selected %s deleted"
+msgstr "كل مختارة %s حذفها"
+
+msgid "Invalid detail"
+msgstr "التفاصيل غير صالح"
+
+msgid "All selected value was not deleted"
+msgstr "لم يتم حذف جميع القيمة المحددة"
+
+msgid "All %s was not deleted"
+msgstr "جميع %s لم يتم حذف"
+
+msgid "All %s restored"
+msgstr "جميع %s استعادة"
+
+msgid "%s restored"
+msgstr "%s استعادة"
+
+msgid "Selected %s Deleted"
+msgstr "اختيار %s المحذوفة"
+
+msgid "All selected value was not deleted from Approve"
+msgstr "لم يتم حذف جميع القيمة المحددة من الموافقة"
+
+msgid "Selected %s was not deleted"
+msgstr "اختيار %s لم يتم حذف"
+
+msgid "Please make sure you have created the proper report. It looks like you have not defined the table class (single/multiple) "
+msgstr "من فضلك تأكد من خلقت التقرير المناسب. يبدو أنك لم تحدد الجدول الدرجة (واحد / متعددة) "
+
+msgid "You can't publish meeting records."
+msgstr "لا يمكنك نشر محاضر الاجتماعات."
+
+msgid "Record published successfully."
+msgstr "سجل نشرت بنجاح."
+
+msgid "Invalid appraisal question"
+msgstr "تقييم السؤال غير صالح"
+
+msgid "The appraisal question has been saved"
+msgstr "تم حفظ مسألة تقييم"
+
+msgid "The appraisal question could not be saved. Please, try again."
+msgstr "تعذر حفظ السؤال التقييم. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid approval id"
+msgstr "معرف موافقة صالح"
+
+msgid "The appraisal question has been saved."
+msgstr "تم حفظ السؤال التقييم."
+
+msgid "Invalid appraisal"
+msgstr "تقييم غير صالح"
+
+msgid "The appraisal has been saved"
+msgstr "تم حفظ التقييم"
+
+msgid "The appraisal has been saved."
+msgstr "تم حفظ التقييم."
+
+msgid "The appraisal could not be saved. Please, try again."
+msgstr "لا يمكن حفظ التقييم. من فضلك، حاول مرة أخرى."
+
+msgid "All selected value deleted"
+msgstr "عن القيمة المحددة حذف"
+
+msgid "All selected values deleted"
+msgstr "كل القيم المختارة حذفها"
+
+msgid "All selected value restored"
+msgstr "عن القيمة المحددة استعادة"
+
+msgid "Invalid performance review token, try again."
+msgstr "مراجعة الأداء رمز غير صالح، حاول مرة أخرى."
+
+msgid "Appraisal Answers Saved."
+msgstr "تقييم الأجوبة المحفوظة."
+
+msgid "There are no appraisal questions."
+msgstr "لا توجد أسئلة التقييم."
+
+msgid "No email id available for this employee, try again."
+msgstr "لا يوجد معرف البريد الإلكتروني المتاح لهذا الموظف، وحاول مرة أخرى."
+
+msgid "Can not send appraisal questions to user. Please check SMTP details, Email Id of employee."
+msgstr "لا يمكن إرسال الأسئلة إلى تقييم المستخدم. يرجى مراجعة التفاصيل SMTP، البريد الإلكتروني هوية الموظف."
+
+msgid "The Benchmarks has been saved.."
+msgstr "تم حفظ المقاييس .."
+
+msgid "Invalid branch"
+msgstr "فرع صالح"
+
+msgid "The branch has been saved"
+msgstr "تم حفظ فرع"
+
+msgid "The branch could not be saved. Please, try again."
+msgstr "تعذر حفظ الفرع. من فضلك، حاول مرة أخرى."
+
+msgid "The branch has been saved."
+msgstr "تم حفظ الفرع."
+
+msgid "Invalid calibration"
+msgstr "المعايرة غير صالحة"
+
+msgid "The calibration has been saved"
+msgstr "تم حفظ المعايرة"
+
+msgid "The calibration could not be saved. Please, try again."
+msgstr "تعذر حفظ المعايرة. من فضلك، حاول مرة أخرى."
+
+msgid "The Calibration has been saved."
+msgstr "تم حفظ المعايرة."
+
+msgid "Invalid capa category"
+msgstr "فئة كابا غير صالحة"
+
+msgid "The capa category has been saved"
+msgstr "تم حفظ فئة كابا"
+
+msgid "The capa category could not be saved. Please, try again."
+msgstr "تعذر حفظ فئة كابا. من فضلك، حاول مرة أخرى."
+
+msgid "The capa category has been saved."
+msgstr "تم حفظ فئة كابا."
+
+msgid "Invalid capa source"
+msgstr "مصدر كابا غير صالح"
+
+msgid "The capa source has been saved"
+msgstr "تم حفظ مصدر كابا"
+
+msgid "The capa source could not be saved. Please, try again."
+msgstr "تعذر حفظ مصدر كابا. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid change addition deletion request"
+msgstr "التغيير غير صالح الطلب بالإضافة الحذف"
+
+msgid "The change addition deletion request has been saved but fail to send email. Please check smtp details."
+msgstr "تم حفظ طلب الحذف التغيير بالإضافة لكنه يفشل في إرسال البريد الإلكتروني. يرجى مراجعة التفاصيل SMTP."
+
+msgid "The change addition deletion request has been saved"
+msgstr "تم حفظ طلب التغيير بالإضافة الحذف"
+
+msgid "The change addition deletion request could not be saved. Please, try again."
+msgstr "لا يمكن حفظ طلب الحذف بالإضافة التغيير. من فضلك، حاول مرة أخرى."
+
+msgid "The change addition deletion request has been saved."
+msgstr "تم حفظ طلب الحذف بالإضافة التغيير."
+
+msgid "Invalid company"
+msgstr "شركة غير صالحة"
+
+msgid "The company has been saved"
+msgstr "تم حفظ الشركة"
+
+msgid "The company could not be saved. Please, try again."
+msgstr "تعذر حفظ الشركة. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid competency mapping"
+msgstr "رسم الخرائط الكفاءة غير صالح"
+
+msgid "The competency mapping has been saved"
+msgstr "تم حفظ رسم الخرائط الكفاءة"
+
+msgid "The competency mapping could not be saved. Please, try again."
+msgstr "تعذر حفظ تعيين الكفاءات. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid corrective preventive action"
+msgstr "الإجراءات الوقائية التصحيحية غير صالح"
+
+msgid "The corrective preventive action has been saved"
+msgstr "تم حفظ الإجراءات الوقائية التصحيحية"
+
+msgid "The corrective preventive action could not be saved. Please, try again."
+msgstr "تعذر حفظ الإجراءات الوقائية التصحيحية. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid course type"
+msgstr "نوع الدورة غير صالح"
+
+msgid "The course type has been saved"
+msgstr "تم حفظ نوع الدورة"
+
+msgid "The course type could not be saved. Please, try again."
+msgstr "لا يمكن حفظ نوع الدورة. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid course"
+msgstr "بالطبع غير صالح"
+
+msgid "The course has been saved."
+msgstr "تم حفظ بالطبع."
+
+msgid "The course could not be saved. Please, try again."
+msgstr "لا يمكن حفظ هذه الدورة. من فضلك، حاول مرة أخرى."
+
+msgid "The course has been saved"
+msgstr "تم حفظ مسار"
+
+msgid "Invalid custom template"
+msgstr "قالب مخصص غير صالح"
+
+msgid "The custom template has been saved"
+msgstr "تم حفظ القالب المخصص"
+
+msgid "The custom template could not be saved. Please, try again."
+msgstr "لا يمكن حفظ قالب مخصص. من فضلك، حاول مرة أخرى."
+
+msgid "The branch has been published"
+msgstr "وقد نشرت السلطة"
+
+msgid "Invalid customer complaint"
+msgstr "شكاوى العملاء غير صالح"
+
+msgid "The customer complaint has been saved"
+msgstr "تم حفظ شكوى العملاء"
+
+msgid "The customer complaint could not be saved. Please, try again."
+msgstr "تعذر حفظ الشكوى العملاء. من فضلك، حاول مرة أخرى."
+
+msgid "The customer complaint has been saved."
+msgstr "تم حفظ شكوى العملاء."
+
+msgid "Invalid customer feedback question"
+msgstr "العميل غير صالح مسألة ردود الفعل"
+
+msgid "The customer feedback question has been saved"
+msgstr "تم حفظ السؤال ملاحظات العملاء"
+
+msgid "The customer feedback question could not be saved. Please, try again."
+msgstr "تعذر حفظ السؤال ملاحظات العملاء. من فضلك، حاول مرة أخرى."
+
+msgid "The customer feedback question has been saved."
+msgstr "تم حفظ السؤال ملاحظات العملاء."
+
+msgid "Invalid customer feedback"
+msgstr "ملاحظات العملاء غير صالح"
+
+msgid "The customer feedback has been saved"
+msgstr "تم حفظ ملاحظات العملاء"
+
+msgid "The customer feedback could not be saved. Please, try again."
+msgstr "تعذر حفظ ملاحظات العملاء. من فضلك، حاول مرة أخرى."
+
+msgid "The customer feedback has been saved."
+msgstr "تم حفظ ملاحظات العملاء."
+
+msgid "All selected value was not deleted from approve"
+msgstr "لم يتم حذف جميع القيمة المحددة من الموافقة"
+
+msgid "Invalid customer meeting"
+msgstr "اجتماع العملاء غير صالح"
+
+msgid "The customer meeting has been saved"
+msgstr "تم حفظ الاجتماع العملاء"
+
+msgid "The customer meeting could not be saved. Please, try again."
+msgstr "تعذر حفظ الاجتماع العملاء. من فضلك، حاول مرة أخرى."
+
+msgid "The Follow up has been saved"
+msgstr "تم حفظ المتابعة"
+
+msgid "The customer meeting has been saved."
+msgstr "تم حفظ الاجتماع العملاء."
+
+msgid "Invalid customer"
+msgstr "العميل غير صالح"
+
+msgid "The customer has been saved"
+msgstr "تم حفظ العملاء"
+
+msgid "The customer could not be saved. Please, try again."
+msgstr "تعذر حفظ العميل. من فضلك، حاول مرة أخرى."
+
+msgid "The customer has been saved."
+msgstr "تم حفظ العميل."
+
+msgid "Invalid daily backup detail"
+msgstr "التفاصيل احتياطية يوميا غير صالح"
+
+msgid "The daily backup detail has been saved"
+msgstr "تم حفظ التفاصيل احتياطية يوميا"
+
+msgid "The daily backup detail could not be saved. Please, try again."
+msgstr "لا يمكن حفظ التفاصيل احتياطية يوميا. من فضلك، حاول مرة أخرى."
+
+msgid "The housekeeping has been saved"
+msgstr "تم حفظ التدبير المنزلي"
+
+msgid "The Backup Details has been saved"
+msgstr "تم حفظ تفاصيل النسخ الاحتياطي"
+
+msgid "Invalid data back up"
+msgstr "بيانات غير صالحة احتياطيا"
+
+msgid "The data back up has been saved"
+msgstr "احتياطية تم حفظ البيانات"
+
+msgid "The data back up could not be saved. Please, try again."
+msgstr "احتياطية لا يمكن حفظ البيانات. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid data type"
+msgstr "نوع بيانات غير صالحة"
+
+msgid "The data type has been saved"
+msgstr "تم حفظ نوع البيانات"
+
+msgid "The data type could not be saved. Please, try again."
+msgstr "تعذر حفظ نوع البيانات. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid delivery challan"
+msgstr "challan تسليم غير صالح"
+
+msgid "The delivery challan has been saved"
+msgstr "تم حفظ challan تسليم"
+
+msgid "The delivery challan could not be saved. Please, try again."
+msgstr "لا يمكن حفظ challan التسليم. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid department"
+msgstr "قسم غير صالحة"
+
+msgid "The department has been saved"
+msgstr "تم حفظ قسم"
+
+msgid "The department could not be saved. Please, try again."
+msgstr "تعذر حفظ القسم. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid designation"
+msgstr "تعيين صالح"
+
+msgid "The designation has been saved"
+msgstr "تم حفظ التعيين"
+
+msgid "The designation could not be saved. Please, try again."
+msgstr "تعذر حفظ التعيين. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid device maintenance"
+msgstr "صيانة جهاز غير صالحة"
+
+msgid "The device maintenance has been saved"
+msgstr "تم حفظ صيانة جهاز"
+
+msgid "The device maintenance could not be saved. Please, try again."
+msgstr "تعذر حفظ صيانة الجهاز. من فضلك، حاول مرة أخرى."
+
+msgid "The device maintenance has been published"
+msgstr "وقد نشرت صيانة جهاز"
+
+msgid "Invalid device"
+msgstr "جهاز غير صالح"
+
+msgid "The device has been saved"
+msgstr "تم حفظ الجهاز"
+
+msgid "The device could not be saved. Please, try again."
+msgstr "لا يمكن حفظ الجهاز. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid document amendment record sheet"
+msgstr "وثيقة غير صالحة رقة سجل التعديل"
+
+msgid "The document amendment record sheet has been saved"
+msgstr "تم حفظ سجل ورقة وثيقة التعديل"
+
+msgid "The document amendment record sheet could not be saved. Please, try again."
+msgstr "تعذر حفظ ورقة سجل الوثيقة التعديل. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid employee"
+msgstr "الموظف غير صالح"
+
+msgid "The employee has been saved"
+msgstr "تم حفظ موظف"
+
+msgid "The employee could not be saved. Please, try again."
+msgstr "تعذر حفظ الموظف. من فضلك، حاول مرة أخرى."
+
+msgid "Logged-in user can not delete his own 'Employee Record'."
+msgstr "المستخدمين المسجلين لا يمكن حذف نفسه "سجل الموظف"."
+
+msgid "Selected %s deleted"
+msgstr "اختيار %s حذفها"
+
+msgid "All selected employees deleted"
+msgstr "جميع الموظفين اختيار حذف"
+
+msgid "Selected %s employees deleted.<br />Logged-in users can not delete their own 'Employee record'."
+msgstr "اختيار %s الموظفين حذفها. <br /> المسجلين لا يمكن للمستخدمين حذف الخاصة "سجل الموظف" الخاصة بهم."
+
+msgid "Invalid file upload"
+msgstr "تحميل ملف غير صالح"
+
+msgid "The file upload has been saved"
+msgstr "تم حفظ تحميل ملف"
+
+msgid "The file upload could not be saved. Please, try again."
+msgstr "لا يمكن حفظ تحميل الملف. من فضلك، حاول مرة أخرى."
+
+msgid "Failed to update"
+msgstr "فشل في تحديث"
+
+msgid "Report sent succeefully."
+msgstr "أرسل تقرير succeefully."
+
+msgid "Failed to send email. Please check smtp details."
+msgstr "فشل في إرسال البريد الإلكتروني. يرجى مراجعة التفاصيل SMTP."
+
+msgid "Invalid fire extinguisher type"
+msgstr "طفاية حريق غير صالحة نوع"
+
+msgid "The fire extinguisher type has been saved"
+msgstr "تم حفظ نوع طفاية حريق"
+
+msgid "The fire extinguisher type could not be saved. Please, try again."
+msgstr "تعذر حفظ نوع طفاية حريق. من فضلك، حاول مرة أخرى."
+
+msgid "The fire extinguisher type has been saved."
+msgstr "تم حفظ نوع طفاية حريق."
+
+msgid "Invalid fire extinguisher"
+msgstr "طفاية حريق غير صالحة"
+
+msgid "The fire extinguisher has been saved"
+msgstr "تم حفظ طفاية حريق"
+
+msgid "The fire extinguisher could not be saved. Please, try again."
+msgstr "لا يمكن حفظ طفاية حريق. من فضلك، حاول مرة أخرى."
+
+msgid "The fire extinguisher has been saved."
+msgstr "تم حفظ طفاية حريق."
+
+msgid "Invalid fire safety equipment list"
+msgstr "النار غير صالح قائمة معدات السلامة"
+
+msgid "The fire safety equipment list has been saved"
+msgstr "تم حفظ قائمة معدات السلامة من الحرائق"
+
+msgid "The fire safety equipment list could not be saved. Please, try again."
+msgstr "تعذر حفظ قائمة المعدات السلامة من الحرائق. من فضلك، حاول مرة أخرى."
+
+msgid "The fire safety equipment list has been saved."
+msgstr "تم حفظ قائمة معدات السلامة من الحرائق."
+
+msgid "Invalid fire type"
+msgstr "المطافئ غير صالح"
+
+msgid "The fire type has been saved"
+msgstr "تم حفظ المطافئ"
+
+msgid "The fire type could not be saved. Please, try again."
+msgstr "تعذر حفظ نوع الحريق. من فضلك، حاول مرة أخرى."
+
+msgid "The fire type has been saved."
+msgstr "تم حفظ نوع الحريق."
+
+msgid "Invalid help"
+msgstr "مساعدة غير صالحة"
+
+msgid "The help has been saved"
+msgstr "تم حفظ مساعدة"
+
+msgid "The help could not be saved. Please, try again."
+msgstr "تعذر حفظ مساعدة. من فضلك، حاول مرة أخرى."
+
+msgid "The help has been saved."
+msgstr "تم حفظ مساعدة."
+
+msgid "Invalid history"
+msgstr "التاريخ غير صالح"
+
+msgid "The history has been saved"
+msgstr "تم حفظ التاريخ"
+
+msgid "The history could not be saved. Please, try again."
+msgstr "التاريخ لا يمكن حفظها. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid housekeeping checklist"
+msgstr "قائمة مرجعية التدبير المنزلي غير صالحة"
+
+msgid "The housekeeping checklist has been saved"
+msgstr "تم حفظ المرجعية التدبير المنزلي"
+
+msgid "The housekeeping checklist could not be saved. Please, try again."
+msgstr "تعذر حفظ القائمة المرجعية التدبير المنزلي. من فضلك، حاول مرة أخرى."
+
+msgid "The housekeeping checklist has been saved."
+msgstr "تم حفظ القائمة المرجعية التدبير المنزلي."
+
+msgid "Invalid housekeeping responsibility"
+msgstr "المسؤولية التدبير المنزلي غير صالحة"
+
+msgid "The housekeeping responsibility has been saved"
+msgstr "تم حفظ المسؤولية التدبير المنزلي"
+
+msgid "The housekeeping responsibility could not be saved. Please, try again."
+msgstr "تعذر حفظ مسؤولية التدبير المنزلي. من فضلك، حاول مرة أخرى."
+
+msgid "The housekeeping responsibility could not be Approved. Please, try again."
+msgstr "لا يمكن الموافقة مسؤولية التدبير المنزلي. من فضلك، حاول مرة أخرى."
+
+msgid "Application is already installed."
+msgstr "يتم تثبيت التطبيق بالفعل."
+
+msgid "Can not connect to mysql. Make sure username and password is correct."
+msgstr "لا يمكن الاتصال إلى الخلية. التأكد من اسم المستخدم وكلمة المرور غير صحيحة."
+
+msgid "Could not connect to database. Please check the settings in app/config/database.php and try again."
+msgstr "لا يمكن الاتصال بقاعدة البيانات. يرجى التحقق من إعدادات التطبيق في / التكوين / database.php وحاول مرة أخرى."
+
+msgid "FlinkISO install successfully."
+msgstr "FlinkISO تثبيت بنجاح."
+
+msgid "Invalid internal audit plan department"
+msgstr "قسم خطة التدقيق الداخلي غير صالحة"
+
+msgid "The internal audit plan department has been saved"
+msgstr "تم حفظ قسم خطة التدقيق الداخلي"
+
+msgid "The internal audit plan department could not be saved. Please, try again."
+msgstr "تعذر حفظ قسم خطة التدقيق الداخلي. من فضلك، حاول مرة أخرى."
+
+msgid "The internal audit plan department has been saved."
+msgstr "تم حفظ قسم خطة التدقيق الداخلي."
+
+msgid "Invalid internal audit plan"
+msgstr "خطة التدقيق الداخلي غير صالحة"
+
+msgid "Can not notify user using email. Please check SMTP details and email address is correct."
+msgstr "لا يمكن أن يخطر المستخدم باستخدام البريد الإلكتروني. يرجى مراجعة التفاصيل SMTP وعنوان البريد الالكتروني هو الصحيح."
+
+msgid "The internal audit plan has been saved"
+msgstr "تم حفظ خطة التدقيق الداخلي"
+
+msgid "The internal audit plan has been published"
+msgstr "وقد تم نشر خطة التدقيق الداخلي"
+
+msgid "The internal audit plan could not be saved. Please, try again."
+msgstr "لا يمكن حفظ خطة التدقيق الداخلي. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid internal audit"
+msgstr "التدقيق الداخلي غير صالحة"
+
+msgid "The internal audit has been saved"
+msgstr "تم حفظ التدقيق الداخلي"
+
+msgid "The internal audit could not be saved. Please, try again."
+msgstr "لا يمكن حفظ التدقيق الداخلي. من فضلك، حاول مرة أخرى."
+
+msgid "The internal audit has been saved."
+msgstr "تم حفظ التدقيق الداخلي."
+
+msgid "Can not notify user using email. Please check SMTP details and email address are correct or not."
+msgstr "لا يمكن أن يخطر المستخدم باستخدام البريد الإلكتروني. يرجى مراجعة التفاصيل وعنوان البريد الإلكتروني SMTP صحيحة أم لا."
+
+msgid "Invalid internet usage detail"
+msgstr "استخدام الإنترنت غير صالحة التفاصيل"
+
+msgid "The internet usage detail has been saved"
+msgstr "تم حفظ التفاصيل استخدام الإنترنت"
+
+msgid "The internet usage detail could not be saved. Please, try again."
+msgstr "لا يمكن حفظ التفاصيل استخدام الإنترنت. من فضلك، حاول مرة أخرى."
+
+msgid "The internet usage detail has been saved."
+msgstr "تم حفظ التفاصيل استخدام الإنترنت."
+
+msgid "The language has been changed"
+msgstr "تم تغيير اللغة"
+
+msgid "Invalid language"
+msgstr "لغة غير صحيحة"
+
+msgid "The language has been saved"
+msgstr "تم حفظ اللغة"
+
+msgid "The language could not be saved. Please, try again."
+msgstr "تعذر حفظ اللغة. من فضلك، حاول مرة أخرى."
+
+msgid "The language has been saved."
+msgstr "تم حفظ اللغة."
+
+msgid "Invalid list of acceptable supplier"
+msgstr "قائمة غير صالحة المورد مقبول"
+
+msgid "The list of acceptable supplier has been saved"
+msgstr "تم حفظ قائمة من المورد مقبول"
+
+msgid "The list of acceptable supplier could not be saved. Please, try again."
+msgstr "تعذر حفظ قائمة المورد مقبول. من فضلك، حاول مرة أخرى."
+
+msgid "The list of acceptable supplier has been saved."
+msgstr "تم حفظ قائمة المورد مقبول."
+
+msgid "Invalid list of computer list of software"
+msgstr "قائمة غير صالحة من قائمة جهاز الكمبيوتر من البرمجيات"
+
+msgid "The list of computer list of software has been saved"
+msgstr "تم حفظ قائمة من قائمة جهاز الكمبيوتر من البرمجيات"
+
+msgid "The list of computer list of software could not be saved. Please, try again."
+msgstr "تعذر حفظ قائمة من قائمة جهاز الكمبيوتر من البرمجيات. من فضلك، حاول مرة أخرى."
+
+msgid "The list of computer list of software has been saved."
+msgstr "تم حفظ قائمة من قائمة جهاز الكمبيوتر من البرمجيات."
+
+msgid "Invalid list of computer"
+msgstr "قائمة غير صالحة من الكمبيوتر"
+
+msgid "The computer has been saved"
+msgstr "تم حفظ الكمبيوتر"
+
+msgid "The computer could not be saved. Please, try again."
+msgstr "تعذر حفظ الكمبيوتر. من فضلك، حاول مرة أخرى."
+
+msgid "The Computer has been saved."
+msgstr "تم حفظ الحاسوب."
+
+msgid "Invalid list of measuring devices for calibration"
+msgstr "قائمة غير صالحة للمعايرة أجهزة قياس"
+
+msgid "The list of measuring devices for calibration has been saved"
+msgstr "تم حفظ قائمة الأجهزة للمعايرة قياس"
+
+msgid "The list of measuring devices for calibration could not be saved. Please, try again."
+msgstr "تعذر حفظ قائمة من أجهزة قياس للمعايرة. من فضلك، حاول مرة أخرى."
+
+msgid "The list of measuring devices for calibration has been saved."
+msgstr "تم حفظ قائمة الأجهزة للمعايرة قياس."
+
+msgid "Invalid list of software"
+msgstr "قائمة غير صالحة للبرمجيات"
+
+msgid "The list of software has been saved"
+msgstr "تم حفظ قائمة البرامج"
+
+msgid "The list of software could not be saved. Please, try again."
+msgstr "تعذر حفظ قائمة البرامج. من فضلك، حاول مرة أخرى."
+
+msgid "The list of software has been saved."
+msgstr "تم حفظ قائمة البرامج."
+
+msgid "Invalid list of trained internal auditor"
+msgstr "قائمة غير صالحة للتدريب المراجع الداخلي"
+
+msgid "The list of trained internal auditor has been saved"
+msgstr "تم حفظ قائمة من تدريب المراجع الداخلي"
+
+msgid "The list of trained internal auditor could not be saved. Please, try again."
+msgstr "تعذر حفظ قائمة المدربين المدقق الداخلي. من فضلك، حاول مرة أخرى."
+
+msgid "The list of trained internal auditor has been saved."
+msgstr "تم حفظ قائمة من تدريب المراجع الداخلي."
+
+msgid "Invalid master list of format department"
+msgstr "القائمة الرئيسية غير صالحة قسم تنسيق"
+
+msgid "The master list of format department has been saved"
+msgstr "تم حفظ القائمة الرئيسية قسم التنسيق"
+
+msgid "The master list of format department could not be saved. Please, try again."
+msgstr "تعذر حفظ القائمة الرئيسية قسم تنسيق. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid master list of format"
+msgstr "القائمة الرئيسية غير صالحة للتنسيق"
+
+msgid "The master list of format has been saved"
+msgstr "تم حفظ قائمة رئيسية شكل"
+
+msgid "The master list of format could not be saved. Please, try again."
+msgstr "تعذر حفظ قائمة رئيسية من الشكل. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid material quality check detail"
+msgstr "المواد غير صالحة فحص الجودة التفاصيل"
+
+msgid "The material quality check detail has been saved"
+msgstr "تم حفظ الاختيار بالتفصيل نوعية المواد"
+
+msgid "The material quality check detail could not be saved. Please, try again."
+msgstr "لا يمكن حفظ التفاصيل فحص الجودة مادية. من فضلك، حاول مرة أخرى."
+
+msgid "The material quality check detail has been published"
+msgstr "وقد نشرت التفاصيل الاختيار نوعية المواد"
+
+msgid "The material quality check detail has been saved."
+msgstr "تم حفظ الاختيار بالتفصيل نوعية المواد."
+
+msgid "Material has been added to stock and Supplier is Evaluated"
+msgstr "تمت إضافة مواد لتخزين ويتم تقييم المورد"
+
+msgid "Material could not be added to stock. Please try again."
+msgstr "تعذر إضافة المواد إلى المخزون. يرجى المحاولة مرة أخرى."
+
+msgid "Invalid material quality check"
+msgstr "المواد غير صالحة فحص الجودة"
+
+msgid "The material quality check has been saved"
+msgstr "تم حفظ الاختيار نوعية المواد"
+
+msgid "The material quality check could not be saved. Please, try again."
+msgstr "تعذر حفظ فحص الجودة مادية. من فضلك، حاول مرة أخرى."
+
+msgid "The material quality check has been saved."
+msgstr "تم حفظ فحص الجودة مادية."
+
+msgid "Material quality check deleted"
+msgstr "الاختيار نوعية المواد حذف"
+
+msgid "Material quality check was not deleted"
+msgstr "لم يتم حذف الاختيار نوعية المواد"
+
+msgid "Invalid material type"
+msgstr "نوع المادة غير صالح"
+
+msgid "The material type has been saved"
+msgstr "تم حفظ نوع المادة"
+
+msgid "The material type could not be saved. Please, try again."
+msgstr "تعذر حفظ نوع المواد. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid material"
+msgstr "المواد غير صالحة"
+
+msgid "The material has been saved"
+msgstr "تم حفظ المواد"
+
+msgid "The material could not be saved. Please, try again."
+msgstr "تعذر حفظ المواد. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid meeting"
+msgstr "اجتماع غير صالح"
+
+msgid "The meeting has been saved"
+msgstr "تم حفظ اجتماع"
+
+msgid "The meeting could not be saved. Please, try again."
+msgstr "تعذر حفظ الاجتماع. من فضلك، حاول مرة أخرى."
+
+msgid "The meeting details has been saved"
+msgstr "تم حفظ تفاصيل الاجتماع"
+
+msgid "The meeting has been published"
+msgstr "وقد نشرت الاجتماع"
+
+msgid "Message moved to Trash!"
+msgstr "انتقلت الرسالة إلى المهملات!"
+
+msgid "All selected values moved to trash"
+msgstr "انتقلت كل القيم المحددة إلى سلة المهملات"
+
+msgid "Problem occured during moved to trash"
+msgstr "مشكلة وقعت خلال انتقلت إلى سلة المهملات"
+
+msgid "Message deleted"
+msgstr "الرسالة محذوفة"
+
+msgid "Message was not deleted"
+msgstr "لم يتم حذف رسالة"
+
+msgid "Invalid message"
+msgstr "رسالة غير صالحة"
+
+msgid "Message Sent Successfully"
+msgstr "تم إرسال الرسالة بنجاح"
+
+msgid "The message could not be saved. Please, try again."
+msgstr "تعذر حفظ الرسالة. من فضلك، حاول مرة أخرى."
+
+msgid "No recipient selected. Please, try again."
+msgstr "لا المتلقي المحدد. من فضلك، حاول مرة أخرى."
+
+msgid "You can not send any messages from demo edition!"
+msgstr "لا يمكنك إرسال أي رسائل من الطبعة التجريبي!"
+
+msgid "The message has been saved"
+msgstr "تم حفظ الرسالة"
+
+msgid "Invalid non conforming products material"
+msgstr "المواد غير المطابقة منتجات غير صالحة"
+
+msgid "The non conforming products material has been saved"
+msgstr "تم حفظ المواد غير المطابقة المنتجات"
+
+msgid "The non conforming products material could not be saved. Please, try again."
+msgstr "لا يمكن حفظ المواد غير المطابقة المنتجات. من فضلك، حاول مرة أخرى."
+
+msgid "The non conforming products material has been saved."
+msgstr "تم حفظ المواد غير المطابقة المنتجات."
+
+msgid "Invalid notification type"
+msgstr "نوع الإخطار غير صالح"
+
+msgid "The notification type has been saved"
+msgstr "تم حفظ نوع الإعلام"
+
+msgid "The notification type could not be saved. Please, try again."
+msgstr "تعذر حفظ نوع الإخطار. من فضلك، حاول مرة أخرى."
+
+msgid "The notification type has been saved."
+msgstr "تم حفظ نوع الإخطار."
+
+msgid "Invalid notification user"
+msgstr "إخطار المستخدم غير صالح"
+
+msgid "Invalid notification"
+msgstr "الإخطار غير صالح"
+
+msgid "The notification has been saved"
+msgstr "تم حفظ الاشعار"
+
+msgid "The notification could not be saved. Please, try again."
+msgstr "تعذر حفظ الإخطار. من فضلك، حاول مرة أخرى."
+
+msgid "The notification has been saved."
+msgstr "تم حفظ الإخطار."
+
+msgid "Invalid production"
+msgstr "إنتاج غير صالح"
+
+msgid "The production has been saved"
+msgstr "تم حفظ الانتاج"
+
+msgid "The production could not be saved. Please, try again."
+msgstr "لا يمكن حفظ الإنتاج. من فضلك، حاول مرة أخرى."
+
+msgid "The production has been saved."
+msgstr "تم حفظ الإنتاج."
+
+msgid "Invalid product"
+msgstr "منتج غير صالح"
+
+msgid "The product has been saved"
+msgstr "تم حفظ المنتج"
+
+msgid "The product could not be saved. Please, try again."
+msgstr "لا يمكن حفظ المنتج. من فضلك، حاول مرة أخرى."
+
+msgid "The product has been saved."
+msgstr "تم حفظ المنتج."
+
+msgid "Invalid proposal followup"
+msgstr "متابعة اقتراح غير صالحة"
+
+msgid "The proposal followup has been saved"
+msgstr "تم حفظ متابعة اقتراح"
+
+msgid "The proposal followup could not be saved. Please, try again."
+msgstr "لا يمكن حفظ متابعة الاقتراح. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid proposal"
+msgstr "اقتراح غير صالح"
+
+msgid "The proposal has been saved"
+msgstr "تم حفظ اقتراح"
+
+msgid "The proposal could not be saved. Please, try again."
+msgstr "تعذر حفظ الاقتراح. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid purchase order"
+msgstr "أمر الشراء غير صالح"
+
+msgid "The purchase order has been saved"
+msgstr "تم حفظ أمر الشراء"
+
+msgid "The purchase order could not be saved. Please, try again."
+msgstr "تعذر حفظ أمر الشراء. من فضلك، حاول مرة أخرى."
+
+msgid "This purchase order could not be edited as it's already added to Delivey Challan."
+msgstr "لا يمكن تحرير هذا أمر الشراء كما انها أضفت إلى الشحن Delivey Challan."
+
+msgid "The report has been saved"
+msgstr "تم حفظ التقرير"
+
+msgid "The report could not be saved. Please, try again."
+msgstr "لا يمكن حفظ التقرير. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid Report"
+msgstr "تقرير غير صالح"
+
+msgid "Selected Report Deleted"
+msgstr "اختيار تقرير المحذوفة"
+
+msgid "Selected Report was not deleted"
+msgstr "لم يتم حذف التقرير المحدد"
+
+msgid "Close"
+msgstr "إغلاق"
+
+msgid "Open"
+msgstr "فتح"
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "No"
+msgstr "لا"
+
+msgid "Customer Feedback"
+msgstr "ملاحظات العملاء"
+
+msgid "Customer Complaint"
+msgstr "شكوى العملاء"
+
+msgid "Invalid schedule"
+msgstr "الجدول الزمني غير صالح"
+
+msgid "The schedule has been saved"
+msgstr "تم حفظ الجدول الزمني"
+
+msgid "The schedule could not be saved. Please, try again."
+msgstr "لا يمكن حفظ الجدول الزمني. من فضلك، حاول مرة أخرى."
+
+msgid "The schedule has been saved."
+msgstr "تم حفظ الجدول الزمني."
+
+msgid "Invalid software type"
+msgstr "نوع البرمجيات غير صالح"
+
+msgid "The software type has been saved"
+msgstr "تم حفظ نوع البرمجيات"
+
+msgid "The software type could not be saved. Please, try again."
+msgstr "تعذر حفظ نوع البرمجيات. من فضلك، حاول مرة أخرى."
+
+msgid "The software type has been saved."
+msgstr "تم حفظ نوع البرمجيات."
+
+msgid "Invalid stock"
+msgstr "الأسهم غير صالح"
+
+msgid "The stock has been saved"
+msgstr "تم حفظ الأوراق المالية"
+
+msgid "The stock could not be saved. Please, try again."
+msgstr "لا يمكن حفظ الأوراق المالية. من فضلك، حاول مرة أخرى."
+
+msgid "The stock has been saved."
+msgstr "تم حفظ الأوراق المالية."
+
+msgid "Invalid suggesion form"
+msgstr "شكل suggesion غير صالح"
+
+msgid "The suggesion form has been saved"
+msgstr "تم حفظ شكل suggesion"
+
+msgid "The suggesion form could not be saved. Please, try again."
+msgstr "لا يمكن حفظ النموذج suggesion. من فضلك، حاول مرة أخرى."
+
+msgid "The suggesion form has been saved."
+msgstr "تم حفظ شكل suggesion."
+
+msgid "Invalid summery of supplier evaluation"
+msgstr "صيفي غير صالح للتقييم المورد"
+
+msgid "The summary of supplier evaluation has been saved"
+msgstr "تم حفظ ملخص تقييم الموردين"
+
+msgid "The summary of supplier evaluation could not be saved. Please, try again."
+msgstr "تعذر حفظ ملخص تقييم الموردين. من فضلك، حاول مرة أخرى."
+
+msgid "The summary of supplier evaluation has been saved."
+msgstr "تم حفظ ملخص تقييم الموردين."
+
+msgid "Invalid supplier category"
+msgstr "فئة المورد غير صالحة"
+
+msgid "The supplier category has been saved"
+msgstr "تم حفظ فئة المورد"
+
+msgid "The supplier category could not be saved. Please, try again."
+msgstr "تعذر حفظ فئة المورد. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid supplier registration"
+msgstr "تسجيل المورد غير صالح"
+
+msgid "The supplier registration has been saved"
+msgstr "تم حفظ تسجيل المورد"
+
+msgid "The supplier registration could not be saved. Please, try again."
+msgstr "لا يمكن حفظ تسجيل المورد. من فضلك، حاول مرة أخرى."
+
+msgid "The supplier registration has been saved."
+msgstr "تم حفظ تسجيل المورد."
+
+msgid "Invalid system table"
+msgstr "جدول النظام غير صالح"
+
+msgid "The system table has been saved"
+msgstr "تم حفظ جدول النظام"
+
+msgid "The system table could not be saved. Please, try again."
+msgstr "تعذر حفظ جدول النظام. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid task"
+msgstr "مهمة غير صالحة"
+
+msgid "The task has been saved"
+msgstr "تم حفظ المهمة"
+
+msgid "The task could not be saved. Please, try again."
+msgstr "لا يمكن حفظ هذه المهمة. من فضلك، حاول مرة أخرى."
+
+msgid "The task has been saved."
+msgstr "تم حفظ المهمة."
+
+msgid "The task status has been saved"
+msgstr "تم حفظ حالة المهمة"
+
+msgid "Invalid timeline"
+msgstr "جدول زمني غير صالح"
+
+msgid "The timeline has been saved"
+msgstr "تم حفظ الجدول الزمني"
+
+msgid "The timeline could not be saved. Please, try again."
+msgstr "لا يمكن حفظ الجدول الزمني. من فضلك، حاول مرة أخرى."
+
+msgid "The timeline has been saved."
+msgstr "تم حفظ الجدول الزمني."
+
+msgid "Invalid trainer type"
+msgstr "مدرب نوع غير صالح"
+
+msgid "The trainer type has been saved"
+msgstr "تم حفظ نوع المدرب"
+
+msgid "The trainer type could not be saved. Please, try again."
+msgstr "تعذر حفظ نوع المدرب. من فضلك، حاول مرة أخرى."
+
+msgid "The trainer type has been saved."
+msgstr "تم حفظ نوع المدرب."
+
+msgid "Invalid trainer"
+msgstr "مدرب غير صالح"
+
+msgid "The trainer has been saved"
+msgstr "تم حفظ المدرب"
+
+msgid "The trainer could not be saved. Please, try again."
+msgstr "تعذر حفظ المدرب. من فضلك، حاول مرة أخرى."
+
+msgid "The trainer has been saved."
+msgstr "تم حفظ المدرب."
+
+msgid "Invalid training evaluation"
+msgstr "تقييم التدريب غير صالح"
+
+msgid "The training evaluation has been saved"
+msgstr "تم حفظ تقييم التدريب"
+
+msgid "The training evaluation could not be saved. Please, try again."
+msgstr "تعذر حفظ تقييم التدريب. من فضلك، حاول مرة أخرى."
+
+msgid "The training evaluation has been saved."
+msgstr "تم حفظ تقييم التدريب."
+
+msgid "Invalid training need identification"
+msgstr "التدريب ضرورة تحديد صالح"
+
+msgid "The training need identification has been saved"
+msgstr "تم حفظ تحديد الحاجة التدريبية"
+
+msgid "The training need identification could not be saved. Please, try again."
+msgstr "تعذر حفظ تحديد الحاجة التدريبية. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid training type"
+msgstr "نوع التدريب غير صالح"
+
+msgid "The training type has been saved"
+msgstr "تم حفظ نوع التدريب"
+
+msgid "The training type could not be saved. Please, try again."
+msgstr "تعذر حفظ نوع التدريب. من فضلك، حاول مرة أخرى."
+
+msgid "The training type has been saved."
+msgstr "تم حفظ نوع التدريب."
+
+msgid "Invalid training"
+msgstr "التدريب غير صالح"
+
+msgid "The training has been saved"
+msgstr "تم حفظ التدريب"
+
+msgid "The training could not be saved. Please, try again."
+msgstr "تعذر حفظ التدريب. من فضلك، حاول مرة أخرى."
+
+msgid "Invalid username password detail"
+msgstr "اسم المستخدم كلمة المرور غير صالحة التفاصيل"
+
+msgid "The username password detail has been saved"
+msgstr "تم حفظ التفاصيل اسم المستخدم كلمة المرور"
+
+msgid "The username password detail could not be saved. Please, try again."
+msgstr "لا يمكن حفظ التفاصيل اسم المستخدم كلمة المرور. من فضلك، حاول مرة أخرى."
+
+msgid "The username password detail has been saved."
+msgstr "تم حفظ اسم المستخدم كلمة المرور التفاصيل."
+
+msgid "Invalid user"
+msgstr "مستخدم غير صالح"
+
+msgid "User Unblocked"
+msgstr "الافراج المستخدم"
+
+msgid "Failed to Unblock"
+msgstr "فشل في الافراج عن"
+
+msgid "The user has been saved but fail to send email. Please check smtp details."
+msgstr "تم حفظ المستخدم ولكن فشل في إرسال البريد الإلكتروني. يرجى مراجعة التفاصيل SMTP."
+
+msgid "The user has been saved"
+msgstr "تم حفظ المستعمل"
+
+msgid "The user could not be saved. Please, try again."
+msgstr "تعذر حفظ المستخدم. من فضلك، حاول مرة أخرى."
+
+msgid "The user has been saved."
+msgstr "تم حفظ المستخدم."
+
+msgid "Logged-in user can not be deleted!"
+msgstr "المسجلين في المستخدم لا يمكن حذف!"
+
+msgid "All selected users deleted"
+msgstr "جميع المستخدمين المختارين حذف"
+
+msgid "No email id for this user, try again."
+msgstr "لا يوجد معرف البريد الإلكتروني لهذا المستخدم، حاول مرة أخرى."
+
+msgid "Invalid Username, try again."
+msgstr "اسم المستخدم غير صالح، حاول مرة أخرى."
+
+msgid "Invalid password reset token, try again."
+msgstr "إعادة تعيين كلمة المرور رمز غير صالح، حاول مرة أخرى."
+
+msgid "Password changed, you can now login with your new password."
+msgstr "غيرت كلمة المرور، يمكنك الدخول الآن مع كلمة المرور الجديدة."
+
+msgid "Please check the email you have registered with us. An email has been sent with instruction to reset password."
+msgstr "يرجى التحقق من البريد الإلكتروني الذي قمت بالتسجيل معنا. تم إرسال رسالة بريد إلكتروني مع تعليمات لإعادة تعيين كلمة المرور."
+
+msgid "Already Logged In"
+msgstr "تسجيل بالفعل في"
+
+msgid "Please wait while your earlier session expires"
+msgstr "الرجاء الانتظار لحين انتهاء دورة سابقة لديك"
+
+msgid "Username incorrect or Account is locked or Already logged in"
+msgstr "اسم المستخدم غير صحيحة أو مقفل أو تسجيل حساب بالفعل في"
+
+msgid "Your account is locked"
+msgstr "تم تأمين حسابك"
+
+msgid "Incorrect login credential"
+msgstr "الاعتماد تسجيل الدخول غير صحيح"
+
+msgid "Please change your password"
+msgstr "الرجاء تغيير كلمة المرور الخاصة بك"
+
+msgid "Incorrect Login Credentials or your account is locked or already logged in"
+msgstr "بيانات الدخول غير صحيحة أو حسابك مقفل أو بالفعل في تسجيل"
+
+msgid "Saved"
+msgstr "تم الحفظ"
+
+msgid "Not Saved"
+msgstr "لا المحفوظة"
+
+msgid "You have a meeting scheduled on "
+msgstr "لديك الاجتماع المقرر عقده يوم "
+
+msgid "Your password has been change"
+msgstr "وقد تم تغيير كلمة المرور الخاصة بك"
+
+msgid "Your current password does not match with the password you have entered. please try again."
+msgstr "لا تطابق كلمة المرور الحالية مع كلمة المرور التي قمت بإدخالها. يرجى المحاولة مرة أخرى."
+
+msgid "Account created"
+msgstr "الحساب المنشأ"
+
+msgid "Failed to create account. Error while creating user"
+msgstr "فشل إنشاء حساب. خطأ أثناء إنشاء المستخدم"
+
+msgid "Failed to create account. Error while creating employee"
+msgstr "فشل إنشاء حساب. خطأ أثناء إنشاء موظف"
+
+msgid "Failed to create account. Error while creating branch"
+msgstr "فشل إنشاء حساب. خطأ أثناء إنشاء فرع"
+
+msgid "Failed to create account. Error while creating company"
+msgstr "فشل إنشاء حساب. خطأ أثناء إنشاء شركة"
+
+msgid "Congratulations, your account is activated"
+msgstr "تهانينا، يتم تنشيط حسابك"
+
+msgid "Can not activate account. Please contact us at +91 22 2876 6060 for help"
+msgstr "لا يمكن تفعيل الحساب. يرجى الاتصال بنا على +91 22 2876 6060 للحصول على المساعدة"
+
+msgid "Formats saved."
+msgstr "صيغ المحفوظة."
+
+msgid "Please login to setup SMTP details"
+msgstr "يرجى تسجيل الدخول لإعداد التفاصيل SMTP"
+
+msgid "SMTP setup done successfully."
+msgstr "SMTP يتم الإعداد بنجاح."
+
+msgid "Can not connect with SMTP server, Please check smtp details."
+msgstr "لا يمكن الاتصال مع خادم SMTP، يرجى مراجعة التفاصيل SMTP."
+
+msgid "File parameter is missing"
+msgstr "المعلمة الملف مفقود"
+
+msgid "File deleted!"
+msgstr "حذف الملف!"
+
+msgid "Unable to delete File"
+msgstr "غير قادر على حذف الملف"
+
+msgid "File does not exist!"
+msgstr "الملف غير موجود!"
+
+msgid "What would you like to do?"
+msgstr "ماذا تريد أن تفعل؟"
+
+msgid "%s"
+msgstr "ق٪"
+
+msgid "File"
+msgstr "ملف"
+
+msgid "An error occured while transferring the file."
+msgstr "حدث خطأ أثناء نقل الملف."
+
+msgid "The file is invalid."
+msgstr "الملف غير صالح."
+
+msgid "The file cannot be processed."
+msgstr "لا يمكن معالجة الملف."
+
+msgid "The file cannot be transferred from or to location."
+msgstr "لا يمكن نقل ملف من أو إلى الموقع."
+
+msgid "Executable files cannot be uploaded."
+msgstr "لا يمكن تحميل الملفات القابلة للتنفيذ."
+
+msgid "The file is too large."
+msgstr "الملف كبير جدا."
+
+msgid "The file has the wrong extension."
+msgstr "يحتوي الملف على امتداد الخطأ."
+
+msgid "The file has the wrong MIME type."
+msgstr "يحتوي الملف على نوع MIME خاطئة."
+
+msgid "Textual replacement"
+msgstr "استبدال النصية"
+
+msgid "A textual replacement must be provided."
+msgstr "يجب توفير بديل النصية."
+
+msgid "Release"
+msgstr "الإصدار"
+
+msgid "Add Appraisal Question"
+msgstr "إضافة تقييم سؤال"
+
+msgid "Publish"
+msgstr "نشر"
+
+msgid "Approve Appraisal Question"
+msgstr "الموافقة على تقييم سؤال"
+
+msgid "List"
+msgstr "قائمة"
+
+msgid "Edit Appraisal Question"
+msgstr "تحرير تقييم سؤال"
+
+msgid "Question"
+msgstr "سؤ"
+
+msgid "No results found"
+msgstr "لا توجد نتائج"
+
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr "{الصفحة: الصفحة} من {:} صفحات، والتي تبين {:} التيار تسجل من {:} إجمالي عدد، اعتبارا سجل {: بدء}، {وتنتهي في نهاية: نهاية}"
+
+msgid "previous"
+msgstr "سابقة"
+
+msgid "next"
+msgstr "التالي"
+
+msgid "New Appraisal Question"
+msgstr "تقييم سؤال جديد"
+
+msgid "View Appraisal Question"
+msgstr "عرض تقييم سؤال"
+
+msgid "Edit"
+msgstr "تحرير"
+
+msgid "Sr. No"
+msgstr "الرقم
+المتسلسل"
+
+msgid "Prepared By"
+msgstr "أعدت بواسطة"
+
+msgid "Approved By"
+msgstr "وافق عليها"
+
+msgid "Add Appraisal"
+msgstr "إضافة تقييم"
+
+msgid "Step - 1 (Pre-Appraisal)"
+msgstr "خطوة - 1 (قبل تقييم)"
+
+msgid "Employee"
+msgstr "موظف"
+
+msgid "Appraiser"
+msgstr "المثمن"
+
+msgid "Employee selected above will receive a link to appraisal questions via email."
+msgstr "سوف يحصل الموظف المحدد أعلاه وصلة لأسئلة التقييم عبر البريد الإلكتروني."
+
+msgid "Select Appraisal Questions"
+msgstr "تحديد أسئلة التقييم"
+
+msgid "Add Appraisal Review"
+msgstr "إضافة استعراض تقييم"
+
+msgid "Employee information"
+msgstr "معلومات الموظف"
+
+msgid "Employee Name"
+msgstr "اسم موظف"
+
+msgid "Date of Joining"
+msgstr "تاريخ الانضمام"
+
+msgid "Designation"
+msgstr "الوظيفة"
+
+msgid "Date of Appraisal"
+msgstr "تاريخ التقييم"
+
+msgid "Department"
+msgstr "إدارة"
+
+msgid "Employee Number"
+msgstr "عدد الموظفين"
+
+msgid "Location"
+msgstr "الموقع"
+
+msgid "Reason for Appraisal"
+msgstr "سبب تقييم"
+
+msgid "Employee Appraisal Questions"
+msgstr "أسئلة تقييم الموظف"
+
+msgid "Self Appraisal Not Required"
+msgstr "تقييم الذاتي غير مطلوب"
+
+msgid "Final Result and Recommendation"
+msgstr "النتيجة النهائية والتوصيات"
+
+msgid "Comments by Employee"
+msgstr "تعليقات حسب الموظف"
+
+msgid "(apart from comments on the assessment, this column could also cover reasons for the current level of performance constraints or grievances, suggestions for improvements, etc.)"
+msgstr "(بغض النظر عن تعليقات على هذا التقييم، يمكن أن يغطي هذا العمود أيضا أسباب المستوى الحالي للمعوقات الأداء أو شكاوى واقتراحات من أجل إدخال تحسينات، وما إلى ذلك)"
+
+msgid "Comments by Appraiser"
+msgstr "تصريحات المثمن"
+
+msgid "( This will summarise the contents of the post appraisal discussion besides other comments on developmental needs, potential for other jobs, etc.)"
+msgstr "(وهذا تلخيص محتويات مناقشة تقييم آخر بالإضافة إلى تعليقات أخرى على الاحتياجات التنموية، وإمكانات للوظائف الأخرى، وما إلى ذلك)"
+
+msgid "Submit"
+msgstr "إرسال"
+
+msgid "Approve Appraisal"
+msgstr "الموافقة على تقييم"
+
+msgid "Edit Appraisal"
+msgstr "تحرير تقييم"
+
+msgid "Appraisal Date"
+msgstr "تقييم التاريخ"
+
+msgid "Self Appraisal Needed"
+msgstr "تقييم الذات مطلوب"
+
+msgid "Self Appraisal Status"
+msgstr "تقييم الحالة الذاتية"
+
+msgid "Appraisal Review"
+msgstr "تقييم مراجعة"
+
+msgid "Done"
+msgstr "تمت تنفيذه"
+
+msgid "Pending"
+msgstr "معلق"
+
+msgid "New Appraisal"
+msgstr "تقييم جديد"
+
+msgid "Add Appraisal Answers"
+msgstr "إضافة تقييم الإجابات"
+
+msgid "View Appraisal"
+msgstr "عرض تقييم"
+
+msgid "Rating"
+msgstr "التقييم"
+
+msgid "No data available."
+msgstr "لا توجد بيانات متاحة."
+
+msgid "Promotion"
+msgstr "دعم"
+
+msgid "Warning"
+msgstr "تحذير"
+
+msgid "Status Remained Unchanged"
+msgstr "الوضع لم يتغير"
+
+msgid "Successful Completion of Probation"
+msgstr "الانتهاء بنجاح من الاختبار"
+
+msgid "Salary Increment"
+msgstr "الراتب الاضافة"
+
+msgid "Termination"
+msgstr "الإنهاء"
+
+msgid "Training Requirements"
+msgstr "متطلبات التدريب"
+
+msgid "Specific Requirement"
+msgstr "متطلبات محددة"
+
+msgid "Increment"
+msgstr "الاضافة"
+
+msgid "Benchmarks for "
+msgstr "معايير ل "
+
+msgid "This will help you track your preparedness."
+msgstr "هذا وسوف تساعدك على تتبع الاستعداد الخاص بك."
+
+msgid "Add Branch"
+msgstr "إضافة فرع"
+
+msgid "Branch Name"
+msgstr "اسم الفرع"
+
+msgid "Approve Branch"
+msgstr "الموافقة فرع"
+
+msgid "Edit Branch"
+msgstr "تحرير فرع"
+
+msgid "Name"
+msgstr "اسم"
+
+msgid "New Branch"
+msgstr "فرع جديد"
+
+msgid "View Branch"
+msgstr "عرض فرع"
+
+msgid "Add"
+msgstr "إضافة"
+
+msgid "Branch"
+msgstr "برانش"
+
+msgid "List of users in this Branch"
+msgstr "قائمة المستخدمين في هذا الفرع"
+
+msgid "Username"
+msgstr "اسم المستخدم"
+
+msgid "is MR?"
+msgstr "هو MR؟"
+
+msgid "is View All?"
+msgstr "هو مشاهدة جميع؟"
+
+msgid "is Approver?"
+msgstr "غير الموافق؟"
+
+msgid "Benchmark"
+msgstr "المؤشر"
+
+msgid "Last Login"
+msgstr "آخر تسجيل دخول"
+
+msgid "Last Activity"
+msgstr "آخر نشاط"
+
+msgid "Add Calibration"
+msgstr "إضافة المعايرة"
+
+msgid "Device"
+msgstr "الجهاز"
+
+msgid "Calibration Date"
+msgstr "معايرة التسجيل"
+
+msgid "Measurement For"
+msgstr "قياس ل"
+
+msgid "Least Count"
+msgstr "أقل عدد"
+
+msgid "Required Accuracy"
+msgstr "الدقة المطلوبة"
+
+msgid "Range"
+msgstr "النطاق"
+
+msgid "Default Calibration"
+msgstr "معايرة الافتراضي"
+
+msgid "Calibration Required"
+msgstr "المعايرة المطلوبة"
+
+msgid "Actual Calibration"
+msgstr "المعايرة الفعلية"
+
+msgid "Errors"
+msgstr "أخطاء"
+
+msgid "Comments"
+msgstr "تعليقات"
+
+msgid "Next Calibration Date"
+msgstr "المقبل معايرة التسجيل"
+
+msgid "Approve Calibration"
+msgstr "الموافقة المعايرة"
+
+msgid "Edit Calibration"
+msgstr "تحرير المعايرة"
+
+msgid "Device Values"
+msgstr "القيم جهاز"
+
+msgid "Calibration"
+msgstr "المعايرة"
+
+msgid "New Calibration"
+msgstr "معايرة جديدة"
+
+msgid "Add Device"
+msgstr "إضافة جهاز"
+
+msgid "View Calibration"
+msgstr "عرض المعايرة"
+
+msgid "Add Capa Category"
+msgstr "إضافة كابا الفئة"
+
+msgid "Approve Capa Category"
+msgstr "الموافقة كابا الفئة"
+
+msgid "Edit Capa Category"
+msgstr "تحرير كابا الفئة"
+
+msgid "New Capa Category"
+msgstr "جديد كابا الفئة"
+
+msgid "View Capa Category"
+msgstr "عرض كابا الفئة"
+
+msgid "Add Capa Source"
+msgstr "إضافة كابا المصدر"
+
+msgid "Approve Capa Source"
+msgstr "الموافقة كابا المصدر"
+
+msgid "Edit Capa Source"
+msgstr "تحرير كابا المصدر"
+
+msgid "New Capa Source"
+msgstr "المصدر كابا الجديد"
+
+msgid "View Capa Source"
+msgstr "عرض كابا المصدر"
+
+msgid "Document Change Addition Deletion Request"
+msgstr "تغيير وثيقة طلب إضافة حذف"
+
+msgid "Customer"
+msgstr "العميل"
+
+msgid "Suggestion"
+msgstr "اقتراح"
+
+msgid "Other"
+msgstr "أخرى"
+
+msgid "Suggestion Form"
+msgstr "نموذج اقتراح"
+
+msgid "Include this in following MR meeting : "
+msgstr "تضمين هذا في أعقاب اجتماع MR: "
+
+msgid "Select Meeting"
+msgstr "حدد اجتماع"
+
+msgid "After changes were accepted"
+msgstr "بعد قبول التغييرات"
+
+msgid "Document Change Accepted"
+msgstr "وثيقة تغيير مقبول"
+
+msgid "Approved in meeting"
+msgstr "تمت الموافقة عليها في اجتماع"
+
+msgid "Note : "
+msgstr "ملاحظة: "
+
+msgid "If Document changes required additional database fields or change in functionality, send us the new requirements by adding details below."
+msgstr "إذا كانت التغييرات المطلوبة وثيقة حقول قاعدة البيانات إضافية أو تغيير في الوظائف، ترسل لنا متطلبات جديدة بإضافة التفاصيل أدناه."
+
+msgid "Add your new requirement here. If you check \"flinkiso functionality change required\", then these changes will be sent to FlinkISO customisation team for future review."
+msgstr "إضافة شرط جديد هنا. إذا كنت تحقق \"flinkiso تغيير الوظيفة المطلوبة \"، ثم سيتم إرسال هذه التغييرات إلى فريق التخصيص FlinkISO للمراجعة في المستقبل."
+
+msgid "Approve Change Addition Deletion Request"
+msgstr "الموافقة على تغيير وبالإضافة إلى طلب الحذف"
+
+msgid "Title"
+msgstr "العنوان"
+
+msgid "Document Number"
+msgstr "رقم الوثيقة"
+
+msgid "Issue Number"
+msgstr "رقم الاصدار"
+
+msgid "Revision Number"
+msgstr "رقم المراجعة"
+
+msgid "Revision Date"
+msgstr "مراجعة التاريخ"
+
+msgid "Edit Change Addition Deletion Request"
+msgstr "تحرير تغيير إضافة حذف طلب"
+
+msgid "Request From"
+msgstr "طلب من"
+
+msgid "Master List of Format"
+msgstr "ماجستير في قائمة تنسيق"
+
+msgid "New Change Addition Deletion Request"
+msgstr "تغيير جديد إضافة حذف طلب"
+
+msgid "View Change Addition Deletion Request"
+msgstr "عرض تغيير إضافة طلب الحذف"
+
+msgid "Request Details"
+msgstr "طلب تفاصيل"
+
+msgid "Master List Of Format"
+msgstr "قائمة ماجستير في تنسيق"
+
+msgid "Current Document Details"
+msgstr "تفاصيل الوثيقة الحالي"
+
+msgid "Proposed Changes"
+msgstr "التغييرات المقترحة"
+
+msgid "Reason For Change"
+msgstr "السبب من أجل التغيير"
+
+msgid "Edit Company"
+msgstr "تحرير الشركة"
+
+msgid "View / Upload Files"
+msgstr "عرض / تحميل الملفات"
+
+msgid "Company Description / Message form MR or Director"
+msgstr "شركة الوصف / MR شكل رسالة أو مدير"
+
+msgid "Company Welcome Message"
+msgstr "شركة رسالة ترحيب"
+
+msgid "Quality Policy"
+msgstr "سياسة الجودة"
+
+msgid "Vision Statement"
+msgstr "بيان الرؤية"
+
+msgid "Mission Statement"
+msgstr "المهمة"
+
+msgid "Copy - Paste your existing audit plan"
+msgstr "نسخة - لصق خطة التدقيق الموجودة لديك"
+
+msgid "Import from file (excel & csv formats only)"
+msgstr "الاستيراد من ملف (إكسل وتنسيقات CSV فقط)"
+
+msgid "View Company"
+msgstr "عرض الشركة"
+
+msgid "Remove Sample Data"
+msgstr "إزالة عينة البيانات"
+
+msgid "Are you sure to remove sample data of %s?"
+msgstr "هل أنت متأكد من إزالة البيانات عينة من %s ؟"
+
+msgid "Company Description"
+msgstr "نبذه عن الشركة"
+
+msgid "Welcome Message for Users"
+msgstr "رسالة ترحيب للمستخدمين"
+
+msgid "Company Audit Plan"
+msgstr "خطة التدقيق شركة"
+
+msgid "Documents Level 1"
+msgstr "وثائق المستوى 1"
+
+msgid "Documents Level 2"
+msgstr "وثائق المستوى 2"
+
+msgid "Documents Level 3"
+msgstr "وثائق المستوى 3"
+
+msgid "Documents Level 4"
+msgstr "وثائق المستوى 4"
+
+msgid "Add Competency Mapping"
+msgstr "إضافة الكفاءات رسم الخرائط"
+
+msgid "Education"
+msgstr "التعليم"
+
+msgid "Actual Education"
+msgstr "التعليم الفعلي"
+
+msgid "Experience Required"
+msgstr "الخبرة المطلوبة"
+
+msgid "Actual Experience"
+msgstr "التجربة الفعلية"
+
+msgid "Skills Required"
+msgstr "المهارات المطلوبة"
+
+msgid "Skills Possessed"
+msgstr "تمتلك المهارات"
+
+msgid "Remarks"
+msgstr "ملاحظات"
+
+msgid "Approve Competency Mapping"
+msgstr "الموافقة الكفاءة رسم الخرائط"
+
+msgid "Edit Competency Mapping"
+msgstr "تحرير الكفاءة رسم الخرائط"
+
+msgid "New Competency Mapping"
+msgstr "الكفاءة رسم الخرائط الجديد"
+
+msgid "Add Employee"
+msgstr "إضافة موظف"
+
+msgid "View Competency Mapping"
+msgstr "مشاهدة الكفاءة رسم الخرائط"
+
+msgid "Add Corrective Preventive Action"
+msgstr "إضافة الإجراءات الوقائية التصحيحية"
+
+msgid "Step - 1"
+msgstr "خطوة - 1"
+
+msgid "Select Action"
+msgstr "حدد العمل"
+
+msgid "Number"
+msgstr "عدد"
+
+msgid "CAPA Source"
+msgstr "CAPA المصدر"
+
+msgid "CAPA Category"
+msgstr "CAPA الفئة"
+
+msgid "Select Internal Audit"
+msgstr "حدد التدقيق الداخلي"
+
+msgid "Select Suggestion Form"
+msgstr "تحديد نموذج الإقتراحات"
+
+msgid "Select Customer Complaint"
+msgstr "حدد شكاوى العملاء"
+
+msgid "Select Supplier"
+msgstr "حدد المورد"
+
+msgid "Select Product"
+msgstr "حدد المنتج"
+
+msgid "Select Device"
+msgstr "حدد الجهاز"
+
+msgid "Select Material"
+msgstr "اختيار المواد"
+
+msgid "Assigned To"
+msgstr "الشخص المسؤول"
+
+msgid "Target Date"
+msgstr "الهدف التاريخ"
+
+msgid "Initial Remarks"
+msgstr "ملاحظات أولية"
+
+msgid "Proposed Immediate Action"
+msgstr "الإجراءات الفورية المقترحة"
+
+msgid "Current Status"
+msgstr "الحالة الحالية"
+
+msgid "Completed By"
+msgstr "بتاريخ"
+
+msgid "Completed on Date"
+msgstr "أكملت على التسجيل"
+
+msgid "Completion Remarks"
+msgstr "الانتهاء ملاحظات"
+
+msgid "Step - 2"
+msgstr "خطوة - 2"
+
+msgid "Root Cause Analysis Required"
+msgstr "تحليل السبب الجذري مطلوب"
+
+msgid "Root Cause"
+msgstr "السبب الجذري"
+
+msgid "Determined By"
+msgstr "يحددها"
+
+msgid "Determined On Date"
+msgstr "العزم على تاريخ"
+
+msgid "Root Cause Remarks"
+msgstr "السبب الجذري ملاحظات"
+
+msgid "Proposed Long-Term Action"
+msgstr "طويل الأجل العمل المقترحة"
+
+msgid "Action Assigned to"
+msgstr "العمل المخصصة ل"
+
+msgid "Action Completed on Date"
+msgstr "العمل على الانتهاء من التسجيل"
+
+msgid "Action Completion Remarks"
+msgstr "إجراءات إتمام ملاحظات"
+
+msgid "Effectiveness"
+msgstr "الفاعلية"
+
+msgid "Document Changes Required"
+msgstr "وثيقة التغييرات المطلوبة"
+
+msgid "Closed By"
+msgstr "أغلقت بواسطة"
+
+msgid "Closed on Date"
+msgstr "تم إغلاقه التسجيل"
+
+msgid "Approve Corrective Preventive Action"
+msgstr "الموافقة على الإجراءات الوقائية التصحيحية"
+
+msgid "Select Suggesion Form"
+msgstr "تحديد نموذج Suggesion"
+
+msgid "CAPA Number"
+msgstr "عدد CAPA"
+
+msgid "Raised By"
+msgstr "التي أثارتها"
+
+msgid "Edit Corrective Preventive Action"
+msgstr "تعديل الإجراءات الوقائية التصحيحية"
+
+msgid "Corrective Action"
+msgstr "الإجراءات التصحيحية"
+
+msgid "Preventive Action"
+msgstr "العمل الوقائي"
+
+msgid "Corrective Preventive Action"
+msgstr "الإجراءات الوقائية التصحيحية"
+
+msgid "New Corrective Preventive Action"
+msgstr "الإجراءات الوقائية التصحيحية جديد"
+
+msgid "New CAPA Source"
+msgstr "المصدر CAPA جديد"
+
+msgid "New CAPA Category"
+msgstr "جديد CAPA الفئة"
+
+msgid "View Corrective Preventive Action"
+msgstr "عرض الإجراءات الوقائية التصحيحية"
+
+msgid "CAPA Name"
+msgstr "اسم CAPA"
+
+msgid "Category Name"
+msgstr "اسم الفئة"
+
+msgid "Completed On Date"
+msgstr "على تاريخ الانتهاء"
+
+msgid "Proposed Longterm Action"
+msgstr "العمل على المدى البعيد المقترحة"
+
+msgid "Action Assigned To"
+msgstr "العمل المخصصة ل"
+
+msgid "Action Completed On Date"
+msgstr "العمل على تاريخ الانتهاء"
+
+msgid "Closed On Date"
+msgstr "أغلقت على تاريخ"
+
+msgid "Closure Remarks"
+msgstr "إغلاق ملاحظات"
+
+msgid "List Course Type"
+msgstr "قائمة نوع الدورة"
+
+msgid "Approve Course Type"
+msgstr "الموافقة نوع الدورة"
+
+msgid "Edit Course Type"
+msgstr "تحرير نوع الدورة"
+
+msgid "New Course Type"
+msgstr "جديد نوع الدورة"
+
+msgid "View Course Type"
+msgstr "عرض نوع الدورة"
+
+msgid "Description"
+msgstr "الوصف"
+
+msgid "List Courses"
+msgstr "قائمة الدورات"
+
+msgid "Course Type"
+msgstr "نوع الدورة"
+
+msgid "Add New Training/Courses"
+msgstr "إضافة جديدة للتدريب / دورات"
+
+msgid "Approve Course"
+msgstr "الموافقة دورة"
+
+msgid "Edit Course"
+msgstr "دورة تحرير"
+
+msgid "New Course"
+msgstr "دورة جديدة"
+
+msgid "New Course Types"
+msgstr "أنواع دورة جديدة"
+
+msgid "View Course"
+msgstr "عرض دورة"
+
+msgid "Send for approval"
+msgstr "إرسال للموافقة عليها"
+
+msgid "Records added to this table will be send to the person you choose from the list below."
+msgstr "سوف ترسل السجلات المضافة إلى هذا الجدول إلى الشخص الذي تختاره من القائمة أدناه."
+
+msgid "Document Title"
+msgstr "عنوان الوثيقة"
+
+msgid "New Custom Template"
+msgstr "قالب مخصص جديد"
+
+msgid "View Custom Template"
+msgstr "عرض قالب مخصص"
+
+msgid "Details"
+msgstr "التفاصيل"
+
+msgid "Add Customer Complaint"
+msgstr "اضافة شكوى العملاء"
+
+msgid "Add To CAPA ?"
+msgstr "إضافة إلى CAPA؟"
+
+msgid "Approve Customer Complaint"
+msgstr "الموافقة على شكاوى العملاء"
+
+msgid "Edit Customer Complaint"
+msgstr "تحرير شكوى العملاء"
+
+msgid "Source"
+msgstr "المصدر"
+
+msgid "New Customer Complaint"
+msgstr "الجديد شكاوى العملاء"
+
+msgid "New Customer"
+msgstr "العملاء الجديد"
+
+msgid "View Customer Complaint"
+msgstr "شكوى رأي العملاء"
+
+msgid "Type"
+msgstr "النوع"
+
+msgid "Complaint Number"
+msgstr "عدد الشكاوى"
+
+msgid "Complaint Date"
+msgstr "شكوى التسجيل"
+
+msgid "Assigned to"
+msgstr "تعيين"
+
+msgid "Action Taken"
+msgstr "الإجراءات المتخذة"
+
+msgid "Action Taken Date"
+msgstr "تاريخ التقاط العمل"
+
+msgid "Settled Date"
+msgstr "تاريخ استقر"
+
+msgid "Authorized By"
+msgstr "اعتمدت من قبل:"
+
+msgid "Add Customer Feedback Question"
+msgstr "إضافة العملاء ملاحظات على سؤال"
+
+msgid "If question type is Optional, fill out options below, else leave blank."
+msgstr "إذا كان نوع السؤال هو اختياري، وملء الخيارات أدناه، وإلا ترك فارغا."
+
+msgid "Approve Customer Feedback Question"
+msgstr "الموافقة العملاء ملاحظات على سؤال"
+
+msgid "Edit Customer Feedback Question"
+msgstr "تحرير العملاء ملاحظات على سؤال"
+
+msgid "New Customer Feedback Question"
+msgstr "الجديد العملاء ملاحظات على سؤال"
+
+msgid "Add Customer Feedback"
+msgstr "إضافة العملاء ملاحظات"
+
+msgid "View Customer Feedback Question"
+msgstr "رأي العملاء ملاحظات على سؤال"
+
+msgid "Approve Customer Feedback"
+msgstr "الموافقة العملاء ملاحظات"
+
+msgid "Edit Customer Feedback"
+msgstr "تحرير ملاحظات العملاء"
+
+msgid "New Customer Feedback"
+msgstr "الجديد العملاء ملاحظات"
+
+msgid "Add Customer"
+msgstr "إضافة العملاء"
+
+msgid "View Customer Feedback"
+msgstr "عرض ملاحظات العملاء"
+
+msgid "Questions"
+msgstr "الأسئلة"
+
+msgid "Answer"
+msgstr "إجابة"
+
+msgid "Add Customer Meeting"
+msgstr "إضافة اجتماع العملاء"
+
+msgid "Restrict access?"
+msgstr "تقييد الوصول؟"
+
+msgid "You can copy and paste your meeting details here. You can also upload it after saving this record"
+msgstr "يمكنك نسخ ولصق تفاصيل اجتماعكم هنا. يمكنك أيضا تحميله بعد حفظ هذا السجل"
+
+msgid "Add Follow up"
+msgstr "إضافة متابعة"
+
+msgid "Approve Customer Meeting"
+msgstr "الموافقة اجتماع العملاء"
+
+msgid "Edit Customer Meeting"
+msgstr "تحرير اجتماع العملاء"
+
+msgid "Follow Ups"
+msgstr "المتابعات"
+
+msgid "New Customer Meeting"
+msgstr "جديد اجتماع العملاء"
+
+msgid "View Customer Meeting"
+msgstr "مشاهدة اجتماع العملاء"
+
+msgid "Meeting Date"
+msgstr "تاريخ الاجتماع"
+
+msgid "Action Point"
+msgstr "عمل نقطة"
+
+msgid "Next Meeting Date"
+msgstr "الاجتماع المقبل التاريخ"
+
+msgid "Status"
+msgstr "الحالة"
+
+msgid "PreparedBy"
+msgstr "PreparedBy"
+
+msgid "View Followup"
+msgstr "نظرا متابعة"
+
+msgid "Customer Type"
+msgstr "نوع العملاء"
+
+msgid "Company"
+msgstr "الشركة"
+
+msgid "Individual"
+msgstr "فرد"
+
+msgid "Marital Status"
+msgstr "الحالة الاجتماعية"
+
+msgid "Address"
+msgstr "العنوان"
+
+msgid "Approve Customer"
+msgstr "الموافقة العملاء"
+
+msgid "Edit Customer"
+msgstr "تحرير العملاء"
+
+msgid "View Customer"
+msgstr "رأي العملاء"
+
+msgid "Customer Since Date"
+msgstr "العملاء منذ التسجيل"
+
+msgid "Customer Code"
+msgstr "كود العملاء"
+
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+msgid "Phone"
+msgstr "هاتف"
+
+msgid "Mobile"
+msgstr "الموبايل"
+
+msgid "Date Of Birth"
+msgstr "تاريخ الميلاد"
+
+msgid "Residence Address"
+msgstr "عنوان الإقامة"
+
+msgid "Add Daily Backup Detail"
+msgstr "إضافة تفاصيل النسخ الاحتياطي اليومي"
+
+msgid "Data Backup Name"
+msgstr "اسم النسخ الاحتياطي للبيانات"
+
+msgid "Device Name"
+msgstr "اسم الجهاز"
+
+msgid "Computer Name"
+msgstr "اسم الكمبيوتر"
+
+msgid "Edit Daily Backup Detail"
+msgstr "تحرير اليومية النسخ الاحتياطي التفاصيل"
+
+msgid "New Daily Backup Detail"
+msgstr "الجديد اليومي التفاصيل النسخ الاحتياطي"
+
+msgid "New Data Type"
+msgstr "نوع البيانات الجديد"
+
+msgid "New Data Backup"
+msgstr "بيانات النسخ الاحتياطي جديدة"
+
+msgid "View Daily Backup Detail"
+msgstr "عرض التفاصيل النسخ الاحتياطي اليومي"
+
+msgid "Backup Date"
+msgstr "النسخ الاحتياطي التسجيل"
+
+msgid "Business Development Dashboard"
+msgstr "تطوير الأعمال لوحة"
+
+msgid "Customers"
+msgstr "العملاء"
+
+msgid "Click Add to add new customer or click on See All to view list of existing customers"
+msgstr "انقر فوق إضافة لإضافة عميل جديد أو انقر على انظر جميع لعرض قائمة من العملاء الحاليين"
+
+msgid "See All"
+msgstr "انظر جميع"
+
+msgid "Customer Meetings"
+msgstr "اجتماعات العملاء"
+
+msgid "Before you add customer meetings make sure you have added "
+msgstr "قبل إضافة اجتماعات العملاء تأكد أضفتها "
+
+msgid "Employees"
+msgstr "الموظفين"
+
+msgid "No. of Meetings"
+msgstr "عدد الاجتماعات"
+
+msgid "Proposals"
+msgstr "اقتراحات"
+
+msgid "Before you add proposals make sure you have added "
+msgstr "قبل إضافة مقترحات تأكد أضفتها "
+
+msgid "No. of Proposals"
+msgstr "رقم المقترحات"
+
+msgid "Proposal Followups"
+msgstr "المتابعات اقتراح"
+
+msgid "Before you add proposal followups make sure you have added "
+msgstr "قبل إضافة المتابعات اقتراح تأكد أضفتها "
+
+msgid "Proposal"
+msgstr "أدوات المائدة"
+
+msgid "No. of Proposals Followups"
+msgstr "رقم المقترحات المتابعات"
+
+msgid "Available Quality Documents (BD Department)"
+msgstr "الإطلاع على وثائق الجودة (قسم BD)"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies for EDP department by clicking on the links below."
+msgstr "يمكنك إضافة / عرض الكتيبات الخاصة بك الجودة شركة / الإجراءات / أهداف / السجلات / سياسات لإدارة EDP من خلال النقر على الروابط أدناه."
+
+msgid "These documents are available for all users."
+msgstr "وهذه الوثائق متاحة لجميع المستخدمين."
+
+msgid "Conversion Rate"
+msgstr "سعر التحويل"
+
+msgid "Electronic Data Processing Dashboard"
+msgstr "معالجة البيانات الإلكترونية لوحة"
+
+msgid "FlinkISO Users"
+msgstr "FlinkISO المستخدمين"
+
+msgid "Before you create any user make sure you have added "
+msgstr "قبل إنشاء أي مستخدم تأكد أضفتها "
+
+msgid "Designations"
+msgstr "التسميات"
+
+msgid "Branches"
+msgstr "فروع"
+
+msgid "List of softwares"
+msgstr "قائمة برامج"
+
+msgid "Before you create the software list make sure you have added "
+msgstr "قبل إنشاء قائمة برامج تأكد أضفتها "
+
+msgid "No. of Softwares"
+msgstr "عدد البرامج"
+
+msgid "List of Computers"
+msgstr "قائمة الحاسبات"
+
+msgid "To add List Of Computers make sure you have added "
+msgstr "لإضافة قائمة من أجهزة الكمبيوتر تأكد من أنك قد أضافت "
+
+msgid "Suppliers"
+msgstr "الموردون"
+
+msgid "Purchase Orders"
+msgstr "أوامر الشراء"
+
+msgid "No. of Computers"
+msgstr "رقم الحاسبات"
+
+msgid "Computers/Softwares"
+msgstr "أجهزة كمبيوتر / برامج"
+
+msgid "To add list of Softwares make sure you have added "
+msgstr "لإضافة قائمة برامج تأكد أضفتها "
+
+msgid "Software Types"
+msgstr "أنواع البرمجيات"
+
+msgid "Storage Devices"
+msgstr "أجهزة التخزين"
+
+msgid "No. of Computers/Softwares"
+msgstr "رقم للكمبيوتر / برامج"
+
+msgid "Data Backups"
+msgstr "النسخ الاحتياطي للبيانات"
+
+msgid "Step-I is to create "
+msgstr "خطوة-I هو خلق "
+
+msgid "& Step-II is to create Backup Details and assign it to users from "
+msgstr "والخطوة الثانية هي إنشاء تفاصيل النسخ الاحتياطي وإسناد ذلك إلى المستخدمين من "
+
+msgid "Daily Backup Details"
+msgstr "تفاصيل النسخ الاحتياطي اليومية"
+
+msgid "See Logbook"
+msgstr "رؤية دفتر"
+
+msgid "List of Usernames"
+msgstr "قائمة أسماء المستخدمين"
+
+msgid "Before you add List of Usernames make sure you have already added "
+msgstr "قبل إضافة قائمة من أسماء المستخدمين تأكد من أنك قد أضفت "
+
+msgid "No. of Usernames"
+msgstr "عدد أسماء المستخدمين"
+
+msgid "Available Quality Documents (EDP Department)"
+msgstr "الإطلاع على وثائق الجودة (قسم EDP)"
+
+msgid "Data Entry Report"
+msgstr "تقرير إدخال البيانات"
+
+msgid "60% Complete"
+msgstr "60٪ كاملة"
+
+msgid "Human Resource Department Dashboard"
+msgstr "لوحة دائرة الموارد البشرية"
+
+msgid "Employee Master"
+msgstr "موظف ماستر"
+
+msgid "Before you can create any employee  make sure that you have already added "
+msgstr "قبل أن تتمكن من إنشاء أي موظف تأكد من أن كنت قد أضفت "
+
+msgid "No. of Employees"
+msgstr "عدد الموظفين"
+
+msgid "Courses"
+msgstr "الكورسات"
+
+msgid "Before adding any Courses make sure that you have already added "
+msgstr "قبل إضافة أي دورات تأكد من أن كنت قد أضفت "
+
+msgid "Course Types"
+msgstr "أنواع بالطبع"
+
+msgid "Trainers"
+msgstr "المدربون"
+
+msgid "Trainer Types"
+msgstr "أنواع المدرب"
+
+msgid "No. of Courses"
+msgstr "عدد الدورات"
+
+msgid "TNI"
+msgstr "المستثمر الوطني"
+
+msgid "Before you can add, access Training Need Identification  make sure you have added "
+msgstr "قبل أن تتمكن من إضافة، والوصول إلى التدريب تحتاج تحديد تأكد من أنك قد أضافت "
+
+msgid "Trainings"
+msgstr "دورات تدريبية"
+
+msgid " & "
+msgstr " و "
+
+msgid " No. of Training Need Identifications"
+msgstr " عدد الاحتياجات التدريبية تعريفات"
+
+msgid "Training Conducted"
+msgstr "تدريبية"
+
+msgid "Make sure you have already added "
+msgstr "تأكد من أنك قد أضفت "
+
+msgid "Training Types"
+msgstr "أنواع التدريب"
+
+msgid "No. of Trainings"
+msgstr "عدد الدورات التدريبية"
+
+msgid "Training Evaluations"
+msgstr "التقييمات التدريب"
+
+msgid "No. of Training Evaluations"
+msgstr "عدد التقييمات التدريب"
+
+msgid "Competency Mapping"
+msgstr "الكفاءة رسم الخرائط"
+
+msgid "No. of Competency Mappings"
+msgstr "عدد الكفاءات تعيينات"
+
+msgid "Add Employee Appraisals"
+msgstr "إضافة التقييمات موظف"
+
+msgid "Appraisal Questions"
+msgstr "أسئلة التقييم"
+
+msgid "No. of Appraisals"
+msgstr "عدد التقييمات"
+
+msgid "Available Quality Documents (HR Department)"
+msgstr "الإطلاع على وثائق الجودة (قسم الموارد البشرية)"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies for HR department by clicking on the links below. <br /> These documents are available for all users."
+msgstr "يمكنك إضافة / عرض الكتيبات الخاصة بك الجودة شركة / الإجراءات / أهداف / السجلات / سياسات لإدارة الموارد البشرية من خلال النقر على الروابط أدناه. <br /> وهذه الوثائق متاحة لجميع المستخدمين."
+
+msgid "View / Upload Evidance"
+msgstr "عرض / تحميل Evidance"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Are you sure you want to delete this record ?"
+msgstr "هل أنت متأكد أنك تريد حذف هذا السجل؟"
+
+msgid "Email Record"
+msgstr "سجل البريد الإلكتروني"
+
+msgid "Are you sure ?"
+msgstr "هل أنت متأكد؟"
+
+msgid "Management Representative Dashboard"
+msgstr "الممثل إدارة لوحة"
+
+msgid "Document Change Requests"
+msgstr "تغيير وثيقة تطلب"
+
+msgid "Create these request from ADD. These requests will be then available in MR meetings as topic."
+msgstr "إنشاء هذه طلب من ADD. وهذه الطلبات ثم تتوفر في اجتماعات وMR الموضوع."
+
+msgid "Document Amendment Record Sheet"
+msgstr "ورقة وثيقة تعديل سجل"
+
+msgid "will be generated automatically."
+msgstr "سيتم إنشاؤه تلقائيا."
+
+msgid "No. of Change Requests"
+msgstr "عدد طلبات التغيير"
+
+msgid "Meetings"
+msgstr "الاجتماعات"
+
+msgid "Make sure you have added "
+msgstr "تأكد من أنك قد أضفت "
+
+msgid "Departments"
+msgstr "الإدارات"
+
+msgid "to create Meetings and send invites to employees."
+msgstr "لخلق الاجتماعات وإرسال دعوات للموظفين."
+
+msgid "As per the standard you should have at-least one meeting per month."
+msgstr "وفقا لمعيار يجب أن يكون اجتماعا واحدا على الأقل، شهريا."
+
+msgid "Meeting Details"
+msgstr "تفاصيل اجتماع"
+
+msgid "to add Meetings details."
+msgstr "لإضافة تفاصيل الاجتماعات."
+
+msgid "You can add meeting details after meeting dates."
+msgstr "يمكنك إضافة تفاصيل الاجتماع بعد مواعيد اجتماعات."
+
+msgid "Manage Internal Audits"
+msgstr "إدارة المراجعة الداخلية"
+
+msgid "Trained Internal Auditors"
+msgstr "تدريب المدققين الداخليين"
+
+msgid "to Prepare your Internal Audit Plan for the year."
+msgstr "لإعداد خطة التدقيق الداخلي لمدة سنة."
+
+msgid "You need to create a schedule / plan first and then add actual audit details by choosing the plan from existing schedules."
+msgstr "تحتاج إلى إنشاء جدول / خطة أولا ثم إضافة تفاصيل المراجعة الفعلية عن طريق اختيار خطة من جداول القائمة."
+
+msgid "Add Schedule / Plan"
+msgstr "إضافة جدول / خطة"
+
+msgid "Select Plan & add Audit Details"
+msgstr "تحديد خطة وإضافة تفاصيل التدقيق"
+
+msgid "No. of Non Conformity Actions Required"
+msgstr "عدد المجموعات غير المطابقة مطلوب"
+
+msgid "No. of Internal Audits"
+msgstr "عدد عمليات التدقيق الداخلي"
+
+msgid "CAPA"
+msgstr "CAPA"
+
+msgid "CAPA Sources"
+msgstr "مصادر CAPA"
+
+msgid "to Add CAPA Plan"
+msgstr "إضافة إلى خطة CAPA"
+
+msgid "No. of CAPAs"
+msgstr "عدد كابا"
+
+msgid "Task"
+msgstr "مهمة"
+
+msgid "As per your standard procedure, you might have assigned various ISO related tasks to your employees. You can assign those tasks to specific employees by clicking ADD below."
+msgstr "حسب الإجراء الخاص بك القياسية، قد قمت بتعيينها ISO مختلف المهام ذات الصلة لموظفيك. يمكنك تعيين تلك المهام إلى موظف معين عن طريق النقر فوق إضافة أدناه."
+
+msgid "Once the task is assigned to the respective employees, based on the schedule, the employee will receive alerts on those tasks each time they login."
+msgstr "مرة واحدة تم تعيين المهمة إلى الموظفين المعنيين، على أساس الجدول الزمني، فإن موظف أستقبال تنبيه على تلك المهام في كل مرة الدخول."
+
+msgid "This will make your ISO related activity monitoring easy."
+msgstr "وهذا سيجعل تراقب نشاط يتعلق ISO الخاص سهلة."
+
+msgid "No. of Tasks"
+msgstr "عدد المهام"
+
+msgid "Task Monitor"
+msgstr "مراقبة المهمة"
+
+msgid "Custom Templates"
+msgstr "قوالب مخصصة"
+
+msgid "Template creation as per requirements. Also add schedules & auto generate reports."
+msgstr "إنشاء قالب وفقا لمتطلبات. أيضا إضافة جداول والسيارات توليد التقارير."
+
+msgid "Benchmarking"
+msgstr "القياس  "
+
+msgid "For each Department, you need to assess the required data entry input for ISO related activities, on a daily / weekly / monthly basis."
+msgstr "لكل دائرة، تحتاج إلى تقييم المدخلات إدخال البيانات المطلوبة للأنشطة ISO ذات الصلة، على أساس يومي / أسبوعي / شهري."
+
+msgid "Based on the benchmark set, FlinkISO will automatically update you on the over all readiness."
+msgstr "استنادا إلى مجموعة القياسي، سوف FlinkISO تحديث تلقائيا على جميع أنحاء الاستعداد."
+
+msgid "Define Benchmarks"
+msgstr "تحديد معايير"
+
+msgid "Work in progress"
+msgstr "التقدم في العمل"
+
+msgid "Non Conformities Report"
+msgstr "تقرير عدم المطابقة"
+
+msgid "Why do we need this?"
+msgstr "لماذا نحتاج ذلك؟"
+
+msgid "Some Management Representative notes on this subject should appear here."
+msgstr "يجب أن بعض الملاحظات الممثل الإدارة حول هذا الموضوع تظهر هنا."
+
+msgid "We can extract these from Helps section"
+msgstr "يمكننا استخراج هذه من يساعد القسم"
+
+msgid "Available Quality Documents (MR Department)"
+msgstr "الإطلاع على وثائق الجودة (قسم MR)"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies for MR department by clicking on the links below. <br /> These documents are available for all users."
+msgstr "يمكنك إضافة / عرض الكتيبات الخاصة بك الجودة شركة / الإجراءات / أهداف / السجلات / سياسات لإدارة MR عن طريق النقر على الروابط أدناه. <br /> وهذه الوثائق متاحة لجميع المستخدمين."
+
+msgid "List of available forms"
+msgstr "قائمة الأشكال المتاحة"
+
+msgid "Admin Dashboard"
+msgstr "الادارة وحة القيادة"
+
+msgid "Fire Extinguisher"
+msgstr "آلة إطفاء حريق"
+
+msgid "Fire Extinguisher Types"
+msgstr "أنواع مطفأة حريق"
+
+msgid "No. of Fire Extinguishers"
+msgstr "عدد طفايات الحريق"
+
+msgid "Check List For Housekeeping"
+msgstr "قائمة التحقق من أجل الوطن"
+
+msgid "To create a checklist for housekeeping make sure you have already added "
+msgstr "لإنشاء قائمة مرجعية من أجل الوطن تأكد من أنك قد أضفت "
+
+msgid "No. of Housekeeping Checklists"
+msgstr "عدد الغرف قوائم المراجعة"
+
+msgid "Housekeeping Responsibilities"
+msgstr "المسؤوليات المنزلية"
+
+msgid "No. of Housekeeping Responsibilities"
+msgstr "عدد الغرف المسؤوليات"
+
+msgid "Available Quality Documents (ADMIN Department)"
+msgstr "الإطلاع على وثائق الجودة (قسم ADMIN)"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies for Admin department by clicking on the links below. <br /> These documents are available for all users."
+msgstr "يمكنك إضافة / عرض الكتيبات الخاصة بك الجودة شركة / الإجراءات / أهداف / السجلات / سياسات للإدارة الادارية من خلال النقر على الروابط أدناه. <br /> وهذه الوثائق متاحة لجميع المستخدمين."
+
+msgid "Note: "
+msgstr "ملاحظات : "
+
+msgid "As an MR, you will be able to see tasks & updates for all users."
+msgstr "باعتبارها MR، سوف تكون قادرا على رؤية المهام والتحديثات لجميع المستخدمين."
+
+msgid "Production Dashboard"
+msgstr "لوحة الانتاج"
+
+msgid "Raw Material"
+msgstr "المواد الاولية"
+
+msgid "Raw material is required for products. You can add required raw materials here and add those to existing products."
+msgstr "مطلوب المواد الخام للمنتجات. يمكنك إضافة المواد الخام المطلوبة هنا وإضافة إلى تلك المنتجات الحالية."
+
+msgid "List of Products"
+msgstr "قائمة المنتجات"
+
+msgid "Before you add new product you may like to add required materials for the products "
+msgstr "قبل إضافة منتج جديد قد ترغب في إضافة المواد المطلوبة للمنتجات "
+
+msgid "Materials"
+msgstr " مواد الخام"
+
+msgid "Add production Batch"
+msgstr "إضافة الدفعة إنتاج"
+
+msgid "To add production details you need "
+msgstr "لإضافة تفاصيل الإنتاج التي تحتاج إليها "
+
+msgid "products"
+msgstr "المنتجات"
+
+msgid "Add Stock To Batch"
+msgstr "إضافة الدفعة المالية ل"
+
+msgid "Before you add stock details, you require "
+msgstr "قبل إضافة تفاصيل الأسهم، تحتاج "
+
+msgid "Delivery Challans"
+msgstr "شالا تسليم"
+
+msgid "Add Incoming Stock"
+msgstr "إضافة اردة المالية"
+
+msgid "Stock Status"
+msgstr "الحالة الأوراق المالية"
+
+msgid "based on Inwards VA Outwards stock, stock stastus will be generated. Choose date range & material to generate stock status."
+msgstr "على أساس الأسهم VA الداخل إلى الخارج، سيتم إنشاء المخزون stastus. اختيار نطاق التاريخ ومادة لتوليد وضع المخزون."
+
+msgid "See Stock Status"
+msgstr "نرى الحالة الأوراق المالية"
+
+msgid "Available Quality Documents (Production Department)"
+msgstr "الإطلاع على وثائق الجودة (قسم الإنتاج)"
+
+msgid "Purchase Dashboard"
+msgstr "شراء لوحة"
+
+msgid "Sub-Contractor Registration Form"
+msgstr "نموذج تسجيل المقاولين من الباطن"
+
+msgid "Add Sub-Contractor / Contractor or Vendor's from here"
+msgstr "إضافة المقاول الفرعي / المقاول أو المورد لمن هنا"
+
+msgid "Supplier Categories"
+msgstr "المورد الفئات"
+
+msgid "No. of Sub-Contractor"
+msgstr "عدد مقاول من الباطن"
+
+msgid "Purchase Order"
+msgstr "طلب شراء"
+
+msgid "Add Purchase Orders. Make sure you have added registered (& published) suppliers before you add a new purchase order."
+msgstr "إضافة أوامر الشراء. تأكد من أنك قد أضفت المسجلة (ونشر) الموردين قبل إضافة طلب شراء جديد."
+
+msgid "No. of Purchase Orders"
+msgstr "عدد أوامر الشراء"
+
+msgid "To add Delivery Challans make sure that you have added "
+msgstr "لإضافة شالا تسليم تأكد من التي قمت بإضافتها "
+
+msgid "No. of Delivery Challans"
+msgstr "عدد شالا التسليم"
+
+msgid "Supplier Evaluation / Re-Evaluation"
+msgstr "تقييم المورد / إعادة تقييم"
+
+msgid "To evaluate any supplier make sure you have already added "
+msgstr "لتقييم أي مورد تأكد من أنك قد أضفت "
+
+msgid "Evaluate"
+msgstr "تقييم"
+
+msgid "No. of Supplier Evaluation / Re-Evaluation"
+msgstr "عدد مورد السلعة تقييم / إعادة تقييم"
+
+msgid "Summary of Supplier Evaluation"
+msgstr "ملخص تقييم الموردين"
+
+msgid "Based on the previous evaluations, this list will be auto populated."
+msgstr "استنادا إلى التقييمات السابقة، سوف يكون لهذه القائمة السيارات بالسكان."
+
+msgid "No. of Supplier Evaluation Summaries"
+msgstr "عدد ملخصات تقييم المورد"
+
+msgid "List of Acceptable Suppliers"
+msgstr "قائمة الموردين المقبول"
+
+msgid "To add List Of Acceptable Supplier make sure you have already added "
+msgstr "لإضافة قائمة من المقبول مورد تأكد من أنك قمت أضفت "
+
+msgid "No. of Acceptable Suppliers"
+msgstr "عدد الموردين المقبول"
+
+msgid "Available Quality Documents (PURCHASE Department)"
+msgstr "الإطلاع على وثائق الجودة (إدارة المشتريات)"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies for Purchase department by clicking on the links below."
+msgstr "يمكنك إضافة / عرض الكتيبات الخاصة بك الجودة شركة / الإجراءات / أهداف / السجلات / سياسات لقسم الشراء من خلال النقر على الروابط أدناه."
+
+msgid "Quality Control Dashboard"
+msgstr "مراقبة الجودة لوحة"
+
+msgid "Customer Complaints"
+msgstr "شكاوى العملاء"
+
+msgid "Products"
+msgstr "المنتجات"
+
+msgid "No. of Open Customer Complaints"
+msgstr "رقم المفتوح شكاوى العملاء"
+
+msgid "No. of Closed Customer Complaints"
+msgstr "عدد شكاوى العملاء مغلقة"
+
+msgid "Measuring Devices for Calibrations"
+msgstr "أجهزة لقياس المعايرة"
+
+msgid "Devices"
+msgstr "الأجهزة"
+
+msgid "No. of Measuring Devices"
+msgstr "عدد أجهزة قياس"
+
+msgid "Calibrations"
+msgstr "المعايرة"
+
+msgid "List of all the calibrations performed on various devices."
+msgstr "قائمة بجميع المعايرة التي أجريت على أجهزة مختلفة."
+
+msgid "No. of Calibrations"
+msgstr "عدد التحديدات"
+
+msgid "Customer Feedbacks"
+msgstr "التقيمات العملاء"
+
+msgid "Questionnaire"
+msgstr "استبيان"
+
+msgid "No. of Customer Feedbacks"
+msgstr "عدد التقييمات العملاء"
+
+msgid "Add QC for Material"
+msgstr "إضافة QC للمادة"
+
+msgid "No. of QC For Material"
+msgstr "عدد QC لمواد"
+
+msgid "Add Device Preventive Maintenance"
+msgstr "إضافة جهاز الصيانة الوقائية"
+
+msgid "devices"
+msgstr "الأجهز"
+
+msgid "No. of  Device Preventive Maintenance"
+msgstr "رقم الصيانة الوقائية جهاز"
+
+msgid "Note"
+msgstr "ملاحظات"
+
+msgid "Measuring Devices for Calibrations : "
+msgstr "أجهزة لقياس المعايرة: "
+
+msgid "You don't require to \"Add\" Measuring Devices for Calibrations. This list automatically gets generated while you add a new device."
+msgstr "أنت لا تحتاج إلى  "\إضافة "\ أجهزة قياس لأغراض المعايرة. هذه القائمة تلقائيا يحصل لدت حين قمت بإضافة جهاز جديد."
+
+msgid "Customer Feedback : "
+msgstr "العملاء ملاحظات: "
+
+msgid "Make sure you have added Questionnaire for adding customer feedback. Click on \"Questionnaire\" to add questions one by one."
+msgstr "تأكد من أنك قد أضفت استبيان لإضافة ملاحظات العملاء. انقر على  "\استبيان "\ لإضافة الأسئلة واحدا تلو الآخر."
+
+msgid "Available Quality Documents (QUALITY Department)"
+msgstr "الإطلاع على وثائق الجودة (قسم الجودة)"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies for Quality department by clicking on the links below. <br /> These documents are available for all users."
+msgstr "يمكنك إضافة / عرض الكتيبات الخاصة بك الجودة شركة / الإجراءات / أهداف / السجلات / سياسات لإدارة الجودة من خلال النقر على الروابط أدناه. <br /> وهذه الوثائق متاحة لجميع المستخدمين."
+
+msgid "Document Readiness"
+msgstr "الجاهزية وثيقة"
+
+msgid "Store Dashboard"
+msgstr "متجر لوحة"
+
+msgid "Dillivery Challans"
+msgstr "Dillivery شالا"
+
+msgid "Materials' List With Shelf Life"
+msgstr "قائمة المواد مع الصلاحية"
+
+msgid "Order Details Forms"
+msgstr "أجل تفاصيل أشكال"
+
+msgid "Add Purchase Orders"
+msgstr "إضافة أوامر الشراء"
+
+msgid "List Data Backups"
+msgstr "قائمة بيانات النسخ الاحتياطي"
+
+msgid "Data Type"
+msgstr "نوع البيانات"
+
+msgid "Backup Schedule"
+msgstr "جدول النسخ الاحتياطي"
+
+msgid "Add Data Back Up"
+msgstr "إضافة بيانات النسخ الاحتياطي"
+
+msgid "User Responsible"
+msgstr "العضو المسؤول"
+
+msgid "Approve Data Back Up"
+msgstr "الموافقة بيانات النسخ الاحتياطي"
+
+msgid "Edit Data Back Up"
+msgstr "تحرير بيانات النسخ الاحتياطي"
+
+msgid "New Data Back Up"
+msgstr "جديد بيانات النسخ الاحتياطي"
+
+msgid "Add Data Type"
+msgstr "إضافة نوع البيانات"
+
+msgid "View Data Back Up"
+msgstr "عرض بيانات النسخ الاحتياطي"
+
+msgid "List Data Type"
+msgstr "القائمة نوع البيانات"
+
+msgid "Approve Data Type"
+msgstr "الموافقة على نوع البيانات"
+
+msgid "Edit Data Type"
+msgstr "تحرير نوع البيانات"
+
+msgid "View Data Type"
+msgstr "عرض نوع البيانات"
+
+msgid "User"
+msgstr "المستخدم"
+
+msgid "Logbook"
+msgstr "دفتر"
+
+msgid "Backup Details"
+msgstr "تفاصيل احتياطية"
+
+msgid "New Databackup Logbook"
+msgstr "Databackup دفتر جديد"
+
+msgid "Add Delivery Challan"
+msgstr "إضافة التسليم Challan"
+
+msgid "Select Purchase Order"
+msgstr "حدد طلب شراء"
+
+msgid "Approve Delivery Challan"
+msgstr "الموافقة على تسليم Challan"
+
+msgid "Edit Delivery Challan"
+msgstr "تحرير التسليم Challan"
+
+msgid "Purchase Order Details"
+msgstr "شراء تفاصيل الطلبات"
+
+msgid "Order Date"
+msgstr "الترتيب التاريخ"
+
+msgid "Intimation"
+msgstr "ايحاء"
+
+msgid "Expected Develivery Date"
+msgstr "يتوقع Develivery التسجيل"
+
+msgid "Supplier"
+msgstr "المورد"
+
+msgid "Product/ Device/ Material/ Other"
+msgstr "المنتج / الأجهزة / المواد / أخرى"
+
+msgid "Discount"
+msgstr "الخصم"
+
+msgid "Rate"
+msgstr "تقييم"
+
+msgid "Total"
+msgstr "الإجمالي"
+
+msgid "Challan Values"
+msgstr "القيم Challan"
+
+msgid "This material requires Quality Checks therefore it can not be added to Stock."
+msgstr "هذه المواد تتطلب التحقق من جودة بالتالي فإنه لا يمكن أن تضاف إلى المخزون."
+
+msgid "Order Number"
+msgstr "الأمر رقم"
+
+msgid "Quantity Ordered"
+msgstr "الكمية المطلوبة"
+
+msgid "New Delivery Challan"
+msgstr "جديد التسليم Challan"
+
+msgid "New Purchase Order"
+msgstr "الجديد طلب شراء"
+
+msgid "View Delivery Challan"
+msgstr "عرض تسليم Challan"
+
+msgid "Purchase Order Number"
+msgstr "شراء الأمر رقم"
+
+msgid "Challan Number"
+msgstr "عدد Challan"
+
+msgid "Challan Date"
+msgstr "Challan التسجيل"
+
+msgid "Prices"
+msgstr "أسعار"
+
+msgid "Ship By"
+msgstr "سفينة بواسطة"
+
+msgid "Shipping Details"
+msgstr "تفاصيل الشحن"
+
+msgid "Insurance"
+msgstr "التأمين"
+
+msgid "Shipping Date"
+msgstr "تاريخ الشحن"
+
+msgid "Ship To"
+msgstr "سفينة ل"
+
+msgid "Payment Details"
+msgstr "تفاصيل الدفع"
+
+msgid "Invoice To"
+msgstr "فاتورة ل"
+
+msgid "Acknowledgement Details"
+msgstr "تفاصيل شكر وتقدير"
+
+msgid "Acknowledgement Date"
+msgstr "شكر وتقدير تاريخ"
+
+msgid "Delivery Challan Detail"
+msgstr "تسليم التفاصيل Challan"
+
+msgid "Product / Device/ Material/ Other"
+msgstr "المنتج / الأجهزة / المواد / أخرى"
+
+msgid "Quantity Received"
+msgstr "الكمية المتلقاة"
+
+msgid "Material QC Required?"
+msgstr "QC المواد المطلوبة؟"
+
+msgid "Edit Department"
+msgstr "تحرير القسم"
+
+msgid "Department Name"
+msgstr "اسم الدائرة"
+
+msgid "Add / Edit Clauses"
+msgstr "إضافة / تعديل بنود"
+
+msgid "Other details"
+msgstr "تفاصيل أخرى"
+
+msgid "Clauses"
+msgstr "بنود"
+
+msgid "New Department"
+msgstr "الإدارة الجديدة"
+
+msgid "View Department"
+msgstr "مشاهدة زارة"
+
+msgid "List of users in this Department"
+msgstr "قائمة المستخدمين في هذا القسم"
+
+msgid "is MR"
+msgstr "هو MR"
+
+msgid "is View All"
+msgstr "هو عرض جميع"
+
+msgid "is Approver"
+msgstr "غير الموافق"
+
+msgid "Approve Designation"
+msgstr "الموافقة على تعيين"
+
+msgid "Edit Designation"
+msgstr "تحرير تسمية"
+
+msgid "New Designation"
+msgstr "تعيين جديد"
+
+msgid "View Designation"
+msgstr "عرض تعيين"
+
+msgid "Add Device Maintenance"
+msgstr "إضافة صيانة الأجهزة"
+
+msgid "Person Responsible for Maintenance"
+msgstr "الشخص المسؤول عن صيانة"
+
+msgid "Approve Device Maintenance"
+msgstr "الموافقة على صيانة الأجهزة"
+
+msgid "Edit Device Maintenance"
+msgstr "تحرير صيانة الأجهزة"
+
+msgid "Maintenance Performed Date"
+msgstr "صيانة يؤديها التسجيل"
+
+msgid "Intimation Sent To Employee"
+msgstr "ايحاء المرسلة لموظف"
+
+msgid "Intimation Sent To Department"
+msgstr "ايحاء المرسلة إلى وزارة"
+
+msgid "New Device Maintenance"
+msgstr "صيانة الأجهزة الجديدة"
+
+msgid "View Device Maintenance"
+msgstr "عرض صيانة الأجهزة"
+
+msgid "Findings"
+msgstr "النتائج"
+
+msgid "Device Details"
+msgstr "تفاصيل الجهاز"
+
+msgid "Serial"
+msgstr "الرقم المتسلسل"
+
+msgid "Preventive Maintenance"
+msgstr "الصيانة الوقائية"
+
+msgid "Maintenance Required"
+msgstr "الصيانة المطلوبة"
+
+msgid "Maintenance Frequency"
+msgstr "صيانة التردد"
+
+msgid "Preventive Maintenance Method"
+msgstr "الصيانة الوقائية طريقة"
+
+msgid "Other Details"
+msgstr "تفاصيل أخرى"
+
+msgid "Make Type"
+msgstr "جعل نوع"
+
+msgid "Purchase Date"
+msgstr "تاريخ الشراء"
+
+msgid "Device Calibration Details"
+msgstr "تفاصيل معايرة جهاز"
+
+msgid "Calibration Frequency"
+msgstr "معايرة التردد"
+
+msgid "Required Calibration"
+msgstr "المعايرة المطلوبة"
+
+msgid "Approve Device"
+msgstr "الموافقة على الأجهزة"
+
+msgid "Edit Device"
+msgstr "تحرير جهاز"
+
+msgid "Manual"
+msgstr "ناقل حركة يدوي"
+
+msgid "Sparelist"
+msgstr "Sparelist"
+
+msgid "Supplier Name"
+msgstr "اسم المورد"
+
+msgid "Preventive Maintenance Required ?"
+msgstr "مطلوب الصيانة الوقائية؟"
+
+msgid "Calibration Required ?"
+msgstr "المعايرة المطلوبة؟"
+
+msgid "New Device"
+msgstr "جهاز جديد"
+
+msgid "View Device"
+msgstr "عرض جهاز"
+
+msgid "Add Document Amendment Record Sheet"
+msgstr "إضافة ورقة وثيقة تعديل سجل"
+
+msgid "Approve Document Amendment Record Sheet"
+msgstr "الموافقة على ورقة وثيقة تعديل سجل"
+
+msgid "Edit Document Amendment Record Sheet"
+msgstr "ورقة تحرير تعديل وثيقة تسجيل"
+
+msgid "New Document Amendment Record Sheet"
+msgstr "ورقة مستند جديد تعديل سجل"
+
+msgid "View Document Amendment Record Sheet"
+msgstr "عرض ورقة الوثيقة تعديل سجل"
+
+msgid "Amendment Details"
+msgstr "تفاصيل التعديل"
+
+msgid "Current Document"
+msgstr "الوثيقة الحالية"
+
+msgid "Amendment History"
+msgstr "تعديل التاريخ"
+
+msgid "Restore"
+msgstr "إستعادة"
+
+msgid "Purge"
+msgstr "تطهير"
+
+msgid "View / Upload Evidence"
+msgstr "عرض / تحميل الأدلة"
+
+msgid "Edit in new window"
+msgstr "تحرير في نافذة جديدة"
+
+msgid "Publish Record"
+msgstr "نشر تسجيل"
+
+msgid "Are you sure you want to publish this record ?"
+msgstr "هل أنت متأكد أنك تريد نشر هذا السجل؟"
+
+msgid "Delete Record"
+msgstr "حذف سجل"
+
+msgid "Key Responsibilty Areas"
+msgstr "المناطق مسؤوليتها الرئيسية"
+
+msgid "Target"
+msgstr "الهدف"
+
+msgid "Advanced Search"
+msgstr "بحث متقدم"
+
+msgid "Type Keyword & select the field which you want to search from below"
+msgstr "اكتب كلمة وحدد الحقل الذي تريد البحث من الأسفل"
+
+msgid "If calibration is required"
+msgstr "إذا كان مطلوبا المعايرة"
+
+msgid "Select Calibration Frequency"
+msgstr "حدد معايرة التردد"
+
+msgid "Manual Available"
+msgstr "دليل متاح"
+
+msgid "Sparelist Available"
+msgstr "Sparelist متاح"
+
+msgid "Select Department"
+msgstr "وزارة اختر"
+
+msgid "Select Employee"
+msgstr "حدد الموظف"
+
+msgid "Select Language"
+msgstr "اختر اللغة"
+
+msgid "Is MR?"
+msgstr "هو MR؟"
+
+msgid "Can see other user's records?"
+msgstr "يمكن مشاهدة السجلات المستخدم الآخر؟"
+
+msgid "Can approve data added by other users?"
+msgstr "يمكن الموافقة على البيانات المضافة من قبل المستخدمين الآخرين؟"
+
+msgid "Select Designations"
+msgstr "اختر تسميات"
+
+msgid "Qualification"
+msgstr "المؤهل"
+
+msgid "Joining Date"
+msgstr "تاريخ الالتحاق بالعمل"
+
+msgid "Date of Birth"
+msgstr "تاريخ الميلاد:"
+
+msgid "Employment Status"
+msgstr "نظام العمل"
+
+msgid "Select Course Type"
+msgstr "اختر نوع الدورة"
+
+msgid "Select Course"
+msgstr "حدد الدورة"
+
+msgid "Select Trainer Type"
+msgstr "تحديد نوع المدرب"
+
+msgid "Select Trainer"
+msgstr "حدد المدرب"
+
+msgid "Select Capa Source"
+msgstr "تحديد كابا المصدر"
+
+msgid "Select Capa Category"
+msgstr "اختر الفئة كابا"
+
+msgid "Select Employee Type"
+msgstr "حدد فئة الموظف"
+
+msgid "Document Change Required"
+msgstr "وثيقة التغيير مطلوب"
+
+msgid "Select Current Status"
+msgstr "تحديد الحالة الحالية"
+
+msgid "Select Customer"
+msgstr "حدد العملاء"
+
+msgid "Complaint Source"
+msgstr "شكوى المصدر"
+
+msgid "Select Delivery Challan"
+msgstr "حدد التسليم Challan"
+
+msgid "Complaint Assigned To"
+msgstr "شكوى المخصصة ل"
+
+msgid "Authorised By"
+msgstr "المصرح بواسطة"
+
+msgid "Is supplier ISO certified??"
+msgstr "هو المورد شهادة الأيزو؟"
+
+msgid "Office Weekly Off"
+msgstr "مكتب أسبوعي معطلة"
+
+msgid "Workshop/Factory Weekly Off"
+msgstr "ورشة عمل / مصنع أسبوعي معطلة"
+
+msgid "Select Company Type"
+msgstr "حدد نوع الشركة"
+
+msgid "Select Branch"
+msgstr "حدد فرع"
+
+msgid "Select Master List of Format"
+msgstr "تحديد قائمة ماجستير في تنسيق"
+
+msgid "Select Supervisor"
+msgstr "اختيار المشرف"
+
+msgid "Select Proposal"
+msgstr "حدد اقتراح"
+
+msgid "Followup Date"
+msgstr "متابعة التسجيل"
+
+msgid "Next Followup Date"
+msgstr "المقبل متابعة التسجيل"
+
+msgid "Select Training"
+msgstr "حدد التدريب"
+
+msgid "Select Data Type"
+msgstr "حدد نوع البيانات"
+
+msgid "Select Backup Schedule"
+msgstr "تحديد جدول النسخ الاحتياطي"
+
+msgid "Select Data Backup Name"
+msgstr "تحديد البيانات اسم النسخ الاحتياطي"
+
+msgid "Select Device Name"
+msgstr "حدد اسم الجهاز"
+
+msgid "Select Computer Name"
+msgstr "تحديد اسم الكمبيوتر"
+
+msgid "Select Master List Of Format"
+msgstr "اختر من قائمة تنسيق ماستر"
+
+msgid "Select User"
+msgstr "حدد المستخدم"
+
+msgid "Select Chairperson"
+msgstr "حدد رئيس"
+
+msgid "Select System"
+msgstr "حدد نظام"
+
+msgid "Select Training Type"
+msgstr "حدد نوع التدريب"
+
+msgid "Select Supplier Category"
+msgstr "حدد المورد الفئة"
+
+msgid "Select Education"
+msgstr "حدد التعليم"
+
+msgid "Select Actual Education"
+msgstr "حدد التعليم الفعلي"
+
+msgid "Select Housekeeping CheckList"
+msgstr "حدد المرجعية الغرف"
+
+msgid "Select Computer"
+msgstr "حدد الكمبيوتر"
+
+msgid "Select Softwares"
+msgstr "برامج مختارة"
+
+msgid "Select Customer Name"
+msgstr "حدد اسم العميل"
+
+msgid "Select Question"
+msgstr "حدد سؤال"
+
+msgid "Select Notification Type"
+msgstr "حدد نوع الإشعار"
+
+msgid "Select Prepared By"
+msgstr "تحديد أعده"
+
+msgid "Select Approved By"
+msgstr "حدد المعتمدة بواسطة"
+
+msgid "Select Software Type"
+msgstr "حدد نوع البرمجيات"
+
+msgid "Select Schedules"
+msgstr "تحديد جداول"
+
+msgid "Backup Required?"
+msgstr "الاحتياطية المطلوبة؟"
+
+msgid "Select Master List Format"
+msgstr "تحديد قائمة ماستر تنسيق"
+
+msgid "archived?"
+msgstr "أرشفة؟"
+
+msgid "Evidence required?"
+msgstr "الأدلة المطلوبة؟"
+
+msgid "Approvals required?"
+msgstr "الموافقات المطلوبة؟"
+
+msgid "Mandatory?"
+msgstr "إلزامية؟"
+
+msgid "Select Users"
+msgstr "حدد المستخدمين"
+
+msgid "Select Kra"
+msgstr "تحديد كرا"
+
+msgid "Select Following"
+msgstr "حدد التالية"
+
+msgid "Select Capa"
+msgstr "حدد كابا"
+
+msgid "Select device"
+msgstr "حدد الجهاز"
+
+msgid "Intimation sent to Employee"
+msgstr "أرسلت ايحاء الى موظف"
+
+msgid "Intimation sent to Department"
+msgstr "أرسلت ايحاء الى وزارة"
+
+msgid "Select branches you want to search"
+msgstr "اختر فروع تريد البحث"
+
+msgid "Select start date"
+msgstr "حدد تاريخ بدء"
+
+msgid "Select end date"
+msgstr "حدد تاريخ انتهاء"
+
+msgid "Strict Search"
+msgstr "الصارم بحث"
+
+msgid "Send appended records for approval to the relevant approving authority from the given list."
+msgstr "إرسال السجلات الملحقة للحصول على موافقة السلطة المختصة بالموافقة من قائمة معينة."
+
+msgid "Do not send forward. Publish Now."
+msgstr "لا ترسل إلى الأمام. نشر الآن."
+
+msgid "Check the checkbox above to publish the record without sending for any approvals."
+msgstr "اضغط على مربع فوق نشر السجل دون إرسال أي الموافقات."
+
+msgid "Approval History"
+msgstr "تاريخ الموافقة"
+
+msgid "Date"
+msgstr "التاريخ"
+
+msgid "From"
+msgstr "من "
+
+msgid "Sent to"
+msgstr "أرسل إلى"
+
+msgid "Send these records for approval"
+msgstr "ترسل هذه السجلات للموافقة عليها"
+
+msgid "Dashboard - Department-wise"
+msgstr "لوحة القيادة - قسم الحكيم"
+
+msgid "These values are in % form and not the actual data entry values."
+msgstr "هذه القيم هي في شكل٪ وليس القيم إدخال البيانات الفعلية."
+
+msgid "Upcoming Device Calibrations"
+msgstr "جهاز المعايرة القادمة"
+
+msgid "Device Calibrations assigned to you"
+msgstr "جهاز المعايرة المخصصة لك"
+
+msgid "Device Number"
+msgstr "عدد الأجهزة"
+
+msgid "Previous Calibration Date"
+msgstr "السابق معايرة التسجيل"
+
+msgid "Act"
+msgstr "قانون"
+
+msgid "Non Conformity Actions Required"
+msgstr "تطبيقات غير المطابقة المطلوبة"
+
+msgid "Total Number of CAPAs assigned to you"
+msgstr "إجمالي عدد كابا الملقاة على عاتقكم"
+
+msgid "Total Number of CAPAs open"
+msgstr "إجمالي عدد كابا المفتوحة"
+
+msgid "Total Number of CAPAs closed"
+msgstr "إجمالي عدد كابا مغلق"
+
+msgid "Category"
+msgstr "التصنيف"
+
+msgid "Added in meeting"
+msgstr "وأضاف في اجتماع"
+
+msgid "Import/Export"
+msgstr "استيراد / تصدير"
+
+msgid "Delete All"
+msgstr "حذف جميع"
+
+msgid "Restore All"
+msgstr "استعادة جميع"
+
+msgid "Purge All"
+msgstr "تطهير جميع"
+
+msgid "Customer Complaints assigned to you"
+msgstr "شكاوى العملاء المخصصة لك"
+
+msgid "Total Customer Complaints assigned to you"
+msgstr "شكاوى العملاء الإجمالية المخصصة لك"
+
+msgid "Data Backup"
+msgstr "النسخ الاحتياطي للبيانات"
+
+msgid "Assign To"
+msgstr "تعيين ل"
+
+msgid "Performed By"
+msgstr "يؤديها"
+
+msgid "List Of Computer"
+msgstr "قائمة الحاسوب"
+
+msgid "Task Performed?"
+msgstr "مهمة يؤديها؟"
+
+msgid "Action"
+msgstr "العملية"
+
+msgid "There are no Data Backups assigned or performed."
+msgstr "لا توجد بيانات النسخ الاحتياطي تعيين أو تنفيذها."
+
+msgid "Are you sure to delete all selected "
+msgstr "هل أنت متأكد من حذف كل مختارة "
+
+msgid "Materials that Requires QC"
+msgstr "المواد التي يتطلب QC"
+
+msgid "Material"
+msgstr "الخامه"
+
+msgid "Delivery Challan"
+msgstr "تسليم Challan"
+
+msgid "Export Data"
+msgstr "تصدير البيانات"
+
+msgid "Device Maintainance"
+msgstr "ترميم وصيانة جهاز"
+
+msgid "Next Maintenance Date"
+msgstr "صيانة المقبل التاريخ"
+
+msgid "Training Need Indetification"
+msgstr "التدريب تحتاج Indetification"
+
+msgid "Course Title"
+msgstr "عنوان المساق"
+
+msgid "Schedule"
+msgstr "الجدول"
+
+msgid "Trainings attainted"
+msgstr "تدريبات تجريده"
+
+msgid "Course/Training Title"
+msgstr "بالطبع / تدريب العنوان"
+
+msgid "Training Dates"
+msgstr "مواعيد التدريب"
+
+msgid "Generate Reports"
+msgstr "توليد تقارير"
+
+msgid "Missing Template"
+msgstr "قالب المفقودين"
+
+msgid "Add New Template"
+msgstr "إضافة قالب جديد"
+
+msgid "Training Title"
+msgstr "العنوان التدريب"
+
+msgid "Training Details"
+msgstr "تفاصيل التدريب"
+
+msgid "Need Help"
+msgstr "بحاجة الى مساعدة"
+
+msgid "Having a problem?"
+msgstr "وجود مشكلة؟"
+
+msgid "We can help you! Just send your query / issue to the following email address."
+msgstr "يمكننا مساعدتك! مجرد ارسال استفسارك / القضية إلى عنوان البريد الإلكتروني التالي."
+
+msgid "Document Details"
+msgstr "تفاصيل الوثيقة"
+
+msgid "Issue"
+msgstr "الإصدار"
+
+msgid "Revision"
+msgstr "التعديل"
+
+msgid "Database Configuration"
+msgstr "تكوين قاعدة البيانات"
+
+msgid "Why SMTP details are rquired?"
+msgstr "لماذا rquired التفاصيل SMTP؟"
+
+msgid "Responsibilities Assigned To You"
+msgstr "المسؤوليات الملقاة على عاتقكم"
+
+msgid "Housekeeping Checklist"
+msgstr "التدبير المنزلي المرجعية"
+
+msgid "Task Performed? "
+msgstr "مهمة يؤديها؟ "
+
+msgid "View All"
+msgstr "عرض جميع"
+
+msgid "Import from file (excel format only)"
+msgstr "الاستيراد من ملف (تنسيق Excel فقط)"
+
+msgid "Actions"
+msgstr "العمليات"
+
+msgid "Are you sure you want to move \"%s\" to trash?"
+msgstr "هل أنت متأكد أنك تريد نقل \" %s \"إلى سلة المهملات؟"
+
+msgid "Key Responsibility Areas"
+msgstr "مجالات المسؤولية الرئيسية"
+
+msgid "Target Achieved"
+msgstr "المحققة الهدف"
+
+msgid "checker"
+msgstr "المدقق"
+
+msgid "comments"
+msgstr "تعليقات"
+
+msgid "send_to_maker"
+msgstr "send_to_maker"
+
+msgid "Add QC Steps for Materials"
+msgstr "إضافة خطوات مراقبة الجودة لمواد"
+
+msgid "Are you sure to purge all selected "
+msgstr "هل أنت متأكد لتطهير كل مختارة "
+
+msgid "Are you sure to restore all selected "
+msgstr "هل أنت متأكد لاستعادة كل مختارة "
+
+msgid "Meeting"
+msgstr "الاجتماع"
+
+msgid "Invoices / Purchase Orders raised"
+msgstr "الفواتير / أوامر الشراء التي أثيرت"
+
+msgid "Export file (excel)"
+msgstr "ملف التصدير (اكسل)"
+
+msgid "Select the meterial from \"Material\" input & select date range to get the stock status graph."
+msgstr "حدد METERIAL من  "\مادة "\ المدخلات وحدد نطاق التاريخ للحصول على الرسم البياني وضع المخزون."
+
+msgid "Tasks Assigned To You"
+msgstr "المهام الملقاة على عاتقكم"
+
+msgid "Tasks"
+msgstr "المهام"
+
+msgid "Dashboard"
+msgstr "لوحة عدادات السيارات"
+
+msgid "DATA ENTRY"
+msgstr "إدخال البيانات"
+
+msgid "Users"
+msgstr "المستخدمين"
+
+msgid "DEPARTMENTS"
+msgstr "إدارات"
+
+msgid "Management Representative"
+msgstr "ممثل الإدارة"
+
+msgid "Human Resource"
+msgstr "الموارد البشرية"
+
+msgid "Business Development <small class=\"text-small text-muted\">beta</small>"
+msgstr "Business Development <small class=\"text-small text-muted\">beta</small>"
+
+msgid "Administration"
+msgstr "الإدارة"
+
+msgid "Quality Control"
+msgstr "ضبط النوعية"
+
+msgid "Purchase"
+msgstr "شراء"
+
+msgid "Electronic Data Processing"
+msgstr "معالجة البيانات الإلكترونية"
+
+msgid "Production <small class=\"text-small text-muted\">beta</small>"
+msgstr "Production <small class=\"text-small text-muted\">beta</small>"
+
+msgid "REPORTS"
+msgstr "تقارير"
+
+msgid "AUTO REPORTS"
+msgstr "تقارير AUTO"
+
+msgid "SAVED REPORTS"
+msgstr "التقارير المحفوظة"
+
+msgid "FlinkISO Help"
+msgstr "FlinkISO مساعدة"
+
+msgid "Supplier Registrations"
+msgstr "المسجلون المورد"
+
+msgid "Supplier Evaluation"
+msgstr "تقييم المورد"
+
+msgid "Notifications"
+msgstr "التنبيهات"
+
+msgid "Add this action to your dashboard"
+msgstr "إضافة هذا العمل لوحة المعلومات"
+
+msgid "Change your language for this session"
+msgstr "تغيير لغتك لهذه الدورة"
+
+msgid "Send messages"
+msgstr "إرسال الرسائل"
+
+msgid "SMTP Setup"
+msgstr "إعداد SMTP"
+
+msgid "Company Profile"
+msgstr "نبذة عن الشركة"
+
+msgid "Evidence Files"
+msgstr "أدلة الملفات"
+
+msgid "Upload Evidance"
+msgstr "تحميل Evidance"
+
+msgid "Internal Audit Plan"
+msgstr "خطة التدقيق الداخلي"
+
+msgid "Section"
+msgstr "القسم"
+
+msgid "Start Time"
+msgstr "بدء التوقيت"
+
+msgid "End Time"
+msgstr "نهاية التوقيت"
+
+msgid "Trained Internal Auditor"
+msgstr "المدقق الداخلي تدريب"
+
+msgid "Finding"
+msgstr "التوصل إلى"
+
+msgid "Question Asked"
+msgstr "سؤال"
+
+msgid "Schedule Date From"
+msgstr "جدول التسجيل من"
+
+msgid "Schedule Date To"
+msgstr "جدول التسجيل ل"
+
+msgid "Mandatory Details"
+msgstr "تفاصيل إلزامية"
+
+msgid "Office Email"
+msgstr "مكتب البريد"
+
+msgid "Optional Details"
+msgstr "تفاصيل اختياري"
+
+msgid "Pancard Number"
+msgstr "عدد Pancard"
+
+msgid "Personal Telephone"
+msgstr "الهاتف الشخصي"
+
+msgid "Office Telephone"
+msgstr "هاتف المكتب"
+
+msgid "Personal Email"
+msgstr "البريد الالكتروني الشخصي"
+
+msgid "Permanent Address"
+msgstr "العنوان الدائم"
+
+msgid "Driving License"
+msgstr "رخصة القيادة"
+
+msgid "Approve Employee"
+msgstr "يوافق الموظف"
+
+msgid "Edit Employee"
+msgstr "تحرير موظف"
+
+msgid "New Employee"
+msgstr "الموظف الجديد"
+
+msgid "View Employee"
+msgstr "عرض موظف"
+
+msgid "Active"
+msgstr "نشط"
+
+msgid "Resigned"
+msgstr "استقال"
+
+msgid "Approve File Upload"
+msgstr "الموافقة تحميل الملف"
+
+msgid "Import"
+msgstr "استيراد"
+
+msgid "Import From File"
+msgstr "استيراد من ملف"
+
+msgid "Edit File Upload"
+msgstr "تحميل تحرير الملف"
+
+msgid "Click Here To Add Data"
+msgstr "انقر هنا لإضافة البيانات"
+
+msgid "New File Upload"
+msgstr "جديد تحميل الملف"
+
+msgid "Add User"
+msgstr "إضافة مستخدم"
+
+msgid "Add User Session"
+msgstr "إضافة الدورة العضو"
+
+msgid "Add Evidence"
+msgstr "إضافة الأدلة"
+
+msgid "View File Upload"
+msgstr "مشاهدة تحميل الملف"
+
+msgid "Record"
+msgstr "تسجيل"
+
+msgid "File Details"
+msgstr "تفاصيل ملف"
+
+msgid "File Type"
+msgstr "نوع الملف"
+
+msgid "File Status"
+msgstr "الحالة ملف"
+
+msgid "Result"
+msgstr "ا نتيجة"
+
+msgid "User Session"
+msgstr "الدورة المستخدم"
+
+msgid "Add Fire Extinguisher Type"
+msgstr "إضافة نوع طفاية حريق"
+
+msgid "Approve Fire Extinguisher Type"
+msgstr "الموافقة على نوع طفاية حريق"
+
+msgid "Edit Fire Extinguisher Type"
+msgstr "تحرير نوع طفاية حريق"
+
+msgid "New Fire Extinguisher Type"
+msgstr "جديد نوع طفاية حريق"
+
+msgid "View Fire Extinguisher Type"
+msgstr "عرض نوع طفاية حريق"
+
+msgid "Add Fire Extinguisher"
+msgstr "إضافة طفاية حريق"
+
+msgid "Fire Extinguisher Type"
+msgstr "نوع طفاية حريق"
+
+msgid "Company Name"
+msgstr "اسم الشركة"
+
+msgid "Expiry Date"
+msgstr "تاريخ الإنتهاء"
+
+msgid "Warranty Expiry Date"
+msgstr "الضمان تاريخ انتهاء الصلاحية"
+
+msgid "Model Type"
+msgstr "نموذج نوع"
+
+msgid "Other Remarks"
+msgstr "ملاحظات أخرى"
+
+msgid "Approve Fire Extinguisher"
+msgstr "الموافقة على طفاية حريق"
+
+msgid "Edit Fire Extinguisher"
+msgstr "تحرير طفاية حريق"
+
+msgid "New Fire Extinguisher"
+msgstr "جديد طفاية حريق"
+
+msgid "View Fire Extinguisher"
+msgstr "عرض طفاية حريق"
+
+msgid "Add Fire Safety Equipment List"
+msgstr "إضافة قائمة معدات الحريق السلامة"
+
+msgid "Approve Fire Safety Equipment List"
+msgstr "الموافقة على قائمة معدات الحريق السلامة"
+
+msgid "Edit Fire Safety Equipment List"
+msgstr "قائمة تحرير معدات السلامة من الحرائق"
+
+msgid "New Fire Safety Equipment List"
+msgstr "قائمة جديدة حريق معدات السلامة"
+
+msgid "View Fire Safety Equipment List"
+msgstr "عرض قائمة معدات الحريق السلامة"
+
+msgid "Fire Type"
+msgstr "نوع الحريق"
+
+msgid "Add Fire Type"
+msgstr "إضافة نوع الحريق"
+
+msgid "Approve Fire Type"
+msgstr "الموافقة على الحريق نوع"
+
+msgid "Edit Fire Type"
+msgstr "تحرير نوع الحريق"
+
+msgid "New Fire Type"
+msgstr "نوع جديد من الحريق"
+
+msgid "View Fire Type"
+msgstr "عرض نوع الحريق"
+
+msgid "Add Help"
+msgstr "إضافة مساعدة"
+
+msgid "Approve Help"
+msgstr "الموافقة على مساعدة"
+
+msgid "Edit Help"
+msgstr "تحرير مساعدة"
+
+msgid "New Help"
+msgstr "مساعدة جديدة"
+
+msgid "View Help"
+msgstr "عرض مساعدة"
+
+msgid "Language"
+msgstr "اللغة"
+
+msgid "Table Name"
+msgstr "اسم الجدول"
+
+msgid "Action Name"
+msgstr "اسم العمل"
+
+msgid "Help Text"
+msgstr "مساعدة النص"
+
+msgid "Sequence"
+msgstr "التسلسل"
+
+msgid "Approve History"
+msgstr "الموافقة على التاريخ"
+
+msgid "Dashboard - Branchwise"
+msgstr "لوحة القيادة - Branchwise"
+
+msgid "Edit History"
+msgstr "عدل التاريخ"
+
+msgid "New History"
+msgstr "تاريخ جديد"
+
+msgid "View History"
+msgstr "عرض التاريخ"
+
+msgid "Model Name"
+msgstr "نموذج اسم"
+
+msgid "Controller Name"
+msgstr "اسم حدة تحكم"
+
+msgid "Get Values"
+msgstr "الحصول على القيم"
+
+msgid "Post Values"
+msgstr "القيم آخر"
+
+msgid "Branch Id"
+msgstr "فرع رقم"
+
+msgid "Department Id"
+msgstr "رقم القسم"
+
+msgid "Add Housekeeping Checklist"
+msgstr "إضافة التدبير المنزلي المرجعية"
+
+msgid "Approve Housekeeping Checklist"
+msgstr "الموافقة تنظيف المرجعية"
+
+msgid "Edit Housekeeping Checklist"
+msgstr "تحرير التدبير المنزلي المرجعية"
+
+msgid "New Housekeeping Checklist"
+msgstr "جديدة الغرف المرجعية"
+
+msgid "View Housekeeping Checklist"
+msgstr "عرض التدبير المنزلي المرجعية"
+
+msgid "Add Housekeeping Responsibility"
+msgstr "إضافة التدبير المنزلي المسؤولية"
+
+msgid "Approve Housekeeping Responsibility"
+msgstr "الموافقة تنظيف المسؤولية"
+
+msgid "Edit Housekeeping Responsibility"
+msgstr "تحرير تنظيف المسؤولية"
+
+msgid "New Housekeeping Responsibility"
+msgstr "جديدة تنظيف المسؤولية"
+
+msgid "View Housekeeping Responsibility"
+msgstr "عرض تنظيف المسؤولية"
+
+msgid "Housekeeping Description"
+msgstr "التدبير المنزلي الوصف"
+
+msgid "Host Name"
+msgstr "اسم المضيف"
+
+msgid "Database Name"
+msgstr "Database Name"
+
+msgid "Database User"
+msgstr "Database User"
+
+msgid "Database Password"
+msgstr "Database Password"
+
+msgid "Prefix"
+msgstr "البادئة"
+
+msgid "Add Internal Audit Plan Department"
+msgstr "إضافة زارة خطة التدقيق الداخلي"
+
+msgid "Approve Internal Audit Plan Department"
+msgstr "الموافقة على خطة إدارة التدقيق الداخلي"
+
+msgid "Auditee"
+msgstr "الجهة الخاضعة للتدقيق"
+
+msgid "Edit Internal Audit Plan Department"
+msgstr "تحرير زارة خطة التدقيق الداخلي"
+
+msgid "New Internal Audit Plan Department"
+msgstr "وزارة الداخلية خطة التدقيق جديدة"
+
+msgid "View Internal Audit Plan Department"
+msgstr "عرض خطة دائرة التدقيق الداخلي"
+
+msgid "List Of Trained Internal Auditor"
+msgstr "قائمة المدقق الداخلي تدريب"
+
+msgid "Schedule Details"
+msgstr "تفاصيل الجدول الزمني"
+
+msgid "Schedule title"
+msgstr "عنوان الجدول الزمني"
+
+msgid "To"
+msgstr "إلى"
+
+msgid "Notes"
+msgstr "ملاحظات "
+
+msgid "Auditor"
+msgstr "المراجع"
+
+msgid "Time"
+msgstr "التوقيت"
+
+msgid "Add Details"
+msgstr "إضافة تفاصيل"
+
+msgid "From : "
+msgstr "من: "
+
+msgid "to : "
+msgstr "إلى: "
+
+msgid "Create Plan"
+msgstr "خلق خطة"
+
+msgid "Add New"
+msgstr "إضافة جديد"
+
+msgid "Approve Internal Audit Plan"
+msgstr "الموافقة على خطة التدقيق الداخلي"
+
+msgid "Edit Internal Audit Plan"
+msgstr "خطة التدقيق الداخلي تحرير"
+
+msgid "Scheduled From"
+msgstr "من المقرر"
+
+msgid "Scheduled To"
+msgstr "من المقرر أن"
+
+msgid "Branch To be audited"
+msgstr "فرع ليتم تدقيقها"
+
+msgid "Edit this Plan"
+msgstr "تحرير هذه الخطة"
+
+msgid "Add Plan Details"
+msgstr "إضافة تفاصيل خطة"
+
+msgid "Add Actual Audit Details"
+msgstr "إضافة تفاصيل الحسابات الفعلية"
+
+msgid "Create schedule"
+msgstr "خلق الجدول الزمني"
+
+msgid "View Internal Audit Plan"
+msgstr "خطة التدقيق الداخلي مشاهدة"
+
+msgid "Audit Date"
+msgstr "مراجعة التاريخ"
+
+msgid "Show on Timeline"
+msgstr "تظهر على الخط الزمني"
+
+msgid "Notify Users"
+msgstr "إعلام المستخدمين"
+
+msgid "Notify Users Via Emails"
+msgstr "إعلام المستخدمين عبر رسائل البريد الإلكتروني"
+
+msgid "Actual Audit"
+msgstr "الحسابات الفعلية"
+
+msgid "Department : "
+msgstr "القسم: "
+
+msgid "Question asked"
+msgstr "سألت السؤال"
+
+msgid "Responsibility"
+msgstr "المسؤولية"
+
+msgid "Any Non Conformity Found?"
+msgstr "أي غير المطابقة العثور؟"
+
+msgid "In case of non-conformities, select the CAPA source, Assigned To  & Target Date from below. This record will be automatically get added to CAPA table for future actions & assigned user will get related alerts."
+msgstr "في حالة عدم المطابقة، حدد مصدر CAPA، المخصصة ل& الهدف من التسجيل أدناه. سيتم تلقائيا الحصول على إضافة هذه التسجيلة الى طاولة CAPA للإجراءات المستقبلية وسيحصل المستخدم تعيين التنبيهات ذات الصلة."
+
+msgid "Capa Priority"
+msgstr "كابا الأولوية"
+
+msgid "Low"
+msgstr "منخفض"
+
+msgid "Medium"
+msgstr "متوسط"
+
+msgid "High"
+msgstr "عالي 
+"
+
+msgid "Current Capa Status"
+msgstr "كابا الحالة الراهنة"
+
+msgid "Approve Internal Audit"
+msgstr "الموافقة التدقيق الداخلي"
+
+msgid "Internal Audit Report"
+msgstr "تقرير التدقيق الداخلي"
+
+msgid "Edit Internal Audit"
+msgstr "المراجعة الداخلية تحرير"
+
+msgid "Edit Details"
+msgstr "تحرير التفاصيل"
+
+msgid "New Internal Audit"
+msgstr "التدقيق الداخلي جديدة"
+
+msgid "View Internal Audit"
+msgstr "المراجعة الداخلية مشاهدة"
+
+msgid "Add Internet Usage Detail"
+msgstr "إضافة استخدام الإنترنت التفاصيل"
+
+msgid "Approve Internet Usage Detail"
+msgstr "الموافقة على استخدام الإنترنت التفاصيل"
+
+msgid "Edit Internet Usage Detail"
+msgstr "تحرير استخدام الإنترنت التفاصيل"
+
+msgid "New Internet Usage Detail"
+msgstr "جديد تفاصيل استخدام الإنترنت"
+
+msgid "View Internet Usage Detail"
+msgstr "عرض استخدام الإنترنت التفاصيل"
+
+msgid "Internet Provider Name"
+msgstr "اسم مزود الإنترنت"
+
+msgid "Plan Details"
+msgstr "تفاصيل خطة"
+
+msgid "From Date"
+msgstr "من تاريخ"
+
+msgid "To Date"
+msgstr "إلى تاريخ"
+
+msgid "Download"
+msgstr "تحميل"
+
+msgid "Add Language"
+msgstr "إضافة اللغة"
+
+msgid "Approve Language"
+msgstr "الموافقة اللغة"
+
+msgid "Edit Language"
+msgstr "تحرير اللغة"
+
+msgid "Short Code"
+msgstr "رمز قصير"
+
+msgid "New Language"
+msgstr "لغة جديدة"
+
+msgid "View Language"
+msgstr "عرض اللغة"
+
+msgid "Welcome"
+msgstr "مرحبا  بكم"
+
+msgid "A request to reset your password was sent. To change your password click the link below."
+msgstr "وقد أرسل طلب إعادة تعيين كلمة المرور الخاصة بك. لتغيير كلمة السر انقر على الرابط أدناه."
+
+msgid "As per the process, List of acceptable suppliers can only be added after due evaluations."
+msgstr "وفقا للعملية، قائمة الموردين مقبول لا يمكن إضافتها بعد التقييم الواجبة."
+
+msgid "Please go to MR dashboad and click on Evaluate button under \"Supplier Evaluation / Re-Evaluation\" panel."
+msgstr "يرجى الذهاب إلى MR dashboad وانقر على زر تقييم تحت "\مورد السلعة تقييم / إعادة تقييم "\ لوحة."
+
+msgid "Then select the supplier you wish to evaluate from the drop down."
+msgstr "ثم حدد المورد الذي ترغب في تقييم من القائمة المنسدلة."
+
+msgid "Based of the Delivery Challans and Purchase Order History, system will provide ou with basic analytics for the supplier."
+msgstr "استنادا لتسليم شالا وأمر الشراء التاريخ، سوف يقدم النظام أوو مع تحليلات أساسية بالنسبة للمورد."
+
+msgid "You then the evaluate the suppler and add supplier to the list form the same page."
+msgstr "لك ثم تقييم مرونة وإضافة المورد إلى قائمة تشكيل نفس الصفحة."
+
+msgid "Typical Supplier Evaluation Process"
+msgstr "نموذجي مورد السلعة تقييم عملية"
+
+msgid "Add Acceptable Supplier"
+msgstr "إضافة المقبول المورد"
+
+msgid "Supplier Category"
+msgstr "المورد الفئة"
+
+msgid "Approve Acceptable Supplier"
+msgstr "الموافقة المقبول المورد"
+
+msgid "Edit Acceptable Supplier"
+msgstr "تحرير المقبول المورد"
+
+msgid "New Acceptable Supplier"
+msgstr "جديدة المورد المقبول"
+
+msgid "View Acceptable Supplier"
+msgstr "عرض المقبول مورد"
+
+msgid "Add Computer Software"
+msgstr "إضافة برامج الكمبيوتر"
+
+msgid "Software Name"
+msgstr "اسم البرنامج"
+
+msgid "Approve Computer Software"
+msgstr "الموافقة على برامج الكمبيوتر"
+
+msgid "Edit Computer Software"
+msgstr "تحرير برامج الكمبيوتر"
+
+msgid "New Computer Software"
+msgstr "جديد برامج الكمبيوتر"
+
+msgid "View Computer Software"
+msgstr "مشاهدة برامج الكمبيوتر"
+
+msgid "Installation Date"
+msgstr "تثبيت التسجيل"
+
+msgid "Add Computer"
+msgstr "إضافة الحاسوب"
+
+msgid "Serial Number"
+msgstr "الرقم التسلسلي"
+
+msgid "Make"
+msgstr "يصنع"
+
+msgid "Price"
+msgstr "السعر"
+
+msgid "Software"
+msgstr "برامج"
+
+msgid "Approve Computer"
+msgstr "الموافقة على الحاسوب"
+
+msgid "Edit Computer"
+msgstr "تحرير الحاسوب"
+
+msgid "New Computer"
+msgstr "الحاسوب الجديد"
+
+msgid "View List Of Computer"
+msgstr "عرض القائمة من الحاسوب"
+
+msgid "List of Installed Software"
+msgstr "قائمة البرامج المثبتة"
+
+msgid "Add Measuring Devices For Calibration"
+msgstr "إضافة معايرة أجهزة القياس ل"
+
+msgid "Calibration In-House"
+msgstr "المعايرة في منزل"
+
+msgid "Calibration Outside"
+msgstr "المعايرة خارج"
+
+msgid "Approve Measuring Devices For Calibration"
+msgstr "الموافقة أجهزة القياس لمعايرة"
+
+msgid "Edit Measuring Devices For Calibration"
+msgstr "تعديل أجهزة القياس لمعايرة"
+
+msgid "Device Holder"
+msgstr "حامل جهاز"
+
+msgid "Last Calibration Date"
+msgstr "معايرة تاريخ اخر"
+
+msgid "New Measuring Devices For Calibration"
+msgstr "أجهزة قياس جديدة للمعايرة"
+
+msgid "View Measuring Devices For Calibration"
+msgstr "عرض أجهزة قياس للمعايرة"
+
+msgid "Add Software"
+msgstr "إضافة البرامج"
+
+msgid "Software Type"
+msgstr "نوع البرمجيات"
+
+msgid "License Key"
+msgstr "مفتاح الترخيص"
+
+msgid "Storage Device Number"
+msgstr "تخزين رقم الجهاز"
+
+msgid "Software Usage"
+msgstr "استخدام البرمجيات"
+
+msgid "Software Details"
+msgstr "تفاصيل البرنامج"
+
+msgid "Backup Required"
+msgstr "مطلوب النسخ الاحتياطي"
+
+msgid "Select back up Schedule"
+msgstr "حدد النسخ الاحتياطي جدول"
+
+msgid "Approve List Of Software"
+msgstr "قائمة البرامج الموافقة"
+
+msgid "Edit List Of Software"
+msgstr "تحرير قائمة البرامج"
+
+msgid "New Software"
+msgstr "البرامج الجديدة"
+
+msgid "New Software Type"
+msgstr "Software نوع جديد"
+
+msgid "View List Of Software"
+msgstr "عرض قائمة البرامج"
+
+msgid "Add List Of Trained Internal Auditor"
+msgstr "إضافة قائمة من المدقق الداخلي تدريب"
+
+msgid "Approve List Of Trained Internal Auditor"
+msgstr "قائمة الموافقة من المدقق الداخلي تدريب"
+
+msgid "Edit List Of Trained Internal Auditor"
+msgstr "تحرير قائمة من المدقق الداخلي تدريب"
+
+msgid "New List Of Trained Internal Auditor"
+msgstr "قائمة جديدة من المدقق الداخلي تدريب"
+
+msgid "View List Of Trained Internal Auditor"
+msgstr "عرض القائمة من المدقق الداخلي تدريب"
+
+msgid "Training"
+msgstr "الدورات التدريبية"
+
+msgid "Add Master List Of Format Department"
+msgstr "إضافة قائمة ماستر قسم تنسيق"
+
+msgid "Approve Master List Of Format Department"
+msgstr "الموافقة على قائمة ماستر قسم تنسيق"
+
+msgid "Edit Master List Of Format Department"
+msgstr "تحرير قائمة ماستر قسم تنسيق"
+
+msgid "New Master List Of Format Department"
+msgstr "قائمة جديدة ماجستير إدارة تنسيق"
+
+msgid "View Master List Of Format Department"
+msgstr "عرض قائمة ماستر قسم تنسيق"
+
+msgid "Add Master List Of Format"
+msgstr "إضافة الماجستير من قائمة تنسيق"
+
+msgid "Approve Master List Of Format"
+msgstr "الموافقة على الماجستير من قائمة تنسيق"
+
+msgid "Edit Master List Of Format"
+msgstr "تحرير قائمة رئيسية من تنسيق"
+
+msgid "New Master List Of Format"
+msgstr "قائمة جديدة ماجستير تنسيق"
+
+msgid "View Master List Of Format"
+msgstr "عرض قائمة من تنسيق ماستر"
+
+msgid "Work Instructions"
+msgstr "تعليمات العمل"
+
+msgid "Archived"
+msgstr "مؤرشف"
+
+msgid "Add Material Quality Check Detail"
+msgstr "إضافة مواد ذات جودة تحقق التفاصيل"
+
+msgid "ADD MATERIAL TO STOCK"
+msgstr "إضافة مواد إلى المخزون"
+
+msgid "Approve Material Quality Check Detail"
+msgstr "الموافقة نوعية المواد التحقق من التفاصيل"
+
+msgid "Edit Material Quality Check Detail"
+msgstr "تحرير مواد ذات جودة تحقق التفاصيل"
+
+msgid "Material Quality Check"
+msgstr "مواد ذات جودة تحقق"
+
+msgid "Employee Id"
+msgstr "الرقم الوظيفي"
+
+msgid "Check Performed Date"
+msgstr "تحقق التسجيل يؤديها"
+
+msgid "Quantity Accepted"
+msgstr "كمية مقبول"
+
+msgid "New Material Quality Check Detail"
+msgstr "نوعية المواد جديد تصفح التفاصيل"
+
+msgid "Add Company"
+msgstr "اضف شركة"
+
+msgid "View Material Quality Check Detail"
+msgstr "عرض مواد ذات جودة تحقق التفاصيل"
+
+msgid "Sr No"
+msgstr "لا ريال"
+
+msgid "Branch Ids"
+msgstr "فرع معرفات"
+
+msgid "Department Ids"
+msgstr "قسم معرفات"
+
+msgid "Add Material Quality Check"
+msgstr "إضافة مادة التحقق من الجودة"
+
+msgid "Click on Plus sign to add next step"
+msgstr "انقر على علامة زائد إضافة إلى الخطوة التالية"
+
+msgid "Approve Material Quality Check"
+msgstr "الموافقة نوعية المواد تحقق"
+
+msgid "Step"
+msgstr "الخطوة"
+
+msgid "Edit Material Quality Check"
+msgstr "تحرير المواد تحقق من الجودة"
+
+msgid "Material Id"
+msgstr "مادة رقم"
+
+msgid "Number of Material Quality checks"
+msgstr "عدد الشيكات مواد ذات جودة"
+
+msgid "New Material Quality Check"
+msgstr "جديد مواد ذات جودة تحقق"
+
+msgid "Add To Stock"
+msgstr "إضافة إلى المخزون"
+
+msgid "View Material Quality Check"
+msgstr "عرض المواد تحقق من الجودة"
+
+msgid "Is Last Step"
+msgstr "هي الخطوة الأخيرة"
+
+msgid "Is Active"
+msgstr "غير بالموقع"
+
+msgid "Add Material Type"
+msgstr "إضافة نوع مادة"
+
+msgid "Approve Material Type"
+msgstr "الموافقة على نوع مادة"
+
+msgid "Edit Material Type"
+msgstr "تحرير نوع المواد"
+
+msgid "New Material Type"
+msgstr "جديد نوع المادة"
+
+msgid "View Material Type"
+msgstr "عرض نوع مادة"
+
+msgid "Add Material"
+msgstr "إضافة مادة"
+
+msgid "Add to List of materials with shelf life?"
+msgstr "أضف إلى قائمة المواد مع حياة الرف؟"
+
+msgid "Data added below will be saved to \"Material List with Shelf Life\" table."
+msgstr "سيتم حفظ البيانات المضافة أدناه ل "\قائمة المواد مع الجرف الحياة "\ الجدول."
+
+msgid "Quality Check Required?"
+msgstr "تحقق من الجودة المطلوبة؟"
+
+msgid "Approve Material"
+msgstr "الموافقة على المواد"
+
+msgid "Edit Material"
+msgstr "تحرير المواد"
+
+msgid "Shelflife by Manufacturer"
+msgstr "Shelflife من قبل الشركة المصنعة"
+
+msgid "Shelflife by Company"
+msgstr "Shelflife من قبل الشركة"
+
+msgid "New Material"
+msgstr "جديد المواد"
+
+msgid "View Material"
+msgstr "عرض المواد"
+
+msgid "Shelflife By Manufacturer"
+msgstr "Shelflife الشركة المصنعة"
+
+msgid "Shelflife By Company"
+msgstr "Shelflife من خلال اسم الشركة"
+
+msgid "Material Quality Check Required"
+msgstr "مواد ذات جودة الاختيار مطلوب"
+
+msgid "Step - "
+msgstr "خطوة - "
+
+msgid "Agenda"
+msgstr "جدول الأعمال"
+
+msgid "Topic"
+msgstr "الموضوع"
+
+msgid "Action Plan"
+msgstr "خطة العمل"
+
+msgid "Add Meeting"
+msgstr "إضافة اجتماع"
+
+msgid "Previous Meeting"
+msgstr "الاجتماع السابق"
+
+msgid "Chairperson"
+msgstr "رئيس"
+
+msgid "Invitees"
+msgstr "المدعوين"
+
+msgid "Meeting Start Time"
+msgstr "اجتماع وقت البدء"
+
+msgid "Meeting End Time"
+msgstr "اجتماع نهاية الوقت"
+
+msgid "Would you like to include these recent Document Change Requests in your current meeting?"
+msgstr "تريد أن تشمل هذه الوثيقة طلبات التغيير التي حدثت مؤخرا في الاجتماع الحالي؟"
+
+msgid "Add To Meeting?"
+msgstr "أضف للاجتماع؟"
+
+msgid "Doc Number"
+msgstr "رقم الوثيقة"
+
+msgid "Would you like to include these Customer Complaints in your current meeting?"
+msgstr "تريد أن تشمل هذه شكاوى العملاء في الاجتماع الحالي؟"
+
+msgid "Customer Name"
+msgstr "اسم العميل"
+
+msgid "Would you like to include these NCs in your current meeting?"
+msgstr "تريد أن تشمل هذه البلاغات في الاجتماع الحالي؟"
+
+msgid "Would you like to include these Supplier Evaluations in your current meeting ?"
+msgstr "تريد أن تشمل هذه التقييمات مورد في الاجتماع الحالي؟"
+
+msgid "Remark"
+msgstr "ملاحظة"
+
+msgid "Evaluation By"
+msgstr "التقييم من قبل"
+
+msgid "Evaluation Date"
+msgstr "تقييم التاريخ"
+
+msgid "Pending Meeting Actions"
+msgstr "بانتظار تطبيقات اجتماع"
+
+msgid "Meeting Topic"
+msgstr "موضوع اجتماع"
+
+msgid "Topic Type"
+msgstr "نوع الموضوع"
+
+msgid "Add Meeting Details"
+msgstr "إضافة تفاصيل الاجتماع"
+
+msgid "Why I am seeing this?"
+msgstr "لماذا أرى هذا؟"
+
+msgid "You can only add meeting details to any meeting after the meeting date. Currently no such meetings are available or they are scheduled for future date."
+msgstr "يمكنك فقط إضافة تفاصيل الاجتماع إلى أي اجتماع بعد تاريخ الاجتماع. حاليا ليست هذه الاجتماعات المتاحة أو المقرر لاحق لها."
+
+msgid "You can add meeting details for meeting already conducted. Select meeting from the drop-down to add details "
+msgstr "يمكنك إضافة تفاصيل اجتماع لاجتماع وأجريت بالفعل. حدد الاجتماع من القائمة المنسدلة لإضافة التفاصيل "
+
+msgid "Approve Meeting"
+msgstr "الموافقة اجتماع"
+
+msgid "Would you like to include these Supplier Evaluations in your current meeting?"
+msgstr "تريد أن تشمل هذه التقييمات مورد في الاجتماع الحالي؟"
+
+msgid "Meeting Scheduled From"
+msgstr "اجتماع مقرر من"
+
+msgid "Meeting Scheduled To"
+msgstr "اجتماع مقرر ل"
+
+msgid "Attendees"
+msgstr "الحضور"
+
+msgid "Actual Meeting From"
+msgstr "اجتماع الفعلي من"
+
+msgid "Actual Meeting To"
+msgstr "الفعلي لاجتماع"
+
+msgid "Edit Meeting"
+msgstr "تحرير اجتماع"
+
+msgid "Would you like to include these Customer Complains in your current meeting?"
+msgstr "تريد أن تشمل هذه الشكاوى العملاء في الاجتماع الحالي؟"
+
+msgid "New Meeting"
+msgstr "اجتماع جديد"
+
+msgid "Meeting From"
+msgstr "الاجتماع من"
+
+msgid "Meeting To"
+msgstr "تلبية ل"
+
+msgid "Meeting Detail"
+msgstr "تفاصيل الاجتماع"
+
+msgid "View Meeting"
+msgstr "مشاهدة اجتماع"
+
+msgid "Meeting Actual From"
+msgstr "الاجتماع الفعلي من"
+
+msgid "Meeting Actual To"
+msgstr "الاجتماع الفعلي ل"
+
+msgid "Meeting Topics"
+msgstr "مواضيع تلبية"
+
+msgid "Message User Sents"
+msgstr "Sents رسالة العضو"
+
+msgid "View"
+msgstr "رأي"
+
+msgid "Are you sure you want to delete # %s?"
+msgstr "هل أنت متأكد أنك تريد حذف # %s ؟"
+
+msgid "Trash"
+msgstr "القمامة"
+
+msgid "Are you sure you want to delete : %s?"
+msgstr "هل أنت متأكد أنك تريد حذف: %s ؟"
+
+msgid "Send"
+msgstr "إرسال"
+
+msgid "Move To Trash"
+msgstr "نقل إلى مهملات"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "Message"
+msgstr "رسالة"
+
+msgid "Send Reply"
+msgstr "أرسل الرد"
+
+msgid "Recepient"
+msgstr "متلق"
+
+msgid "subject"
+msgstr "الموضوع"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "Trackingid"
+msgstr "Trackingid"
+
+msgid "Subject"
+msgstr "الموضوع"
+
+msgid "Flag"
+msgstr "العلم"
+
+msgid "Created"
+msgstr "تم الإنشاء"
+
+msgid "Priority"
+msgstr "الأولوية"
+
+msgid "Edit Message"
+msgstr "تحرير رسالة"
+
+msgid "Delete Message"
+msgstr "حذف رسالة"
+
+msgid "List Messages"
+msgstr "قائمة الرسائل"
+
+msgid "New Message"
+msgstr "رسالة جديدة"
+
+msgid "List Users"
+msgstr "قائمة المستخدمين"
+
+msgid "New User"
+msgstr "العضو الجديد"
+
+msgid "List Message User Inboxes"
+msgstr "قائمة الرسائل علب العضو"
+
+msgid "New Message User Inbox"
+msgstr "رسالة جديدة صندوق الوارد العضو"
+
+msgid "List Message User Sents"
+msgstr "قائمة الرسائل Sents العضو"
+
+msgid "New Message User Sent"
+msgstr "العضو الجديد رسالة المرسلة"
+
+msgid "List Message User Thrashes"
+msgstr "قائمة العضو رسالة يجلد"
+
+msgid "New Message User Thrash"
+msgstr "العضو الجديد رسالة تناقش"
+
+msgid "Related Message User Inboxes"
+msgstr "رسالة تتعلق علب العضو"
+
+msgid "Message Id"
+msgstr "رقم رسالة"
+
+msgid "User Id"
+msgstr "الرقم"
+
+msgid "Related Message User Sents"
+msgstr "رسالة تتعلق Sents العضو"
+
+msgid "Are you sure you want move \"%s\" to Trash?"
+msgstr "هل أنت متأكد أنك تريد التحرك \" %s \"إلى المهملات؟"
+
+msgid "Related Message User Thrashes"
+msgstr "رسالة تتعلق العضو يجلد"
+
+msgid "Add Non Conforming Products Material"
+msgstr "إضافة المواد غير المطابقة المنتجات"
+
+msgid "Select Material/Product"
+msgstr "تحديد المواد / المنتج"
+
+msgid "Approve Non Conforming Products Material"
+msgstr "الموافقة على المنتجات غير المطابقة المواد"
+
+msgid "Edit Non Conforming Products Material"
+msgstr "تحرير المنتجات غير المطابقة المواد"
+
+msgid "Product"
+msgstr "المنتج"
+
+msgid "Capa Source Id"
+msgstr "كابا المصدر رقم"
+
+msgid "CAPA Details"
+msgstr "CAPA تفاصيل"
+
+msgid "New Non Conforming Products Material"
+msgstr "جديد المنتجات غير المطابقة المواد"
+
+msgid "View Non Conforming Products Material"
+msgstr "عرض المنتجات غير المطابقة المواد"
+
+msgid "Capa Source"
+msgstr "كابا المصدر"
+
+msgid "Add Notification Type"
+msgstr "إضافة نوع إعلام"
+
+msgid "Approve Notification Type"
+msgstr "الموافقة نوع الإشعار"
+
+msgid "Edit Notification Type"
+msgstr "تحرير نوع الإشعار"
+
+msgid "New Notification Type"
+msgstr "جديد نوع الإشعار"
+
+msgid "View Notification Type"
+msgstr "عرض نوع الإشعار"
+
+msgid "View Notification User"
+msgstr "مشاهدة تبليغ العضو"
+
+msgid "Notification"
+msgstr "إعلام"
+
+msgid "Notify User"
+msgstr "يخطر العضو"
+
+msgid "Approve Notification"
+msgstr "الموافقة إعلام"
+
+msgid "Edit Notification"
+msgstr "تحرير الإعلام"
+
+msgid "Notified User"
+msgstr "إخطار العضو"
+
+msgid "New Notification"
+msgstr "إعلام الجديد"
+
+msgid "View Notification"
+msgstr "عرض إعلام"
+
+msgid "Notification Type"
+msgstr "نوع الإشعار"
+
+msgid "Start Date"
+msgstr "تاريخ البدء"
+
+msgid "End Date"
+msgstr "تاريخ الانتهاء"
+
+msgid "Add Production"
+msgstr "إضافة الإنتاج"
+
+msgid "Approve Production"
+msgstr "الموافقة على الإنتاج"
+
+msgid "Edit Production"
+msgstr "تحرير الإنتاج"
+
+msgid "New Production"
+msgstr "إنتاج جديد"
+
+msgid "View Production"
+msgstr "عرض الإنتاج"
+
+msgid "Batch Number"
+msgstr "رقم الدفعة"
+
+msgid "Supervisor"
+msgstr "المشرف"
+
+msgid "Add Product"
+msgstr "إضافة منتج"
+
+msgid "Add Required Material"
+msgstr "إضافة المواد المطلوبة"
+
+msgid "Approve Product"
+msgstr "الموافقة على المنتج"
+
+msgid "Edit Product"
+msgstr "تحرير المنتج"
+
+msgid "Required Material"
+msgstr "المواد المطلوبة"
+
+msgid "New Product"
+msgstr "منتج جديد"
+
+msgid "Evidence Files "
+msgstr "أدلة الملفات "
+
+msgid "View Product"
+msgstr "عرض المنتج"
+
+msgid "Upload your product design related files below"
+msgstr "تحميل الملفات الخاصة بك تصميم المنتجات ذات الصلة أدناه"
+
+msgid "Upload File"
+msgstr "تحميل الملف"
+
+msgid "Product Plan"
+msgstr "خطة المنتج"
+
+msgid "Product Requirment"
+msgstr "مطلب المنتج"
+
+msgid "Product Feasibility"
+msgstr "الجدوى المنتج"
+
+msgid "Product Development Plan"
+msgstr "خطة التنمية المنتج"
+
+msgid "Product Realisation"
+msgstr "الإدراك المنتج"
+
+msgid "Add Proposal Followup"
+msgstr "إضافة اقتراح متابعة"
+
+msgid "Meeting Required?"
+msgstr "اجتماع المطلوبة؟"
+
+msgid "You can copy and paste your followup details here. You can also upload it after saving this record"
+msgstr "يمكنك نسخ ولصق متابعة التفاصيل الخاصة بك هنا. يمكنك أيضا تحميله بعد حفظ هذا السجل"
+
+msgid "Approve Proposal Followup"
+msgstr "الموافقة على اقتراح متابعة"
+
+msgid "Edit Proposal Followup"
+msgstr "تحرير متابعة اقتراح"
+
+msgid "New Proposal Followup"
+msgstr "الاقتراح الجديد متابعة"
+
+msgid "View Proposal Followup"
+msgstr "عرض مقترح متابعة"
+
+msgid "Followup Heading"
+msgstr "عنوان متابعة"
+
+msgid "Followup Details"
+msgstr "متابعة تفاصيل"
+
+msgid "Next Follow Up Date"
+msgstr "المقبل متابعة التسجيل"
+
+msgid "Add Proposal"
+msgstr "إضافة اقتراح"
+
+msgid "You can copy and paste your existing proposal here. You can also upload your proposal after saving this record"
+msgstr "يمكنك نسخ ولصق اقتراح الموجودة هنا. يمكنك أيضا تحميل اقتراحكم بعد حفظ هذا السجل"
+
+msgid "Approve Proposal"
+msgstr "الموافقة على اقتراح"
+
+msgid "Edit Proposal"
+msgstr "تحرير اقتراح"
+
+msgid "New Proposal"
+msgstr "اقتراح جديد"
+
+msgid "View Proposal"
+msgstr "عرض اقتراح"
+
+msgid "Proposal Heading"
+msgstr "اقتراح عنوان"
+
+msgid "Proposal Details"
+msgstr "تفاصيل الاقتراح"
+
+msgid "View Proposal Followups"
+msgstr "المتابعات عرض اقتراح"
+
+msgid "Add Purchase Order"
+msgstr "إضافة طلب شراء"
+
+msgid "Select Type"
+msgstr "حدد نوع"
+
+msgid "Order Details"
+msgstr "تفاصيل الطلب"
+
+msgid "Item Number"
+msgstr "رقم البند"
+
+msgid "Quantity"
+msgstr "الكمية"
+
+msgid "Discount (% only)"
+msgstr "خصم (٪ فقط)"
+
+msgid "Approve Purchase Order"
+msgstr "الموافقة على طلب الشراء"
+
+msgid "Order Detail"
+msgstr "ترتيب التفاصيل"
+
+msgid "Edit Purchase Order"
+msgstr "تحرير طلب شراء"
+
+msgid "-"
+msgstr "-"
+
+msgid "View Purchase Order"
+msgstr "عرض طلب الشراء"
+
+msgid "Inbound"
+msgstr "بالوارد"
+
+msgid "Outbound"
+msgstr "الصادرة"
+
+msgid "Expected Delivery Date"
+msgstr "التسليم المتوقع التسجيل"
+
+msgid "Approve Report"
+msgstr "الموافقة على تقرير"
+
+msgid " OPEN: "
+msgstr " فتح: "
+
+msgid " CLOSED : "
+msgstr " أغلقت: "
+
+msgid " CLOSED IN TIME : "
+msgstr " CLOSED IN TIME: "
+
+msgid "Customer Complaints History"
+msgstr "شكاوى العملاء التاريخ"
+
+msgid "Loading Graph Please Wait..."
+msgstr "الرسم البياني Loading يرجى الانتظار ..."
+
+msgid "Benchmark : "
+msgstr "المؤشر: "
+
+msgid " Records Added: "
+msgstr " سجلات واضاف: "
+
+msgid "Records Added : "
+msgstr "سجلات واضاف: "
+
+msgid "Userwise"
+msgstr "Userwise"
+
+msgid "Edit Report"
+msgstr "تحرير التقرير"
+
+msgid "New Report"
+msgstr "تقرير جديد"
+
+msgid "FlinkISO Report Center"
+msgstr "مركز التقارير FlinkISO"
+
+msgid "Internal Audits Report"
+msgstr "تقرير التدقيق الداخلي"
+
+msgid "List Of Acceptable Suppliers"
+msgstr "ائحة بالموردين المقبول"
+
+msgid "Supplier Evaluations"
+msgstr "التقييمات المورد"
+
+msgid "Summery Of Supplier Evaluations"
+msgstr "صيفي التقييمات الموردين"
+
+msgid " CAPA CLOSED : "
+msgstr " CAPA المغلقة: "
+
+msgid " OPEN CAPA : "
+msgstr " CAPA فتح: "
+
+msgid " ROOT CAUSE ANALYSIS REQUIRED : "
+msgstr " تحليل السبب ROOT المطلوبة: "
+
+msgid "CAPA by Source"
+msgstr "CAPA حسب المصدر"
+
+msgid "CAPA by Category"
+msgstr "CAPA حسب الفئة"
+
+msgid "Non Conformity History"
+msgstr "غير المطابقة التاريخ"
+
+msgid "Ready reports for "
+msgstr "تقارير جاهزة لل "
+
+msgid "These are ready reports generated automatically based on the inputs by flinkISO users. These reports are auto-generated daily, weekly, quarterly & yearly."
+msgstr "هذه هي تقارير جاهزة تتولد تلقائيا بناء على المدخلات من قبل المستخدمين flinkISO. هذه التقارير يوميا إنشاؤه تلقائيا، أسبوعية وفصلية وسنوية."
+
+msgid "Change Month"
+msgstr "التغيير شهر"
+
+msgid "Daily Report"
+msgstr "التقرير اليومي"
+
+msgid "Daily Data Entry Reports"
+msgstr "يوميا تقارير إدخال البيانات"
+
+msgid "File Name"
+msgstr "اسم الملف"
+
+msgid "Size"
+msgstr "الحجم"
+
+msgid "Created On"
+msgstr "مكون في"
+
+msgid "Daily Data Backup Report"
+msgstr "البيانات اليومية تقرير النسخ الاحتياطي"
+
+msgid "Weekly Reports"
+msgstr "تقارير أسبوعية"
+
+msgid "Weekly Non-Conformity Report"
+msgstr "الأسبوعي عدم مطابقة تقرير"
+
+msgid "Monthly Reports"
+msgstr "تقارير شهرية"
+
+msgid "Saved Reports"
+msgstr "التقارير المحفوظة"
+
+msgid "View Report"
+msgstr "عرض التقرير"
+
+msgid "Report Date"
+msgstr "تقرير التسجيل"
+
+msgid "Add Schedule"
+msgstr "إضافة جدول"
+
+msgid "Approve Schedule"
+msgstr "الموافقة على جدول"
+
+msgid "Edit Schedule"
+msgstr "تحرير جدول"
+
+msgid "New Schedule"
+msgstr "جدول جديد"
+
+msgid "View Schedule"
+msgstr "عرض جدول"
+
+msgid "Available Software Types"
+msgstr "أنواع البرامج المتاحة"
+
+msgid "Approve Software Type"
+msgstr "الموافقة Software نوع"
+
+msgid "Edit Software Type"
+msgstr "تحرير Software نوع"
+
+msgid "View Software Type"
+msgstr "نوع عرض البرامج"
+
+msgid "Add Stock"
+msgstr "إضافة الأسهم"
+
+msgid "Select Batch"
+msgstr "تحديد الدفعة"
+
+msgid "Invalid Selection"
+msgstr "اختيار غير صالح"
+
+msgid "Batch No."
+msgstr "الدفعة رقم"
+
+msgid "Approve Stock"
+msgstr "الموافقة المالية"
+
+msgid "Edit Stock"
+msgstr "تعديل الاوراق المالية"
+
+msgid "New Stock"
+msgstr "البورصة الجديد"
+
+msgid "View Stock"
+msgstr "مشاهدة المالية"
+
+msgid "Received Date"
+msgstr "تاريخ الاستلام"
+
+msgid "Production Date"
+msgstr "تاريخ الإنتاج"
+
+msgid "Quantity Consumed"
+msgstr "الكمية المستهلكة"
+
+msgid "Add New Suggestion"
+msgstr "إضافة اقتراح جديد"
+
+msgid "Approve Suggestion Form"
+msgstr "الموافقة على اقتراح نموذج"
+
+msgid "Edit Suggestion Form"
+msgstr "تحرير نموذج الإقتراحات"
+
+msgid "New Suggestion Form"
+msgstr "اقتراح نموذج جديد"
+
+msgid "View Suggestion Form"
+msgstr "عرض نموذج الإقتراحات"
+
+msgid "Activity"
+msgstr "أحدث المشاركات"
+
+msgid "Add Summary Of Supplier Evaluation"
+msgstr "إضافة ملخص لتقييم الموردين"
+
+msgid "Date of Evaluation"
+msgstr "تاريخ التقييم"
+
+msgid "Approve Summary Of Supplier Evaluation"
+msgstr "الموافقة على ملخص لتقييم الموردين"
+
+msgid "Edit Summary Of Supplier Evaluation"
+msgstr "تحرير ملخص لتقييم الموردين"
+
+msgid "New Summary Of Supplier Evaluation"
+msgstr "ملخص جديد من تقييم الموردين"
+
+msgid "View Summary Of Supplier Evaluation"
+msgstr "عرض ملخص لتقييم الموردين"
+
+msgid "Add Supplier Category"
+msgstr "إضافة مورد الفئة"
+
+msgid "Approve Supplier Category"
+msgstr "الموافقة مورد الفئة"
+
+msgid "Edit Supplier Category"
+msgstr "تحرير مورد الفئة"
+
+msgid "New Supplier Category"
+msgstr "جديدة المورد الفئة"
+
+msgid "View Supplier Category"
+msgstr "عرض مزود الفئة"
+
+msgid "Add Supplier Evaluation Reevaluation"
+msgstr "إضافة مورد التقييم إعادة التقييم"
+
+msgid "Quantity Supplied"
+msgstr "الكمية الموردة"
+
+msgid "Required Delivery Date"
+msgstr "مطلوب تاريخ التسليم"
+
+msgid "Actual Delivery Date"
+msgstr "تاريخ التسليم الفعلي"
+
+msgid "Approve Supplier Evaluation Reevaluation"
+msgstr "الموافقة على إعادة التقييم تقييم المورد"
+
+msgid "Edit Supplier Evaluation Reevaluation"
+msgstr "تحرير مورد التقييم إعادة التقييم"
+
+msgid "Select Supplier from the list to evaluate."
+msgstr "حدد مورد من القائمة لتقييم."
+
+msgid "Type Of Company"
+msgstr "نوع الشركة"
+
+msgid "Contact Person Office"
+msgstr "شخص الاتصال مكتب"
+
+msgid "Work Telephone"
+msgstr "هاتف العمل"
+
+msgid "Office Fax"
+msgstr "فاكس المكتب"
+
+msgid "Add List Of Acceptable Supplier"
+msgstr "إضافة قائمة من المقبول المورد"
+
+msgid "In order to evaluate Suppliers, you need to add Quantity Shipped VS Quantity Accepted & Required Delivery Date VS Actual Delivery Date values for below table. Based on these values, evaluation will be done."
+msgstr "من أجل تقييم الموردين وتحتاج إلى إضافة الكمية المشحونة الكمية VS مقبول ومطلوب تاريخ التسليم VS القيم تاريخ التسليم الفعلي للجدول أدناه. وبناء على هذه القيم، وسيتم ذلك التقييم."
+
+msgid "New Supplier Evaluation Reevaluation"
+msgstr "مورد جديد التقييم إعادة التقييم"
+
+msgid "View Supplier Evaluation Reevaluation"
+msgstr "عرض مزود التقييم إعادة التقييم"
+
+msgid "Delivery Challan No"
+msgstr "تسليم Challan لا"
+
+msgid "Add Supplier Registration"
+msgstr "إضافة تسجيل الموردين"
+
+msgid "Type Name of the Company"
+msgstr "نوع اسم الشركة"
+
+msgid "Registration Number or any other identidy number"
+msgstr "رقم التسجيل أو أي عدد identidy الآخرين"
+
+msgid "Type of Company"
+msgstr "نوع الشركة"
+
+msgid "Office Details"
+msgstr "تفاصيل مكتب"
+
+msgid "Contact Person at Office"
+msgstr "شخص الاتصال في مكتب"
+
+msgid "Designation at Office"
+msgstr "تعيين في مكتب"
+
+msgid "Office Address"
+msgstr "عنوان المكتب"
+
+msgid "Factory / Workshop details"
+msgstr "مصنع / ورشة عمل التفاصيل"
+
+msgid "Contact Person at Workshop/Factory"
+msgstr "المسؤل في ورشة عمل / مصنع"
+
+msgid "Designation at Workshop/Factory"
+msgstr "تعيين في ورشة عمل / مصنع"
+
+msgid "Workshop/Factory Address"
+msgstr "ورشة عمل / عنوان المصنع"
+
+msgid "Workshop/Factory Telephone"
+msgstr "ورشة عمل / مصنع الهاتف"
+
+msgid "Workshop/Factory Fax"
+msgstr "ورشة عمل / مصنع فاكس"
+
+msgid "Factory Details are the same as Office Details"
+msgstr "تفاصيل مصنع هي نفس تفاصيل مكتب"
+
+msgid "Is supplier ISO certified?"
+msgstr "هو المورد شهادة الأيزو؟"
+
+msgid "CST Registration Number"
+msgstr "CST رقم التسجيل"
+
+msgid "ST Registration Number"
+msgstr "رقم التسجيل ST"
+
+msgid "Income Tax Number"
+msgstr "عدد ضريبة الدخل"
+
+msgid "SSI Registration Number"
+msgstr "مباحث أمن الدولة رقم التسجيل"
+
+msgid "Range of Products"
+msgstr "مجموعة من المنتجات"
+
+msgid "Services Offered"
+msgstr "تقديم خدمات"
+
+msgid "Existing Facilities"
+msgstr "المرافق القائمة"
+
+msgid "Prominent Customers"
+msgstr "العملاء البارزين"
+
+msgid "Quality Assurance"
+msgstr "ضمان الجودة"
+
+msgid "Facility Comments"
+msgstr "مرفق تعليقات"
+
+msgid "Supplier Representative"
+msgstr "الممثل المورد"
+
+msgid "Trial Order"
+msgstr "من اجل محاكمة"
+
+msgid "If the trial order result is satisfactory click YES from below.Supplier Selected as YES will be added to List of Acceptable Supplier's List"
+msgstr "إذا كانت النتيجة من اجل محاكمة هي نقرة مرضية من below.Supplier YES YES مختارة كما ستضاف الى قائمة قائمة الموردين المقبول ل"
+
+msgid "Is supplier selected as Acceptable Supplier ?"
+msgstr "تم اختيار المورد والمقبول مورد السلعة؟"
+
+msgid "Select Category"
+msgstr "إختر الفئة"
+
+msgid "Approve Supplier Registration"
+msgstr "الموافقة على تسجيل الموردين"
+
+msgid "Contact Person Workshop/Factory"
+msgstr "شخص الاتصال ورشة عمل / مصنع"
+
+msgid "Edit Supplier Registration"
+msgstr "تحرير تسجيل الموردين"
+
+msgid "New Supplier Registration"
+msgstr "جديد تسجيل الموردين"
+
+msgid "View Supplier Registration"
+msgstr "عرض مزود التسجيل"
+
+msgid "Designition at Office"
+msgstr "Designition في مكتب"
+
+msgid "Incometax Number"
+msgstr "عدد Incometax"
+
+msgid "Range Of Products"
+msgstr "مجموعة من المنتجات"
+
+msgid "Add System Table"
+msgstr "إضافة نظام الجدول"
+
+msgid "Approve System Table"
+msgstr "الموافقة على نظام الجدول"
+
+msgid "Edit System Table"
+msgstr "تحرير الجدول النظام"
+
+msgid "New System Table"
+msgstr "الجدول نظام جديد"
+
+msgid "View System Table"
+msgstr "عرض نظام الجدول"
+
+msgid "System Name"
+msgstr "اسم النظام"
+
+msgid "Evidence Required"
+msgstr "مطلوب دليل"
+
+msgid "Approvals Required"
+msgstr "الموافقات المطلوبة"
+
+msgid "Format"
+msgstr "تهيئة"
+
+msgid "There were no tasks on "
+msgstr "لم تكن هناك المهام على "
+
+msgid "Please select From-To & User (selecting user is optional)"
+msgstr "يرجى تحديد من لوالعضو (اختيار المستخدم هو اختياري)"
+
+msgid "Add Task"
+msgstr "إضافة مهمة"
+
+msgid "If you are assigning a new task to a user, make sure that the user has a permission to access the tasks."
+msgstr "إذا كنت إسناد مهمة جديدة إلى مستخدم، تأكد من أن المستخدم لديه الإذن للوصول إلى المهام."
+
+msgid "You can change the user permissions from Users -> View -> Manage Access Control, then click on MR and check the tasks section to provide required permission"
+msgstr "يمكنك تغيير أذونات المستخدم من المستخدمين -> عرض -> إدارة التحكم في الوصول، ثم انقر على MR والتحقق من قسم المهام لتوفير الإذن المطلوب"
+
+msgid "Approve Task"
+msgstr "الموافقة على العمل"
+
+msgid "Edit Task"
+msgstr "تحرير العمل"
+
+msgid "New Task"
+msgstr "مهمة جديدة"
+
+msgid "View Task"
+msgstr "عرض العمل"
+
+msgid "Approve Timeline"
+msgstr "الموافقة على الجدول الزمني"
+
+msgid "Edit Timeline"
+msgstr "تحرير الجدول الزمني"
+
+msgid "New Timeline"
+msgstr "الجدول الزمني الجديد"
+
+msgid "View Timeline"
+msgstr "عرض الفترة الزمنية"
+
+msgid "List of Trainer Type"
+msgstr "قائمة من نوع المدرب"
+
+msgid "Add New Trainer Type (Internal / External / Technical / Domain Experts etc)"
+msgstr "إضافة نوع جديد المدرب (الخبراء داخلي / خارجي / تقني / المجال الخ)"
+
+msgid "Approve Trainer Type"
+msgstr "الموافقة نوع المدرب"
+
+msgid "Edit Trainer Type"
+msgstr "تحرير نوع المدرب"
+
+msgid "New Trainer Type"
+msgstr "نوع جديد المدرب"
+
+msgid "View Trainer Type"
+msgstr "النوع رأي المدرب"
+
+msgid "List Trainers"
+msgstr "قائمة المدربين"
+
+msgid "Trainer Type"
+msgstr "نوع المدرب"
+
+msgid "Add Trainer"
+msgstr "إضافة المدرب"
+
+msgid "Approve Trainer"
+msgstr "الموافقة المدرب"
+
+msgid "Edit Trainer"
+msgstr "تحرير المدرب"
+
+msgid "New Trainer"
+msgstr "المدرب الجديد"
+
+msgid "View Trainer"
+msgstr "رأي المدرب"
+
+msgid "Add Training Evaluation"
+msgstr "إضافة تقييم التدريب"
+
+msgid "Purpose of Training"
+msgstr "الغرض من التدريب"
+
+msgid "is it Fulfilled"
+msgstr "هل هو الصادق"
+
+msgid "Informative"
+msgstr "الإعلامية"
+
+msgid "Improvement"
+msgstr "تحسن"
+
+msgid "Content"
+msgstr "المحتوى:"
+
+msgid "Elaboration"
+msgstr "وضع"
+
+msgid "Approve Training Evaluation"
+msgstr "الموافقة على تقييم التدريب"
+
+msgid "Edit Training Evaluation"
+msgstr "تحرير تقييم التدريب"
+
+msgid "New Training Evaluation"
+msgstr "تقييم التدريب الجديد"
+
+msgid "View Training Evaluation"
+msgstr "مشاهدة تقييم التدريب"
+
+msgid "Purpose Of Training"
+msgstr "الغرض من التدريب"
+
+msgid "Is It Fulfilled"
+msgstr "هل الصادق"
+
+msgid "Add Training Need Identification"
+msgstr "إضافة التدريب الحاجة التعريف"
+
+msgid "Course"
+msgstr "الدورة"
+
+msgid "Approve Training Need Identification"
+msgstr "الموافقة على تحديد الاحتياجات التدريبية"
+
+msgid "Edit Training Need Identification"
+msgstr "تحرير التدريب بحاجة الى تحديد"
+
+msgid "New Training Need Identification"
+msgstr "تدريب جديد تحتاج تحديد"
+
+msgid "View Training Need Identification"
+msgstr "عرض تدريب تحديد الحاجة"
+
+msgid "Employee Details"
+msgstr "تفاصيل موظف"
+
+msgid "Trainings Attended"
+msgstr "حضر التدريبات"
+
+msgid "Training date"
+msgstr "تاريخ التدريب"
+
+msgid "List Training Type"
+msgstr "القائمة نوع التدريب"
+
+msgid "Mandatory"
+msgstr "إلزامية"
+
+msgid "Add Training Type"
+msgstr "إضافة نوع التدريب"
+
+msgid "Approve Training Type"
+msgstr "الموافقة على نوع التدريب"
+
+msgid "Edit Training Type"
+msgstr "تحرير نوع التدريب"
+
+msgid "New Training Type"
+msgstr "جديد نوع التدريب"
+
+msgid "View Training Type"
+msgstr "عرض نوع التدريب"
+
+msgid "Training Description"
+msgstr "التدريب الوصف"
+
+msgid "Add Training"
+msgstr "إضافة التدريب"
+
+msgid "Trainer"
+msgstr "المدرب"
+
+msgid "Start Date-Time"
+msgstr "بدء التسجيل في الوقت"
+
+msgid "End Date-Time"
+msgstr "نهاية التسجيل في الوقت"
+
+msgid "Attendee"
+msgstr "الحضور"
+
+msgid "Approve Training"
+msgstr "الموافقة على تدريب"
+
+msgid "Edit Training"
+msgstr "تحرير التدريب"
+
+msgid "New Training"
+msgstr "التدريب الجديد"
+
+msgid "New Trainer Types"
+msgstr "أنواع المدرب جديدة"
+
+msgid "New Trainers"
+msgstr "المدرب الجديد"
+
+msgid "View Training"
+msgstr "مشاهدة التدريب"
+
+msgid "Start Date Time"
+msgstr "بدء التاريخ الوقت"
+
+msgid "End Date Time"
+msgstr "تاريخ نهاية التوقيت"
+
+msgid "Add Username Password Detail"
+msgstr "إضافة اسم المستخدم كلمة المرور التفاصيل"
+
+msgid "Password"
+msgstr "كلمة المرور"
+
+msgid "Date Of Change"
+msgstr "تاريخ التغيير"
+
+msgid "Approve Username Password Detail "
+msgstr "الموافقة على اسم المستخدم كلمة المرور التفاصيل "
+
+msgid "Edit Username Password Detail "
+msgstr "تحرير اسم المستخدم كلمة المرور التفاصيل "
+
+msgid "New Username Password Detail"
+msgstr "جديد اسم المستخدم كلمة المرور التفاصيل"
+
+msgid "View Username Password Detail"
+msgstr "عرض اسم المستخدم كلمة المرور التفاصيل"
+
+msgid "You do not have sufficient permissions to access this page. <br/>Contact your administrator for permissions related issues."
+msgstr "لم يكن لديك أذونات كافية لدخول هذه الصفحة. <BR/> اتصل بالمسؤول للحصول على أذونات القضايا ذات الصلة."
+
+msgid "Login Details"
+msgstr "تفاصيل تسجيل الدخول"
+
+msgid "Choose Other Details"
+msgstr "اختيار تفاصيل أخرى"
+
+msgid "Choose User's Privileges"
+msgstr "اختيار امتيازات المستخدم"
+
+msgid "New MR User"
+msgstr "الجديد MR العضو"
+
+msgid "User who can see other user's records"
+msgstr "المستخدم الذي يمكن مشاهدة السجلات المستخدم الآخر"
+
+msgid "User who can approve data added by other users"
+msgstr "المستخدم الذي يمكن الموافقة على البيانات المضافة من قبل المستخدمين الآخرين"
+
+msgid "Benchmark:"
+msgstr "المؤشر:"
+
+msgid "Estimated Data Entry Per Day From This User"
+msgstr "يقدر إدخال البيانات لكل يوم من هذا العضو"
+
+msgid "Copy permission from available user"
+msgstr "إذن نسخة من مستخدم متاح"
+
+msgid "Go to Dashboard"
+msgstr "الذهاب إلى لوحة التحكم الرئيسية"
+
+msgid "Approve User"
+msgstr "الموافقة العضو"
+
+msgid "Login ID: "
+msgstr "الدخول ID: "
+
+msgid "Reset your Password"
+msgstr "إعادة تعيين كلمة المرور الخاصة بك"
+
+msgid "Current Password"
+msgstr "كلمة المرور الحالي"
+
+msgid "New Password"
+msgstr "كلمة السر الجديدة"
+
+msgid "Confirm Password"
+msgstr "تأكيد كلمة المرور"
+
+msgid "Non conformities are assigned to you for further actions requires your immediate attention, Check the list below under Non Conformity Actions Required"
+msgstr "يتم تعيين لك لاتخاذ مزيد من الإجراءات غير المطابقة تتطلب انتباهكم فوري، تحقق من القائمة أدناه تحت الإجراءات غير المطابقة المطلوبة "
+
+msgid "SMTP is not setup properly."
+msgstr "SMTP لم يتم إعداد بشكل صحيح."
+
+msgid "click here to setup SMTP"
+msgstr "انقر هنا لإعداد SMTP"
+
+msgid "click here for more details"
+msgstr "انقر هنا لمزيد من التفاصيل"
+
+msgid "Data Entry"
+msgstr "إدخال البيانات"
+
+msgid "Readiness <span class=\"glyphicon glyphicon-hand-right\"></span>"
+msgstr "Readiness <span class=\"glyphicon glyphicon-hand-right\"></span>"
+
+msgid "60% Complete (warning)"
+msgstr "60٪ كاملة (تحذير)"
+
+msgid "Audit Trails"
+msgstr "مسارات التدقيق"
+
+msgid "Number of CAPAs"
+msgstr "عدد كابا"
+
+msgid "Open CAPAS"
+msgstr "CAPAS المفتوحة"
+
+msgid "CAPAS Closed"
+msgstr "CAPAS مغلقة"
+
+msgid "Number of document change requests"
+msgstr "عدد من طلبات التغيير وثيقة"
+
+msgid "Number of NCs found"
+msgstr "عدد من البلاغات وجد"
+
+msgid "Number of NCs open"
+msgstr "عدد البلاغات المفتوحة"
+
+msgid "Number of Customer Complaints recieved"
+msgstr "عدد شكاوى العملاء استلمت"
+
+msgid "Number of Customer Complaints open"
+msgstr "عدد شكاوى العملاء المفتوحة"
+
+msgid "Pending Approvals"
+msgstr "في انتظار الموافقات"
+
+msgid "About"
+msgstr "نبذة "
+
+msgid "Date/Time"
+msgstr "تاريخ / وقت"
+
+msgid "Timeline"
+msgstr "الجدول الزمني"
+
+msgid "Record Graph"
+msgstr "سجل الرسم البياني"
+
+msgid "Branch Graph"
+msgstr "فرع الرسم البياني"
+
+msgid "Department Graph"
+msgstr "قسم الرسم البياني"
+
+msgid "System Usage"
+msgstr "نظام الاستخدام"
+
+msgid " By "
+msgstr " إعداد "
+
+msgid " on "
+msgstr " على "
+
+msgid "Data Entry Section"
+msgstr "القسم إدخال البيانات"
+
+msgid "Quality Control Section"
+msgstr "قسم مراقبة الجودة"
+
+msgid "Personal & Admin Section"
+msgstr "القسم الشخصية والإدارية"
+
+msgid "Purchase Section"
+msgstr "قسم المشتريات"
+
+msgid "Welcome Message"
+msgstr "رسالة ترحيب"
+
+msgid "Message form Director"
+msgstr "شكل رسالة المدير"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies by clicking on the links below. <br /> These documents are available for all users."
+msgstr "يمكنك إضافة / عرض الكتيبات الخاصة بك الجودة شركة / الإجراءات / أهداف / السجلات / سياسات من خلال النقر على الروابط أدناه. <br /> وهذه الوثائق متاحة لجميع المستخدمين."
+
+msgid "Edit User"
+msgstr "عدل العضو"
+
+msgid "Welcome to flinkISO"
+msgstr "مرحبا بكم في flinkISO"
+
+msgid "Please Enter username"
+msgstr "الرجاء إدخال اسم المستخدم"
+
+msgid "Forgot password?"
+msgstr "نسيت كلمة المرور؟"
+
+msgid "Re-type Password"
+msgstr "أعد كتابة كلمة المرور"
+
+msgid "Install Sample Data"
+msgstr "تثبيت البيانات النموذجية"
+
+msgid "Create My Free Account Now!"
+msgstr "خلق حسابي مجاني الآن!"
+
+msgid "Forgot your password?"
+msgstr "أنسيت كلمة السر؟"
+
+msgid "Please enter the username you used for registration and you'll get an email with further instructions."
+msgstr "من فضلك ادخل اسم المستخدم الذي استخدمته للتسجيل، وستحصل على رسالة بريد إلكتروني مع مزيد من التعليمات."
+
+msgid "User Name"
+msgstr "اسم المستخدم"
+
+msgid "Reset your password"
+msgstr "إعادة تعيين كلمة المرور الخاصة بك"
+
+msgid "Reset"
+msgstr "إعادة تعيين"
+
+msgid "Port"
+msgstr "الميناء"
+
+msgid "Skip"
+msgstr "تخطي"
+
+msgid "Record is locked"
+msgstr "سجل مقفل"
+
+msgid "This record is under process and assigned to other user for updation. You can not access this record while its locked. <br/>Contact your administrator for permissions related issues."
+msgstr "هذا السجل هو تحت العملية وتعيين إلى مستخدم آخر للupdation. لا يمكنك الوصول إلى هذا السجل في حين تخوض فيها. <BR/> اتصل بالمسؤول للحصول على أذونات القضايا ذات الصلة."
+
+msgid "Set User Access"
+msgstr "مجموعة صول المستخدم"
+
+msgid "Username : "
+msgstr "اسم المستخدم: "
+
+msgid "Name : "
+msgstr "الإسم: "
+
+msgid "More..."
+msgstr " المزيد..."
+
+msgid "View User"
+msgstr "رأي العضو"
+
+msgid "Manage Access Control"
+msgstr "إدارة التحكم في الوصول"
+
+msgid "Is View All?"
+msgstr "هو مشاهدة جميع؟"
+
+msgid "Is Approver?"
+msgstr "غير الموافق؟"
+
+msgid "Login Status"
+msgstr "حالة تسجيل الدخول"
+

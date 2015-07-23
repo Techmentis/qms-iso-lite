@@ -1,0 +1,17 @@
+<?php echo $this->Form->create('date-range', array('role' => 'form', 'class' => 'form')); ?>
+<div class="row">
+    <div class="col-md-6"><?php echo $this->Form->input('ragne-from-date'); ?></div>
+    <div class="col-md-6"><?php echo $this->Form->input('range-to-date'); ?></div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <?php echo $this->Form->submit(__('Submit'), array('div' => false, 'class' => 'btn btn-primary btn-success')); ?>
+        <?php echo $this->Form->end(); ?></div>
+</div>
+<script>
+    $("[name*='date']").datepicker({
+        changeMonth: true,
+        changeYear: true
+    });
+</script>

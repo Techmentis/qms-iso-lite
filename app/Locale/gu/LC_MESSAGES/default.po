@@ -1,0 +1,5503 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-01-22 16:08+0530\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Access Denied"
+msgstr "ઍક્સેસ નકાર્યું"
+
+msgid "Please sign in to access the application"
+msgstr "અરજી વાપરવા માટે સાઇન ઇન કરો"
+
+msgid "All selected value deleted"
+msgstr "કાઢી બધા પસંદ કરેલ કિંમત"
+
+msgid "Invalid detail"
+msgstr "અમાન્ય વિગતવાર"
+
+msgid "All selected value was not deleted"
+msgstr "બધા પસંદ કરેલ કિંમત કાઢી ન હતી"
+
+msgid "All selected values deleted"
+msgstr "કાઢી બધા પસંદ કરેલ કિંમતો"
+
+msgid "All selected value restored"
+msgstr "પુનર્સ્થાપિત બધા પસંદ કરેલ કિંમત"
+
+msgid "Selected "
+msgstr "પસંદ "
+
+msgid "Please make sure you have created the proper report. It looks like you have not defined the table class (single/multiple) "
+msgstr "તમે યોગ્ય અહેવાલ રચના કરી છે તેની ખાતરી હોય. તમે કોષ્ટક વર્ગ વ્યાખ્યાયિત નથી એવું લાગે છે (એક / બહુવિધ) "
+
+msgid "Invalid approval"
+msgstr "અમાન્ય મંજૂરી"
+
+msgid "The approval has been saved"
+msgstr "આ મંજૂરી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The approval could not be saved. Please, try again."
+msgstr "આ મંજૂરી સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid approval id"
+msgstr "અમાન્ય મંજૂરી ID ને"
+
+msgid "The branch has been published"
+msgstr "આ શાખા પ્રકાશિત કરવામાં આવી છે"
+
+msgid "There was a issue sending the approvals for some of the records"
+msgstr "રેકોર્ડ કેટલાક માટે મંજૂરી મોકલવા એક મુદ્દો હતો"
+
+msgid "Sent for approvals"
+msgstr "મંજૂરી માટે મોકલવામાં"
+
+msgid "Invalid branch benchmark"
+msgstr "અમાન્ય શાખા બેન્ચમાર્ક"
+
+msgid "The branch benchmark has been saved"
+msgstr "આ શાખા બેન્ચમાર્ક સંગ્રહ કરવામાં આવી છે"
+
+msgid "The branch benchmark could not be saved. Please, try again."
+msgstr "આ શાખા બેન્ચમાર્ક સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid branch"
+msgstr "અમાન્ય શાખા"
+
+msgid "The branch has been saved"
+msgstr "આ શાખા સંગ્રહ કરવામાં આવી છે"
+
+msgid "The branch could not be saved. Please, try again."
+msgstr "આ શાખા સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid calibration"
+msgstr "અમાન્ય કેલિબ્રેશન"
+
+msgid "The calibration has been saved"
+msgstr "આ કેલિબ્રેશન સંગ્રહ કરવામાં આવી છે"
+
+msgid "The calibration could not be saved. Please, try again."
+msgstr "આ કેલિબ્રેશન સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The calibration has been published"
+msgstr "આ કેલિબ્રેશન પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Calibration deleted"
+msgstr "કાઢી કૅલિબ્રેશન"
+
+msgid "Calibration was not deleted"
+msgstr "કૅલિબ્રેશન કાઢી ન હતી"
+
+msgid "Invalid capa category"
+msgstr "અમાન્ય capa શ્રેણી"
+
+msgid "The capa category has been saved"
+msgstr "આ capa શ્રેણી સાચવવામાં આવી છે"
+
+msgid "The capa category could not be saved. Please, try again."
+msgstr "આ capa શ્રેણી સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid capa source"
+msgstr "અમાન્ય capa સ્ત્રોત"
+
+msgid "The capa source has been saved"
+msgstr "આ capa સ્ત્રોત સંગ્રહ કરવામાં આવી છે"
+
+msgid "The capa source could not be saved. Please, try again."
+msgstr "આ capa સ્ત્રોત સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid change addition deletion request"
+msgstr "અમાન્ય ફેરફાર ઉપરાંત હટાવવા માટેની વિનંતી"
+
+msgid "The change addition deletion request has been saved"
+msgstr "ફેરફાર ઉપરાંત હટાવવા માટેની વિનંતી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The change addition deletion request could not be saved. Please, try again."
+msgstr "ફેરફાર ઉપરાંત હટાવવા માટેની વિનંતી સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The Change Addition Deletion Request has been published"
+msgstr "ફેરફાર ઉમેરો હટાવવા માટેની વિનંતી પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid company"
+msgstr "અમાન્ય નામ"
+
+msgid "The company has been saved"
+msgstr "કંપનીએ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The company could not be saved. Please, try again."
+msgstr "કંપનીએ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid company benchmark"
+msgstr "અમાન્ય કંપની બેન્ચમાર્ક"
+
+msgid "The company benchmark has been saved"
+msgstr "આ કંપની બેન્ચમાર્ક સંગ્રહ કરવામાં આવી છે"
+
+msgid "The company benchmark could not be saved. Please, try again."
+msgstr "આ કંપની બેન્ચમાર્ક સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid competency mapping"
+msgstr "અમાન્ય ક્ષમતા મેપિંગ"
+
+msgid "The competency mapping has been saved"
+msgstr "આ ક્ષમતા મેપિંગ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The competency mapping could not be saved. Please, try again."
+msgstr "આ ક્ષમતા મેપિંગ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Competency mapping deleted"
+msgstr "કાઢી સ્પર્ધાત્મકતા મેપિંગ"
+
+msgid "Competency mapping was not deleted"
+msgstr "સ્પર્ધાત્મકતા મેપિંગ કાઢી ન હતી"
+
+msgid "Invalid corrective preventive action"
+msgstr "અમાન્ય સુધારાત્મક નિવારક કાર્યવાહી"
+
+msgid "The corrective preventive action has been saved"
+msgstr "આ સુધારાત્મક નિવારક કાર્યવાહી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The corrective preventive action could not be saved. Please, try again."
+msgstr "આ સુધારાત્મક નિવારક કાર્યવાહી સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The corrective preventive action has been published"
+msgstr "આ સુધારાત્મક નિવારક કાર્યવાહી પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid courier register"
+msgstr "અમાન્ય વાહક રજિસ્ટર"
+
+msgid "The courier register has been saved"
+msgstr "આ કુરિયર રજિસ્ટર સંગ્રહ કરવામાં આવી છે"
+
+msgid "The courier register could not be saved. Please, try again."
+msgstr "આ કુરિયર રજિસ્ટર સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid course type"
+msgstr "અમાન્ય કોર્સ પ્રકાર"
+
+msgid "The course type has been saved"
+msgstr "આ કોર્સ પ્રકાર સંગ્રહ કરવામાં આવી છે"
+
+msgid "The course type could not be saved. Please, try again."
+msgstr "આ કોર્સ પ્રકાર સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The course type has been published"
+msgstr "આ કોર્સ પ્રકાર પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid course"
+msgstr "અમાન્ય કોર્સ"
+
+msgid "The course has been saved"
+msgstr "આ કોર્સ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The course could not be saved. Please, try again."
+msgstr "આ કોર્સ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The course has been published"
+msgstr "આ કોર્સ પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid custom template"
+msgstr "અમાન્ય વૈવિધ્યપૂર્ણ નમૂનો"
+
+msgid "The custom template has been saved"
+msgstr "વૈવિધ્યપૂર્ણ નમૂનો સાચવવામાં આવ્યો છે"
+
+msgid "The custom template could not be saved. Please, try again."
+msgstr "વૈવિધ્યપૂર્ણ નમૂનો સંગ્રહ થશે નહી કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid customer complaint"
+msgstr "અમાન્ય ગ્રાહક ફરિયાદ"
+
+msgid "The customer complaint has been saved"
+msgstr "ગ્રાહક ફરિયાદ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The customer complaint could not be saved. Please, try again."
+msgstr "ગ્રાહક ફરિયાદ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Customer complaint deleted"
+msgstr "કાઢી ગ્રાહક ફરિયાદ"
+
+msgid "Customer complaint was not deleted"
+msgstr "ગ્રાહક ફરિયાદ કાઢી ન હતી"
+
+msgid "Invalid customer feedback question"
+msgstr "અમાન્ય ગ્રાહક પ્રતિસાદ પ્રશ્ન"
+
+msgid "The customer feedback question has been saved"
+msgstr "ગ્રાહક પ્રતિસાદ પ્રશ્ન સંગ્રહ કરવામાં આવી છે"
+
+msgid "The customer feedback question could not be saved. Please, try again."
+msgstr "ગ્રાહક પ્રતિસાદ પ્રશ્ન સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Customer feedback question deleted"
+msgstr "કાઢી ગ્રાહક પ્રતિસાદ પ્રશ્ન"
+
+msgid "Customer feedback question was not deleted"
+msgstr "ગ્રાહક પ્રતિસાદ પ્રશ્ન કાઢી ન હતી"
+
+msgid "Invalid customer feedback"
+msgstr "અમાન્ય ગ્રાહક પ્રતિસાદ"
+
+msgid "The customer feedback has been saved"
+msgstr "ગ્રાહક પ્રતિસાદ સાચવવામાં આવ્યો છે"
+
+msgid "The customer feedback could not be saved. Please, try again."
+msgstr "ગ્રાહક પ્રતિસાદ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Customer feedback deleted"
+msgstr "કાઢી ગ્રાહક પ્રતિસાદ"
+
+msgid "Customer feedback was not deleted"
+msgstr "ગ્રાહક પ્રતિસાદ કાઢી ન હતી"
+
+msgid "Invalid customer"
+msgstr "અમાન્ય ગ્રાહક"
+
+msgid "The customer has been saved"
+msgstr "ગ્રાહક સંગ્રહ કરવામાં આવી છે"
+
+msgid "The customer could not be saved. Please, try again."
+msgstr "ગ્રાહક સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Customer deleted"
+msgstr "ગ્રાહક કાઢી"
+
+msgid "Customer was not deleted"
+msgstr "ગ્રાહક કાઢી ન હતી"
+
+msgid "Invalid daily backup detail"
+msgstr "અમાન્ય દૈનિક બેકઅપ વિગતવાર"
+
+msgid "The daily backup detail has been saved"
+msgstr "દૈનિક બેકઅપ વિગતવાર સંગ્રહ કરવામાં આવી છે"
+
+msgid "The daily backup detail could not be saved. Please, try again."
+msgstr "દૈનિક બેકઅપ વિગતવાર સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The housekeeping has been saved"
+msgstr "આ Housekeeping સંગ્રહ કરવામાં આવી છે"
+
+msgid "The Backup Details has been saved"
+msgstr "આ બેકઅપ વિગતો સંગ્રહ કરવામાં આવી છે"
+
+msgid "Invalid data back up"
+msgstr "અમાન્ય માહિતીનો બેકઅપ"
+
+msgid "The data back up has been saved"
+msgstr "આ ડેટા બેક અપ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The data back up could not be saved. Please, try again."
+msgstr "આ ડેટા બેક અપ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid data type"
+msgstr "અમાન્ય ડેટા પ્રકાર"
+
+msgid "The data type has been saved"
+msgstr "આ માહિતી પ્રકાર સંગ્રહ કરવામાં આવી છે"
+
+msgid "The data type could not be saved. Please, try again."
+msgstr "આ માહિતી પ્રકાર સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid databackup logbook"
+msgstr "અમાન્ય databackup લોગબુક"
+
+msgid "The databackup logbook has been saved"
+msgstr "આ databackup લોગબુક સંગ્રહ કરવામાં આવી છે"
+
+msgid "The databackup logbook could not be saved. Please, try again."
+msgstr "આ databackup લોગબુક સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The databackup logbook has been published"
+msgstr "આ databackup લોગબુક પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid delivery challan"
+msgstr "અમાન્ય બોલ ચલન"
+
+msgid "The delivery challan has been saved"
+msgstr "આ બોલ ચલન સંગ્રહ કરવામાં આવી છે"
+
+msgid "The delivery challan could not be saved. Please, try again."
+msgstr "આ બોલ ચલન સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid department benchmark"
+msgstr "અમાન્ય વિભાગ બેન્ચમાર્ક"
+
+msgid "The department benchmark has been saved"
+msgstr "આ વિભાગ બેન્ચમાર્ક સંગ્રહ કરવામાં આવી છે"
+
+msgid "The department benchmark could not be saved. Please, try again."
+msgstr "આ વિભાગ બેન્ચમાર્ક સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid department"
+msgstr "અમાન્ય વિભાગ"
+
+msgid "The department has been saved"
+msgstr "આ વિભાગ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The department could not be saved. Please, try again."
+msgstr "આ વિભાગ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid designation"
+msgstr "અમાન્ય હોદ્દો"
+
+msgid "The designation has been saved"
+msgstr "આ હોદ્દો સંગ્રહ કરવામાં આવી છે"
+
+msgid "The designation could not be saved. Please, try again."
+msgstr "આ હોદ્દો સંગ્રહ થશે નહી કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The designation has been published"
+msgstr "આ હોદ્દો પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid device"
+msgstr "અમાન્ય ઉપકરણ"
+
+msgid "The device has been saved"
+msgstr "આ ઉપકરણ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The device could not be saved. Please, try again."
+msgstr "આ ઉપકરણ સંગ્રહ થશે નહી કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The device has been published"
+msgstr "આ ઉપકરણ પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid document amendment record sheet"
+msgstr "અમાન્ય દસ્તાવેજ સુધારો રેકોર્ડ શીટ"
+
+msgid "The document amendment record sheet has been saved"
+msgstr "આ દસ્તાવેજ સુધારો રેકોર્ડ શીટ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The document amendment record sheet could not be saved. Please, try again."
+msgstr "આ દસ્તાવેજ સુધારો રેકોર્ડ શીટ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid employee designation"
+msgstr "અમાન્ય કર્મચારી હોદ્દો"
+
+msgid "The employee designation has been saved"
+msgstr "આ કર્મચારી હોદ્દો સંગ્રહ કરવામાં આવી છે"
+
+msgid "The employee designation could not be saved. Please, try again."
+msgstr "આ કર્મચારી હોદ્દો સંગ્રહ થશે નહી કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid employee induction training"
+msgstr "અમાન્ય કર્મચારી ઇન્ડક્શન તાલીમ"
+
+msgid "The employee induction training has been saved"
+msgstr "આ કર્મચારી ઇન્ડક્શન તાલીમ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The employee induction training could not be saved. Please, try again."
+msgstr "આ કર્મચારી ઇન્ડક્શન તાલીમ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The employee induction training has been published"
+msgstr "આ કર્મચારી ઇન્ડક્શન તાલીમ પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid employee training"
+msgstr "અમાન્ય કર્મચારી તાલીમ"
+
+msgid "The employee training has been saved"
+msgstr "આ કર્મચારી તાલીમ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The employee training could not be saved. Please, try again."
+msgstr "આ કર્મચારી તાલીમ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid employee"
+msgstr "અમાન્ય કર્મચારી"
+
+msgid "The employee has been saved"
+msgstr "આ કર્મચારી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The employee could not be saved. Please, try again."
+msgstr "આ કર્મચારી સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The employee has been published"
+msgstr "આ કર્મચારી પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Logged-in user can not be deleted!"
+msgstr "વપરાશકર્તામાં પ્રવેશેલ કાઢી શકાતા નથી!"
+
+msgid "Invalid evidence"
+msgstr "અમાન્ય પુરાવા"
+
+msgid "The evidence has been saved"
+msgstr "પુરાવા સંગ્રહ કરવામાં આવી છે"
+
+msgid "The evidence could not be saved. Please, try again."
+msgstr "પુરાવા સંગ્રહ થશે નહી કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid file upload"
+msgstr "અમાન્ય ફાઇલ અપલોડ કરો"
+
+msgid "The file upload has been saved"
+msgstr "ફાઇલ અપલોડ કરો સંગ્રહ કરવામાં આવી છે"
+
+msgid "The file upload could not be saved. Please, try again."
+msgstr "ફાઇલ અપલોડ કરો સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid fire extinguisher type"
+msgstr "અમાન્ય અગ્નિશામક પ્રકાર"
+
+msgid "The fire extinguisher type has been saved"
+msgstr "આ અગ્નિશામક પ્રકાર સંગ્રહ કરવામાં આવી છે"
+
+msgid "The fire extinguisher type could not be saved. Please, try again."
+msgstr "આ અગ્નિશામક પ્રકાર સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid fire extinguisher"
+msgstr "અમાન્ય અગ્નિશામક"
+
+msgid "The fire extinguisher has been saved"
+msgstr "આ અગ્નિશામક સંગ્રહ કરવામાં આવી છે"
+
+msgid "The fire extinguisher could not be saved. Please, try again."
+msgstr "આ અગ્નિશામક સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The fire extinguisher has been published"
+msgstr "આ અગ્નિશામક પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid fire safety equipment list"
+msgstr "અમાન્ય આગ સુરક્ષા સાધનો યાદી"
+
+msgid "The fire safety equipment list has been saved"
+msgstr "આ આગ સુરક્ષા સાધનો યાદી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The fire safety equipment list could not be saved. Please, try again."
+msgstr "આ આગ સુરક્ષા સાધનો યાદી સાચવી શકાઈ નથી. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid fire type"
+msgstr "અમાન્ય આગ પ્રકાર"
+
+msgid "The fire type has been saved"
+msgstr "આ આગ પ્રકાર સંગ્રહ કરવામાં આવી છે"
+
+msgid "The fire type could not be saved. Please, try again."
+msgstr "આ આગ પ્રકાર સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid help"
+msgstr "અમાન્ય મદદ"
+
+msgid "The help has been saved"
+msgstr "આ મદદ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The help could not be saved. Please, try again."
+msgstr "આ મદદ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid history"
+msgstr "અમાન્ય ઇતિહાસ"
+
+msgid "The history has been saved"
+msgstr "ઇતિહાસ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The history could not be saved. Please, try again."
+msgstr "ઇતિહાસ સંગ્રહ થશે નહી કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid housekeeping checklist"
+msgstr "અમાન્ય Housekeeping ચેકલિસ્ટ"
+
+msgid "The housekeeping checklist has been saved"
+msgstr "આ Housekeeping ચેકલિસ્ટ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The housekeeping checklist could not be saved. Please, try again."
+msgstr "આ Housekeeping ચેકલિસ્ટ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The housekeeping checklist has been published"
+msgstr "આ Housekeeping ચેકલિસ્ટ પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid housekeeping responsibility"
+msgstr "અમાન્ય Housekeeping જવાબદારી"
+
+msgid "The housekeeping responsibility has been saved"
+msgstr "આ Housekeeping જવાબદારી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The housekeeping responsibility could not be saved. Please, try again."
+msgstr "આ Housekeeping જવાબદારી સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid housekeeping"
+msgstr "અમાન્ય Housekeeping"
+
+msgid "The housekeeping could not be saved. Please, try again."
+msgstr "આ Housekeeping સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid internal audit detail"
+msgstr "અમાન્ય આંતિરક ઓિડટ વિગતવાર"
+
+msgid "The internal audit detail has been saved"
+msgstr "આંતિરક ઓિડટ વિગતવાર સંગ્રહ કરવામાં આવી છે"
+
+msgid "The internal audit detail could not be saved. Please, try again."
+msgstr "આંતિરક ઓિડટ વિગતવાર સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The internal audit detail has been published"
+msgstr "આંતિરક ઓિડટ વિગતવાર પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid internal audit plan branch"
+msgstr "અમાન્ય આંતરિક ઓડિટ યોજના શાખા"
+
+msgid "The internal audit plan branch has been saved"
+msgstr "આંતિરક ઓિડટ યોજના શાખા સંગ્રહ કરવામાં આવી છે"
+
+msgid "The internal audit plan branch could not be saved. Please, try again."
+msgstr "આંતિરક ઓિડટ યોજના શાખા સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid internal audit plan department"
+msgstr "અમાન્ય આંતરિક ઓડિટ યોજના વિભાગ"
+
+msgid "The internal audit plan department has been saved"
+msgstr "આંતિરક ઓિડટ યોજના વિભાગ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The internal audit plan department could not be saved. Please, try again."
+msgstr "આંતિરક ઓિડટ યોજના વિભાગ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid internal audit plan"
+msgstr "અમાન્ય આંતરિક ઓડિટ યોજના"
+
+msgid "The internal audit plan has been saved"
+msgstr "આંતિરક ઓિડટ યોજના સંગ્રહ કરવામાં આવી છે"
+
+msgid "The internal audit plan could not be saved. Please, try again."
+msgstr "આંતિરક ઓિડટ યોજના સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The internal audit plan has been published"
+msgstr "આંતિરક ઓિડટ યોજના પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid internal audit"
+msgstr "અમાન્ય આંતિરક ઓિડટ"
+
+msgid "The internal audit has been saved"
+msgstr "આંતિરક ઓિડટ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The internal audit could not be saved. Please, try again."
+msgstr "આંતિરક ઓિડટ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid internet usage detail"
+msgstr "અમાન્ય ઈન્ટરનેટ વપરાશ વિગતવાર"
+
+msgid "The internet usage detail has been saved"
+msgstr "ઇન્ટરનેટ વપરાશ વિગતવાર સંગ્રહ કરવામાં આવી છે"
+
+msgid "The internet usage detail could not be saved. Please, try again."
+msgstr "ઇન્ટરનેટ વપરાશ વિગતવાર સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The language has been changed"
+msgstr "આ ભાષા બદલવામાં આવ્યું છે"
+
+msgid "Invalid language"
+msgstr "અમાન્ય ભાષા"
+
+msgid "The language has been saved"
+msgstr "આ ભાષા સંગ્રહ કરવામાં આવી છે"
+
+msgid "The language could not be saved. Please, try again."
+msgstr "આ ભાષા સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid list of acceptable supplier"
+msgstr "સ્વીકાર્ય સપ્લાયર અમાન્ય યાદી"
+
+msgid "The list of acceptable supplier has been saved"
+msgstr "સ્વીકાર્ય સપ્લાયર યાદી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The list of acceptable supplier could not be saved. Please, try again."
+msgstr "સ્વીકાર્ય સપ્લાયર યાદી સાચવી શકાઈ નથી. , ફરી પ્રયાસ કરો."
+
+msgid "The list of acceptable supplier has been published"
+msgstr "સ્વીકાર્ય સપ્લાયર યાદી પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid list of computer list of software"
+msgstr "સોફ્ટવેર કમ્પ્યુટર યાદીમાં અમાન્ય યાદી"
+
+msgid "The list of computer list of software has been saved"
+msgstr "સોફ્ટવેર કમ્પ્યુટર યાદી યાદી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The list of computer list of software could not be saved. Please, try again."
+msgstr "સોફ્ટવેર કમ્પ્યુટર યાદી યાદી સાચવી શકાઈ નથી. , ફરી પ્રયાસ કરો."
+
+msgid "The list of computer list of software has been published"
+msgstr "સોફ્ટવેર કમ્પ્યુટર યાદી યાદી પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid list of computer"
+msgstr "કોમ્પ્યુટર અમાન્ય યાદી"
+
+msgid "The computer has been saved"
+msgstr "કોમ્પ્યુટર સંગ્રહ કરવામાં આવી છે"
+
+msgid "The computer could not be saved. Please, try again."
+msgstr "આ કમ્પ્યુટર સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The Computer has been published"
+msgstr "આ કમ્પ્યુટર પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid list of measuring devices for calibration"
+msgstr "કેલિબ્રેશન માટે ઉપકરણો માપવાની અમાન્ય યાદી"
+
+msgid "The list of measuring devices for calibration has been saved"
+msgstr "કેલિબ્રેશન માટે ઉપકરણો માપવા યાદી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The list of measuring devices for calibration could not be saved. Please, try again."
+msgstr "કેલિબ્રેશન માટે ઉપકરણો માપવા યાદી સાચવી શકાઈ નથી. , ફરી પ્રયાસ કરો."
+
+msgid "The list of measuring devices for calibration has been published"
+msgstr "કેલિબ્રેશન માટે ઉપકરણો માપવા યાદી પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid list of software"
+msgstr "સોફ્ટવેર અમાન્ય યાદી"
+
+msgid "The list of software has been saved"
+msgstr "સોફ્ટવેર યાદી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The list of software could not be saved. Please, try again."
+msgstr "સોફ્ટવેર યાદી સાચવી શકાઈ નથી. , ફરી પ્રયાસ કરો."
+
+msgid "The list of software has been published"
+msgstr "સોફ્ટવેર યાદી પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid list of trained internal auditor"
+msgstr "તાલીમ આંતરિક ઓડિટર અમાન્ય યાદી"
+
+msgid "The list of trained internal auditor has been saved"
+msgstr "તાલીમ આંતરિક ઓડિટર યાદી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The list of trained internal auditor could not be saved. Please, try again."
+msgstr "તાલીમ આંતરિક ઓડિટર યાદી સાચવી શકાઈ નથી. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid master list of format branch"
+msgstr "બંધારણ શાખાની અમાન્ય માસ્ટર યાદી"
+
+msgid "The master list of format branch has been saved"
+msgstr "બંધારણ શાખા ની માસ્ટર યાદી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The master list of format branch could not be saved. Please, try again."
+msgstr "બંધારણ શાખા ની માસ્ટર યાદી સાચવી શકાઈ નથી. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid master list of format department"
+msgstr "બંધારણ વિભાગના અમાન્ય માસ્ટર યાદી"
+
+msgid "The master list of format department has been saved"
+msgstr "બંધારણ વિભાગના મુખ્ય યાદી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The master list of format department could not be saved. Please, try again."
+msgstr "બંધારણ વિભાગના મુખ્ય યાદી સાચવી શકાઈ નથી. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid master list of format distributor"
+msgstr "બંધારણ ડિસ્ટ્રીબ્યુટર અમાન્ય માસ્ટર યાદી"
+
+msgid "The master list of format distributor has been saved"
+msgstr "બંધારણ ડિસ્ટ્રીબ્યુટર ની માસ્ટર યાદી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The master list of format distributor could not be saved. Please, try again."
+msgstr "બંધારણ ડિસ્ટ્રીબ્યુટર ની માસ્ટર યાદી સાચવી શકાઈ નથી. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid master list of format"
+msgstr "ફોર્મેટ અમાન્ય માસ્ટર યાદી"
+
+msgid "The master list of format has been saved"
+msgstr "બંધારણ ની માસ્ટર યાદી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The master list of format could not be saved. Please, try again."
+msgstr "બંધારણ ની માસ્ટર યાદી સાચવી શકાઈ નથી. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid master list of work instruction"
+msgstr "કામ સૂચના અમાન્ય માસ્ટર યાદી"
+
+msgid "The master list of work instruction has been saved"
+msgstr "કામ સૂચના ની માસ્ટર યાદી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The master list of work instruction could not be saved. Please, try again."
+msgstr "કામ સૂચના ની માસ્ટર યાદી સાચવી શકાઈ નથી. , ફરી પ્રયાસ કરો."
+
+msgid "Master list of work instruction deleted"
+msgstr "કાઢી કામ સૂચના માસ્ટર યાદી"
+
+msgid "Master list of work instruction was not deleted"
+msgstr "કામ સૂચના માસ્ટર યાદી કાઢી ન હતી"
+
+msgid "Invalid material list with shelf life"
+msgstr "શેલ્ફ જીવન સાથે અમાન્ય સામગ્રી યાદી"
+
+msgid "The material list with shelf life has been saved"
+msgstr "શેલ્ફ જીવન સાથે આ સામગ્રી યાદી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The material list with shelf life could not be saved. Please, try again."
+msgstr "શેલ્ફ જીવન સાથે આ સામગ્રી યાદી સાચવી શકાઈ નથી. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid material"
+msgstr "અમાન્ય સામગ્રી"
+
+msgid "The material has been saved"
+msgstr "આ સામગ્રી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The material could not be saved. Please, try again."
+msgstr "આ સામગ્રી સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid meeting branch"
+msgstr "અમાન્ય બેઠક શાખા"
+
+msgid "The meeting branch has been saved"
+msgstr "આ બેઠકમાં શાખા સંગ્રહ કરવામાં આવી છે"
+
+msgid "The meeting branch could not be saved. Please, try again."
+msgstr "આ બેઠકમાં શાખા સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid meeting department"
+msgstr "અમાન્ય બેઠક વિભાગ"
+
+msgid "The meeting department has been saved"
+msgstr "આ બેઠકમાં વિભાગ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The meeting department could not be saved. Please, try again."
+msgstr "આ બેઠકમાં વિભાગ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid meeting employee"
+msgstr "અમાન્ય બેઠક કર્મચારી"
+
+msgid "The meeting employee has been saved"
+msgstr "આ બેઠકમાં કર્મચારી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The meeting employee could not be saved. Please, try again."
+msgstr "આ બેઠકમાં કર્મચારી સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The meeting employee has been published"
+msgstr "આ બેઠકમાં કર્મચારી પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid meeting topic"
+msgstr "અમાન્ય બેઠક વિષય"
+
+msgid "The meeting topic has been saved"
+msgstr "આ બેઠકમાં વિષય સંગ્રહ કરવામાં આવી છે"
+
+msgid "The meeting topic could not be saved. Please, try again."
+msgstr "આ બેઠકમાં વિષય સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid meeting"
+msgstr "અમાન્ય બેઠક"
+
+msgid "The meeting has been saved"
+msgstr "આ બેઠકમાં સંગ્રહ કરવામાં આવી છે"
+
+msgid "The meeting could not be saved. Please, try again."
+msgstr "આ બેઠકમાં સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The meeting details has been saved"
+msgstr "આ બેઠકમાં વિગતો સંગ્રહ કરવામાં આવી છે"
+
+msgid "The meeting has been published"
+msgstr "આ બેઠકમાં પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid message user inbox"
+msgstr "અમાન્ય સંદેશ વપરાશકર્તા ઇનબૉક્સ"
+
+msgid "The message user inbox has been saved"
+msgstr "સંદેશ વપરાશકર્તા ઇનબૉક્સ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The message user inbox could not be saved. Please, try again."
+msgstr "સંદેશ વપરાશકર્તા ઇનબૉક્સ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Message user inbox deleted"
+msgstr "કાઢી સંદેશ વપરાશકર્તા ઇનબૉક્સ"
+
+msgid "Message user inbox was not deleted"
+msgstr "સંદેશ વપરાશકર્તા ઇનબૉક્સ કાઢી ન હતી"
+
+msgid "The message user sent has been saved"
+msgstr "મોકલાયેલ સંદેશ વપરાશકર્તા સંગ્રહ કરવામાં આવી છે"
+
+msgid "The message user sent could not be saved. Please, try again."
+msgstr "મોકલાયેલ સંદેશ વપરાશકર્તા સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Message moved to Trash!"
+msgstr "સંદેશ ટ્રૅશમાં ખસેડવામાં!"
+
+msgid "All selected values moved to trash"
+msgstr "બધા પસંદ કરેલ કિંમતો ટ્રેશમાં ખસેડવામાં"
+
+msgid "The message user thrash has been saved"
+msgstr "સંદેશ વપરાશકર્તા મારવું સંગ્રહ કરવામાં આવી છે"
+
+msgid "The message user thrash could not be saved. Please, try again."
+msgstr "સંદેશ વપરાશકર્તા મારવું સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid message user thrash"
+msgstr "અમાન્ય સંદેશ વપરાશકર્તા મારવું"
+
+msgid "Message deleted"
+msgstr "કાઢી સંદેશ"
+
+msgid "Message was not deleted"
+msgstr "સંદેશ કાઢી ન હતી"
+
+msgid "Invalid message"
+msgstr "અમાન્ય સંદેશ"
+
+msgid "The message has been saved"
+msgstr "સંદેશ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The message could not be saved. Please, try again."
+msgstr "આ સંદેશ સાચવી શકાઈ નથી. , ફરી પ્રયાસ કરો."
+
+msgid "No recipient selected. Please, try again."
+msgstr "કોઈ પ્રાપ્તકર્તા પસંદ કરેલ હોય. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid notificaion type"
+msgstr "અમાન્ય notificaion પ્રકાર"
+
+msgid "The notificaion type has been saved"
+msgstr "આ notificaion પ્રકાર સંગ્રહ કરવામાં આવી છે"
+
+msgid "The notificaion type could not be saved. Please, try again."
+msgstr "આ notificaion પ્રકાર સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid notification type"
+msgstr "અમાન્ય સૂચના પ્રકાર"
+
+msgid "The notification type has been saved"
+msgstr "આ સૂચના પ્રકાર સંગ્રહ કરવામાં આવી છે"
+
+msgid "The notification type could not be saved. Please, try again."
+msgstr "આ સૂચના પ્રકાર સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid notification user"
+msgstr "અમાન્ય સૂચના વપરાશકર્તા"
+
+msgid "The notification user has been saved"
+msgstr "આ સૂચના વપરાશકર્તા સંગ્રહ કરવામાં આવી છે"
+
+msgid "The notification user could not be saved. Please, try again."
+msgstr "આ સૂચના વપરાશકર્તા સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid notification"
+msgstr "અમાન્ય સૂચન"
+
+msgid "The notification has been saved"
+msgstr "આ સૂચના સંગ્રહ કરવામાં આવી છે"
+
+msgid "The notification could not be saved. Please, try again."
+msgstr "આ સૂચના સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The notification has been published"
+msgstr "આ સૂચના પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid order details form"
+msgstr "અમાન્ય માટે વિગતો રચના"
+
+msgid "The order details form has been saved"
+msgstr "ક્રમ વિગતો ફોર્મ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The order details form could not be saved. Please, try again."
+msgstr "ક્રમ વિગતો ફોર્મ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid order register"
+msgstr "અમાન્ય માટે નોંધણી"
+
+msgid "The order register has been saved"
+msgstr "ક્રમ પત્રક સંગ્રહ કરવામાં આવી છે"
+
+msgid "The order register could not be saved. Please, try again."
+msgstr "ક્રમ પત્રક સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid product"
+msgstr "અમાન્ય ઉત્પાદન"
+
+msgid "The product has been saved"
+msgstr "આ ઉત્પાદન સંગ્રહ કરવામાં આવી છે"
+
+msgid "The product could not be saved. Please, try again."
+msgstr "આ ઉત્પાદન સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The product has been published"
+msgstr "આ ઉત્પાદન પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid purchase order detail"
+msgstr "અમાન્ય ખરીદી માટે વિગતવાર"
+
+msgid "The purchase order detail has been saved"
+msgstr "આ ખરીદી માટે વિગતવાર સંગ્રહ કરવામાં આવી છે"
+
+msgid "The purchase order detail could not be saved. Please, try again."
+msgstr "આ ખરીદી માટે વિગતવાર સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid purchase order"
+msgstr "અમાન્ય ખરીદી માટે"
+
+msgid "The purchase order has been saved"
+msgstr "આ ખરીદી માટે સંગ્રહ કરવામાં આવી છે"
+
+msgid "The purchase order could not be saved. Please, try again."
+msgstr "આ ખરીદી માટે સંગ્રહ થશે નહી કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The Purchase Order has been approved and published"
+msgstr "આ ખરીદી ઓર્ડર માન્ય અને પ્રકાશિત કરવામાં આવી છે"
+
+msgid "The report has been saved"
+msgstr "આ અહેવાલ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The report could not be saved. Please, try again."
+msgstr "આ અહેવાલ સંગ્રહ થશે નહી કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Close"
+msgstr "બંધ"
+
+msgid "Open"
+msgstr "ખુલ્લુ"
+
+msgid "Yes"
+msgstr "હા"
+
+msgid "No"
+msgstr "ક્રમ"
+
+msgid "Customer Complaint"
+msgstr "ગ્રાહક ફરિયાદ"
+
+msgid "Customer Feedback"
+msgstr "ગ્રાહક પ્રતિસાદ"
+
+msgid "Invalid schedule"
+msgstr "અમાન્ય શેડ્યૂલ"
+
+msgid "The schedule has been saved"
+msgstr "શેડ્યૂલ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The schedule could not be saved. Please, try again."
+msgstr "શેડ્યૂલ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid software type"
+msgstr "અમાન્ય સોફ્ટવેર પ્રકાર"
+
+msgid "The software type has been saved"
+msgstr "સોફ્ટવેર પ્રકાર સંગ્રહ કરવામાં આવી છે"
+
+msgid "The software type could not be saved. Please, try again."
+msgstr "સોફ્ટવેર પ્રકાર સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The software type has been published"
+msgstr "સોફ્ટવેર પ્રકાર પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid Suggestion form"
+msgstr "અમાન્ય Suggestion ફોર્મ"
+
+msgid "The Suggestion form has been saved"
+msgstr "આ Suggestion ફોર્મ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The Suggestion form could not be saved. Please, try again."
+msgstr "આ Suggestion ફોર્મ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid summery of supplier evaluation"
+msgstr "સપ્લાયર મૂલ્યાંકન અમાન્ય summery"
+
+msgid "The summery of supplier evaluation has been saved"
+msgstr "સપ્લાયર મૂલ્યાંકન ના summery સંગ્રહ કરવામાં આવી છે"
+
+msgid "The summery of supplier evaluation could not be saved. Please, try again."
+msgstr "સપ્લાયર મૂલ્યાંકન ના summery સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Summery of supplier evaluation deleted"
+msgstr "કાઢી સપ્લાયર મૂલ્યાંકન Summery"
+
+msgid "Summery of supplier evaluation was not deleted"
+msgstr "સપ્લાયર મૂલ્યાંકન Summery કાઢી ન હતી"
+
+msgid "Invalid supplier category"
+msgstr "અમાન્ય સપ્લાયર શ્રેણી"
+
+msgid "The supplier category has been saved"
+msgstr "આ સપ્લાયર શ્રેણી સાચવવામાં આવી છે"
+
+msgid "The supplier category could not be saved. Please, try again."
+msgstr "આ સપ્લાયર શ્રેણી સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid supplier evaluation reevaluation"
+msgstr "અમાન્ય સપ્લાયર મૂલ્યાંકન પુનઃમૂલ્યાંકન"
+
+msgid "The supplier evaluation reevaluation has been saved"
+msgstr "આ સપ્લાયર મૂલ્યાંકન પુનઃમૂલ્યાંકન સંગ્રહ કરવામાં આવી છે"
+
+msgid "The supplier evaluation reevaluation could not be saved. Please, try again."
+msgstr "આ સપ્લાયર મૂલ્યાંકન પુનઃમૂલ્યાંકન સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid supplier registration"
+msgstr "અમાન્ય સપ્લાયર નોંધણી"
+
+msgid "The supplier registration has been saved"
+msgstr "આ સપ્લાયર નોંધણી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The supplier registration could not be saved. Please, try again."
+msgstr "આ સપ્લાયર નોંધણી સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The supplier registration has been published"
+msgstr "આ સપ્લાયર નોંધણી પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid system table"
+msgstr "અમાન્ય સિસ્ટમ કોષ્ટક"
+
+msgid "The system table has been saved"
+msgstr "સિસ્ટમ ટેબલ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The system table could not be saved. Please, try again."
+msgstr "સિસ્ટમ ટેબલ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid task status"
+msgstr "અમાન્ય કાર્ય સ્થિતિ"
+
+msgid "The task status has been saved"
+msgstr "આ કાર્ય પરિસ્થિતિ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The task status could not be saved. Please, try again."
+msgstr "આ કાર્ય પરિસ્થિતિ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Task status deleted"
+msgstr "કાઢી કાર્ય સ્થિતિ"
+
+msgid "Task status was not deleted"
+msgstr "કાર્ય પરિસ્થિતિ કાઢી ન હતી"
+
+msgid "Invalid task"
+msgstr "અમાન્ય કાર્ય"
+
+msgid "The task has been saved"
+msgstr "આ કાર્ય સંગ્રહ કરવામાં આવી છે"
+
+msgid "The task could not be saved. Please, try again."
+msgstr "આ કાર્ય સાચવી શકાઈ નથી. , ફરી પ્રયાસ કરો."
+
+msgid "The task has been published"
+msgstr "આ કાર્ય પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Task deleted"
+msgstr "કાર્ય કાઢી"
+
+msgid "Task was not deleted"
+msgstr "કાર્ય કાઢી ન હતી"
+
+msgid "Invalid timeline"
+msgstr "અમાન્ય સમયરેખા"
+
+msgid "The timeline has been saved"
+msgstr "આ સમયરેખા સંગ્રહ કરવામાં આવી છે"
+
+msgid "The timeline could not be saved. Please, try again."
+msgstr "આ સમયરેખા સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid trainer type"
+msgstr "અમાન્ય ટ્રેનર પ્રકાર"
+
+msgid "The trainer type has been saved"
+msgstr "આ ટ્રેનર પ્રકાર સંગ્રહ કરવામાં આવી છે"
+
+msgid "The trainer type could not be saved. Please, try again."
+msgstr "આ ટ્રેનર પ્રકાર સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid trainer"
+msgstr "અમાન્ય ટ્રેનર"
+
+msgid "The trainer has been saved"
+msgstr "આ ટ્રેનર સંગ્રહ કરવામાં આવી છે"
+
+msgid "The trainer could not be saved. Please, try again."
+msgstr "આ ટ્રેનર સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The trainer has been published"
+msgstr "આ ટ્રેનર પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid training evaluation"
+msgstr "અમાન્ય તાલીમ મૂલ્યાંકન"
+
+msgid "The training evaluation has been saved"
+msgstr "આ તાલીમ મૂલ્યાંકન સંગ્રહ કરવામાં આવી છે"
+
+msgid "The training evaluation could not be saved. Please, try again."
+msgstr "આ તાલીમ મૂલ્યાંકન સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The training evaluation has been published"
+msgstr "આ તાલીમ મૂલ્યાંકન પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid training need identification"
+msgstr "અમાન્ય તાલીમ જરૂર ઓળખ"
+
+msgid "The training need identification has been saved"
+msgstr "આ તાલીમ જરૂર ઓળખ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The training need identification could not be saved. Please, try again."
+msgstr "આ તાલીમ જરૂર ઓળખ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The training need identification has been published"
+msgstr "આ તાલીમ જરૂર ઓળખ પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid training schedule branch"
+msgstr "અમાન્ય તાલીમ શેડ્યૂલ શાખા"
+
+msgid "The training schedule branch has been saved"
+msgstr "આ તાલીમ શેડ્યૂલ શાખા સંગ્રહ કરવામાં આવી છે"
+
+msgid "The training schedule branch could not be saved. Please, try again."
+msgstr "આ તાલીમ શેડ્યૂલ શાખા સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid training schedule department"
+msgstr "અમાન્ય તાલીમ શેડ્યૂલ વિભાગ"
+
+msgid "The training schedule department has been saved"
+msgstr "આ તાલીમ શેડ્યૂલ વિભાગ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The training schedule department could not be saved. Please, try again."
+msgstr "આ તાલીમ શેડ્યૂલ વિભાગ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid training schedule employee"
+msgstr "અમાન્ય તાલીમ શેડ્યૂલ કર્મચારી"
+
+msgid "The training schedule employee has been saved"
+msgstr "આ તાલીમ શેડ્યૂલ કર્મચારી સંગ્રહ કરવામાં આવી છે"
+
+msgid "The training schedule employee could not be saved. Please, try again."
+msgstr "આ તાલીમ શેડ્યૂલ કર્મચારી સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid training schedule"
+msgstr "અમાન્ય તાલીમ શેડ્યૂલ"
+
+msgid "The training schedule has been saved"
+msgstr "આ તાલીમ શેડ્યૂલ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The training schedule could not be saved. Please, try again."
+msgstr "આ તાલીમ શેડ્યૂલ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid training type"
+msgstr "અમાન્ય તાલીમ પ્રકાર"
+
+msgid "The training type has been saved"
+msgstr "આ તાલીમનો કાર સંગ્રહ કરવામાં આવી છે"
+
+msgid "The training type could not be saved. Please, try again."
+msgstr "આ તાલીમનો કાર સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The training type  has been published"
+msgstr "આ તાલીમનો કાર પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid training"
+msgstr "અમાન્ય તાલીમ"
+
+msgid "The training has been saved"
+msgstr "આ તાલીમ સંગ્રહ કરવામાં આવી છે"
+
+msgid "The training could not be saved. Please, try again."
+msgstr "આ તાલીમ સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "Invalid username password detail"
+msgstr "અમાન્ય વપરાશકર્તા નામ પાસવર્ડ વિગતવાર"
+
+msgid "The username password detail has been saved"
+msgstr "વપરાશકર્તા નામ પાસવર્ડ વિગતવાર સંગ્રહ કરવામાં આવી છે"
+
+msgid "The username password detail could not be saved. Please, try again."
+msgstr "વપરાશકર્તા નામ પાસવર્ડ વિગતવાર સંગ્રહ થશે નહી કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "The username password detail has been published"
+msgstr "વપરાશકર્તા નામ પાસવર્ડ વિગતવાર પ્રકાશિત કરવામાં આવી છે"
+
+msgid "Invalid user"
+msgstr "અમાન્ય લૉગિન"
+
+msgid "The user has been saved"
+msgstr "વપરાશકર્તા સંગ્રહ કરવામાં આવી છે"
+
+msgid "The user could not be saved. Please, try again."
+msgstr "વપરાશકર્તા સેવ કરી શકે છે. , ફરી પ્રયાસ કરો."
+
+msgid "No email id for this user, try again."
+msgstr "આ વપરાશકર્તા માટે કોઈ Email Id, ફરીથી પ્રયત્ન કરો."
+
+msgid "Invalid Username, try again."
+msgstr "અમાન્ય વપરાશકર્તા નામ, ફરીથી પ્રયત્ન કરો."
+
+msgid "Invalid password reset token, try again."
+msgstr "અમાન્ય પાસવર્ડ રીસેટ ટોકન, ફરીથી પ્રયત્ન કરો."
+
+msgid "Already Logged In"
+msgstr "પહેલાથી જ માં લૉગ"
+
+msgid "Please wait while your earlier session expires"
+msgstr "તમારા અગાઉ સત્ર સમાપ્ત થાય છે, જ્યારે કૃપા કરીને રાહ જુઓ"
+
+msgid "Username incorrect or Account is locked or Already logged in"
+msgstr "વપરાશકર્તા નામ અયોગ્ય અને એકાઉન્ટની તાળું મરાયેલ છે કે પહેલેથી જ પ્રવેશેલ"
+
+msgid "Your account is locked"
+msgstr "તમારું એકાઉન્ટ લૉક થયું છે,"
+
+msgid "Incorrect login credential : You have "
+msgstr "ખોટો પ્રવેશ ઓળખપત્ર: તમે છે "
+
+msgid "Please change your password"
+msgstr "તમારો પાસવર્ડ બદલી કરો"
+
+msgid "Incorrect Login Credentials or your account is locked or already logged in"
+msgstr "ખોટો લૉગિન પ્રમાણપત્રો અથવા તમારા એકાઉન્ટ લૉક અથવા પહેલેથી જ પ્રવેશેલ છે"
+
+msgid "You have been logged out"
+msgstr "તમે લૉગ આઉટ કરવામાં આવી છે"
+
+msgid "Saved"
+msgstr "સાચવેલા"
+
+msgid "Not Saved"
+msgstr "સાચવવામાં"
+
+msgid "Thank you for your subscription"
+msgstr "તમારી ઉમેદવારી માટે આભાર"
+
+msgid "File parameter is missing"
+msgstr "ફાઇલ પરિમાણ ગુમ થયેલ"
+
+msgid "File deleted!"
+msgstr "ફાઇલ કાઢી!"
+
+msgid "Unable to delete File"
+msgstr "ફાઇલ કાઢી નાખવામાં અક્ષમ"
+
+msgid "File does not exist!"
+msgstr "ફાઈલ અસ્તિત્વમાં નથી!"
+
+msgid "Related Files"
+msgstr "સંબંધિત ફાઈલો"
+
+msgid "What would you like to do?"
+msgstr "તમે શું કરવા માંગો છો?"
+
+msgid "%s"
+msgstr "% એ"
+
+msgid "File"
+msgstr "ફાઈલ"
+
+msgid "An error occured while transferring the file."
+msgstr "ફાઇલ પરિવહન કરતી વખતે એક ભૂલ આવી."
+
+msgid "The file is invalid."
+msgstr "ફાઇલ અમાન્ય છે."
+
+msgid "The file cannot be processed."
+msgstr "ફાઇલ પ્રક્રિયા થઈ શકતી નથી."
+
+msgid "The file cannot be transferred from or to location."
+msgstr "ફાઇલ પ્રદેશથી અથવા નામે થઈ ન શકે."
+
+msgid "Executable files cannot be uploaded."
+msgstr "એક્ઝેક્યુટેબલ ફાઈલો અપલોડ કરી શકો છો."
+
+msgid "The file is too large."
+msgstr "આ ફાઇલ ખૂબ મોટી છે."
+
+msgid "The file has the wrong extension."
+msgstr "ફાઇલ ખોટી વિસ્તરણ છે."
+
+msgid "The file has the wrong MIME type."
+msgstr "ફાઇલ ખોટી MIME પ્રકાર છે."
+
+msgid "Textual replacement"
+msgstr "શાબ્દિક બદલી"
+
+msgid "A textual replacement must be provided."
+msgstr "એક શાબ્દિક બદલવા પૂરી પાડવી જ જોઇએ."
+
+msgid "Release"
+msgstr "રજૂઆત"
+
+msgid "View User"
+msgstr "જુઓ વપરાશકર્તા"
+
+msgid "List"
+msgstr "યાદી"
+
+msgid "Edit"
+msgstr "ફેરફાર કરો"
+
+msgid "Manage Access Control"
+msgstr "પ્રવેશ નિયંત્રણ વ્યવસ્થા"
+
+msgid "Sr. No"
+msgstr "ક્રમ"
+
+msgid "Employee"
+msgstr "કર્મચારી"
+
+msgid "Username"
+msgstr "વપરાશકર્તા નામ"
+
+msgid "Password"
+msgstr "પાસવર્ડ"
+
+msgid "Is MR"
+msgstr "એમ.આર. છે"
+
+msgid "Is View All"
+msgstr "બધી છે"
+
+msgid "Is Approvar"
+msgstr "Approvar છે"
+
+msgid "Status"
+msgstr "દરજ્જો"
+
+msgid "Department"
+msgstr "વિભાગો"
+
+msgid "Branch"
+msgstr "શાખા"
+
+msgid "Language"
+msgstr "ભાષા"
+
+msgid "Login Status"
+msgstr "લૉગિન સ્થિતિ"
+
+msgid "Last Login"
+msgstr "છેલ્લું લૉગિન"
+
+msgid "Last Activity"
+msgstr "છેલ્લી પ્રવૃત્તિ"
+
+msgid "Publish"
+msgstr "પ્રકાશિત કરો"
+
+msgid "Email Token Expires"
+msgstr "ઈમેઈલ ટોકન નિવૃત્ત થાય"
+
+msgid "Add Approval"
+msgstr "મંજૂરી ઉમેરો"
+
+msgid "Import"
+msgstr "આયાત"
+
+msgid "Send for approval"
+msgstr "મંજૂરી માટે મોકલો"
+
+msgid "Records added to this table will be send to the person you choose from the list below."
+msgstr "આ ટેબલ ઉમેરવામાં રેકોર્ડ્સ તમે નીચેની યાદીમાંથી પસંદ કરો છો તે વ્યક્તિ પર મોકલી આપવામાં આવશે."
+
+msgid "Submit"
+msgstr "સબમિટ કરો"
+
+msgid "Import from file (excel & csv formats only)"
+msgstr "આયાત ફાઇલમાંથી (એક્સેલ અને CSV ફોર્મેટ માત્ર)"
+
+msgid "Approved"
+msgstr "મંજૂર"
+
+msgid "Pending"
+msgstr "બાકી"
+
+msgid "No results found"
+msgstr "મળ્યું નથી પરિણામો"
+
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr "{: COUNT} બહાર રેકોર્ડ: {} વર્તમાન વર્ગીકરણ: {પાના},: પાનું {} પાનું કુલ રેકોર્ડ પર શરૂ: {: અંત} પર અંત, {} શરૂ"
+
+msgid "previous"
+msgstr "ગત"
+
+msgid "next"
+msgstr "આગામી"
+
+msgid "Approve Approval"
+msgstr "મંજૂરી મંજૂર"
+
+msgid "Edit Approval"
+msgstr "ફેરફાર કરો મંજૂરી"
+
+msgid "New Approval"
+msgstr "નવી મંજૂરી"
+
+msgid "Advanced Search"
+msgstr "વિગતવાર શોધ"
+
+msgid "View Approval"
+msgstr "જુઓ મંજૂરી"
+
+msgid "Add"
+msgstr "ઉમેરો"
+
+msgid "Model Name"
+msgstr "મોડલ નામ"
+
+msgid "Controller Name"
+msgstr "કંટ્રોલર નામ"
+
+msgid "Record"
+msgstr "વિક્રમ"
+
+msgid "From"
+msgstr "માંથી"
+
+msgid "User"
+msgstr "વપરાશકર્તા"
+
+msgid "Comments"
+msgstr "ટિપ્પણીઓ"
+
+msgid "Benchmarks for "
+msgstr "માટે બેન્ચમાર્ક "
+
+msgid "This will help you track your preparedness."
+msgstr "આ તમને તમારી સજ્જતા ટ્રેક મદદ કરશે."
+
+msgid "Add Branch Benchmark"
+msgstr "શાખાની બેન્ચમાર્ક ઉમેરો"
+
+msgid "Benchmark"
+msgstr "બેન્ચમાર્ક"
+
+msgid "Approve Branch Benchmark"
+msgstr "શાખાની બેન્ચમાર્ક મંજૂર"
+
+msgid "Edit Branch Benchmark"
+msgstr "ફેરફાર કરો શાખા બેન્ચમાર્ક"
+
+msgid "New Branch Benchmark"
+msgstr "નવી શાખા બેન્ચમાર્ક"
+
+msgid "View Branch Benchmark"
+msgstr "જુઓ શાખા બેન્ચમાર્ક"
+
+msgid "Add Branch"
+msgstr "શાખાની ઉમેરો"
+
+msgid "Branch Name"
+msgstr "શાખાનું નામ"
+
+msgid "Name"
+msgstr "નામ"
+
+msgid "Approve Branch"
+msgstr "શાખાની મંજૂર"
+
+msgid "Edit Branch"
+msgstr "ફેરફાર કરો શાખા"
+
+msgid "New Branch"
+msgstr "નવી શાખા"
+
+msgid "View Branch"
+msgstr "જુઓ શાખા"
+
+msgid "List of users in this Branch"
+msgstr "આ શાખા માં વપરાશકર્તાઓની યાદી"
+
+msgid "is MR"
+msgstr "એમ.આર. છે"
+
+msgid "is View All"
+msgstr "બધી છે"
+
+msgid "is Approver"
+msgstr "Approver છે"
+
+msgid "Add Calibration"
+msgstr "કૅલિબ્રેશન ઉમેરો"
+
+msgid "Device"
+msgstr "સાધન"
+
+msgid "Calibration Date"
+msgstr "કૅલિબ્રેશન તારીખ"
+
+msgid "Measurement For"
+msgstr "માટે માપ"
+
+msgid "Least Count"
+msgstr "ઓછી ગણક"
+
+msgid "Required Accuracy"
+msgstr "જરૂરી ચોકસાઈ"
+
+msgid "Range"
+msgstr "રેન્જ"
+
+msgid "Default Calibration"
+msgstr "મૂળભૂત કૅલિબ્રેશન"
+
+msgid "Calibration Required"
+msgstr "કૅલિબ્રેશન જરૂરી"
+
+msgid "Actual Calibration"
+msgstr "ખરેખર કૅલિબ્રેશન"
+
+msgid "Errors"
+msgstr "ભૂલો"
+
+msgid "Next Calibration Date"
+msgstr "આગળ કૅલિબ્રેશન તારીખ"
+
+msgid "Calibration"
+msgstr "માપાંકન"
+
+msgid "Standard Value"
+msgstr "ધોરણ ભાવ"
+
+msgid "Actual Value"
+msgstr "વાસ્તવિક કિંમત"
+
+msgid "Edit Calibration"
+msgstr "ફેરફાર કરો કૅલિબ્રેશન"
+
+msgid "View / Upload Evidence"
+msgstr "જુઓ / પુરાવા અપલોડ કરો"
+
+msgid "Delete"
+msgstr "કાઢી નાખો"
+
+msgid "Are you sure you want to delete this record ?"
+msgstr "શું તમે ખરેખર આ રેકોર્ડ કાઢી નાખવા માંગો છો?"
+
+msgid "Delete Record"
+msgstr "રેકોર્ડ કાઢી નાખો"
+
+msgid "Are you sure ?"
+msgstr "શું તમને ખાતરી છે?"
+
+msgid "New Calibration"
+msgstr "ન્યૂ કૅલિબ્રેશન"
+
+msgid "Add Device"
+msgstr "ઉપકરણ ઉમેરો"
+
+msgid "View Calibration"
+msgstr "જુઓ કૅલિબ્રેશન"
+
+msgid "Add Capa Category"
+msgstr "Capa વર્ગ ઉમેરો"
+
+msgid "Approve Capa Category"
+msgstr "Capa વર્ગ મંજૂર"
+
+msgid "Edit Capa Category"
+msgstr "ફેરફાર કરો Capa વર્ગ"
+
+msgid "New Capa Category"
+msgstr "ન્યૂ Capa વર્ગ"
+
+msgid "View Capa Category"
+msgstr "Capa વર્ગ જુઓ"
+
+msgid "Add Capa Source"
+msgstr "Capa સોર્સ ઉમેરો"
+
+msgid "Approve Capa Source"
+msgstr "Capa સોર્સ મંજૂર"
+
+msgid "Edit Capa Source"
+msgstr "ફેરફાર કરો Capa સોર્સ"
+
+msgid "New Capa Source"
+msgstr "ન્યૂ Capa સોર્સ"
+
+msgid "View Capa Source"
+msgstr "જુઓ Capa સોર્સ"
+
+msgid "Add Change Addition Deletion Request"
+msgstr "બદલો ઉમેરો હટાવવા માટેની વિનંતી ઉમેરો"
+
+msgid "Document Change Addition Deletion Request"
+msgstr "દસ્તાવેજ બદલો ઉમેરો હટાવવા માટેની વિનંતી"
+
+msgid "Approve Change Addition Deletion Request"
+msgstr "બદલો ઉમેરો હટાવવા માટેની વિનંતી મંજૂર"
+
+msgid "Include this in following MR meeting : "
+msgstr "મિ બેઠક બાદ આ સમાવેશ થાય છે: "
+
+msgid "Select Meeting"
+msgstr "સભા પસંદ કરો"
+
+msgid "Approved in meeting"
+msgstr "બેઠકમાં મંજૂર"
+
+msgid "Edit Change Addition Deletion Request"
+msgstr "ફેરફાર કરો બદલો ઉમેરો હટાવવા માટેની વિનંતી"
+
+msgid "Request From"
+msgstr "પ્રતિ અરજી"
+
+msgid "Request Details"
+msgstr "વિનંતી વિગતો"
+
+msgid "Master List of Format"
+msgstr "ફોર્મેટ માસ્ટર ઓફ યાદી"
+
+msgid "Current Document Details"
+msgstr "વર્તમાન દસ્તાવેજ વિગતો"
+
+msgid "Proposed Changes"
+msgstr "સૂચિત ફેરફારો"
+
+msgid "Reasaon for Change"
+msgstr "ચેન્જ Reasaon"
+
+msgid "New Change Addition Deletion Request"
+msgstr "ન્યૂ બદલો ઉમેરો હટાવવા માટેની વિનંતી"
+
+msgid "View Change Addition Deletion Request"
+msgstr "જુઓ બદલો ઉમેરો હટાવવા માટેની વિનંતી"
+
+msgid "Master List Of Format"
+msgstr "બંધારણની માસ્ટર યાદી"
+
+msgid "Reason For Change"
+msgstr "ફેરફાર માટે કારણ"
+
+msgid "Add Company"
+msgstr "ઉમેરો નામ"
+
+msgid "Approve Company"
+msgstr "કંપની મંજૂર"
+
+msgid "Edit Company"
+msgstr "ફેરફાર કરો નામ"
+
+msgid "View / Upload Files"
+msgstr "જુઓ / અપલોડ ફાઇલો"
+
+msgid "Audit Frequency"
+msgstr "ઓિડટ આવર્તન"
+
+msgid "Company Description / Message form MR or Director"
+msgstr "કંપની વર્ણન / સંદેશ ફોર્મ મિ અથવા નિયામક"
+
+msgid "Company Welcome Message"
+msgstr "કંપની સ્વાગત સંદેશ"
+
+msgid "Quality Policy"
+msgstr "જાત નીતિ"
+
+msgid "Vision Statement"
+msgstr "વિઝન નિવેદન"
+
+msgid "Mission Statement"
+msgstr "ધ્યેય અંગે નિવેદન"
+
+msgid "Copy - Paste your existing audit plan"
+msgstr "નકલ કરો - તમારી હાલની ઓડિટ યોજના પેસ્ટ કરો"
+
+msgid "New Company"
+msgstr "નવી કંપની"
+
+msgid "View Company"
+msgstr "જુઓ કંપની"
+
+msgid "Number Of Branches"
+msgstr "શાખાઓ સંખ્યા"
+
+msgid "Flinkiso Start Date"
+msgstr "તારીખ શરૂ કરો Flinkiso"
+
+msgid "Flinkiso End Date"
+msgstr "Flinkiso સમાપ્તિ તારીખ"
+
+msgid "Company Description"
+msgstr "કંપની વર્ણન"
+
+msgid "Welcome Message fot Users"
+msgstr "સ્વાગત સંદેશ fot વપરાશકર્તાઓ"
+
+msgid "Company Audit Plan"
+msgstr "કંપની ઓ ડટ યોજના"
+
+msgid "Add Company Benchmark"
+msgstr "કંપની બેન્ચમાર્ક ઉમેરો"
+
+msgid "Approve Company Benchmark"
+msgstr "કંપની બેન્ચમાર્ક મંજૂર"
+
+msgid "Edit Company Benchmark"
+msgstr "ફેરફાર કરો કંપની બેન્ચમાર્ક"
+
+msgid "New Company Benchmark"
+msgstr "નવી કંપની બેન્ચમાર્ક"
+
+msgid "View Company Benchmark"
+msgstr "જુઓ કંપની બેન્ચમાર્ક"
+
+msgid "Add Competency Mapping"
+msgstr "સ્પર્ધાત્મકતા મેપિંગ ઉમેરો"
+
+msgid "Education"
+msgstr "શિક્ષણ"
+
+msgid "Actual Education"
+msgstr "ખરેખર શિક્ષણ"
+
+msgid "Experience Required"
+msgstr "અનુભવ જરૂરી"
+
+msgid "Actual Experience"
+msgstr "વાસ્તવિક અનુભવ"
+
+msgid "Skills Required"
+msgstr "જરૂરી કુશળતા"
+
+msgid "Skills Possesed"
+msgstr "Possesed કૌશલ્ય"
+
+msgid "Remarks"
+msgstr "નોંધ"
+
+msgid "Approve Competency Mapping"
+msgstr "સ્પર્ધાત્મકતા મેપિંગ મંજૂર"
+
+msgid "Edit Competency Mapping"
+msgstr "ફેરફાર કરો સ્પર્ધાત્મકતા મેપિંગ"
+
+msgid "New Competency Mapping"
+msgstr "ન્યૂ સ્પર્ધાત્મકતા મેપિંગ"
+
+msgid "Add Employee"
+msgstr "ઉમેરો કર્મચારી"
+
+msgid "Add Education"
+msgstr "ઉમેરો શિક્ષણ"
+
+msgid "View Competency Mapping"
+msgstr "જુઓ સ્પર્ધાત્મકતા મેપિંગ"
+
+msgid "Skills Possessed"
+msgstr "પઝેસ્ડ કૌશલ્ય"
+
+msgid "Add Corrective Preventive Action"
+msgstr "સુધારાત્મક નિવારક કાર્યવાહી ઉમેરો"
+
+msgid "Number"
+msgstr "આંકડો"
+
+msgid "CAPA Source"
+msgstr "CAPA સોર્સ"
+
+msgid "CAPA Category"
+msgstr "CAPA વર્ગ"
+
+msgid "Select Internal Audit"
+msgstr "આંતરિક ઓડિટ પસંદ કરો"
+
+msgid "Select Suggestion Form"
+msgstr "સૂચન ફોર્મ પસંદ કરો"
+
+msgid "Select Customer Complaint"
+msgstr "પસંદ કરો ગ્રાહક ફરિયાદ"
+
+msgid "Select Supplier"
+msgstr "પસંદ કરો પુરવઠોકર્તા"
+
+msgid "Select Product"
+msgstr "પસંદ કરો ઉત્પાદન"
+
+msgid "Select Device"
+msgstr "ઉપકરણ પસંદ કરો"
+
+msgid "Raised By"
+msgstr "દ્વારા ઊભા"
+
+msgid "Assigned To"
+msgstr "સોંપેલ"
+
+msgid "Target Date"
+msgstr "લક્ષ્ય તારીખ"
+
+msgid "Initial Remarks"
+msgstr "પ્રારંભિક નોંધ"
+
+msgid "Proposed Immediate Action"
+msgstr "સૂચિત તાત્કાલિક પગલાં"
+
+msgid "Current Status"
+msgstr "વર્તમાન સ્થિતિ"
+
+msgid "Completed By"
+msgstr "દ્વારા પૂર્ણ"
+
+msgid "Completed on Date"
+msgstr "તારીખ પર પૂર્ણ"
+
+msgid "Completion Remarks"
+msgstr "પૂર્ણ નોંધ"
+
+msgid "Root Cause Analysis Required"
+msgstr "રુટ કારણ વિશ્લેષણ જરૂરી"
+
+msgid "Root Cause"
+msgstr "રુટ કારણ"
+
+msgid "Determined By"
+msgstr "દ્વારા નક્કી"
+
+msgid "Determined On Date"
+msgstr "તારીખ નક્કી"
+
+msgid "Root Cause Remarks"
+msgstr "રુટ કારણ નોંધ"
+
+msgid "Proposed Long-Term Action"
+msgstr "સૂચિત લાંબા ગાળાના ક્રિયા"
+
+msgid "Action Assigned to"
+msgstr "માટે સોંપાયેલ ક્રિયા"
+
+msgid "Action Completed on Date"
+msgstr "ક્રિયા તારીખ પર પૂર્ણ"
+
+msgid "Action Completion Remarks"
+msgstr "ક્રિયા પૂર્તિ નોંધ"
+
+msgid "Effectiveness"
+msgstr "અસરકારકતા"
+
+msgid "Closed By"
+msgstr "બંધ"
+
+msgid "Closed on Date"
+msgstr "તારીખ પર બંધ"
+
+msgid "Document Changes Required"
+msgstr "દસ્તાવેજ ફેરફારો જરૂરી"
+
+msgid "CAPA Number"
+msgstr "CAPA સંખ્યા"
+
+msgid "Proposed Longterm Action"
+msgstr "સૂચિત Longterm ક્રિયા"
+
+msgid "Closure Remarks"
+msgstr "બંધ નોંધ"
+
+msgid "Approve Corrective Preventive Action"
+msgstr "સુધારાત્મક નિવારક કાર્યવાહી મંજૂર"
+
+msgid "Select Suggestion Form"
+msgstr "Suggestion ફોર્મ પસંદ કરો"
+
+msgid "Edit Corrective Preventive Action"
+msgstr "સુધારાત્મક નિવારક કાર્યવાહી ફેરફાર કરો"
+
+msgid "New Corrective Preventive Action"
+msgstr "નવી સુધારાત્મક નિવારક કાર્યવાહી"
+
+msgid "New CAPA Source"
+msgstr "ન્યૂ CAPA સોર્સ"
+
+msgid "New CAPA Category"
+msgstr "ન્યૂ CAPA વર્ગ"
+
+msgid "View Corrective Preventive Action"
+msgstr "સુધારાત્મક નિવારક કાર્યવાહી જુઓ"
+
+msgid "CAPA Name"
+msgstr "CAPA નામ"
+
+msgid "Completed On Date"
+msgstr "તારીખ પર પૂર્ણ"
+
+msgid "Action Assigned To"
+msgstr "સોંપેલ ક્રિયા"
+
+msgid "Action Completed On Date"
+msgstr "ક્રિયા તારીખ રોજ પૂર્ણ"
+
+msgid "Closed On Date"
+msgstr "તારીખ બંધ"
+
+msgid "Add Courier Register"
+msgstr "કુરિયર રજિસ્ટર ઉમેરો"
+
+msgid "Approve Courier Register"
+msgstr "કુરિયર રજિસ્ટર મંજૂર"
+
+msgid "Edit Courier Register"
+msgstr "ફેરફાર કરો કુરિયર રજિસ્ટર"
+
+msgid "New Courier Register"
+msgstr "ન્યૂ કુરિયર રજિસ્ટર"
+
+msgid "View Courier Register"
+msgstr "જુઓ કુરિયર રજિસ્ટર"
+
+msgid "Dispatch Details"
+msgstr "રવાનગી વિગતો"
+
+msgid "Bill Amount"
+msgstr "બિલ રકમ"
+
+msgid "Courier No"
+msgstr "કુરિયર કોઈ"
+
+msgid "No Of Parcels"
+msgstr "પાર્સલ કોઈ"
+
+msgid "Add Course Type"
+msgstr "કોર્સ પ્રકાર ઉમેરો"
+
+msgid "Approve Course Type"
+msgstr "કોર્સ પ્રકાર મંજૂર"
+
+msgid "Edit Course Type"
+msgstr "ફેરફાર કરો કોર્સ પ્રકાર"
+
+msgid "New Course Type"
+msgstr "નવા અભ્યાસક્રમ પ્રકાર"
+
+msgid "View Course Type"
+msgstr "જુઓ કોર્સ પ્રકાર"
+
+msgid "Title"
+msgstr "શિર્ષક"
+
+msgid "Description"
+msgstr "વર્ણન"
+
+msgid "Add Course"
+msgstr "ઉમેરો કોર્સ"
+
+msgid "Available Training/Courses"
+msgstr "ઉપલબ્ધ તાલીમ / અભ્યાસક્રમો"
+
+msgid "Course Type"
+msgstr "કોર્સ પ્રકાર"
+
+msgid "Add New Training/Courses"
+msgstr "નવી તાલીમ / અભ્યાસક્રમો ઉમેરો"
+
+msgid "Edit Course"
+msgstr "ફેરફાર કરો કોર્સ"
+
+msgid "New Course"
+msgstr "નવા અભ્યાસક્રમ"
+
+msgid "New Course Types"
+msgstr "નવા અભ્યાસક્રમ પ્રકાર"
+
+msgid "View Course"
+msgstr "જુઓ કોર્સ"
+
+msgid "Add Custom Template"
+msgstr "કસ્ટમ ટેમ્પલેટ ઉમેરો"
+
+msgid "View / Upload Evidance"
+msgstr "જુઓ / અપલોડ કરો પુરાવાનો"
+
+msgid "Send for Approval"
+msgstr "મંજૂરી માટે મોકલો"
+
+msgid "Email Record"
+msgstr "ઇમેઇલ રેકોર્ડ"
+
+msgid "New Custom Template"
+msgstr "નવા કસ્ટમ ટેમ્પલેટ"
+
+msgid "View Custom Template"
+msgstr "જુઓ કસ્ટમ ટેમ્પલેટ"
+
+msgid "Details"
+msgstr "વિગતો"
+
+msgid "Add Customer Complaint"
+msgstr "ગ્રાહક ફરિયાદ ઉમેરો"
+
+msgid "Add To CAPA ?"
+msgstr "CAPA ઉમેરો?"
+
+msgid "Approve Customer Complaint"
+msgstr "ગ્રાહક ફરિયાદ મંજૂર"
+
+msgid "Edit Customer Complaint"
+msgstr "ફેરફાર કરો ગ્રાહક ફરિયાદ"
+
+msgid "Source"
+msgstr "સ્રોત"
+
+msgid "New Customer Complaint"
+msgstr "નવા ગ્રાહક ફરિયાદ"
+
+msgid "New Customer"
+msgstr "નવા ગ્રાહક"
+
+msgid "View Customer Complaint"
+msgstr "જુઓ ગ્રાહક ફરિયાદ"
+
+msgid "Type"
+msgstr "પ્રકાર"
+
+msgid "Customer"
+msgstr "ગ્રાહક"
+
+msgid "Complaint Number"
+msgstr "ફરિયાદ સંખ્યા"
+
+msgid "Complaint Date"
+msgstr "ફરિયાદ તારીખ"
+
+msgid "Assigned to"
+msgstr "માટે સોંપાયેલ"
+
+msgid "Action Taken"
+msgstr "લેવામાં ક્રિયા"
+
+msgid "Action Taken Date"
+msgstr "એક્શન ટેકન તારીખ"
+
+msgid "Settled Date"
+msgstr "સ્થાયી તારીખ"
+
+msgid "Authorized By"
+msgstr "દ્વારા અધિકૃત"
+
+msgid "Add Customer Feedback Question"
+msgstr "ગ્રાહક પ્રતિસાદ પ્રશ્ન ઉમેરો"
+
+msgid "Approve Customer Feedback Question"
+msgstr "ગ્રાહક પ્રતિસાદ પ્રશ્ન મંજૂર"
+
+msgid "Edit Customer Feedback Question"
+msgstr "ફેરફાર કરો ગ્રાહક પ્રતિસાદ પ્રશ્ન"
+
+msgid "New Customer Feedback Question"
+msgstr "નવા ગ્રાહક પ્રતિસાદ પ્રશ્ન"
+
+msgid "Add Customer Feedback"
+msgstr "ગ્રાહક પ્રતિસાદ ઉમેરો"
+
+msgid "View Customer Feedback Question"
+msgstr "જુઓ ગ્રાહક પ્રતિસાદ પ્રશ્ન"
+
+msgid "Approve Customer Feedback"
+msgstr "ગ્રાહક પ્રતિસાદ મંજૂર"
+
+msgid "Edit Customer Feedback"
+msgstr "ફેરફાર કરો ગ્રાહક પ્રતિસાદ"
+
+msgid "New Customer Feedback"
+msgstr "નવા ગ્રાહક પ્રતિસાદ"
+
+msgid "Add Customer"
+msgstr "ગ્રાહક ઉમેરો"
+
+msgid "View Customer Feedback"
+msgstr "જુઓ ગ્રાહક પ્રતિસાદ"
+
+msgid "Customer Feedback Question"
+msgstr "ગ્રાહક પ્રતિસાદ પ્રશ્ન"
+
+msgid "Answer"
+msgstr "A"
+
+msgid "Customer Type"
+msgstr "ગ્રાહક પ્રકાર"
+
+msgid "Marital Status"
+msgstr "વૈવાહિક સ્થિતિ"
+
+msgid "Address"
+msgstr "સરનામું"
+
+msgid "Approve Customer"
+msgstr "ગ્રાહક મંજૂર"
+
+msgid "Edit Customer"
+msgstr "ફેરફાર કરો ગ્રાહક"
+
+msgid "Individual"
+msgstr "વ્યક્તિગત"
+
+msgid "Company"
+msgstr "કંપની"
+
+msgid "View Customer"
+msgstr "જુઓ ગ્રાહક"
+
+msgid "Customer Since Date"
+msgstr "ગ્રાહક તારીખ થી"
+
+msgid "Customer Code"
+msgstr "ગ્રાહક કોડ"
+
+msgid "Email"
+msgstr "ઇમેઇલ"
+
+msgid "Phone"
+msgstr "ફોન"
+
+msgid "Mobile"
+msgstr "મોબાઈલ"
+
+msgid "Date Of Birth"
+msgstr "જન્મ તારીખ"
+
+msgid "Residence Address"
+msgstr "નિવાસ સરનામું"
+
+msgid "Add Daily Backup Detail"
+msgstr "દૈનિક બેકઅપ વિગતવાર ઉમેરો"
+
+msgid "Data Backup Name"
+msgstr "ડેટા બેકઅપ નામ"
+
+msgid "Device Name"
+msgstr "ઉપકરણ નામ"
+
+msgid "Computer Name"
+msgstr "કમ્પ્યુટર નામ"
+
+msgid "Backup Date"
+msgstr "બેકઅપ તારીખ"
+
+msgid "Approve Daily Backup Detail"
+msgstr "દૈનિક બેકઅપ વિગતવાર મંજૂર"
+
+msgid "Edit Daily Backup Detail"
+msgstr "ફેરફાર કરો દૈનિક બેકઅપ વિગતવાર"
+
+msgid "Import from file (excel & csv formats only"
+msgstr "આયાત ફાઇલમાંથી (એક્સેલ અને CSV ફોર્મેટ જ"
+
+msgid "New Daily Backup Detail"
+msgstr "ન્યૂ દૈનિક બેકઅપ વિગતવાર"
+
+msgid "New Data Backup"
+msgstr "નવી માહિતી બેકઅપ"
+
+msgid "New Data Type"
+msgstr "નવી માહિતી પ્રકાર"
+
+msgid "View Daily Backup Detail"
+msgstr "દૈનિક બેકઅપ વિગતવાર જુઓ"
+
+msgid "Electronic Data Processing Dashboard"
+msgstr "ઇલેક્ટ્રોનિક ડેટા પ્રોસેસીંગ ડેશબોર્ડ"
+
+msgid "FlinkISO Users"
+msgstr "FlinkISO વપરાશકર્તાઓ"
+
+msgid "Employees"
+msgstr "કર્મચારીઓ"
+
+msgid "Designations"
+msgstr "હોદ્દો"
+
+msgid "Branches"
+msgstr "શાખાઓ"
+
+msgid "See All"
+msgstr "બધા જુઓ"
+
+msgid "List of softwares"
+msgstr "સોફ્ટવેર યાદી"
+
+msgid "No. of Softwares"
+msgstr "સોફ્ટવેર્સ સંખ્યા"
+
+msgid "List of Computers"
+msgstr "કોમ્પ્યુટર્સ યાદી"
+
+msgid "Suppliers"
+msgstr "પુરવઠાકારો / સપ્લાયરો"
+
+msgid "Purchase Orders"
+msgstr "ખરીદી ઓર્ડર્સ"
+
+msgid "No. of Computers"
+msgstr "કોમ્પ્યુટર્સ સંખ્યા"
+
+msgid "Computers/Softwares"
+msgstr "કમ્પ્યૂટર્સ / સોફ્ટવેર્સ"
+
+msgid "Software Types"
+msgstr "સોફ્ટવેર પ્રકાર"
+
+msgid "Storage Devices"
+msgstr "સંગ્રહ ઉપકરણ"
+
+msgid "No. of Computers/Softwares"
+msgstr "કમ્પ્યૂટર્સ / સોફ્ટવેર્સ સંખ્યા"
+
+msgid "Data Backups"
+msgstr "ડેટા બેકઅપને"
+
+msgid "Daily Backup Details"
+msgstr "દૈનિક બેકઅપ વિગતો"
+
+msgid "See Logbook"
+msgstr "લોગબુક જુઓ"
+
+msgid "List of Usernames"
+msgstr "વપરાશકર્તા નામોની યાદી"
+
+msgid "No. of Usernames"
+msgstr "વપરાશકર્તા નામોની નં"
+
+msgid "Available Quality Documents (EDP Department)"
+msgstr "ઉપલબ્ધ જાત દસ્તાવેજો (ઈ.ડી.પી. વિભાગ)"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies for EDP department by clicking on the links below. <br /> These documents are available for all users."
+msgstr "તમે નીચેની લિંક પર ક્લિક કરીને ઈ.ડી.પી. વિભાગ માટે તમારી કંપની જાત માર્ગદર્શિકાઓ / પ્રક્રિયા / હેતુઓ / રેકોર્ડઝ / નીતિઓ જુઓ / ઉમેરી શકો છો. <br /> આ દસ્તાવેજો બધા વપરાશકર્તાઓ માટે ઉપલબ્ધ છે."
+
+msgid "60% Complete"
+msgstr "60% પૂર્ણ"
+
+msgid "Human Resource Department Dashboard"
+msgstr "માનવ સંસાધન વિભાગ ડેશબોર્ડ"
+
+msgid "Employee Master"
+msgstr "કર્મચારી માસ્ટર"
+
+msgid "No. of Employees"
+msgstr "કર્મચારીઓની સંખ્યા"
+
+msgid "Courses/Trainings"
+msgstr "અભ્યાસક્રમો / તાલીમ"
+
+msgid "Course Types"
+msgstr "કોર્સ પ્રકાર"
+
+msgid "Trainers"
+msgstr "તાલીમ"
+
+msgid "Trainer Types"
+msgstr "ટ્રેનર પ્રકાર"
+
+msgid "No. of Courses"
+msgstr "અભ્યાસક્રમો સંખ્યા"
+
+msgid "TNI"
+msgstr "TNI"
+
+msgid "Courses"
+msgstr "અભ્યાસક્રમો"
+
+msgid "Trainings"
+msgstr "તાલીમ"
+
+msgid " No. of Training Need Identifications"
+msgstr " તાલીમ સંખ્યા ઓળખ જરૂર છે"
+
+msgid "Training Conducted"
+msgstr "હાથ તાલીમ"
+
+msgid "No. of Trainings"
+msgstr "તાલીમ સંખ્યા"
+
+msgid "Training Evaluations"
+msgstr "તાલીમ મૂલ્યાંકનોને"
+
+msgid "No. of Training Evaluations"
+msgstr "તાલીમ મૂલ્યાંકનના નં"
+
+msgid "Competency Mapping"
+msgstr "સ્પર્ધાત્મકતા મેપિંગ"
+
+msgid "No. of Competency Mappings"
+msgstr "સ્પર્ધાત્મકતા મેપિંગ્સ સંખ્યા"
+
+msgid "Available Quality Documents (HR Department)"
+msgstr "ઉપલબ્ધ જાત દસ્તાવેજો (એચઆર વિભાગ)"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies for HR department by clicking on the links below. <br /> These documents are available for all users."
+msgstr "તમે નીચેની લિંક પર ક્લિક કરીને એચઆર વિભાગ માટે તમારી કંપની જાત માર્ગદર્શિકાઓ / પ્રક્રિયા / હેતુઓ / રેકોર્ડઝ / નીતિઓ જુઓ / ઉમેરી શકો છો. <br /> આ દસ્તાવેજો બધા વપરાશકર્તાઓ માટે ઉપલબ્ધ છે."
+
+msgid "Management Representative Dashboard"
+msgstr "મેનેજમેન્ટ પ્રતિનિધિ ડેશબોર્ડ"
+
+msgid "Document Change Requests"
+msgstr "દસ્તાવેજ બદલો અરજીઓ"
+
+msgid "Document Amendment Record Sheet"
+msgstr "દસ્તાવેજ સુધારો રેકોર્ડ શીટ"
+
+msgid "No. of Change Requests"
+msgstr "બદલો અરજીઓની નં"
+
+msgid "Meetings"
+msgstr "બેઠકો"
+
+msgid "Departments"
+msgstr "વિભાગો"
+
+msgid "No. of Meetings"
+msgstr "બેઠકો સંખ્યા"
+
+msgid "Meeting Details"
+msgstr "વિગત બેઠક"
+
+msgid "Manage Internal Audits"
+msgstr "આંતરિક ઓડિટમાં મેનેજ કરો"
+
+msgid "Trained Internal Auditors"
+msgstr "તાલીમ આંતરિક ઓિડટરો"
+
+msgid "Add Schedule / Plan"
+msgstr "સૂચિ / યોજના ઉમેરો"
+
+msgid "Select Plan & add Audit Details"
+msgstr "યોજના પસંદ કરો અને ઓડિટ વિગતો ઉમેરો"
+
+msgid "No. of Non Conformity Actions Required"
+msgstr "જરૂરી બિન કન્ફર્મિટી ક્રિયાઓ સંખ્યા"
+
+msgid "No. of Internal Audits"
+msgstr "આંતરિક ઓડિટમાં સંખ્યા"
+
+msgid "CAPA"
+msgstr "CAPA"
+
+msgid "CAPA Sources"
+msgstr "CAPA સ્ત્રોતો"
+
+msgid "No. of CAPAs"
+msgstr "CAPAs સંખ્યા"
+
+msgid "Task"
+msgstr "કાર્ય"
+
+msgid "No. of Tasks"
+msgstr "કાર્યો સંખ્યા"
+
+msgid "Task Monitor"
+msgstr "કાર્ય મોનિટર"
+
+msgid "Custom Templates"
+msgstr "કસ્ટમ નમૂનાઓ"
+
+msgid "Template creation as per requirements. Also add schedules & auto generate reports."
+msgstr "જરૂરીયાતો પ્રમાણે ટેમ્પલેટ બનાવવું. પણ ઉમેરો શેડ્યુલ અને ઓટો અહેવાલ તૈયાર કરાશે."
+
+msgid "Benchmarking"
+msgstr "બેંચમાર્કિંગના"
+
+msgid "Define Benchmarks"
+msgstr "બેન્ચમાર્ક વ્યાખ્યાયિત"
+
+msgid "Work in progress"
+msgstr "ચાલુ કામ"
+
+msgid "Add New Format"
+msgstr "નવા ફોર્મેટમાં ઉમેરો"
+
+msgid "Available Quality Documents (MR Department)"
+msgstr "ઉપલબ્ધ જાત દસ્તાવેજો (મિ વિભાગ)"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies for MR department by clicking on the links below. <br /> These documents are available for all users."
+msgstr "તમે નીચેની લિંક પર ક્લિક કરીને મિ વિભાગ માટે તમારી કંપની જાત માર્ગદર્શિકાઓ / પ્રક્રિયા / હેતુઓ / રેકોર્ડઝ / નીતિઓ જુઓ / ઉમેરી શકો છો. <br /> આ દસ્તાવેજો બધા વપરાશકર્તાઓ માટે ઉપલબ્ધ છે."
+
+msgid "Fire Extinguisher"
+msgstr "અગ્નિશામક"
+
+msgid "Fire Extinguisher Types"
+msgstr "અગ્નિશામક પ્રકાર"
+
+msgid "No. of Fire Extinguishers"
+msgstr "અગ્નિશામકો અસરકારક નિવડે સંખ્યા"
+
+msgid "Check List For Housekeeping"
+msgstr "ગૃહ વ્યવસ્થા માટે યાદી તપાસો"
+
+msgid "No. of Housekeeping Checklists"
+msgstr "ગૃહ વ્યવસ્થા Checklists સંખ્યા"
+
+msgid "Housekeeping Responsibilities"
+msgstr "ગૃહ વ્યવસ્થા જવાબદારીઓ"
+
+msgid "No. of Housekeeping Responsibilities"
+msgstr "ગૃહ વ્યવસ્થા જવાબદારીઓ સંખ્યા"
+
+msgid "Available Quality Documents (ADMIN Department)"
+msgstr "ઉપલબ્ધ જાત દસ્તાવેજો (એડમિન વિભાગ)"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies for Admin department by clicking on the links below. <br /> These documents are available for all users."
+msgstr "તમે નીચેની લિંક પર ક્લિક કરીને સંચાલન વિભાગ માટે તમારી કંપની જાત માર્ગદર્શિકાઓ / પ્રક્રિયા / હેતુઓ / રેકોર્ડઝ / નીતિઓ જુઓ / ઉમેરી શકો છો. <br /> આ દસ્તાવેજો બધા વપરાશકર્તાઓ માટે ઉપલબ્ધ છે."
+
+msgid "Sub-Contractor Registration Form"
+msgstr "પેટા ઠેકેદાર રજીસ્ટ્રેશન ફોર્મ"
+
+msgid "Add Sub-Contractor / Contractor or Vendor's from here"
+msgstr "અહિંયા થી પેટા ઠેકેદાર / ઠેકેદાર અથવા વિક્રેતાની ઉમેરો"
+
+msgid "No. of Sub-Contractor"
+msgstr "પેટા ઠેકેદાર સંખ્યા"
+
+msgid "Purchase Order"
+msgstr "ખરીદી હુકમ"
+
+msgid "Add Purchase Orders. Make sure you have added registered (& published) suppliers before you add a new purchase order."
+msgstr "ખરીદી ઓર્ડર્સ ઉમેરો. તમે નવી ખરીદી માટે ઉમેરો પહેલાં તમે રજીસ્ટર (& પ્રકાશિત) સપ્લાયરો ઉમેર્યું છે તેની ખાતરી કરો."
+
+msgid "No. of Purchase Orders"
+msgstr "ખરીદી ઓર્ડર્સ સંખ્યા"
+
+msgid "Delivery Challans"
+msgstr "ડ લવર ચલણો"
+
+msgid "Customers"
+msgstr "ગ્રાહકો"
+
+msgid "No. of Delivery Challans"
+msgstr "ડ લવર ચલણો સંખ્યા"
+
+msgid "Supplier Evaluation / Re-Evaluation"
+msgstr "સપ્લાયર મૂલ્યાંકન / પુનઃ મૂલ્યાંકન"
+
+msgid "Evaluate"
+msgstr "મૂલ્યાંકન"
+
+msgid "No. of Supplier Evaluation / Re-Evaluation"
+msgstr "સપ્લાયર મૂલ્યાંકન સંખ્યા / પુનઃ મૂલ્યાંકન"
+
+msgid "Summary of Supplier Evaluation"
+msgstr "સપ્લાયર મૂલ્યાંકન સારાંશ"
+
+msgid "Based on the previous evaluations, this list will be auto populated."
+msgstr "અગાઉના મૂલ્યાંકનો પર આધારિત છે, આ યાદી આપોઆપ રચાયેલ કરવામાં આવશે."
+
+msgid "No. of Supplier Evaluation Summaries"
+msgstr "સપ્લાયર મૂલ્યાંકન સમરીઝ સંખ્યા"
+
+msgid "List of Acceptable Suppliers"
+msgstr "સ્વીકાર્ય સપ્લાયર્સ યાદી"
+
+msgid "Supplier Categories"
+msgstr "સપ્લાયર શ્રેણીઓ"
+
+msgid "No. of Acceptable Suppliers"
+msgstr "સ્વીકાર્ય સપ્લાયર્સ સંખ્યા"
+
+msgid "Available Quality Documents (PURCHASE Department)"
+msgstr "ઉપલબ્ધ જાત દસ્તાવેજો (ખરીદ વિભાગ)"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies for Purchase department by clicking on the links below. <br /> These documents are available for all users."
+msgstr "તમે નીચેની લિંક પર ક્લિક કરીને ખરીદી વિભાગ માટે તમારી કંપની જાત માર્ગદર્શિકાઓ / પ્રક્રિયા / હેતુઓ / રેકોર્ડઝ / નીતિઓ જુઓ / ઉમેરી શકો છો. <br /> આ દસ્તાવેજો બધા વપરાશકર્તાઓ માટે ઉપલબ્ધ છે."
+
+msgid "Typical Supplier Evaluation Process"
+msgstr "ખાસ સપ્લાયર મૂલ્યાંકન પ્રક્રિયા"
+
+msgid "Quality Control Dashboard"
+msgstr "ગુણવત્તા નિયમન ડેશબોર્ડ"
+
+msgid "Customer Complaints"
+msgstr "ગ્રાહક ફરિયાદો"
+
+msgid "Products"
+msgstr "પેદાશો"
+
+msgid "No. of Open Customer Complaints"
+msgstr "ઓપન ગ્રાહક ફરિયાદો સંખ્યા"
+
+msgid "No. of Closed Customer Complaints"
+msgstr "બંધ ગ્રાહક ફરિયાદો સંખ્યા"
+
+msgid "Measuring Devices for Calibrations"
+msgstr "Calibrations માટે ઉપકરણો માપન"
+
+msgid "Devices"
+msgstr "ડિવાઈસ(સાધનો)"
+
+msgid "No. of Measuring Devices"
+msgstr "ઉપકરણો માપન સંખ્યા"
+
+msgid "Calibrations"
+msgstr "Calibrations"
+
+msgid "No. of Calibrations"
+msgstr "Calibrations સંખ્યા"
+
+msgid "Customer Feedbacks"
+msgstr "ગ્રાહક પ્રતિભાવો"
+
+msgid "Questionnaire"
+msgstr "પ્રશ્નાવલિ"
+
+msgid "No. of Customer Feedbacks"
+msgstr "ગ્રાહક પ્રતિભાવો સંખ્યા"
+
+msgid "Note"
+msgstr "નોંધ"
+
+msgid "Available Quality Documents (QUALITY Department)"
+msgstr "ઉપલબ્ધ જાત દસ્તાવેજો (ગુણવત્તા વિભાગ)"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies for Quality department by clicking on the links below. <br /> These documents are available for all users."
+msgstr "તમે નીચેની લિંક પર ક્લિક કરીને જાત વિભાગ માટે તમારી કંપની જાત માર્ગદર્શિકાઓ / પ્રક્રિયા / હેતુઓ / રેકોર્ડઝ / નીતિઓ જુઓ / ઉમેરી શકો છો. <br /> આ દસ્તાવેજો બધા વપરાશકર્તાઓ માટે ઉપલબ્ધ છે."
+
+msgid "Dillivery Challans"
+msgstr "Dillivery ચલણો"
+
+msgid "Materials' List With Shelf Life"
+msgstr "શેલ્ફ જીવન સાથે સામગ્રી 'યાદી"
+
+msgid "Materials"
+msgstr "વસ્તુઓ"
+
+msgid "Order Details Forms"
+msgstr "ઓર્ડર વિગતો ફોર્મ"
+
+msgid "Add Purchase Orders"
+msgstr "ખરીદી ઓર્ડર્સ ઉમેરો"
+
+msgid "Add Data Back Up"
+msgstr "માહિતી પાછા ઉપર ઉમેરો"
+
+msgid "Data Type"
+msgstr "ડેટા પ્રકાર"
+
+msgid "Backup Schedule"
+msgstr "બેકઅપ સૂચિ"
+
+msgid "Approve Data Back Up"
+msgstr "માહિતી પાછા ઉપર મંજૂર કરો"
+
+msgid "Edit Data Back Up"
+msgstr "ફેરફાર કરો ડેટા પાછા ઉપર"
+
+msgid "New Data Back Up"
+msgstr "નવી માહિતી પાછા ઉપર"
+
+msgid "Add Data Type"
+msgstr "ડેટા પ્રકાર ઉમેરો"
+
+msgid "Add Schedule"
+msgstr "સૂચિ ઉમેરો"
+
+msgid "Add User"
+msgstr "વપરાશકર્તા ઉમેરો"
+
+msgid "View Data Back Up"
+msgstr "જુઓ ડેટા પાછા ઉપર"
+
+msgid "Approve Data Type"
+msgstr "ડેટા પ્રકાર મંજૂર"
+
+msgid "Edit Data Type"
+msgstr "ફેરફાર કરો ડેટા પ્રકાર"
+
+msgid "View Data Type"
+msgstr "જુઓ ડેટા પ્રકાર"
+
+msgid "Add Databackup Logbook"
+msgstr "Databackup લોગબુક ઉમેરો"
+
+msgid "Daily Backup Detail"
+msgstr "દૈનિક બેકઅપ વિગતવાર"
+
+msgid "Task Performed"
+msgstr "કાર્ય કરવામાં"
+
+msgid "Comment"
+msgstr "ટિપ્પણી"
+
+msgid "Date"
+msgstr "તારીખ"
+
+msgid "Approve Databackup Logbook"
+msgstr "Databackup લોગબુક મંજૂર"
+
+msgid "Edit Databackup Logbook"
+msgstr "ફેરફાર કરો Databackup લોગબુક"
+
+msgid "Backup Details"
+msgstr "બેકઅપ વિગતો"
+
+msgid "New Databackup Logbook"
+msgstr "ન્યૂ Databackup લોગબુક"
+
+msgid "View Databackup Logbook"
+msgstr "Databackup લોગબુક જુઓ"
+
+msgid "Add Delivery Challan"
+msgstr "ડ લવર ચલન ઉમેરો"
+
+msgid "Select Purchase Order"
+msgstr "પસંદ કરો ખરીદી ઓર્ડર"
+
+msgid "Approve Delivery Challan"
+msgstr "ડ લવર ચલન મંજૂર"
+
+msgid "Edit Delivery Challan"
+msgstr "ફેરફાર કરો વિતરણ ચલન"
+
+msgid "Order Date"
+msgstr "ઓર્ડર તારીખ"
+
+msgid "Intimation"
+msgstr "જાણ"
+
+msgid "Expected Develivery Date"
+msgstr "અપેક્ષિત Develivery તારીખ"
+
+msgid "Supplier"
+msgstr "પુરવઠોકર્તા"
+
+msgid "New Delivery Challan"
+msgstr "ન્યૂ ડ ચલન"
+
+msgid "New Purchase Order"
+msgstr "નવી ખરીદી ઓર્ડર"
+
+msgid "View Delivery Challan"
+msgstr "જુઓ ડ ચલન"
+
+msgid "Purchase Order Number"
+msgstr "ઓર્ડર નંબર ખરીદી"
+
+msgid "Challan Number"
+msgstr "ચલન સંખ્યા"
+
+msgid "Challan Date"
+msgstr "ચલન તારીખ"
+
+msgid "Prices"
+msgstr "કિંમતો"
+
+msgid "Ship By"
+msgstr "જહાજ દ્વારા"
+
+msgid "Shipping Details"
+msgstr "શિપિંગ વિગતો"
+
+msgid "Insurance"
+msgstr "વીમો"
+
+msgid "Shipping Date"
+msgstr "શીપીંગ તારીખ"
+
+msgid "Ship To"
+msgstr "જહાજ"
+
+msgid "Payment Details"
+msgstr "ચુકવણી વિગતો"
+
+msgid "Invoice To"
+msgstr "ઇનવોઇસ"
+
+msgid "Acknowledgement Details"
+msgstr "પહોંચ વિગતો"
+
+msgid "Acknowledgement Date"
+msgstr "પહોંચ તારીખ"
+
+msgid "Delivery Challan Detail"
+msgstr "ડ લવર ચલન વિગતવાર"
+
+msgid "Order Number"
+msgstr "ઓર્ડર સંખ્યા"
+
+msgid "Product / Device"
+msgstr "ઉત્પાદન / ઉપકરણ"
+
+msgid "Quantity"
+msgstr "જથ્થો"
+
+msgid "Quantity Received"
+msgstr "પ્રાપ્ત જથ્થો"
+
+msgid "Rate"
+msgstr "મો"
+
+msgid "Discount"
+msgstr "ડિસ્કાઉન્ટ"
+
+msgid "Total"
+msgstr "કુલ"
+
+msgid "Published"
+msgstr "પ્રકાશિત"
+
+msgid "Add Department Benchmark"
+msgstr "વિભાગ બેન્ચમાર્ક ઉમેરો"
+
+msgid "Approve Department Benchmark"
+msgstr "વિભાગ બેન્ચમાર્ક મંજૂર"
+
+msgid "Edit Department Benchmark"
+msgstr "ફેરફાર કરો ખાતા બેન્ચમાર્ક"
+
+msgid "New Department Benchmark"
+msgstr "ન્યૂ વિભાગ બેન્ચમાર્ક"
+
+msgid "View Department Benchmark"
+msgstr "જુઓ વિભાગ બેન્ચમાર્ક"
+
+msgid "Branch Id"
+msgstr "શાખાની આઈડી"
+
+msgid "Edit Department"
+msgstr "ફેરફાર કરો વિભાગ"
+
+msgid "Department Name"
+msgstr "વિભાગનું નામ"
+
+msgid "Add / Edit Clauses"
+msgstr "ઉમેરો / ફેરફાર કરો કલમો"
+
+msgid "Other details"
+msgstr "અન્ય વિગતો"
+
+msgid "New Department"
+msgstr "ન્યૂ વિભાગ"
+
+msgid "View Department"
+msgstr "જુઓ વિભાગ"
+
+msgid "Clauses"
+msgstr "કલમો"
+
+msgid "List of users in this Department"
+msgstr "આ વિભાગ માં વપરાશકર્તાઓની યાદી"
+
+msgid "Add Designation"
+msgstr "હોદ્દો ઉમેરો"
+
+msgid "Approve Designation"
+msgstr "હોદ્દો મંજૂર"
+
+msgid "Edit Designation"
+msgstr "ફેરફાર કરો હોદ્દો"
+
+msgid "New Designation"
+msgstr "ન્યૂ હોદ્દો"
+
+msgid "View Designation"
+msgstr "જુઓ હોદ્દો"
+
+msgid "Device Details"
+msgstr "ઉપકરણ વિગતો"
+
+msgid "Serial"
+msgstr "સીરીયલ"
+
+msgid "Manual"
+msgstr "મેન્યુઅલ"
+
+msgid "Sparelist"
+msgstr "Sparelist"
+
+msgid "Make Type"
+msgstr "પ્રકાર બનાવો"
+
+msgid "Purchase Date"
+msgstr "ખરીદી તારીખ"
+
+msgid "Person Responsible for Maintainence"
+msgstr "Maintainence માટે જવાબદાર વ્યક્તિ"
+
+msgid "Device Calibration Details"
+msgstr "ઉપકરણ કૅલિબ્રેશન વિગતો"
+
+msgid "Calibration Frequency"
+msgstr "કૅલિબ્રેશન આવર્તન"
+
+msgid "Calibration In-House"
+msgstr "કૅલિબ્રેશન ઇન હાઉસ"
+
+msgid "Calibration Outside"
+msgstr "બહાર કૅલિબ્રેશન"
+
+msgid "Other Details"
+msgstr "અન્ય વિગતો"
+
+msgid "Person Responsible for Maintenance"
+msgstr "જાળવણી માટે જવાબદાર વ્યક્તિ"
+
+msgid "Required Calibration"
+msgstr "જરૂરી કૅલિબ્રેશન"
+
+msgid "Supplier Name"
+msgstr "સપ્લાયર નામ"
+
+msgid "Approve Device"
+msgstr "ઉપકરણ મંજૂર"
+
+msgid "Edit Device"
+msgstr "ફેરફાર કરો ઉપકરણ"
+
+msgid "Calibration Required ?"
+msgstr "કૅલિબ્રેશન જરૂરી?"
+
+msgid "New Device"
+msgstr "નવી ઉપકરણ"
+
+msgid "View Device"
+msgstr "જુઓ ઉપકરણ"
+
+msgid "Add Document Amendment Record Sheet"
+msgstr "દસ્તાવેજ સુધારો રેકોર્ડ શીટ ઉમેરો"
+
+msgid "Approve Document Amendment Record Sheet"
+msgstr "દસ્તાવેજ સુધારો રેકોર્ડ શીટ મંજૂર"
+
+msgid "Edit Document Amendment Record Sheet"
+msgstr "ફેરફાર કરો દસ્તાવેજ સુધારો રેકોર્ડ શીટ"
+
+msgid "Document Number"
+msgstr "દસ્તાવેજ સંખ્યા"
+
+msgid "Issue Number"
+msgstr "અંક સંખ્યા"
+
+msgid "Revision Number"
+msgstr "પુનરાવર્તન સંખ્યા"
+
+msgid "Revision Date"
+msgstr "પુનરાવર્તન તારીખ"
+
+msgid "Prepared By"
+msgstr "દ્વારા તૈયાર"
+
+msgid "Approved By"
+msgstr "દ્વારા મંજૂર"
+
+msgid "New Document Amendment Record Sheet"
+msgstr "ન્યૂ દસ્તાવેજ સુધારો રેકોર્ડ શીટ"
+
+msgid "View Document Amendment Record Sheet"
+msgstr "દસ્તાવેજ સુધારો રેકોર્ડ શીટ જુઓ"
+
+msgid "Amendment Details"
+msgstr "સુધારો વિગતો"
+
+msgid "Restore"
+msgstr "પુનઃસ્થાપિત કરો"
+
+msgid "Purge"
+msgstr "પર્જ"
+
+msgid "Edit in new window"
+msgstr "નવી વિંડોમાં સંપાદિત કરો"
+
+msgid "Publish Record"
+msgstr "રેકોર્ડ પ્રકાશિત કરો"
+
+msgid "Are you sure you want to publish this record ?"
+msgstr "શું તમે ખરેખર આ રેકોર્ડ પ્રકાશિત કરવા માંગો છો?"
+
+msgid "Type Keyword & select the field which you want to search from below"
+msgstr "મુખ્ય શબ્દ લખો અને તમે નીચેની થી શોધ કરવા માંગો છો કે જે આ ક્ષેત્રમાં પસંદ"
+
+msgid "If calibration is required"
+msgstr "કેલિબ્રેશન જરૂરી છે, તો"
+
+msgid "Select Calibration Frequency"
+msgstr "પસંદ કરો કૅલિબ્રેશન આવર્તન"
+
+msgid "Manual Available"
+msgstr "ઉપલબ્ધ મેન્યુઅલ"
+
+msgid "Sparelist Available"
+msgstr "ઉપલબ્ધ Sparelist"
+
+msgid "Select Department"
+msgstr "વિભાગ પસંદ કરો"
+
+msgid "Select Employee"
+msgstr "પસંદ કરો કર્મચારી"
+
+msgid "Select Language"
+msgstr "ભાષા પસંદ કરો"
+
+msgid "Select Designations"
+msgstr "પસંદ કરો હોદ્દો"
+
+msgid "Select Course Type"
+msgstr "કોર્સ પ્રકાર પસંદ કરો"
+
+msgid "Select Course"
+msgstr "કોર્સ પસંદ કરો"
+
+msgid "Select Trainer Type"
+msgstr "ટ્રેનર પ્રકાર પસંદ કરો"
+
+msgid "Select Training Type"
+msgstr "તાલીમ પ્રકાર પસંદ કરો"
+
+msgid "Select Trainer"
+msgstr "ટ્રેનર પસંદ કરો"
+
+msgid "Select Capa Source"
+msgstr "પસંદ કરો Capa સોર્સ"
+
+msgid "Select Capa Category"
+msgstr "Capa વર્ગ પસંદ કરો"
+
+msgid "Select Employee Type"
+msgstr "પસંદ કરો કર્મચારી પ્રકાર"
+
+msgid "Document Change Required"
+msgstr "દસ્તાવેજ બદલો આવશ્યક"
+
+msgid "Select Current Status"
+msgstr "વર્તમાન સ્થિતિ પસંદ કરો"
+
+msgid "Select Customer"
+msgstr "ગ્રાહક પસંદ કરો"
+
+msgid "Select Delivery Challan"
+msgstr "ડ લવર ચલન પસંદ કરો"
+
+msgid "Complaint Assigned To"
+msgstr "સોંપેલ ફરિયાદ"
+
+msgid "Authorised By"
+msgstr "દ્વારા અધિકૃત"
+
+msgid "Select Company Type"
+msgstr "કંપની પ્રકાર પસંદ કરો"
+
+msgid "Select Training"
+msgstr "તાલીમ પસંદ કરો"
+
+msgid "Select Data Type"
+msgstr "ડેટા પ્રકાર પસંદ કરો"
+
+msgid "Select Backup Schedule"
+msgstr "બેકઅપ સુનિશ્ચિત કરો"
+
+msgid "Select Data Backup Name"
+msgstr "પસંદ કરો, ડેટા બેકઅપ નામ"
+
+msgid "Select Device Name"
+msgstr "પસંદ કરો ઉપકરણ નામ"
+
+msgid "Select Computer Name"
+msgstr "પસંદ કરો કમ્પ્યુટર નામ"
+
+msgid "Select Master List Of Format"
+msgstr "બંધારણની માસ્ટર યાદી પસંદ કરો"
+
+msgid "Select User"
+msgstr "પસંદ કરો વપરાશકર્તા"
+
+msgid "Select Chairperson"
+msgstr "પસંદ કરો અધ્યક્ષ"
+
+msgid "Select System"
+msgstr "પસંદ કરો સિસ્ટમ"
+
+msgid "Select Supplier Category"
+msgstr "પુરવઠોકર્તા વર્ગ પસંદ કરો"
+
+msgid "Select Education"
+msgstr "શિક્ષણ પસંદ કરો"
+
+msgid "Select Actual Education"
+msgstr "ખરેખર શિક્ષણ પસંદ કરો"
+
+msgid "Select Housekeeping CheckList"
+msgstr "પસંદ કરો ગૃહ વ્યવસ્થા ચેકલિસ્ટ"
+
+msgid "Select Computer"
+msgstr "કમ્પ્યુટર પસંદ કરો"
+
+msgid "Select Softwares"
+msgstr "પસંદ કરો સોફ્ટવેર્સ"
+
+msgid "Select Notification Type"
+msgstr "સૂચન પ્રકાર પસંદ કરો"
+
+msgid "Select Prepared By"
+msgstr "પસંદ કરો દ્વારા તૈયાર"
+
+msgid "Select Approved By"
+msgstr "દ્વારા મંજૂર પસંદ કરો"
+
+msgid "Select Software Type"
+msgstr "સોફ્ટવેર પ્રકાર પસંદ કરો"
+
+msgid "Select Schedules"
+msgstr "પસંદ કરો શેડ્યુલ"
+
+msgid "Select branches you want to search"
+msgstr "તમે શોધ કરવા માંગો છો પસંદ કરો શાખાઓ"
+
+msgid "Select start date"
+msgstr "પ્રારંભ તારીખ પસંદ કરો"
+
+msgid "Select end date"
+msgstr "અંતિમ તારીખ પસંદ કરો"
+
+msgid "Strict Search"
+msgstr "સખત શોધ"
+
+msgid "Send appended records for approval to the relevant approving authority from the given list."
+msgstr "આપેલ યાદીમાંથી સુસંગત મંજૂરી સત્તા માટે મંજૂરી માટે ઉમેરાયું રેકોર્ડ મોકલો."
+
+msgid "Do not send forward. Publish Now."
+msgstr "આગળ મોકલશો. હવે પ્રકાશિત કરો."
+
+msgid "Approval History"
+msgstr "મંજૂરી ઇતિહાસ"
+
+msgid "Sent to"
+msgstr "માટે મોકલ્યું"
+
+msgid "Send these records for approval"
+msgstr "મંજૂરી માટે આ રેકોર્ડ મોકલો"
+
+msgid "Upcoming Device Calibrations"
+msgstr "આગામી ઉપકરણ calibrations"
+
+msgid "Device Calibrations assigned to you"
+msgstr "તમે સોંપેલ ઉપકરણ calibrations"
+
+msgid "Device Number"
+msgstr "ઉપકરણ સંખ્યા"
+
+msgid "Previous Calibration Date"
+msgstr "ગત કૅલિબ્રેશન તારીખ"
+
+msgid "Act"
+msgstr "ધારો"
+
+msgid "Customer Complaints assigned to you"
+msgstr "તમે સોંપેલ ગ્રાહક ફરિયાદો"
+
+msgid "Total Customer Complaints assigned to you"
+msgstr "તમે સોંપેલ કુલ ગ્રાહક ફરિયાદો"
+
+msgid "Complaint Source"
+msgstr "ફરિયાદ સોર્સ"
+
+msgid "Target"
+msgstr "લક્ષ્યાંક"
+
+msgid "Added in meeting"
+msgstr "બેઠકમાં ઉમેરાયેલ"
+
+msgid "Data BackUp"
+msgstr "ડેટા બેકઅપ"
+
+msgid "Assign To"
+msgstr "માટે સોંપી"
+
+msgid "Performed By"
+msgstr "દ્વારા કરવામાં"
+
+msgid "List Of Computer"
+msgstr "કોમ્પ્યુટર યાદી"
+
+msgid "Task Performed?"
+msgstr "કાર્ય કરવામાં?"
+
+msgid "Action"
+msgstr "ઍક્શન"
+
+msgid "Are you sure to delete all selected "
+msgstr "તમે બધા પસંદ કાઢવા છો "
+
+msgid "Export Data"
+msgstr "નિકાસ ડેટા"
+
+msgid "Generate Reports"
+msgstr "અહેવાલ તૈયાર કરાશે"
+
+msgid "Missing Template"
+msgstr "ગુમ ઢાંચો"
+
+msgid "Add New Template"
+msgstr "નવા નમૂના ઉમેરો"
+
+msgid "Responsibilities Assigned To You"
+msgstr "તમે સોંપેલ જવાબદારીઓ"
+
+msgid "Housekeeping Checklist"
+msgstr "ગૃહ વ્યવસ્થા ચેકલિસ્ટ"
+
+msgid "Task Prformed ? "
+msgstr "કાર્ય Prformed? "
+
+msgid "Actions"
+msgstr "ક્રિયાઓ"
+
+msgid "<span class=\"glyphicon glyphicon-eye-open\"></span>"
+msgstr "<span class=\"glyphicon glyphicon-eye-open\"> </ span>"
+
+msgid "<span class=\"glyphicon glyphicon-trash\"></span>"
+msgstr "<span class=\"glyphicon glyphicon-trash\"> </ span>"
+
+msgid "Are you sure you want to move \"%s\" to trash?"
+msgstr "શું તમે ખરેખર \ "ખસેડવા માંગો છો છો %s ટ્રેશમાં \ "?"
+
+msgid "checker"
+msgstr "તપાસનાર"
+
+msgid "comments"
+msgstr "ટિપ્પણીઓ"
+
+msgid "send_to_maker"
+msgstr "send_to_maker"
+
+msgid "Import/Export"
+msgstr "આયાત / નિકાસ"
+
+msgid "Report"
+msgstr "અહેવાલ"
+
+msgid "Restore All"
+msgstr "બધા પુનઃસ્થાપિત કરો"
+
+msgid "Purge All"
+msgstr "બધા જવાળાઓમાં"
+
+msgid "search"
+msgstr "શોધ"
+
+msgid "Delete All"
+msgstr "બધા કાઢી નાખો"
+
+msgid "Are you sure to purge all selected "
+msgstr "તમે બધા પસંદ સાફ કરવા છો "
+
+msgid "Are you sure to restore all selected "
+msgstr "તમે બધા પસંદ કરેલ સંગ્રહ કરો છો "
+
+msgid "Export file (excel)"
+msgstr "નિકાસ ફાઇલ (એક્સેલ)"
+
+msgid "Tasks Assigned To You"
+msgstr "તમે સોંપેલ કાર્યો"
+
+msgid "Tasks"
+msgstr "કાર્યો"
+
+msgid "Task Prformed?"
+msgstr "કાર્ય Prformed?"
+
+msgid "Dashboard"
+msgstr "ડેશબોર્ડ"
+
+msgid "Users"
+msgstr "ઉપયોગકર્તાઓ"
+
+msgid "Training Types"
+msgstr "તાલીમ પ્રકાર"
+
+msgid "MR"
+msgstr "એમ.આર."
+
+msgid "HR"
+msgstr "એચઆર"
+
+msgid "ADMIN"
+msgstr "એડમિન"
+
+msgid "QUALITY CONTROL"
+msgstr "ગુણવત્તા નિયમન"
+
+msgid "PURCHASE"
+msgstr "ખરીદ"
+
+msgid "EDP"
+msgstr "ઈ.ડી.પી."
+
+msgid "AUTO REPORTS"
+msgstr "ઓટો અહેવાલ"
+
+msgid "MANUAL REPORTS"
+msgstr "સીટીઝનમાહિતી અહેવાલ"
+
+msgid "SAVED REPORTS"
+msgstr "સાચવેલા અહેવાલ"
+
+msgid "FlinkISO Help"
+msgstr "FlinkISO મદદ"
+
+msgid "Supplier Registrations"
+msgstr "સપ્લાયર નોંધણીકરણ"
+
+msgid "Supplier Evaluation"
+msgstr "સપ્લાયર મૂલ્યાંકન"
+
+msgid "Notifications"
+msgstr "સૂચનાઓ"
+
+msgid "Help"
+msgstr "મદદ"
+
+msgid "Suggestion Form"
+msgstr "સૂચન ફોર્મ"
+
+msgid "Add this action to your dashboard"
+msgstr "તમારા ડેશબોર્ડ પર આ ક્રિયા ઉમેરો"
+
+msgid "Change your language for this session"
+msgstr "આ સત્ર માટે તમારી ભાષા બદલો"
+
+msgid "English"
+msgstr "અંગ્રેજી"
+
+msgid "Hindi"
+msgstr "હિન્દી"
+
+msgid "Gujarati"
+msgstr "ગુજરાતી"
+
+msgid "Marathi"
+msgstr "મરાઠી"
+
+msgid "Send messages"
+msgstr "સંદેશાઓ મોકલો"
+
+msgid "Company Profile"
+msgstr "કંપની પ્રોફાઇલ"
+
+msgid "Upload Evidance"
+msgstr "પુરાવાનો અપલોડ કરો"
+
+msgid "Internal Audit Plan"
+msgstr "આંતરિક ઓડિટ યોજના"
+
+msgid "Section"
+msgstr "કલમ"
+
+msgid "Start Time"
+msgstr "સમયનો પ્રારંભ"
+
+msgid "End Time"
+msgstr "સમાપ્તિ સમય"
+
+msgid "Trained Internal Auditor"
+msgstr "આંતરિક ઓડિટર તાલીમ"
+
+msgid "Finding"
+msgstr "શોધવી"
+
+msgid "Question Asked"
+msgstr "પ્રશ્ન પૂછવામાં"
+
+msgid "Schedule Date From"
+msgstr "પ્રતિ સૂચિ તારીખ"
+
+msgid "Schedule Date To"
+msgstr "સૂચિ તારીખ કરવા માટે"
+
+msgid "Add Employee Designation"
+msgstr "કર્મચારી હોદ્દો ઉમેરો"
+
+msgid "Designation"
+msgstr "હોદ્દો"
+
+msgid "Approve Employee Designation"
+msgstr "કર્મચારી હોદ્દો મંજૂર"
+
+msgid "Edit Employee Designation"
+msgstr "ફેરફાર કરો કર્મચારી હોદ્દો"
+
+msgid "New Employee Designation"
+msgstr "નવી કર્મચારી હોદ્દો"
+
+msgid "View Employee Designation"
+msgstr "જુઓ કર્મચારી હોદ્દો"
+
+msgid "Add Employee Induction Training"
+msgstr "કર્મચારી ઇન્ડક્શન તાલીમ ઉમેરો"
+
+msgid "Training"
+msgstr "તાલીમ"
+
+msgid "Responsibility"
+msgstr "જવાબદારી"
+
+msgid "Approve Employee Induction Training"
+msgstr "કર્મચારી ઇન્ડક્શન તાલીમ મંજૂર"
+
+msgid "Edit Employee Induction Training"
+msgstr "ફેરફાર કરો કર્મચારી ઇન્ડક્શન તાલીમ"
+
+msgid "New Employee Induction Training"
+msgstr "નવી કર્મચારી ઇન્ડક્શન તાલીમ"
+
+msgid "New Course / Training conducted"
+msgstr "હાથ ધરવામાં નવા અભ્યાસક્રમ / તાલીમ"
+
+msgid "New Training Type"
+msgstr "નવી તાલીમ પ્રકાર"
+
+msgid "New Trainer"
+msgstr "નવી ટ્રેનર"
+
+msgid "New Trainer Type"
+msgstr "નવી ટ્રેનર પ્રકાર"
+
+msgid "View Employee Induction Training"
+msgstr "જુઓ કર્મચારી ઇન્ડક્શન તાલીમ"
+
+msgid "Add Employee Training"
+msgstr "કર્મચારી તાલીમ ઉમેરો"
+
+msgid "Approve Employee Training"
+msgstr "કર્મચારી તાલીમ મંજૂર"
+
+msgid "Edit Employee Training"
+msgstr "ફેરફાર કરો કર્મચારી તાલીમ"
+
+msgid "New Employee Training"
+msgstr "નવી કર્મચારી તાલીમ"
+
+msgid "View Employee Training"
+msgstr "જુઓ કર્મચારી તાલીમ"
+
+msgid "Mandatory Details"
+msgstr "ફરજિયાત વિગતો"
+
+msgid "Employee Number"
+msgstr "કર્મચારી સંખ્યા"
+
+msgid "Joining Date"
+msgstr "તારીખ જોડાયા"
+
+msgid "Date of Birth"
+msgstr "જન્મ તારીખ"
+
+msgid "Office Email"
+msgstr "ઓફિસ ઇમેઇલ"
+
+msgid "Optional Details"
+msgstr "વૈકલ્પિક વિગતો"
+
+msgid "Qualification"
+msgstr "લાયકાત"
+
+msgid "Pancard Number"
+msgstr "Pancard સંખ્યા"
+
+msgid "Personal Telephone"
+msgstr "વ્યક્તિગત ટેલિફોન"
+
+msgid "Office Telephone"
+msgstr "ઓફિસ ટેલિફોન"
+
+msgid "Personal Email"
+msgstr "વ્યક્તિગત ઇમેઇલ"
+
+msgid "Permanent Address"
+msgstr "કાયમી સરનામું"
+
+msgid "Driving License"
+msgstr "ડ્રાઇવિંગ લાઇસન્સ"
+
+msgid "Approve Employee"
+msgstr "કર્મચારી મંજૂર"
+
+msgid "Edit Employee"
+msgstr "ફેરફાર કરો કર્મચારી"
+
+msgid "New Employee"
+msgstr "નવી કર્મચારી"
+
+msgid "View Employee"
+msgstr "જુઓ કર્મચારી"
+
+msgid "Add Evidence"
+msgstr "પુરાવા ઉમેરો"
+
+msgid "Approve Evidence"
+msgstr "પુરાવા મંજૂર"
+
+msgid "Edit Evidence"
+msgstr "પુરાવા સંપાદિત કરો"
+
+msgid "New Evidence"
+msgstr "નવા પુરાવા"
+
+msgid "View Evidence"
+msgstr "પુરાવા જુઓ"
+
+msgid "File Upload"
+msgstr "ફાઇલ અપલોડ કરો"
+
+msgid "User Session"
+msgstr "વપરાશકર્તા સત્ર"
+
+msgid "Add File Upload"
+msgstr "ફાઇલ અપલોડ કરો ઉમેરો"
+
+msgid "Approve File Upload"
+msgstr "ફાઇલ અપલોડ કરો મંજૂર"
+
+msgid "Import From File"
+msgstr "ફાઇલ આયાત કરો"
+
+msgid "Edit File Upload"
+msgstr "ફેરફાર કરો ફાઇલ અપલોડ કરો"
+
+msgid "Click Here To Add Data"
+msgstr "ડેટા ઉમેરવા અહીં ક્લિક કરો"
+
+msgid "New File Upload"
+msgstr "નવી ફાઇલ અપલોડ કરો"
+
+msgid "Add User Session"
+msgstr "વપરાશકર્તા સત્ર ઉમેરો"
+
+msgid "View File Upload"
+msgstr "જુઓ ફાઇલ અપલોડ કરો"
+
+msgid "File Details"
+msgstr "ફાઈલ વિગતો"
+
+msgid "File Type"
+msgstr "ફાઇલ પ્રકાર"
+
+msgid "File Status"
+msgstr "ફાઈલ સ્થિતિ"
+
+msgid "Result"
+msgstr "પરિણામ"
+
+msgid "Add Fire Extinguisher Type"
+msgstr "અગ્નિશામક પ્રકાર ઉમેરો"
+
+msgid "Approve Fire Extinguisher Type"
+msgstr "અગ્નિશામક પ્રકાર મંજૂર"
+
+msgid "Edit Fire Extinguisher Type"
+msgstr "ફેરફાર કરો અગ્નિશામક પ્રકાર"
+
+msgid "New Fire Extinguisher Type"
+msgstr "ન્યૂ અગ્નિશામક પ્રકાર"
+
+msgid "View Fire Extinguisher Type"
+msgstr "અગ્નિશામક પ્રકાર જુઓ"
+
+msgid "Add Fire Extinguisher"
+msgstr "અગ્નિશામક ઉમેરો"
+
+msgid "Fire Extinguisher Type"
+msgstr "અગ્નિશામક પ્રકાર"
+
+msgid "Company Name"
+msgstr "કંપની નામ"
+
+msgid "Expiry Date"
+msgstr "સમાપ્તિ તારીખ"
+
+msgid "Warranty Expiry Date"
+msgstr "વોરંટી સમાપ્તિ તારીખ"
+
+msgid "Model Type"
+msgstr "મોડલ પ્રકાર"
+
+msgid "Other Remarks"
+msgstr "અન્ય નોંધ"
+
+msgid "Approve Fire Extinguisher"
+msgstr "અગ્નિશામક મંજૂર"
+
+msgid "Edit Fire Extinguisher"
+msgstr "ફેરફાર કરો અગ્નિશામક"
+
+msgid "New Fire Extinguisher"
+msgstr "ન્યૂ અગ્નિશામક"
+
+msgid "View Fire Extinguisher"
+msgstr "જુઓ અગ્નિશામક"
+
+msgid "Expeiry Date"
+msgstr "Expeiry તારીખ"
+
+msgid "Add Fire Safety Equipment List"
+msgstr "ફાયર સેફટી સાધનો યાદી ઉમેરો"
+
+msgid "Approve Fire Safety Equipment List"
+msgstr "ફાયર સેફટી સાધનો યાદી મંજૂર"
+
+msgid "Edit Fire Safety Equipment List"
+msgstr "ફેરફાર કરો અગ્નિ સુરક્ષા સાધનોના યાદી"
+
+msgid "New Fire Safety Equipment List"
+msgstr "નવી ફાયર સેફટી સાધનો યાદી"
+
+msgid "View Fire Safety Equipment List"
+msgstr "જુઓ ફાયર સેફટી સાધનો યાદી"
+
+msgid "Fire Type"
+msgstr "આગ પ્રકાર"
+
+msgid "Add Fire Type"
+msgstr "આગ પ્રકાર ઉમેરો"
+
+msgid "Approve Fire Type"
+msgstr "આગ પ્રકાર મંજૂર"
+
+msgid "Edit Fire Type"
+msgstr "ફેરફાર કરો અગ્નિ પ્રકાર"
+
+msgid "New Fire Type"
+msgstr "ન્યૂ આગ પ્રકાર"
+
+msgid "View Fire Type"
+msgstr "જુઓ ફાયર પ્રકાર"
+
+msgid "Add Help"
+msgstr "મદદ ઉમેરો"
+
+msgid "Approve Help"
+msgstr "મદદ મંજૂર"
+
+msgid "Edit Help"
+msgstr "ફેરફાર કરો મદદ"
+
+msgid "New Help"
+msgstr "ન્યૂ મદદ"
+
+msgid "View Help"
+msgstr "જુઓ મદદ"
+
+msgid "Table Name"
+msgstr "ટેબલ નામ"
+
+msgid "Action Name"
+msgstr "ક્રિયા નામ"
+
+msgid "Help Text"
+msgstr "મદદ લખાણ"
+
+msgid "Sequence"
+msgstr "સિક્વન્સ"
+
+msgid "Edit History"
+msgstr "ફેરફાર કરો ઇતિહાસ"
+
+msgid "Add History"
+msgstr "ઇતિહાસ ઉમેરો"
+
+msgid "Approve History"
+msgstr "ઇતિહાસ મંજૂર"
+
+msgid "New History"
+msgstr "નવો ઇતિહાસ"
+
+msgid "View History"
+msgstr "જુઓ ઇતિહાસ"
+
+msgid "Get Values"
+msgstr "મૂલ્યો મેળવો"
+
+msgid "Post Values"
+msgstr "પોસ્ટ મૂલ્યો"
+
+msgid "Department Id"
+msgstr "વિભાગ આઈડી"
+
+msgid "Add Housekeeping Checklist"
+msgstr "ગૃહ વ્યવસ્થા ચેકલિસ્ટ ઉમેરો"
+
+msgid "Approve Housekeeping Checklist"
+msgstr "ગૃહ વ્યવસ્થા ચેકલિસ્ટ મંજૂર"
+
+msgid "Edit Housekeeping Checklist"
+msgstr "ફેરફાર કરો ગૃહ વ્યવસ્થા ચેકલિસ્ટ"
+
+msgid "New Housekeeping Checklist"
+msgstr "ન્યૂ ગૃહ વ્યવસ્થા ચેકલિસ્ટ"
+
+msgid "View Housekeeping Checklist"
+msgstr "જુઓ ગૃહ વ્યવસ્થા ચેકલિસ્ટ"
+
+msgid "Add Housekeeping Responsibility"
+msgstr "ગૃહ વ્યવસ્થા જવાબદારી ઉમેરો"
+
+msgid "Schedule"
+msgstr "સૂચિ"
+
+msgid "Approve Housekeeping Responsibility"
+msgstr "ગૃહ વ્યવસ્થા જવાબદારી મંજૂર"
+
+msgid "Edit Housekeeping Responsibility"
+msgstr "ફેરફાર કરો ગૃહ વ્યવસ્થા જવાબદારી"
+
+msgid "New Housekeeping Responsibility"
+msgstr "ન્યૂ ગૃહ વ્યવસ્થા જવાબદારી"
+
+msgid "View Housekeeping Responsibility"
+msgstr "જુઓ ગૃહ વ્યવસ્થા જવાબદારી"
+
+msgid "Add Housekeeping"
+msgstr "ગૃહ વ્યવસ્થા ઉમેરો"
+
+msgid "Approve Housekeeping"
+msgstr "ગૃહ વ્યવસ્થા મંજૂર"
+
+msgid "Edit Housekeeping"
+msgstr "ફેરફાર કરો ગૃહ વ્યવસ્થા"
+
+msgid "Housekeeping Description"
+msgstr "ગૃહ વ્યવસ્થા વર્ણન"
+
+msgid "New Housekeeping"
+msgstr "ન્યૂ ગૃહ વ્યવસ્થા"
+
+msgid "View Housekeeping"
+msgstr "જુઓ ગૃહ વ્યવસ્થા"
+
+msgid "Housekeeping Responsibility"
+msgstr "ગૃહ વ્યવસ્થા જવાબદારી"
+
+msgid "Add Internal Audit Detail"
+msgstr "આંતરિક ઓડિટ વિગતવાર ઉમેરો"
+
+msgid "Internal Audit"
+msgstr "આંતરિક ઓડિટ"
+
+msgid "Question"
+msgstr "પ્રશ્ન"
+
+msgid "Findings"
+msgstr "તારણ"
+
+msgid "Clause Number"
+msgstr "કલમ સંખ્યા"
+
+msgid "Approve Internal Audit Detail"
+msgstr "આંતરિક ઓડિટ વિગતવાર મંજૂર"
+
+msgid "Edit Internal Audit Detail"
+msgstr "ફેરફાર કરો આંતરિક ઓડિટ વિગતવાર"
+
+msgid "New Internal Audit Detail"
+msgstr "ન્યૂ આંતરિક ઓડિટ વિગતવાર"
+
+msgid "View Internal Audit Detail"
+msgstr "આંતરિક ઓડિટ વિગતવાર જુઓ"
+
+msgid "Add Internal Audit Plan Branch"
+msgstr "આંતરિક ઓડિટ યોજના શાખા ઉમેરો"
+
+msgid "Approve Internal Audit Plan Branch"
+msgstr "આંતરિક ઓડિટ યોજના શાખા મંજૂર"
+
+msgid "Edit Internal Audit Plan Branch"
+msgstr "ફેરફાર કરો આંતરિક ઓડિટ યોજના શાખા"
+
+msgid "New Internal Audit Plan Branch"
+msgstr "ન્યૂ આંતરિક ઓડિટ યોજના શાખા"
+
+msgid "View Internal Audit Plan Branch"
+msgstr "જુઓ આંતરિક ઓડિટ યોજના શાખા"
+
+msgid "List Of Trained Internal Auditor"
+msgstr "તાલીમ આંતરિક ઓડિટર યાદી"
+
+msgid "Add Internal Audit Plan Department"
+msgstr "આંતરિક ઓડિટ યોજના વિભાગ ઉમેરો"
+
+msgid "Approve Internal Audit Plan Department"
+msgstr "આંતરિક ઓડિટ યોજના વિભાગ મંજૂર"
+
+msgid "Edit Internal Audit Plan Department"
+msgstr "ફેરફાર કરો આંતરિક ઓડિટ યોજના વિભાગ"
+
+msgid "New Internal Audit Plan Department"
+msgstr "ન્યૂ આંતરિક ઓડિટ યોજના વિભાગ"
+
+msgid "View Internal Audit Plan Department"
+msgstr "જુઓ આંતરિક ઓડિટ યોજના વિભાગ"
+
+msgid "Add Internal Audit Plan"
+msgstr "આંતરિક ઓડિટ યોજના ઉમેરો"
+
+msgid "Audit Date"
+msgstr "ઓિડટ તારીખ"
+
+msgid "Audit From"
+msgstr "ઓડિટ"
+
+msgid "Audit To"
+msgstr "માટે ઓડિટ"
+
+msgid "Approve Internal Audit Plan"
+msgstr "આંતરિક ઓડિટ યોજના મંજૂર"
+
+msgid "Edit Internal Audit Plan"
+msgstr "ફેરફાર કરો આંતરિક ઓડિટ યોજના"
+
+msgid "Create schedule"
+msgstr "શેડ્યૂલ બનાવો"
+
+msgid "View Internal Audit Plan"
+msgstr "આંતરિક ઓડિટ યોજના જુઓ"
+
+msgid "Auditee"
+msgstr "ઓિડટ કરનાર"
+
+msgid "Auditor"
+msgstr "ઓડિટર"
+
+msgid "Show on Timeline"
+msgstr "સમયરેખા પર બતાવો"
+
+msgid "Notify Users"
+msgstr "વપરાશકર્તાઓને સૂચન"
+
+msgid "Notify Users Via Emails"
+msgstr "ઇમેઇલ્સ મારફતે વપરાશકર્તાઓને સૂચન"
+
+msgid "Add Internal Audit"
+msgstr "આંતરિક ઓડિટ ઉમેરો"
+
+msgid "Capa Priority"
+msgstr "Capa પ્રાધાન્યતા"
+
+msgid "Approve Internal Audit"
+msgstr "આંતરિક ઓડિટ મંજૂર"
+
+msgid "Edit Internal Audit"
+msgstr "ફેરફાર કરો આંતરિક ઓડિટ"
+
+msgid "New Internal Audit"
+msgstr "ન્યૂ આંતિરક ઓિડટ"
+
+msgid "View Internal Audit"
+msgstr "આંતરિક ઓડિટ જુઓ"
+
+msgid "Add Internet Usage Detail"
+msgstr "ઈન્ટરનેટ વપરાશ વિગતવાર ઉમેરો"
+
+msgid "Approve Internet Usage Detail"
+msgstr "ઈન્ટરનેટ વપરાશ વિગતવાર મંજૂર"
+
+msgid "Edit Internet Usage Detail"
+msgstr "ફેરફાર કરો ઇન્ટરનેટ વપરાશ વિગતવાર"
+
+msgid "New Internet Usage Detail"
+msgstr "નવી ઈન્ટરનેટ વપરાશ વિગતવાર"
+
+msgid "View Internet Usage Detail"
+msgstr "જુઓ ઈન્ટરનેટ વપરાશ વિગતવાર"
+
+msgid "Internet Provider Name"
+msgstr "ઇન્ટરનેટ પ્રદાતા નામ"
+
+msgid "Plan Details"
+msgstr "યોજના વિગતો"
+
+msgid "From Date"
+msgstr "તારીખથી"
+
+msgid "To Date"
+msgstr "તારીખ કરવા માટે"
+
+msgid "Download"
+msgstr "ડાઉનલોડ કરો"
+
+msgid "Add Language"
+msgstr "ભાષા ઉમેરો"
+
+msgid "Approve Language"
+msgstr "ભાષા મંજૂર"
+
+msgid "Edit Language"
+msgstr "ફેરફાર કરો ભાષા"
+
+msgid "New Language"
+msgstr "નવી ભાષા"
+
+msgid "View Language"
+msgstr "જુઓ ભાષા"
+
+msgid "Welcome"
+msgstr "સ્વાગત"
+
+msgid "A request to reset your password was sent. To change your password click the link below."
+msgstr "તમારો પાસવર્ડ રીસેટ કરવા વિનંતિ મોકલવામાં આવ્યો હતો. તમારો પાસવર્ડ બદલવા માટે નીચેની લિંકને ક્લિક કરો."
+
+msgid "Add List Of Acceptable Supplier"
+msgstr "સ્વીકાર્ય સપ્લાયર યાદી ઉમેરો"
+
+msgid "Add Acceptable Supplier"
+msgstr "સ્વીકાર્ય સપ્લાયર ઉમેરો"
+
+msgid "Supplier Category"
+msgstr "પુરવઠોકર્તા વર્ગ"
+
+msgid "Approve Acceptable Supplier"
+msgstr "સ્વીકાર્ય સપ્લાયર મંજૂર"
+
+msgid "Edit Acceptable Supplier"
+msgstr "સ્વીકાર્ય સપ્લાયર સંપાદિત કરો"
+
+msgid "New Acceptable Supplier"
+msgstr "ન્યૂ સ્વીકાર્ય પુરવઠોકર્તા"
+
+msgid "View Acceptable Supplier"
+msgstr "સ્વીકાર્ય સપ્લાયર જુઓ"
+
+msgid "Add Computer Software"
+msgstr "કમ્પ્યુટર સોફ્ટવેર ઉમેરો"
+
+msgid "Software Name"
+msgstr "સોફ્ટવેર નામ"
+
+msgid "Approve Computer Software"
+msgstr "કમ્પ્યુટર સોફ્ટવેર મંજૂર"
+
+msgid "Edit Computer Software"
+msgstr "ફેરફાર કરો કમ્પ્યુટર સોફ્ટવેર"
+
+msgid "New Computer Software"
+msgstr "નવા કમ્પ્યુટર સોફ્ટવેર"
+
+msgid "View Computer Software"
+msgstr "જુઓ કમ્પ્યુટર સોફ્ટવેર"
+
+msgid "Installation Date"
+msgstr "સ્થાપન તારીખ"
+
+msgid "Add List Of Computer"
+msgstr "કોમ્પ્યુટર યાદી ઉમેરો"
+
+msgid "Add Computer"
+msgstr "કમ્પ્યુટર ઉમેરો"
+
+msgid "Serial Number"
+msgstr "શૃંખલા ક્રમાંક"
+
+msgid "Make"
+msgstr "બનાવો"
+
+msgid "Price"
+msgstr "ભાવ"
+
+msgid "Software"
+msgstr "સોફ્ટવેર"
+
+msgid "Supplier Registration"
+msgstr "સપ્લાયર નોંધણી"
+
+msgid "Approve Computer"
+msgstr "કમ્પ્યુટર મંજૂર"
+
+msgid "Edit Computer"
+msgstr "ફેરફાર કરો કમ્પ્યુટર"
+
+msgid "New Computer"
+msgstr "નવા કમ્પ્યુટર"
+
+msgid "View List Of Computer"
+msgstr "કોમ્પ્યુટર જુઓ યાદી"
+
+msgid "List of Installed Software"
+msgstr "સ્થાપિત થયેલ સોફ્ટવેર યાદી"
+
+msgid "Add List Of Measuring Devices For Calibration"
+msgstr "કૅલિબ્રેશન માટે ઉપકરણો માપવાની યાદી ઉમેરો"
+
+msgid "Add Measuring Devices For Calibration"
+msgstr "કૅલિબ્રેશન માટે ઉપકરણો માપન ઉમેરો"
+
+msgid "Approve Measuring Devices For Calibration"
+msgstr "કૅલિબ્રેશન માટે ઉપકરણો માપન મંજૂર"
+
+msgid "Edit Measuring Devices For Calibration"
+msgstr "કૅલિબ્રેશન તેમાં ફેરફાર માપ ઉપકરણો"
+
+msgid "Device Holder"
+msgstr "ઉપકરણ ધારક"
+
+msgid "Last Calibration Date"
+msgstr "છેલ્લા માપાંકન તારીખ"
+
+msgid "New Measuring Devices For Calibration"
+msgstr "કૅલિબ્રેશન માટે નવી માપ ઉપકરણો"
+
+msgid "View Measuring Devices For Calibration"
+msgstr "કૅલિબ્રેશન જુઓ માપ ઉપકરણો"
+
+msgid "Add List Of Software"
+msgstr "સોફ્ટવેર ઉમેરો યાદી"
+
+msgid "Add Software"
+msgstr "સોફ્ટવેર ઉમેરો"
+
+msgid "Software Type"
+msgstr "સોફ્ટવેર પ્રકાર"
+
+msgid "License Key"
+msgstr "લાઇસન્સ કી"
+
+msgid "Storage Device Number"
+msgstr "સંગ્રહ ઉપકરણ સંખ્યા"
+
+msgid "Software Usage"
+msgstr "સોફ્ટવેર વપરાશ"
+
+msgid "Software Details"
+msgstr "સોફ્ટવેર વિગતો"
+
+msgid "Backup Required"
+msgstr "બેકઅપ જરૂરી"
+
+msgid "Approve List Of Software"
+msgstr "સોફ્ટવેર યાદી મંજૂર"
+
+msgid "Edit List Of Software"
+msgstr "સોફ્ટવેર ફેરફાર કરો યાદી"
+
+msgid "New Software"
+msgstr "નવા સોફ્ટવેર"
+
+msgid "New Software Type"
+msgstr "નવા સોફ્ટવેર પ્રકાર"
+
+msgid "View List Of Software"
+msgstr "સોફ્ટવેર સૂચિ જુઓ"
+
+msgid "Add List Of Trained Internal Auditor"
+msgstr "તાલીમ આંતરિક ઓડિટર ઓફ યાદી ઉમેરો"
+
+msgid "Approve List Of Trained Internal Auditor"
+msgstr "તાલીમ આંતરિક ઓડિટર ઓફ યાદી મંજૂર"
+
+msgid "Edit List Of Trained Internal Auditor"
+msgstr "તાલીમ આંતરિક ઓડિટર ઓફ ફેરફાર કરો યાદી"
+
+msgid "New List Of Trained Internal Auditor"
+msgstr "તાલીમ આંતરિક ઓડિટર ઓફ ન્યૂ યાદી"
+
+msgid "View List Of Trained Internal Auditor"
+msgstr "તાલીમ આંતરિક ઓડિટર સૂચિ જુઓ"
+
+msgid "Add Master List Of Format Branch"
+msgstr "ફોર્મેટ શાખાની માસ્ટર યાદી ઉમેરો"
+
+msgid "Approve Master List Of Format Branch"
+msgstr "ફોર્મેટ શાખાની માસ્ટર યાદી મંજૂર"
+
+msgid "Edit Master List Of Format Branch"
+msgstr "ફોર્મેટ શાખાની ફેરફાર કરો માસ્ટર યાદી"
+
+msgid "New Master List Of Format Branch"
+msgstr "ફોર્મેટ શાખાની નવી માસ્ટર યાદી"
+
+msgid "View Master List Of Format Branch"
+msgstr "ફોર્મેટ શાખાની જુઓ માસ્ટર યાદી"
+
+msgid "Add Master List Of Format Department"
+msgstr "ફોર્મેટ વિભાગના માસ્ટર યાદી ઉમેરો"
+
+msgid "Approve Master List Of Format Department"
+msgstr "ફોર્મેટ વિભાગના માસ્ટર યાદી મંજૂર"
+
+msgid "Edit Master List Of Format Department"
+msgstr "ફોર્મેટ વિભાગના ફેરફાર કરો માસ્ટર યાદી"
+
+msgid "New Master List Of Format Department"
+msgstr "ફોર્મેટ વિભાગના નવા મુખ્ય યાદી"
+
+msgid "View Master List Of Format Department"
+msgstr "ફોર્મેટ વિભાગના જુઓ માસ્ટર યાદી"
+
+msgid "Add Master List Of Format Distributor"
+msgstr "ફોર્મેટ ડિસ્ટ્રીબ્યુટર માસ્ટર યાદી ઉમેરો"
+
+msgid "Approve Master List Of Format Distributor"
+msgstr "ફોર્મેટ ડિસ્ટ્રીબ્યુટર માસ્ટર યાદી મંજૂર"
+
+msgid "Edit Master List Of Format Distributor"
+msgstr "ફોર્મેટ ડિસ્ટ્રીબ્યુટર ઓફ ફેરફાર કરો માસ્ટર યાદી"
+
+msgid "New Master List Of Format Distributor"
+msgstr "ફોર્મેટ ડિસ્ટ્રીબ્યુટર ઓફ ન્યૂ માસ્ટર યાદી"
+
+msgid "View Master List Of Format Distributor"
+msgstr "ફોર્મેટ ડિસ્ટ્રીબ્યુટર જુઓ માસ્ટર યાદી"
+
+msgid "Add Master List Of Format"
+msgstr "બંધારણની માસ્ટર યાદી ઉમેરો"
+
+msgid "Approve Master List Of Format"
+msgstr "બંધારણની માસ્ટર યાદી મંજૂર"
+
+msgid "Edit Master List Of Format"
+msgstr "બંધારણની ફેરફાર કરો માસ્ટર યાદી"
+
+msgid "New Master List Of Format"
+msgstr "બંધારણની નવી માસ્ટર યાદી"
+
+msgid "View Master List Of Format"
+msgstr "બંધારણની જુઓ માસ્ટર યાદી"
+
+msgid "Archived"
+msgstr "આર્કાઇવ"
+
+msgid "Add Master List Of Work Instruction"
+msgstr "કામ સૂચના માસ્ટર યાદી ઉમેરો"
+
+msgid "Edit Master List Of Work Instruction"
+msgstr "કામ સૂચના ફેરફાર કરો માસ્ટર યાદી"
+
+msgid "New Master List Of Work Instruction"
+msgstr "કામ સૂચના નવી માસ્ટર યાદી"
+
+msgid "View Master List Of Work Instruction"
+msgstr "કામ સૂચના જુઓ માસ્ટર યાદી"
+
+msgid "Add Material List With Shelf Life"
+msgstr "શેલ્ફ જીવન સાથે સામગ્રી યાદી ઉમેરો"
+
+msgid "Approve Material List With Shelf Life"
+msgstr "શેલ્ફ જીવન સાથે સામગ્રી યાદી મંજૂર"
+
+msgid "Edit Material List With Shelf Life"
+msgstr "શેલ્ફ જીવન સાથે ફેરફાર કરો સામગ્રી યાદી"
+
+msgid "New Material List With Shelf Life"
+msgstr "શેલ્ફ જીવન સાથે નવી સામગ્રી યાદી"
+
+msgid "View Material List With Shelf Life"
+msgstr "શેલ્ફ જીવન સાથે જુઓ સામગ્રી યાદી"
+
+msgid "Material"
+msgstr "દ્રવ્ય"
+
+msgid "Shelflife By Manufacturer"
+msgstr "ઉત્પાદક દ્વારા Shelflife"
+
+msgid "Shelflife By Company"
+msgstr "Shelflife દ્વારા કંપની"
+
+msgid "Add Material"
+msgstr "સામગ્રી ઉમેરો"
+
+msgid "Approve Material"
+msgstr "સામગ્રી મંજૂર"
+
+msgid "Edit Material"
+msgstr "ફેરફાર કરો સામગ્રી"
+
+msgid "New Material"
+msgstr "નવી સામગ્રી"
+
+msgid "View Material"
+msgstr "જુઓ સામગ્રી"
+
+msgid "Add Meeting Branch"
+msgstr "સભા શાખા ઉમેરો"
+
+msgid "Approve Meeting Branch"
+msgstr "સભા શાખા મંજૂર"
+
+msgid "Edit Meeting Branch"
+msgstr "ફેરફાર કરો સભા શાખા"
+
+msgid "New Meeting Branch"
+msgstr "ન્યૂ સભા શાખા"
+
+msgid "View Meeting Branch"
+msgstr "જુઓ સભા શાખા"
+
+msgid "Meeting"
+msgstr "બેઠક"
+
+msgid "Add Meeting Department"
+msgstr "સભા વિભાગ ઉમેરો"
+
+msgid "Approve Meeting Department"
+msgstr "સભા વિભાગ મંજૂર"
+
+msgid "Edit Meeting Department"
+msgstr "ફેરફાર કરો સભા વિભાગ"
+
+msgid "New Meeting Department"
+msgstr "ન્યૂ સભા વિભાગ"
+
+msgid "View Meeting Department"
+msgstr "સભા વિભાગ જુઓ"
+
+msgid "Add Meeting Employee"
+msgstr "સભા કર્મચારી ઉમેરો"
+
+msgid "Approve Meeting Employee"
+msgstr "સભા કર્મચારી મંજૂર"
+
+msgid "Edit Meeting Employee"
+msgstr "ફેરફાર કરો સભા કર્મચારી"
+
+msgid "New Meeting Employee"
+msgstr "ન્યૂ સભા કર્મચારી"
+
+msgid "View Meeting Employee"
+msgstr "જુઓ સભા કર્મચારી"
+
+msgid "Add Meeting Topic"
+msgstr "સભા વિષય ઉમેરો"
+
+msgid "Approve Meeting Topic"
+msgstr "સભા વિષય મંજૂર"
+
+msgid "Edit Meeting Topic"
+msgstr "ફેરફાર કરો સભા વિષય"
+
+msgid "New Meeting Topic"
+msgstr "ન્યૂ સભા વિષય"
+
+msgid "View Meeting Topic"
+msgstr "જુઓ સભા વિષય"
+
+msgid "Action Plan"
+msgstr "એક્શન પ્લાન"
+
+msgid "Add Meeting"
+msgstr "સભા ઉમેરો"
+
+msgid "Topic"
+msgstr "વિષય"
+
+msgid "Previous Meeting"
+msgstr "પાછલી બેઠક"
+
+msgid "Agenda"
+msgstr "એજન્ડા"
+
+msgid "Would you like to include these recent Document Change Request's in your current meeting ?"
+msgstr "તમે તમારી વર્તમાન બેઠકમાં આ હાલ દસ્તાવેજ બદલવાની માગણી માતાનો સમાવેશ થાય છે કરવા માંગો છો?"
+
+msgid "Add To Meeting ?"
+msgstr "સભા ઉમેરો?"
+
+msgid "Doc Number"
+msgstr "ડૉક સંખ્યા"
+
+msgid "Would you like to include these Customer Complaint's in your current meeting ?"
+msgstr "તમે તમારી વર્તમાન બેઠકમાં આ ગ્રાહક ફરિયાદ માતાનો સમાવેશ થાય છે કરવા માંગો છો?"
+
+msgid "Customer Name"
+msgstr "ગ્રાહક નામ"
+
+msgid "Would you like to include these NC's in your current meeting ?"
+msgstr "તમે તમારી વર્તમાન બેઠકમાં આ એનસી માતાનો સમાવેશ થાય છે કરવા માંગો છો?"
+
+msgid "Category"
+msgstr "કક્ષા"
+
+msgid "Would you like to include these Supplier Evaluations in your current meeting ?"
+msgstr "તમે તમારી વર્તમાન બેઠકમાં આ સપ્લાયર મૂલ્યાંકનોને સમાવેશ થાય છે કરવા માંગો છો?"
+
+msgid "Remark"
+msgstr "રીમાર્ક"
+
+msgid "Evaluation By"
+msgstr "મૂલ્યાંકન દ્વારા"
+
+msgid "Evaluation Date"
+msgstr "મૂલ્યાંકન તારીખ"
+
+msgid "Pending Meeting Actions"
+msgstr "બાકી રહેલ ક્રિયાઓ સભા"
+
+msgid "Meeting Topic"
+msgstr "વિષય સભા"
+
+msgid "Topic Type"
+msgstr "વિષય પ્રકાર"
+
+msgid "Meeting Scheduled From"
+msgstr "સુનિશ્ચિત થયેલ સભા"
+
+msgid "Meeting Scheduled To"
+msgstr "માટે નિર્ધારિત બેઠક"
+
+msgid "Chairperson"
+msgstr "અધ્યક્ષ"
+
+msgid "Invitees"
+msgstr "બોલાવવા"
+
+msgid "Add Meeting Details"
+msgstr "સભા વિગતો ઉમેરો"
+
+msgid "Approve Meeting"
+msgstr "સભા મંજૂર"
+
+msgid "Corrective Action Preventive Actions"
+msgstr "સુધારાત્મક ક્રિયા પ્રિવેન્ટિવ ક્રિયાઓ"
+
+msgid "Supplier Evaluation Re-Evaluation"
+msgstr "સપ્લાયર મૂલ્યાંકન પુનઃ મૂલ્યાંકન"
+
+msgid "Attendee"
+msgstr "પ્રતિભાગી"
+
+msgid "Edit Meeting"
+msgstr "ફેરફાર કરો સભા"
+
+msgid "New Meeting"
+msgstr "ન્યૂ સભા"
+
+msgid "Meeting From"
+msgstr "પ્રતિ બેઠક"
+
+msgid "Meeting To"
+msgstr "માટે બેઠક"
+
+msgid "Attendees"
+msgstr "પ્રતિભાગીઓ"
+
+msgid "Meeting Detail"
+msgstr "વિગતવાર સભા"
+
+msgid "View Meeting"
+msgstr "જુઓ સભા"
+
+msgid "Meeting Actual From"
+msgstr "ખરેખર બેઠક"
+
+msgid "Meeting Actual To"
+msgstr "એ વખતે વા તિવક સભા"
+
+msgid "Meeting Topics"
+msgstr "વિષયો સભા"
+
+msgid "Add Message User Inbox"
+msgstr "સંદેશ વપરાશકર્તા ઇનબૉક્સ ઉમેરો"
+
+msgid "Message User Inboxes"
+msgstr "સંદેશ વપરાશકર્તા ઇન્બોક્સેસને"
+
+msgid "Export"
+msgstr "નિકાસ"
+
+msgid "Approve Message User Inbox"
+msgstr "સંદેશ વપરાશકર્તા ઇનબૉક્સ મંજૂર"
+
+msgid "Edit Message User Inbox"
+msgstr "ફેરફાર કરો સંદેશ વપરાશકર્તા ઇનબૉક્સ"
+
+msgid "View"
+msgstr "જુઓ"
+
+msgid "View "
+msgstr "જુઓ "
+
+msgid "Edit "
+msgstr "ફેરફાર કરો "
+
+msgid "Delete "
+msgstr "કાઢી નાખો "
+
+msgid "Are you sure you want to delete # %s?"
+msgstr "શું તમે ખરેખર # કાઢી નાખવા માંગો છો %s ?"
+
+msgid "New Message User Inbox"
+msgstr "નવો સંદેશ વપરાશકર્તા ઇનબૉક્સ"
+
+msgid "Add Message"
+msgstr "સંદેશ ઉમેરો"
+
+msgid "Upload Evedance"
+msgstr "અપલોડ કરો Evedance"
+
+msgid "Message User Inbox"
+msgstr "સંદેશ વપરાશકર્તા ઇનબૉક્સ"
+
+msgid "Id"
+msgstr "આઈડી"
+
+msgid "Message"
+msgstr "સંદેશા"
+
+msgid "Trackingid"
+msgstr "Trackingid"
+
+msgid "Created"
+msgstr "તારીખ"
+
+msgid "Add Message User Sent"
+msgstr "સંદેશ મોકલ્યો વપરાશકર્તા ઉમેરો"
+
+msgid "Message User Sents"
+msgstr "સંદેશ વપરાશકર્તા Sents"
+
+msgid "Approve Message User Sent"
+msgstr "સંદેશ મોકલ્યો વપરાશકર્તા મંજૂર"
+
+msgid "Edit Message User Sent"
+msgstr "મોકલ્યું ફેરફાર કરો સંદેશ વપરાશકર્તા"
+
+msgid "New Message User Sent"
+msgstr "મોકલ્યું નવો સંદેશ વપરાશકર્તા"
+
+msgid "Trash"
+msgstr "કચરાપેટી"
+
+msgid "Add Message User Thrash"
+msgstr "સંદેશ વપરાશકર્તા મારવું ઉમેરો"
+
+msgid "Message User Thrashes"
+msgstr "સંદેશ વપરાશકર્તા Thrashes"
+
+msgid "Approve Message User Thrash"
+msgstr "સંદેશ વપરાશકર્તા મારવું મંજૂર"
+
+msgid "Edit Message User Thrash"
+msgstr "ફેરફાર કરો સંદેશ વપરાશકર્તા મારવું"
+
+msgid "New Message User Thrash"
+msgstr "નવો સંદેશ વપરાશકર્તા મારવું"
+
+msgid "Are you sure you want to delete : %s?"
+msgstr "શું તમે ખરેખર કાઢી નાખવા માગો છો: %s ?"
+
+msgid "Send"
+msgstr "મોકલો"
+
+msgid "Messages"
+msgstr "સંદેશાઓ"
+
+msgid "Approve Message"
+msgstr "સંદેશ મંજૂર"
+
+msgid "Edit Message"
+msgstr "ફેરફાર કરો સંદેશ"
+
+msgid "List Messages"
+msgstr "યાદી સંદેશાઓ"
+
+msgid "List Users"
+msgstr "વપરાશકર્તાઓની યાદી આપે છે"
+
+msgid "New User"
+msgstr "નવી વપરાશકર્તા"
+
+msgid "List Message User Inboxes"
+msgstr "યાદી સંદેશ વપરાશકર્તા ઇન્બોક્સેસને"
+
+msgid "List Message User Sents"
+msgstr "યાદી સંદેશ વપરાશકર્તા Sents"
+
+msgid "List Message User Thrashes"
+msgstr "યાદી સંદેશ વપરાશકર્તા Thrashes"
+
+msgid "Move To Trash"
+msgstr "ટ્રૅશમાં ખસેડો"
+
+msgid "New Message"
+msgstr "નવો સંદેશ"
+
+msgid "Cancel"
+msgstr "રદ કરો"
+
+msgid "Subject"
+msgstr "વિષય"
+
+msgid "Flag"
+msgstr "ધ્વજ"
+
+msgid "Priority"
+msgstr "પ્રાધાન્યતા"
+
+msgid "Delete Message"
+msgstr "સંદેશ કાઢી નાખો"
+
+msgid "Related Message User Inboxes"
+msgstr "સંબંધિત સંદેશ વપરાશકર્તા ઇન્બોક્સેસને"
+
+msgid "Message Id"
+msgstr "સંદેશ આઈડી"
+
+msgid "User Id"
+msgstr "યુઝર આઈડી"
+
+msgid "Related Message User Sents"
+msgstr "સંબંધિત સંદેશ વપરાશકર્તા Sents"
+
+msgid "Are you sure you want move \"%s\" to Trash?"
+msgstr "શું તમે ખરેખર \ "ને ખસેડવામાં માંગો છો %s ટ્રૅશમાં \ "?"
+
+msgid "Related Message User Thrashes"
+msgstr "સંબંધિત સંદેશ વપરાશકર્તા Thrashes"
+
+msgid "Add Notification Type"
+msgstr "સૂચન પ્રકાર ઉમેરો"
+
+msgid "Approve Notification Type"
+msgstr "સૂચન પ્રકાર મંજૂર"
+
+msgid "Edit Notification Type"
+msgstr "ફેરફાર કરો સૂચના પ્રકાર"
+
+msgid "New Notification Type"
+msgstr "નવી સૂચન પ્રકાર"
+
+msgid "View Notification Type"
+msgstr "જુઓ સૂચન પ્રકાર"
+
+msgid "Add Notification User"
+msgstr "સૂચન વપરાશકર્તા ઉમેરો"
+
+msgid "Approve Notification User"
+msgstr "સૂચન વપરાશકર્તા મંજૂર"
+
+msgid "Edit Notification User"
+msgstr "ફેરફાર કરો સૂચના વપરાશકર્તા"
+
+msgid "New Notification User"
+msgstr "નવી સૂચન વપરાશકર્તા"
+
+msgid "View Notification User"
+msgstr "જુઓ સૂચન વપરાશકર્તા"
+
+msgid "Notification"
+msgstr "જાહેરનામું"
+
+msgid "Add Notification"
+msgstr "સૂચના ઉમેરો"
+
+msgid "Notify User"
+msgstr "વપરાશકર્તા સૂચિત"
+
+msgid "Approve Notification"
+msgstr "સૂચન મંજૂર"
+
+msgid "Edit Notification"
+msgstr "ફેરફાર કરો સૂચના"
+
+msgid "New Notification"
+msgstr "નવી સૂચન"
+
+msgid "View Notification"
+msgstr "જુઓ સૂચન"
+
+msgid "Notification Type"
+msgstr "સૂચના પ્રકાર"
+
+msgid "Start Date"
+msgstr "તારીખ શરૂ કરો"
+
+msgid "End Date"
+msgstr "સમાપ્તિ તારીખ"
+
+msgid "Add Order Details Form"
+msgstr "ઓર્ડર વિગતો ફોર્મ ઉમેરો"
+
+msgid "Approve Order Details Form"
+msgstr "ઓર્ડર વિગતો ફોર્મ મંજૂર"
+
+msgid "Edit Order Details Form"
+msgstr "ફેરફાર કરો ઓર્ડર વિગતો ફોર્મ"
+
+msgid "New Order Details Form"
+msgstr "ન્યૂ ઓર્ડર વિગતો ફોર્મ"
+
+msgid "View Order Details Form"
+msgstr "ઓર્ડર વિગતો ફોર્મ જોવા"
+
+msgid "Delivery Date"
+msgstr "ડ લવર તારીખ"
+
+msgid "Product"
+msgstr "પેદાશ"
+
+msgid "Delivery Challan"
+msgstr "ડ લવર ચલન"
+
+msgid "Add Order Register"
+msgstr "ઓર્ડર રજિસ્ટર ઉમેરો"
+
+msgid "Approve Order Register"
+msgstr "ઓર્ડર રજિસ્ટર મંજૂર"
+
+msgid "Edit Order Register"
+msgstr "ફેરફાર કરો ઓર્ડર રજિસ્ટર"
+
+msgid "New Order Register"
+msgstr "ન્યૂ ઓર્ડર રજિસ્ટર"
+
+msgid "View Order Register"
+msgstr "જુઓ ઓર્ડર રજિસ્ટર"
+
+msgid "Customer Details"
+msgstr "ગ્રાહક વિગતો"
+
+msgid "Order Reference Number"
+msgstr "ઓર્ડર સંદર્ભ સંખ્યા"
+
+msgid "Add Product"
+msgstr "ઉત્પાદન ઉમેરો"
+
+msgid "Approve Product"
+msgstr "ઉત્પાદન મંજૂર"
+
+msgid "Edit Product"
+msgstr "ફેરફાર કરો ઉત્પાદન"
+
+msgid "New Product"
+msgstr "નવા ઉત્પાદન"
+
+msgid "View Product"
+msgstr "જુઓ ઉત્પાદન"
+
+msgid "Approve Purchase Order Detail"
+msgstr "ખરીદી ઓર્ડર વિગતવાર મંજૂર"
+
+msgid "Edit Purchase Order Detail"
+msgstr "ફેરફાર કરો ખરીદી ઓર્ડર વિગતવાર"
+
+msgid "New Purchase Order Detail"
+msgstr "નવી ખરીદી ઓર્ડર વિગતવાર"
+
+msgid "View Purchase Order Detail"
+msgstr "જુઓ ખરીદી ઓર્ડર વિગતવાર"
+
+msgid "Item Number"
+msgstr "વસ્તુ સંખ્યા"
+
+msgid "Quantity Dispatch"
+msgstr "જથ્થો રવાનગી"
+
+msgid "Purchase Order Detail"
+msgstr "ખરીદી ઓર્ડર વિગતવાર"
+
+msgid "Add Purchase Order"
+msgstr "ઉમેરો ખરીદી ઓર્ડર"
+
+msgid "Order Detail"
+msgstr "ઓર્ડર વિગતવાર"
+
+msgid "Other"
+msgstr "અન્ય"
+
+msgid "Dicsount (% only)"
+msgstr "Dicsount (% માત્ર)"
+
+msgid "Outbound"
+msgstr "વિદેશ જનારું"
+
+msgid "Inbound"
+msgstr "ઈનબાઉન્ડ"
+
+msgid "Approve Purchase Order"
+msgstr "મંજૂર ખરીદી ઓર્ડર"
+
+msgid "Edit Purchase Order"
+msgstr "ફેરફાર કરો ખરીદી ઓર્ડર"
+
+msgid "View Purchase Order"
+msgstr "જુઓ ખરીદી ઓર્ડર"
+
+msgid "Expected Delivery Date"
+msgstr "અપેક્ષિત બોલ તારીખ"
+
+msgid "Order Details"
+msgstr "ઓર્ડર વિગતો"
+
+msgid "Product/ Device/ Other"
+msgstr "ઉત્પાદન / ઉપકરણ / અન્ય"
+
+msgid "Add Report"
+msgstr "રિપોર્ટ ઉમેરો"
+
+msgid "Approve Report"
+msgstr "રિપોર્ટ મંજૂર"
+
+msgid "Data Entry"
+msgstr "ડેટા એન્ટ્રી"
+
+msgid "Edit Report"
+msgstr "ફેરફાર કરો અહેવાલ"
+
+msgid "New Report"
+msgstr "ન્યૂ રિપોર્ટ"
+
+msgid "assigned_to"
+msgstr "assigned_to"
+
+msgid "initial_remarks"
+msgstr "initial_remarks"
+
+msgid "proposed_immidiate_action"
+msgstr "proposed_immidiate_action"
+
+msgid "completed_by"
+msgstr "completed_by"
+
+msgid "completion_remarks"
+msgstr "completion_remarks"
+
+msgid "root_cause"
+msgstr "root_cause"
+
+msgid "determined_by"
+msgstr "determined_by"
+
+msgid "determined_on_date"
+msgstr "determined_on_date"
+
+msgid "root_cause_remarks"
+msgstr "root_cause_remarks"
+
+msgid "proposed_longterm_action"
+msgstr "proposed_longterm_action"
+
+msgid "action_assigned_to"
+msgstr "action_assigned_to"
+
+msgid "action_completed_on_date"
+msgstr "action_completed_on_date"
+
+msgid "action_completion_remarks"
+msgstr "action_completion_remarks"
+
+msgid "effectiveness"
+msgstr "અસરકારકતા"
+
+msgid "closed_by"
+msgstr "closed_by"
+
+msgid "closed_on_date"
+msgstr "closed_on_date"
+
+msgid "closure_remarks"
+msgstr "closure_remarks"
+
+msgid "FlinkISO Report Center"
+msgstr "FlinkISO રિપોર્ટ કેન્દ્ર"
+
+msgid "Manual Reports"
+msgstr "મેન્યુઅલ અહેવાલ"
+
+msgid "Ready reports for"
+msgstr "માટે તૈયાર અહેવાલો"
+
+msgid "View Report"
+msgstr "જુઓ રિપોર્ટ"
+
+msgid "Report Date"
+msgstr "રિપોર્ટ તારીખ"
+
+msgid "Approve Schedule"
+msgstr "સૂચિ મંજૂર"
+
+msgid "Edit Schedule"
+msgstr "ફેરફાર કરો સૂચિ"
+
+msgid "New Schedule"
+msgstr "નવી સૂચિ"
+
+msgid "View Schedule"
+msgstr "જુઓ સૂચિ"
+
+msgid "Add Software Type"
+msgstr "સોફ્ટવેર પ્રકાર ઉમેરો"
+
+msgid "Approve Software Type"
+msgstr "સોફ્ટવેર પ્રકાર મંજૂર"
+
+msgid "Edit Software Type"
+msgstr "ફેરફાર કરો સોફ્ટવેર પ્રકાર"
+
+msgid "View Software Type"
+msgstr "જુઓ સોફ્ટવેર પ્રકાર"
+
+msgid "Add Suggestion Form"
+msgstr "સૂચન ફોર્મ ઉમેરો"
+
+msgid "Add New Suggestion"
+msgstr "નવી સૂચન ઉમેરો"
+
+msgid "Approve Suggestion Form"
+msgstr "સૂચન ફોર્મ મંજૂર"
+
+msgid "Edit Suggestion Form"
+msgstr "ફેરફાર કરો સૂચન ફોર્મ"
+
+msgid "New Suggestion Form"
+msgstr "નવી સૂચન ફોર્મ"
+
+msgid "View Suggestion Form"
+msgstr "જુઓ સૂચન ફોર્મ"
+
+msgid "Activity"
+msgstr "સક્રિયતા"
+
+msgid "Suggestion"
+msgstr "સૂચન"
+
+msgid "Add Summery Of Supplier Evaluation"
+msgstr "સપ્લાયર મૂલ્યાંકન Summery ઉમેરો"
+
+msgid "Add Summary Of Supplier Evaluation"
+msgstr "સપ્લાયર મૂલ્યાંકન સાર ઉમેરો"
+
+msgid "Date of Evaluation"
+msgstr "મૂલ્યાંકન તારીખ"
+
+msgid "Approve Summary Of Supplier Evaluation"
+msgstr "સપ્લાયર મૂલ્યાંકન સાર મંજૂર"
+
+msgid "Edit Summary Of Supplier Evaluation"
+msgstr "સપ્લાયર મૂલ્યાંકન ફેરફાર કરો સારાંશ"
+
+msgid "New Summary Of Supplier Evaluation"
+msgstr "સપ્લાયર મૂલ્યાંકન ન્યૂ સારાંશ"
+
+msgid "View Summary Of Supplier Evaluation"
+msgstr "સપ્લાયર મૂલ્યાંકન જુઓ સારાંશ"
+
+msgid "Add Supplier Category"
+msgstr "પુરવઠોકર્તા વર્ગ ઉમેરો"
+
+msgid "Approve Supplier Category"
+msgstr "પુરવઠોકર્તા વર્ગ મંજૂર"
+
+msgid "Edit Supplier Category"
+msgstr "ફેરફાર કરો પુરવઠોકર્તા વર્ગ"
+
+msgid "New Supplier Category"
+msgstr "નવી સપ્લાયર વર્ગ"
+
+msgid "View Supplier Category"
+msgstr "જુઓ પુરવઠોકર્તા વર્ગ"
+
+msgid "Add Supplier Evaluation Reevaluation"
+msgstr "સપ્લાયર મૂલ્યાંકન પુનઃમૂલ્યાંકન ઉમેરો"
+
+msgid "Quantity Supplied"
+msgstr "પાડેલ જથ્થો"
+
+msgid "Quantity Accepted"
+msgstr "સ્વીકારાયું જથ્થો"
+
+msgid "Required Delivery Date"
+msgstr "જરૂરી બોલ તારીખ"
+
+msgid "Actual Delivery Date"
+msgstr "ખરેખર બોલ તારીખ"
+
+msgid "Approve Supplier Evaluation Reevaluation"
+msgstr "સપ્લાયર મૂલ્યાંકન પુનઃમૂલ્યાંકન મંજૂર"
+
+msgid "Edit Supplier Evaluation Reevaluation"
+msgstr "ફેરફાર કરો સપ્લાયર મૂલ્યાંકન પુનઃમૂલ્યાંકન"
+
+msgid "Select Supplier from the list to evaluate."
+msgstr "મૂલ્યાંકન યાદીમાંથી સપ્લાયર પસંદ કરો."
+
+msgid "Type Of Company"
+msgstr "કંપનીના પ્રકાર"
+
+msgid "Contact Person Office"
+msgstr "વ્યક્તિ સંપર્ક કરો ઓફિસ"
+
+msgid "Work Telephone"
+msgstr "કામ ટેલિફોન"
+
+msgid "Office Fax"
+msgstr "ઓફિસ ફ"
+
+msgid "New Supplier Evaluation Reevaluation"
+msgstr "નવી સપ્લાયર મૂલ્યાંકન પુનઃમૂલ્યાંકન"
+
+msgid "View Supplier Evaluation Reevaluation"
+msgstr "જુઓ સપ્લાયર મૂલ્યાંકન પુનઃમૂલ્યાંકન"
+
+msgid "Delivery Challan No"
+msgstr "ડ લવર ચલન કોઈ"
+
+msgid "Add Supplier Registration"
+msgstr "સપ્લાયર નોંધણી ઉમેરો"
+
+msgid "Type Name of the Company"
+msgstr "કંપનીની પ્રકાર નામ"
+
+msgid "Registration Number or any other identidy number"
+msgstr "નોંધણી સંખ્યા અથવા અન્ય કોઇ identidy નંબર"
+
+msgid "Type of Company"
+msgstr "કંપનીના પ્રકાર"
+
+msgid "Office Details"
+msgstr "ઓફિસ વિગતો"
+
+msgid "Contact Person at Office"
+msgstr "ઓફિસ ખાતે વ્યક્તિ સંપર્ક કરો"
+
+msgid "Designation at Office"
+msgstr "ઓફિસ ખાતે હોદ્દો"
+
+msgid "Office Address"
+msgstr "ઓફિસ સરનામું"
+
+msgid "Office Weekly Off"
+msgstr "ઓફિસ અઠવાડિક બંધ"
+
+msgid "Factory / Workshop details"
+msgstr "ફેક્ટરી / વર્કશોપ વિગત"
+
+msgid "Contact Person at Workshop/Factory"
+msgstr "વર્કશોપ / ફેક્ટરી ખાતે વ્યક્તિ સંપર્ક કરો"
+
+msgid "Designation at Workshop/Factory"
+msgstr "વર્કશોપ / ફેક્ટરી ખાતે હોદ્દો"
+
+msgid "Workshop/Factory Address"
+msgstr "વર્કશોપ / ફેક્ટરી સરનામું"
+
+msgid "Workshop/Factory Telephone"
+msgstr "વર્કશોપ / ફેક્ટરી ટેલિફોન"
+
+msgid "Workshop/Factory Fax"
+msgstr "વર્કશોપ / ફેક્ટરી ફ"
+
+msgid "Workshop/Factory Weekly Off"
+msgstr "વર્કશોપ / ફેક્ટરી અઠવાડિક બંધ"
+
+msgid "Factory Details are the same as Office Details"
+msgstr "ફેક્ટરી વિગતો ઓફિસ વિગતો જેવા જ છે"
+
+msgid "Is supplier ISO certified?"
+msgstr "સપ્લાયર ISO પ્રમાણિત છે?"
+
+msgid "CST Registration Number"
+msgstr "સીએસટી નોંધણી સંખ્યા"
+
+msgid "ST Registration Number"
+msgstr "ST નોંધણી સંખ્યા"
+
+msgid "Income Tax Number"
+msgstr "આવકવેરા સંખ્યા"
+
+msgid "SSI Registration Number"
+msgstr "SSI નોંધણી સંખ્યા"
+
+msgid "Range of Products"
+msgstr "પ્રોડક્ટ્સ રેન્જ"
+
+msgid "Services Offered"
+msgstr "ઓફર સેવાઓ"
+
+msgid "Existing Facilities"
+msgstr "હાલની સુવિધાઓ"
+
+msgid "Prominent Customers"
+msgstr "અગ્રણી ગ્રાહકો"
+
+msgid "Quality Assurance"
+msgstr "ગુણવત્તા ખાતરી"
+
+msgid "Facility Comments"
+msgstr "સુવિધા ટિપ્પણીઓ"
+
+msgid "Supplier Representative"
+msgstr "સપ્લાયર પ્રતિનિધિ"
+
+msgid "Trial Order"
+msgstr "ટ્રાયલ ઓર્ડર"
+
+msgid "If the trial order result is satisfactory click YES from below.Supplier Selected as YES will be added to List of Acceptable Supplier's List"
+msgstr "ટ્રાયલ માટે પરિણામ હા તરીકે પસંદ below.Supplier થી સંતોષકારક ક્લિક હા હોય સ્વીકાર્ય સપ્લાયર યાદી યાદી અપાશે"
+
+msgid "Is supplier selected as Acceptable Supplier ?"
+msgstr "સપ્લાયર સ્વીકાર્ય સપ્લાયર તરીકે પસંદ થયેલ છે?"
+
+msgid "Select Category"
+msgstr "વર્ગ પસંદ કરો"
+
+msgid "Contact Person Work"
+msgstr "વ્યક્તિ સંપર્ક કરો કામ"
+
+msgid "Designation at Work"
+msgstr "એટ વર્ક હોદ્દો"
+
+msgid "Work Address"
+msgstr "કાર્યાલયનું સરનામું"
+
+msgid "Work Fax"
+msgstr "કાર્ય ફૅક્સ"
+
+msgid "Work Weekly Off"
+msgstr "કામ અઠવાડિક બંધ"
+
+msgid "Facilities"
+msgstr "સુવિધાઓ"
+
+msgid "Supplier Selected"
+msgstr "પસંદ પુરવઠોકર્તા"
+
+msgid "Name2"
+msgstr "NAME2"
+
+msgid "Designation2"
+msgstr "Designation2"
+
+msgid "Date2"
+msgstr "Date2"
+
+msgid "Approve Supplier Registration"
+msgstr "સપ્લાયર નોંધણી મંજૂર"
+
+msgid "Contact Person Workshop/Factory"
+msgstr "વ્યક્તિ સંપર્ક કરો વર્કશોપ / ફેક્ટરી"
+
+msgid "Edit Supplier Registration"
+msgstr "ફેરફાર કરો સપ્લાયર નોંધણી"
+
+msgid "New Supplier Registration"
+msgstr "નવી સપ્લાયર નોંધણી"
+
+msgid "View Supplier Registration"
+msgstr "જુઓ સપ્લાયર નોંધણી"
+
+msgid "Designition at Office"
+msgstr "ઓફિસ ખાતે Designition"
+
+msgid "Incometax Number"
+msgstr "Incometax સંખ્યા"
+
+msgid "Range Of Products"
+msgstr "ઉત્પાદનો રેન્જ"
+
+msgid "Add System Table"
+msgstr "સિસ્ટમ કોષ્ટક ઉમેરો"
+
+msgid "Approve System Table"
+msgstr "સિસ્ટમ કોષ્ટક મંજૂર"
+
+msgid "Edit System Table"
+msgstr "ફેરફાર કરે છે કોષ્ટક"
+
+msgid "New System Table"
+msgstr "નવી સિસ્ટમ કોષ્ટક"
+
+msgid "View System Table"
+msgstr "માટે સિસ્ટમ કોષ્ટક"
+
+msgid "System Name"
+msgstr "સિસ્ટમ નામ"
+
+msgid "Evidence Required"
+msgstr "જરૂરી પુરાવા"
+
+msgid "Approvals Required"
+msgstr "જરૂરી મંજૂરીઓ"
+
+msgid "Add Task Status"
+msgstr "કાર્ય સ્થિતિ ઉમેરો"
+
+msgid "Approve Task Status"
+msgstr "કાર્ય સ્થિતિ મંજૂર"
+
+msgid "Edit Task Status"
+msgstr "ફેરફાર કરો કાર્ય સ્થિતિ"
+
+msgid "Format"
+msgstr "માળખું"
+
+msgid "New Task Status"
+msgstr "નવા કાર્ય સ્થિતિ"
+
+msgid "Add Task"
+msgstr "ટાસ્ક ઉમેરો"
+
+msgid "View Task Status"
+msgstr "કાર્ય સ્થિતિને જુઓ"
+
+msgid "Task Date"
+msgstr "કાર્ય તારીખ"
+
+msgid "Approve Task"
+msgstr "કાર્ય મંજૂર"
+
+msgid "Edit Task"
+msgstr "ફેરફાર કરો કાર્ય"
+
+msgid "New Task"
+msgstr "નવા કાર્ય"
+
+msgid "View Task"
+msgstr "જુઓ કાર્ય"
+
+msgid "Sr No"
+msgstr "કોઈ ક્રમ"
+
+msgid "Add Timeline"
+msgstr "સમયરેખા ઉમેરો"
+
+msgid "Approve Timeline"
+msgstr "સમયરેખા મંજૂર"
+
+msgid "Edit Timeline"
+msgstr "ફેરફાર કરો સમયરેખા"
+
+msgid "New Timeline"
+msgstr "નવી ટાઈમલાઈન"
+
+msgid "View Timeline"
+msgstr "જુઓ સમયરેખા"
+
+msgid "Add Trainer Type"
+msgstr "ટ્રેનર પ્રકાર ઉમેરો"
+
+msgid "Approve Trainer Type"
+msgstr "ટ્રેનર પ્રકાર મંજૂર"
+
+msgid "Edit Trainer Type"
+msgstr "ફેરફાર કરો ટ્રેનર પ્રકાર"
+
+msgid "View Trainer Type"
+msgstr "ટ્રેનર પ્રકાર જુઓ"
+
+msgid "Add Trainer"
+msgstr "ટ્રેનર ઉમેરો"
+
+msgid "Trainer Type"
+msgstr "ટ્રેનર પ્રકાર"
+
+msgid "Approve Trainer"
+msgstr "ટ્રેનર મંજૂર"
+
+msgid "Edit Trainer"
+msgstr "ફેરફાર કરો ટ્રેનર"
+
+msgid "View Trainer"
+msgstr "જુઓ ટ્રેનર"
+
+msgid "Add Training Evaluation"
+msgstr "તાલીમ મૂલ્યાંકન ઉમેરો"
+
+msgid "Purpose of Training"
+msgstr "તાલીમ હેતુ"
+
+msgid "is it Fulfilled"
+msgstr "તે પૂરો થયો છે"
+
+msgid "Informative"
+msgstr "માહિતીપ્રદ"
+
+msgid "Improvement"
+msgstr "સુધારણા"
+
+msgid "Content"
+msgstr "વિષયવસ્‍તુ"
+
+msgid "Elaboration"
+msgstr "સુધારણા"
+
+msgid "Approve Training Evaluation"
+msgstr "તાલીમ મૂલ્યાંકન મંજૂર"
+
+msgid "Edit Training Evaluation"
+msgstr "ફેરફાર કરો તાલીમ મૂલ્યાંકન"
+
+msgid "New Training Evaluation"
+msgstr "નવી તાલીમ મૂલ્યાંકન"
+
+msgid "View Training Evaluation"
+msgstr "જુઓ તાલીમ મૂલ્યાંકન"
+
+msgid "Purpose Of Training"
+msgstr "તાલીમ હેતુ"
+
+msgid "Is It Fulfilled"
+msgstr "તે પૂરો થયો છે"
+
+msgid "Add Training Need Identification"
+msgstr "તાલીમ જરૂર ઓળખ ઉમેરો"
+
+msgid "Course"
+msgstr "અભ્યાસક્રમ"
+
+msgid "Approve Training Need Identification"
+msgstr "તાલીમ જરૂર ઓળખ મંજૂર"
+
+msgid "Edit Training Need Identification"
+msgstr "ફેરફાર કરો તાલીમ ઓળખ જરૂર છે"
+
+msgid "New Training Need Identification"
+msgstr "નવી તાલીમ જરૂર ઓળખ"
+
+msgid "View Training Need Identification"
+msgstr "જુઓ તાલીમ ઓળખ જરૂર છે"
+
+msgid "Trainings Attended"
+msgstr "હાજરી આપી તાલીમ"
+
+msgid "Training Details"
+msgstr "તાલીમ વિગતો"
+
+msgid "Training date"
+msgstr "તાલીમ તારીખ"
+
+msgid "Add Training Schedule Branch"
+msgstr "તાલીમ સૂચિ શાખા ઉમેરો"
+
+msgid "Approve Training Schedule Branch"
+msgstr "તાલીમ સૂચિ શાખા મંજૂર"
+
+msgid "Edit Training Schedule Branch"
+msgstr "ફેરફાર કરો તાલીમ સૂચિ શાખા"
+
+msgid "New Training Schedule Branch"
+msgstr "નવી તાલીમ સૂચિ શાખા"
+
+msgid "View Training Schedule Branch"
+msgstr "જુઓ તાલીમ સૂચિ શાખા"
+
+msgid "Training Schedule"
+msgstr "તાલીમ સૂચિ"
+
+msgid "Add Training Schedule Department"
+msgstr "તાલીમ સૂચિ વિભાગ ઉમેરો"
+
+msgid "Approve Training Schedule Department"
+msgstr "તાલીમ સૂચિ વિભાગ મંજૂર"
+
+msgid "Edit Training Schedule Department"
+msgstr "ફેરફાર કરો તાલીમ સૂચિ વિભાગ"
+
+msgid "New Training Schedule Department"
+msgstr "નવી તાલીમ સૂચિ વિભાગ"
+
+msgid "View Training Schedule Department"
+msgstr "જુઓ તાલીમ સૂચિ વિભાગ"
+
+msgid "Add Training Schedule Employee"
+msgstr "તાલીમ સૂચિ કર્મચારી ઉમેરો"
+
+msgid "Approve Training Schedule Employee"
+msgstr "તાલીમ સૂચિ કર્મચારી મંજૂર"
+
+msgid "Edit Training Schedule Employee"
+msgstr "ફેરફાર કરો તાલીમ સૂચિ કર્મચારી"
+
+msgid "New Training Schedule Employee"
+msgstr "નવી તાલીમ સૂચિ કર્મચારી"
+
+msgid "View Training Schedule Employee"
+msgstr "જુઓ તાલીમ સૂચિ કર્મચારી"
+
+msgid "Add Training Schedule"
+msgstr "તાલીમ સૂચિ ઉમેરો"
+
+msgid "Approve Training Schedule"
+msgstr "તાલીમ સૂચિ મંજૂર"
+
+msgid "Edit Training Schedule"
+msgstr "ફેરફાર કરો તાલીમ સૂચિ"
+
+msgid "New Training Schedule"
+msgstr "નવી તાલીમ સૂચિ"
+
+msgid "View Training Schedule"
+msgstr "જુઓ તાલીમ સૂચિ"
+
+msgid "Add Training Type"
+msgstr "તાલીમ પ્રકાર ઉમેરો"
+
+msgid "Approve Training Type"
+msgstr "તાલીમ પ્રકાર મંજૂર"
+
+msgid "Edit Training Type"
+msgstr "ફેરફાર કરો તાલીમ પ્રકાર"
+
+msgid "View Training Type"
+msgstr "જુઓ તાલીમ પ્રકાર"
+
+msgid "Training Description"
+msgstr "તાલીમ વર્ણન"
+
+msgid "Mandetory"
+msgstr "Mandetory"
+
+msgid "Add Training"
+msgstr "તાલીમ ઉમેરો"
+
+msgid "Training Title"
+msgstr "તાલીમ શીર્ષક"
+
+msgid "Course / Training"
+msgstr "અભ્યાસક્રમ / તાલીમ"
+
+msgid "Trainer"
+msgstr "તાલીમ - શિક્ષક"
+
+msgid "Training Type"
+msgstr "તાલીમ પ્રકાર"
+
+msgid "Start Date-Time"
+msgstr "તારીખ સમયનો પ્રારંભ"
+
+msgid "End Date-Time"
+msgstr "સમાપ્તિ તારીખ સમયનો"
+
+msgid "Approve Training"
+msgstr "તાલીમ મંજૂર"
+
+msgid "Edit Training"
+msgstr "ફેરફાર કરો તાલીમ"
+
+msgid "New Training"
+msgstr "નવી તાલીમ"
+
+msgid "New Trainer Types"
+msgstr "નવી ટ્રેનર પ્રકાર"
+
+msgid "New Trainers"
+msgstr "નવી તાલીમ"
+
+msgid "View Training"
+msgstr "જુઓ તાલીમ"
+
+msgid "Anttendees"
+msgstr "Anttendees"
+
+msgid "Start Date Time"
+msgstr "તારીખ સમય શરૂ કરો"
+
+msgid "End Date Time"
+msgstr "અંતે તારીખ સમય"
+
+msgid "Add Username Password Detail"
+msgstr "વપરાશકર્તા નામ પાસવર્ડ વિગતવાર ઉમેરો"
+
+msgid "Date Of Change"
+msgstr "બદલો તારીખ"
+
+msgid "Approve Username Password Detail "
+msgstr "વપરાશકર્તા નામ પાસવર્ડ વિગતવાર મંજૂર "
+
+msgid "Edit Username Password Detail "
+msgstr "ફેરફાર કરો વપરાશકર્તા નામ પાસવર્ડ વિગતવાર "
+
+msgid "New Username Password Detail"
+msgstr "નવો વપરાશકર્તા નામ પાસવર્ડ વિગતવાર"
+
+msgid "View Username Password Detail"
+msgstr "જુઓ વપરાશકર્તા નામ પાસવર્ડ વિગતવાર"
+
+msgid "You do not have sufficient permissions to access this page. <br/>Contact your administrator for permissions related issues."
+msgstr "આ ઍક્સેસ કરવા માટે પૂરતી પરવાનગી નથી. <br/> પરવાનગીઓ સંબંધી સમસ્યાઓ માટે તમારા વ્યવસ્થાપકનો સંપર્ક કરો."
+
+msgid "Login Details"
+msgstr "લૉગિન વિગતો"
+
+msgid "Choose Other Details"
+msgstr "અન્ય વિગતો પસંદ કરો"
+
+msgid "Choose User's Privileges"
+msgstr "વપરાશકર્તાઓના વિશેષાધિકારોની પસંદ કરો"
+
+msgid "New MR User"
+msgstr "ન્યૂ એમ.આર. વપરાશકર્તા"
+
+msgid "User who can see other user's records"
+msgstr "અન્ય વપરાશકર્તાની રેકોર્ડ કોણ જોઈ શકે તે વપરાશકર્તા"
+
+msgid "User who can approve data added by other users"
+msgstr "અન્ય વપરાશકર્તાઓ દ્વારા ઉમેરવામાં માહિતી મંજૂર કરી શકે છે જે વપરાશકર્તા"
+
+msgid "Benchmark:"
+msgstr "બેન્ચમાર્ક:"
+
+msgid "Estimated Data Entry Per Day From This User"
+msgstr "આ વપરાશકર્તા માંથી ડેટા એન્ટ્રી દીઠ દિવસ અંદાજિત"
+
+msgid "Copy permission from available user"
+msgstr "ઉપલબ્ધ વપરાશકર્તા માંથી નકલ પરવાનગી"
+
+msgid "Approve User"
+msgstr "વપરાશકર્તા મંજૂર"
+
+msgid "click here for more details"
+msgstr "વધુ વિગતો માટે અહીં ક્લિક કરો"
+
+msgid "Readiness"
+msgstr "તૈયારી"
+
+msgid "60% Complete (warning)"
+msgstr "60% પૂર્ણ (ચેતવણી)"
+
+msgid "View System Audit Trails"
+msgstr "માટે સિસ્ટમ ઓડિટ ટ્રેઇલ્સ"
+
+msgid "Set Benchmark"
+msgstr "બેન્ચમાર્ક સેટ કરો"
+
+msgid "Number of CAPAs"
+msgstr "CAPAs આઉટસ્ટેન્ડિંગની સંખ્યા"
+
+msgid "Open CAPAS"
+msgstr "ઓપન CAPAS"
+
+msgid "CAPAS Closed"
+msgstr "CAPAS બંધ"
+
+msgid "Number of document change requests"
+msgstr "દસ્તાવેજ બદલો અરજીઓની સંખ્યા"
+
+msgid "Number of NCs found"
+msgstr "મળી એનસીએસ આઉટસ્ટેન્ડિંગની સંખ્યા"
+
+msgid "Number of NCs resolved"
+msgstr "ઉકેલાઈ એનસીએસ આઉટસ્ટેન્ડિંગની સંખ્યા"
+
+msgid "Number of Customer Complaints received"
+msgstr "પ્રાપ્ત ગ્રાહક ફરિયાદો આઉટસ્ટેન્ડિંગની સંખ્યા"
+
+msgid "Number of Customer Complaints resolved"
+msgstr "ગ્રાહક ફરિયાદો સંખ્યા ઉકેલાઈ"
+
+msgid "Non Conformity Actions Required"
+msgstr "જરૂરી બિન કન્ફર્મિટી ક્રિયાઓ"
+
+msgid "Total Number of CAPAs assigned to you"
+msgstr "તમે સોંપેલ CAPAs કુલ સંખ્યા"
+
+msgid "Total Number of CAPAs open"
+msgstr "ઓપન CAPAs કુલ સંખ્યા"
+
+msgid "Total Number of CAPAs closed"
+msgstr "CAPAs કુલ સંખ્યા બંધ"
+
+msgid "Pending Approvals"
+msgstr "બાકી મંજૂરીઓ"
+
+msgid "About"
+msgstr "પરિચય"
+
+msgid "Date/Time"
+msgstr "તારીખ / સમય"
+
+msgid "Timeline"
+msgstr "સમયચક્ર"
+
+msgid "Record Graph"
+msgstr "રેકોર્ડ ગ્રાફ"
+
+msgid "Branch Graph"
+msgstr "શાખાની ગ્રાફ"
+
+msgid "Department Graph"
+msgstr "વિભાગ ગ્રાફ"
+
+msgid "Dashboard - Departmentwise (in % Actual data entry vs  Benchmark)"
+msgstr "ડેશબોર્ડ - Departmentwise (બેન્ચમાર્ક વિ% વાસ્તવિક ડેટા એન્ટ્રી માં)"
+
+msgid "Dashboard - Branchwise"
+msgstr "ડેશબોર્ડ - Branchwise"
+
+msgid "Available Quality Documents"
+msgstr "ઉપલબ્ધ જાત દસ્તાવેજો"
+
+msgid "You can add/view your company Quality Manuals / Procedures / Objectives / Records / Policies by clicking on the links below. <br /> These documents are available for all users."
+msgstr "તમે નીચેની લિંક પર ક્લિક કરીને તમારી કંપની જાત માર્ગદર્શિકાઓ / પ્રક્રિયા / હેતુઓ / રેકોર્ડઝ / નીતિઓ જુઓ / ઉમેરી શકો છો. <br /> આ દસ્તાવેજો બધા વપરાશકર્તાઓ માટે ઉપલબ્ધ છે."
+
+msgid "System Usage"
+msgstr "સિસ્ટમ વપરાશ"
+
+msgid " By "
+msgstr " દ્વારા "
+
+msgid " on "
+msgstr " પર "
+
+msgid "20"
+msgstr "20"
+
+msgid "2"
+msgstr "થોર 2"
+
+msgid "Data Entry Section"
+msgstr "ડેટા એન્ટ્રી વિભાગ"
+
+msgid "8"
+msgstr "4"
+
+msgid "Quality Control Section"
+msgstr "ગુણવત્તા નિયમન વિભાગ"
+
+msgid "4"
+msgstr "૪"
+
+msgid "Personal & Admin Section"
+msgstr "વ્યક્તિગત અને સંચાલન વિભાગ"
+
+msgid "9"
+msgstr "૯"
+
+msgid "Purchase Section"
+msgstr "ખરીદી વિભાગ"
+
+msgid "Edit User"
+msgstr "ફેરફાર કરો યુઝર"
+
+msgid "Welcome to flinkISO"
+msgstr "FlinkISO પર આપનું સ્વાગત છે"
+
+msgid "Please Sign in"
+msgstr "સાઇન ઇન કરો"
+
+msgid "Please Enter username"
+msgstr "વપરાશકર્તા નામ દાખલ કરો"
+
+msgid "Forgot password?"
+msgstr "પાસવર્ડ ભૂલી ગયા છો?"
+
+msgid "Forgot your password?"
+msgstr "તમારો પાસવર્ડ ભૂલી ગયા છો?"
+
+msgid "Please enter the username you used for registration and you'll get an email with further instructions."
+msgstr "તમે નોંધણી માટે વપરાય છે અને તમે વધુ સૂચનો સાથે ઇમેઇલ મળશે વપરાશકર્તા નામ દાખલ કરો."
+
+msgid "User Name"
+msgstr "વપરાશકર્તા નામ"
+
+msgid "Reset your password"
+msgstr "તમારો પાસવર્ડ ફરીથી સેટ કરો"
+
+msgid "New Password"
+msgstr "નવો પાસવર્ડ"
+
+msgid "Confirm Password"
+msgstr "પાસવર્ડ ખાતરી કરો"
+
+msgid "Reset"
+msgstr "ફરીથી સેટ કરો"
+
+msgid "Username : "
+msgstr "વપરાશકર્તા નામ: "
+
+msgid "Name : "
+msgstr "નામ: "
+
+msgid "More..."
+msgstr "વધુ વાંચો ..."
+
+msgid "numeric"
+msgstr "આંકડાકીય"
+
+msgid "notempty"
+msgstr "notempty"
+
+msgid "uuid"
+msgstr "UUID"
+
+msgid "boolean"
+msgstr "બુલિયન"
+
+msgid "date"
+msgstr "તારીખ"
+
+msgid "email"
+msgstr "ઇમેલ"
+
+msgid "Provide an email address"
+msgstr "ઇમેઇલ સરનામું પૂરું પાડો"
+
+msgid "Invalid email address"
+msgstr "અમાન્ય ઇમેઇલ સરનામું"
+
+msgid "Email already registered"
+msgstr "ઇમેઇલ પહેલાથી રજીસ્ટર"
+
+msgid "datetime"
+msgstr "તારીખ સમય"
+
+msgid "Your custom message here"
+msgstr "અહીં તમારા કસ્ટમ સંદેશ"
+

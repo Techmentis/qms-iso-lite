@@ -1,0 +1,1 @@
+<?php echo $this->element('delete_file',array('val'=>array('message'=>$message))); ?>

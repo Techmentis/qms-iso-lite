@@ -1,0 +1,71 @@
+2014-05-20 12:56:04 Warning: Warning (2): Invalid argument supplied for foreach() in [/Applications/XAMPP/xamppfiles/htdocs/flink-iso/app/Controller/StocksController.php, line 154]
+Trace:
+StocksController::add_ajax() - APP/Controller/StocksController.php, line 154
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-05-20 12:56:04 Error: [NotFoundException] Invalid stock
+Request URL: /flink-iso/stocks/add_ajax
+Stack Trace:
+#0 [internal function]: StocksController->view()
+#1 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(StocksController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(StocksController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Controller/Component/RequestHandlerComponent.php(262): Object->requestAction('/stocks/view', Array)
+#6 [internal function]: RequestHandlerComponent->beforeRedirect(Object(StocksController), Array, NULL, true)
+#7 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Utility/ObjectCollection.php(132): call_user_func_array(Array, Array)
+#8 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#9 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Event/CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#10 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Controller/Controller.php(761): CakeEventManager->dispatch(Object(CakeEvent))
+#11 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/app/Controller/StocksController.php(179): Controller->redirect(Array)
+#12 [internal function]: StocksController->add_ajax()
+#13 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(StocksController), Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(StocksController), Object(CakeRequest), Object(CakeResponse))
+#16 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2014-05-20 12:58:12 Warning: Warning (2): Invalid argument supplied for foreach() in [/Applications/XAMPP/xamppfiles/htdocs/flink-iso/app/View/Users/dashboard.ctp, line 404]
+Trace:
+include - APP/View/Users/dashboard.ctp, line 404
+View::_evaluate() - CORE/Cake/View/View.php, line 947
+View::_render() - CORE/Cake/View/View.php, line 909
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 948
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-05-20 13:33:46 Warning: Warning (2): Invalid argument supplied for foreach() in [/Applications/XAMPP/xamppfiles/htdocs/flink-iso/app/Controller/StocksController.php, line 154]
+Trace:
+StocksController::add_ajax() - APP/Controller/StocksController.php, line 154
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-05-20 13:33:46 Error: [NotFoundException] Invalid stock
+Request URL: /flink-iso/stocks/add_ajax
+Stack Trace:
+#0 [internal function]: StocksController->view()
+#1 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(StocksController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(StocksController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Core/Object.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Controller/Component/RequestHandlerComponent.php(262): Object->requestAction('/stocks/view', Array)
+#6 [internal function]: RequestHandlerComponent->beforeRedirect(Object(StocksController), Array, NULL, true)
+#7 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Utility/ObjectCollection.php(132): call_user_func_array(Array, Array)
+#8 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#9 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Event/CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#10 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Controller/Controller.php(761): CakeEventManager->dispatch(Object(CakeEvent))
+#11 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/app/Controller/StocksController.php(179): Controller->redirect(Array)
+#12 [internal function]: StocksController->add_ajax()
+#13 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(StocksController), Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(StocksController), Object(CakeRequest), Object(CakeResponse))
+#16 /Applications/XAMPP/xamppfiles/htdocs/flink-iso/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
