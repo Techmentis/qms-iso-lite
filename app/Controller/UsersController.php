@@ -2475,30 +2475,6 @@ if($SmtpDetail['Company']['is_smtp'] == 1){
                 if ($emailExists) {
                     $this->redirect(array('controller' => 'users', 'action' => 'login', $userEmailID));
                 } else {
-                    $url = "www.flinkiso.com/demo/users/register";
-                    $ch = curl_init();
-                    curl_setopt($ch, CURLOPT_URL, $url );
-                    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE );
-                    curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE );
-                    curl_setopt($ch, CURLOPT_COOKIESESSION, TRUE );
-                    curl_setopt($ch, CURLOPT_HEADER, TRUE );
-                    curl_setopt($ch, CURLOPT_HTTPHEADER, array("User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0"));
-                    $postfields = array();
-                    $postfields['User']['name'] = $regDetails['name'];
-                    $postfields['User']['company'] = $regDetails['company'];
-                    $postfields['User']['email'] = $regDetails['email'];
-                    $postfields['User']['phone'] = $regDetails['phone'];
-                    $postfields['User']['password'] = substr($license_key, 0, 5);
-                    $postfields['User']['sample_data'] = 0;
-                    $postfields['User']['liscence_key_installed'] = $regDetails['download_key'];
-                    $postfields['User']['city'] = $regDetails['city'];
-                    $postfields['User']['state'] = $regDetails['state'];
-                    $postfields['User']['country'] = $regDetails['country'];
-                    $postfields['User']['zip'] = $regDetails['zip'];
-                    curl_setopt($ch, CURLOPT_POST, count($postfields));
-                    curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($postfields));
-                    $ret = curl_exec($ch);
-                    curl_close($ch);
                     $this->Session->setFlash(__('Email id already exists. Please login.'), 'default', array('class'=>'alert-danger'));
                     $this->redirect(array('controller' => 'users', 'action' => 'login', $userEmailID));
 
