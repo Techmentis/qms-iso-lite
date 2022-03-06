@@ -1,9 +1,7 @@
 FlinkISO
 =======
 
-For more information visit : http://www.flinkiso.com/
-
-For License Key Sing up : http://www.flinkiso.com/sign-in/register.html
+For more information visit : https://www.flinkiso.com/
 
 More Details : https://github.com/Techmentis/flinkiso-lite/wiki
 
