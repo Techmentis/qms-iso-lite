@@ -1,7 +1,5 @@
-FlinkISO
+QMS ISO LITE
 =======
-
-For more information visit : https://www.flinkiso.com/
 
 More Details : https://github.com/Techmentis/flinkiso-lite/wiki
 
