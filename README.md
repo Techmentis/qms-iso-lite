@@ -1,8 +1,5 @@
 QMS ISO LITE
 =======
-
-More Details : https://github.com/Techmentis/flinkiso-lite/wiki
-
 CakePHP
 =======
 
